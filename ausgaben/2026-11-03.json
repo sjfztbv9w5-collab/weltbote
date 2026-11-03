@@ -1,0 +1,996 @@
+{
+ "datum": "2026-11-03",
+ "datumszeile": "Dienstag, den 3. November 2026",
+ "redaktionsschluss": "10 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom Montag, Bitcoin Dienstagmorgen",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 3. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "25.981",
+   "veraenderung": "+0,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.541",
+   "veraenderung": "−0,5 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "25.164",
+   "veraenderung": "−1,1 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Brent",
+   "wert": "104,77 $",
+   "veraenderung": "−7,6 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Gold",
+   "wert": "≈ 3.950 $",
+   "veraenderung": "+1,9 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "≈ 76.700 $",
+   "veraenderung": "−2,0 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "≈ 1,12",
+   "veraenderung": "+0,5 %",
+   "richtung": "up"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,91 %",
+   "veraenderung": "−0,04",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Wahlen",
+    "Politik"
+   ],
+   "kicker": "Vereinigte Staaten · Zwischenwahl",
+   "titel": "Amerika wählt: Der Tag der Entscheidung über Kongress und Kurs",
+   "deck": "Mehr als 54 Millionen Bürger haben schon vorab abgestimmt; heute fällt die Entscheidung über beide Kammern des Kongresses.",
+   "text": [
+    "In den Vereinigten Staaten sind an diesem Dienstag die Wahllokale für die Zwischenwahlen geöffnet. Zur Abstimmung stehen alle Sitze des Repräsentantenhauses und ein Teil des Senats. Nach Zahlen des Voting Lab der University of Florida hatten bereits vor dem Wahltag mehr als 54 Millionen Amerikaner ihre Stimme abgegeben.",
+    "Im Repräsentantenhaus halten die Republikaner derzeit 218 Sitze, dazu kommt ein Unabhängiger, der in der Regel mit ihnen stimmt; die Demokraten kommen auf 214, zwei Sitze sind vakant. Der Sender CBS zählt 47 umkämpfte Wahlkreise. Sein letztes Modell vom 25. Oktober sah die Demokraten bei 229 Sitzen, allerdings mit einer Spanne von 215 bis 237. Im Senat, wo die Republikaner 53 zu 47 Sitze halten, gelten elf Rennen als offen, darunter in Alaska, Iowa, Maine, North Carolina, Ohio, Texas, Georgia und Michigan.",
+    "Der Wahlkampf endete mit Spannungen. In Michigan sprach sich die demokratische Abgeordnete Haley Stevens, die die Vorwahl gegen Abdul El-Sayed verloren hatte, für den Republikaner Mike Rogers aus; Präsident Trump lobte den Schritt, führende Demokraten verurteilten ihn scharf. In Alaska wies eine Bundesrichterin eine Klage des Justizministeriums ab, mit der die Beglaubigung des Senatsergebnisses blockiert werden sollte. Elon Musk hat nach Berichten in diesem Zyklus die Rekordsumme von 475 Millionen Dollar zugunsten der Republikaner ausgegeben.",
+    "Eine Kuriosität am Rande: Der Vatikan bestätigte, dass Papst Leo XIV. per Briefwahl in Illinois abgestimmt hat. Er gilt damit als erster amtierender Papst, der an einer weltlichen demokratischen Wahl teilnimmt. Erste belastbare Ergebnisse werden in der Nacht zum Mittwoch europäischer Zeit erwartet."
+   ],
+   "quellen": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
+    ],
+    [
+     "Britannica",
+     "https://www.britannica.com/question/When-are-the-2026-midterm-elections"
+    ]
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Nahost",
+    "Iran",
+    "USA",
+    "Geopolitik"
+   ],
+   "kicker": "Nahost · Straße von Hormus",
+   "titel": "US-Angriffe auf Qeschm trotz Verhandlungen über Hormus",
+   "deck": "Washington spricht von „defensiven“ Schlägen, Teheran bietet zugleich an, die Meerenge binnen zwei Tagen zu öffnen.",
+   "text": [
+    "Die Vereinigten Staaten haben am Montag begrenzte Luftangriffe auf die iranische Insel Qeschm in der Straße von Hormus geflogen. Zwei US-Regierungsvertreter bestätigten dem Sender ABC News die zuerst vom Wall Street Journal gemeldeten Schläge. Einer von ihnen sprach von einer Reaktion auf einen iranischen Angriff auf ein US-Luftfahrzeug. Iran hatte zuvor erklärt, zwei Aufklärungsdrohnen vom Typ RQ-170 abgeschossen zu haben, was Washington zurückwies. Iranische Staatsmedien berichteten von mehreren Explosionen auf der Insel.",
+    "Nach US-Angaben bedeuten die Angriffe keine Rückkehr zu großen Kampfhandlungen. Es handle sich um die jüngste einer Reihe begrenzter Aktionen der vergangenen Wochen, die bewusst nicht öffentlich gemacht worden seien. Zugleich wirft Washington Iran vor, Angriffe auf Handelsschiffe in der Meerenge zuletzt verstärkt zu haben.",
+    "Parallel laufen die Gespräche weiter. Außenamtssprecher Esmaeil Baghaei erklärte, Iran könne die Straße von Hormus binnen zwei Tagen wieder öffnen, wenn die USA die Bedingungen erfüllten; im September hatte Teheran über Katar noch sieben Tage genannt. Gefordert werden unter anderem ein Ende des Kriegs an allen Fronten, die Freigabe eingefrorener Gelder, die Aufhebung der Ölsanktionen und ein Ende der Seeblockade iranischer Häfen. Vizeaußenminister Kazem Gharibabadi reiste nach Doha, um mit katarischer Vermittlung an einem Vorabkommen zu arbeiten.",
+    "Baghaei warnte zugleich, jeder Angriff werde eine „machtvolle, sofortige und umfassende Antwort“ nach sich ziehen. Nach Berichten über ein Telefonat zwischen Trump und Israels Premier Netanjahu drängt Israel auf Schläge nach den Zwischenwahlen, während Trump den Verhandlungen zunächst Zeit geben will."
+   ],
+   "quellen": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/us-carries-defensive-airstrikes-irans-qeshm-island-officials/story?id=137792518"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/162991/early-edition-november-2-2026/"
+    ]
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland",
+    "Diplomatie"
+   ],
+   "kicker": "Ukraine · Krieg und Diplomatie",
+   "titel": "Bomben auf Hilfszentrum, dann neue Gespräche in Abu Dhabi",
+   "deck": "Ein russischer Angriff in der Region Saporischschja tötet mindestens 24 Menschen; Selenskyj reist überraschend nach Berlin.",
+   "text": [
+    "Bei einem russischen Luftangriff auf eine Schule, die als humanitäres Zentrum diente, sind im Dorf Komyschuwacha in der südostukrainischen Region Saporischschja nach Angaben des ukrainischen Katastrophenschutzes mindestens 24 Menschen getötet worden. Unter den Toten sind ein Polizist und zwei Rettungskräfte, 27 Menschen galten zunächst als vermisst. Präsident Wolodymyr Selenskyj sagte, nach dem ersten Angriff sei ein zweiter mit neun weiteren Bomben gefolgt. Russland bestreitet grundsätzlich, zivile Ziele anzugreifen.",
+    "Kurz zuvor war eine sechstägige lokale Waffenruhe im besetzten Oleschky ausgelaufen, die unter Mitwirkung der US-First-Lady Melania Trump zustande gekommen war. Selenskyj sprach von einem „völlig entgegengesetzten Signal“ Moskaus.",
+    "Gleichwohl kommt Bewegung in die Diplomatie. Der US-Sondergesandte Steve Witkoff kündigte für die kommende Woche dreiseitige Gespräche zwischen den USA, Russland und der Ukraine in Abu Dhabi an, auf der Ebene von Beratern der Staats- und Regierungschefs. Es wäre das erste Treffen dieses Formats seit Februar. Themen sollen Sicherheitsgarantien, Deeskalation und humanitäre Schritte sein.",
+    "Selenskyj landete am Dienstagmorgen unangekündigt in Berlin, um mit Bundeskanzler Friedrich Merz über weitere Unterstützung zu sprechen. Die Ukraine braucht vor allem Flugabwehrraketen gegen ballistische Geschosse. Für 2027 benötige sein Land zusätzlich 70 Milliarden Euro von europäischen Staaten, so Selenskyj."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+    ],
+    [
+     "ad-hoc-news (dpa)",
+     "https://ad-hoc-news.de/politik/selenskyj-besucht-merz-in-berlin-vor-abu-dhabi-gespraechen/70449306"
+    ]
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Europa",
+    "Belgien",
+    "Politik"
+   ],
+   "kicker": "Belgien · Regierungskrise",
+   "titel": "Haushaltsstreit: De Wever bietet dem König seinen Rücktritt an",
+   "deck": "Die Fünf-Parteien-Koalition konnte sich nicht einigen, wer die Lasten der Sanierung tragen soll.",
+   "text": [
+    "Belgiens Premierminister Bart De Wever hat König Philippe seinen Rücktritt angeboten, nachdem die Haushaltsverhandlungen seiner Koalition in der Nacht zum Montag gescheitert waren. Der Palast erklärte, der König prüfe das Gesuch und führe Gespräche mit den Parteichefs.",
+    "Der Regierung gehören fünf Parteien an: De Wevers flämisch-nationalistische N-VA, die flämischen Sozialisten von Vooruit, die Christdemokraten der CD&V, die frankophonen Liberalen der MR und die zentristischen Les Engagés. Im Kern geht es nach Darstellung des Senders VRT um einen klassischen Links-Rechts-Konflikt: Vooruit, CD&V und Les Engagés wollen stärkere Schultern stärker belasten, N-VA und MR lehnen weitere Steuern ab. Außenminister Maxime Prévot sagte, alle Streitpunkte aufzuzählen, würde „eine Ewigkeit“ dauern.",
+    "Der König kann das Rücktrittsgesuch annehmen, womit die Regierung fiele, oder De Wever wie schon im vergangenen Jahr mehr Zeit für Verhandlungen geben. Grundsätzlich ließe sich auch ohne Neuwahl eine neue Mehrheit bilden. De Wever will einen sogenannten Zwölftelhaushalt vermeiden, bei dem der Staat im neuen Jahr Monat für Monat auf Basis der bisherigen Ausgaben wirtschaften müsste.",
+    "Bereits vor einem Jahr hatte die Koalition lange um Einsparungen gerungen; damals einigte sie sich am 24. November 2025 auf ein Paket von 9,2 Milliarden Euro."
+   ],
+   "quellen": [
+    [
+     "VRT NWS",
+     "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/"
+    ],
+    [
+     "ABC News (AP)",
+     "https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313"
+    ],
+    [
+     "CGTN Europe",
+     "https://newseu.cgtn.com/news/2026-11-03/Belgian-budget-deadlock-PM-offers-to-quit-king-meets-party-leaders-1RKFOTkRyZW/share_amp.html"
+    ]
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Cybersicherheit",
+    "Ukraine",
+    "Russland"
+   ],
+   "kicker": "Cyberkrieg · Falschalarm",
+   "titel": "Gefälschte Atomwarnungen: Warn-Apps in Kiew und Moskau gehackt",
+   "deck": "Beide Länder melden manipulierte Notfall-Apps; die Urheber sind unbekannt.",
+   "text": [
+    "Die Ukraine und Russland haben über das Wochenende Cyberangriffe auf ihre öffentlichen Warn-Apps gemeldet. Die manipulierten Systeme verschickten falsche Warnungen vor Luftangriffen, Atomschlägen und Straßenkämpfen. Die Behörden nahmen die Meldungen binnen Stunden zurück, die Verunsicherung in der Bevölkerung war dennoch groß.",
+    "In der Ukraine zeigte die Luftalarm-App fälschlich einen Angriff auf Kiew mit der russischen Oreschnik-Rakete an. Eine Nachricht kündigte landesweiten Atomalarm an und forderte die Menschen auf, sich keine Sorgen zu machen; eine andere warnte vor einer Chemiegefahr in Kiew. Die Luftwaffe sprach von „feindlicher Einflussnahme“ und versicherte, es bestehe keine Strahlengefahr. Die App wurde vom Netz genommen, Sirenen funktionierten weiter.",
+    "In Russland verbreitete die App des Katastrophenschutzministeriums die Falschmeldung, Drohnen mit Atomsprengköpfen seien auf alle Regionen abgefeuert worden. Nach russischen Angaben erreichten die Alarme 33 der 89 Regionen. Kremlsprecher Dmitri Peskow verwies auf ständige Cyberbedrohungen, auch durch Künstliche Intelligenz. Ein russischer Telegram-Kanal schrieb den Angriff auf das ukrainische System einer Gruppe namens Hitcore zu, was sich nicht überprüfen ließ. Ob beide Vorfälle zusammenhängen, ist offen.",
+    "Die Angriffe fielen zeitlich mit dem Ende der lokalen Waffenruhe im besetzten Oleschky zusammen, die eine Evakuierung von Zivilisten ermöglicht hatte."
+   ],
+   "quellen": [
+    [
+     "PBS NewsHour (AP)",
+     "https://www.pbs.org/newshour/world/ukraine-and-russia-both-report-fake-emergency-alerts-after-cyberattacks-target-apps-as-limited-ceasefire-ends"
+    ],
+    [
+     "The National",
+     "https://www.thenationalnews.com/news/europe/2026/11/02/fake-alerts-warn-of-nuclear-attack-after-ukraine-and-russian-systems-hacked/"
+    ]
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Cybersicherheit",
+    "Europa",
+    "Handel"
+   ],
+   "kicker": "Europa · Cyberangriff",
+   "titel": "Hacker heizen Supermarkt-Kühltruhen auf 50 Grad",
+   "deck": "In Schweden, Belgien, Luxemburg und Estland mussten Märkte Lebensmittel entsorgen.",
+   "text": [
+    "Eine neue Welle von Cyberangriffen hat am Montag die Kühltechnik von Supermärkten in mehreren europäischen Ländern getroffen. Betroffen waren Filialen in Schweden, Belgien, Luxemburg und Estland. In Schweden und Estland wurden Kühlschränke und Tiefkühltruhen aus der Ferne auf 50 Grad Celsius gestellt.",
+    "Die schwedische ICA-Gruppe meldete eine „begrenzte Zahl“ betroffener Märkte; die Filiale in Sjöbo musste Waren wegwerfen. Bei Coop hatten sechs Läden in Mittelschweden Probleme. Delhaize sprach von einem „IT-Vorfall“ in einigen Dutzend Geschäften, vor allem in Belgien, die Verteilzentren arbeiteten normal. Carrefour Belgien zählte 15 seiner mehr als 700 Filialen, in Estland traf es einen Markt der Kette Selver.",
+    "Die betroffene Kühltechnik stammt nach Agenturberichten vom estnischen Hersteller Kitman Coldtech. Dessen Chef Jann Mutso sagte, ein Kunde sei angegriffen worden, der Vorfall sei binnen Minuten behoben gewesen. Wer hinter den Angriffen steckt, ist bislang unbekannt.",
+    "Es ist bereits der zweite derartige Vorfall: Im vergangenen Monat hatten Angreifer in Frankreich die Kühlsysteme Hunderter Supermärkte übernommen, damals offenbar über ältere Anlagen. Sicherheitsexperten sehen in vernetzter Gebäudetechnik seit Langem ein unterschätztes Einfallstor."
+   ],
+   "quellen": [
+    [
+     "ABC News (AP)",
+     "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494"
+    ],
+    [
+     "Tom's Hardware",
+     "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/european-countries-hit-by-supermarket-freezer-cyberattacks-12649185"
+    ]
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Spanien",
+    "Bahn",
+    "Unglück"
+   ],
+   "kicker": "Spanien · Zugunglück",
+   "titel": "Zugunglück von Urda: Minister macht Fehler der Fahrdienstleitung verantwortlich",
+   "deck": "17 Minuten lang war die Gefahr auf den Bildschirmen sichtbar; die Zahl der Toten liegt bei mindestens 69.",
+   "text": [
+    "Knapp eine Woche nach dem schweren Zugunglück auf der Schnellfahrstrecke Madrid–Sevilla nahe Urda in der Provinz Toledo richtet sich der Blick auf die Fahrdienstleitung. Verkehrsminister Óscar Puente nannte die Entscheidung eines Fahrdienstleiters „unerklärlich“ und „falsch“. Bei der Kollision kamen mindestens 69 Menschen ums Leben, mehr als 200 wurden verletzt.",
+    "Nach Darstellung der Regierung fiel um 8.31 Uhr das Zugsicherungssystem LZB aus, das Zugpositionen überwacht und automatisch bremsen kann. Die Leitstelle in Madrid übernahm daraufhin einen 63 Kilometer langen Abschnitt. Um 8.36 Uhr erhielt ein Zug der staatlichen Renfe die Freigabe für normale Geschwindigkeit, obwohl rund 25 Kilometer voraus ein Zug des privaten Betreibers Iryo liegen geblieben war. Dessen Zugführer meldete das Problem, der Renfe-Zug wurde jedoch nicht gestoppt. Um 8.53 Uhr prallten beide zusammen, nach ersten Erkenntnissen mit 160 bis 200 Stundenkilometern.",
+    "Puente sagte, er werde keinen Beschäftigten als Schutzschild benutzen, steht aber selbst unter Rücktrittsdruck. Gewerkschaften verweisen auf Personalmangel und ein über dreißig Jahre altes Sicherungssystem. Es ist bereits das zweite große Unglück auf dieser Strecke in diesem Jahr; im Januar waren 46 Menschen gestorben. Regierungschef Pedro Sánchez nannte zwei solche Unfälle in einem Jahr „inakzeptabel“. Ein Richter ermittelt."
+   ],
+   "quellen": [
+    [
+     "Carrier Management (Reuters)",
+     "https://www.carriermanagement.com/news/2026/11/02/293124.htm"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision"
+    ]
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Großbritannien",
+    "Commonwealth",
+    "Geschichte"
+   ],
+   "kicker": "Commonwealth · Antigua",
+   "titel": "König Charles spricht über die Sklaverei, London erwägt eine Entschuldigung",
+   "deck": "Zum Abschluss seiner Karibikreise wendet sich der Monarch an die Commonwealth-Staaten.",
+   "text": [
+    "König Charles III. will am Dienstag beim Gipfeltreffen der Commonwealth-Staats- und Regierungschefs in Antigua über den transatlantischen Sklavenhandel sprechen. Es ist die letzte Station seiner neuntägigen Karibikreise. Ein Palastsprecher kündigte „schonungslose Ehrlichkeit“ und „aufrichtiges Bedauern“ an; der König werde den „beschämendsten Seiten der Vergangenheit“ nicht ausweichen.",
+    "Kurz zuvor hatte Premierminister Andy Burnham in einem Gastbeitrag erklärt, er sei „offen“ für eine formelle Entschuldigung Großbritanniens für seine Rolle in der Sklaverei. Das gilt als Kurswechsel, denn London hat sich bislang nie offiziell entschuldigt und auch keine Reparationen angeboten. Zahlungen erwägt auch Burnham nicht. Der Palast betonte, der König habe seine Rede nicht geändert, und es sei nicht angemessen, wenn er sich zur Position der Regierung äußere.",
+    "Die konservative Oppositionschefin Kemi Badenoch nannte die „endlose Debatte über Entschuldigungen“ eine Ablenkung; das Commonwealth solle nach vorne blicken. Auf den Bahamas hatte der König zuvor vom „Leid der Vergangenheit“ gesprochen, in Guyana besuchte er den Ort eines Sklavenaufstands. Der 77-Jährige wird weiterhin gegen Krebs behandelt, laut Palast mit positivem Verlauf."
+   ],
+   "quellen": [
+    [
+     "Kaieteur News",
+     "https://kaieteurnewsonline.com/2026/11/02/king-to-address-slavery-in-antigua-as-pm-says-he-is-open-to-possible-uk-apology/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/king-charles-slavery-apology-speech-antigua-barbuda-12648316"
+    ]
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Europa",
+    "EU-Erweiterung",
+    "Ukraine"
+   ],
+   "kicker": "Europäische Union · Erweiterung",
+   "titel": "Brüssel sortiert die Beitrittskandidaten: Vier Länder vorn",
+   "deck": "Vor dem Erweiterungspaket der Kommission treffen sich Spitzenpolitiker der Kandidatenländer in Brüssel.",
+   "text": [
+    "In Brüssel kommen an diesem Dienstag Vertreter der EU und zahlreicher Beitrittskandidaten zu einem Erweiterungsgipfel zusammen; erwartet werden unter anderem Politiker aus der Ukraine, Albanien, Moldau, Georgien, Nordmazedonien, Armenien und Montenegro. Am Mittwoch will die EU-Kommission ihre Fortschrittsberichte vorlegen, erstmals mit Fahrplänen für vier „Spitzenreiter“: Montenegro, Albanien, Moldau und die Ukraine.",
+    "Am weitesten ist Montenegro, das bis 2028 beitreten will. Gebremst wird das Land durch bilaterale Streitfragen mit Kroatien, die aus den Jugoslawienkriegen stammen. Der montenegrinische EU-Botschafter Petar Marković sieht sein Land dennoch klar vorn. Sein Beitrittsvertrag soll als Vorlage für künftige Erweiterungen dienen, einschließlich neuer Schutzklauseln für die Union.",
+    "Albanien folgt auf Rang zwei, wird aber von Protesten gegen ein Luxusresort in einem Schutzgebiet begleitet. Moldau kommt so schnell voran, dass die Kommission intern Personal umschichtet. Die Ukraine hat seit dem Regierungswechsel in Ungarn formell Fortschritte gemacht und soll bis Jahresende alle Verhandlungscluster öffnen. Hürden bleiben die Integration der ukrainischen Landwirtschaft und Korruptionsermittlungen. Nordmazedonien und Georgien fallen dagegen seit Jahren zurück."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/03/the-race-to-join-the-eu-whos-in-pole-position-and-whos-falling-behind"
+    ],
+    [
+     "Euronews (Europe Today)",
+     "https://www.euronews.com/2026/11/03/europe-today-euronews-enlargement-summit-kicks-off-in-brussels-as-us-midterms-test-trump"
+    ]
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Afrika",
+    "Äthiopien",
+    "Gesundheit"
+   ],
+   "kicker": "Äthiopien · Humanitäre Lage",
+   "titel": "WHO warnt vor Zusammenbruch des Gesundheitswesens in Nordäthiopien",
+   "deck": "Nach einem Drohnenangriff auf ein Vertriebenenlager mit mindestens 15 Toten schlägt Tedros Alarm.",
+   "text": [
+    "Die Weltgesundheitsorganisation warnt, die Kämpfe im Norden Äthiopiens trieben das ohnehin schwache Gesundheitssystem an den Rand des Zusammenbruchs. WHO-Generaldirektor Tedros Adhanom Ghebreyesus erklärte am Montag, Kliniken fehle es an Personal, Medikamenten und Ausrüstung, Krankentransporte seien stark eingeschränkt.",
+    "Anlass ist eine Serie von Angriffen. Bei Drohnenschlägen auf das Vertriebenenlager Jaari in der Region Amhara wurden am Freitag nach Angaben von Helfern mindestens 15 Menschen getötet, darunter fünf Kinder; 36 wurden verletzt. Ein Angehöriger eines Opfers berichtete, eine Drohne habe schon an den Vortagen über dem Lager gekreist. Überlebende fanden in einer Schule Zuflucht. Wer die Drohnen einsetzte, ist offiziell nicht geklärt; Tedros nannte keine Verantwortlichen. In Rama in Tigray kamen zudem mehrere Menschen bei der Suche nach Lebensmitteln ums Leben.",
+    "Die Kämpfe zwischen einer Allianz von Rebellen aus Tigray und der Zentralregierung in Addis Abeba haben das Friedensabkommen vom November 2022 nahezu zunichtegemacht. Beobachter fürchten einen größeren Krieg. Die WHO und andere UN-Organisationen bemühen sich nach eigenen Angaben, mehr Hilfsgüter in die Region zu bringen, und fordern den Schutz von Zivilisten und Gesundheitspersonal."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who"
+    ],
+    [
+     "Yahoo News (Reuters)",
+     "https://www.yahoo.com/news/world/articles/drone-strike-camp-displaced-people-194113668.html"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tech",
+    "Quartalszahlen",
+    "Apple"
+   ],
+   "kicker": "Vereinigte Staaten · Quartalszahlen",
+   "titel": "Apple mit Rekordquartal, doch teure Speicherchips drücken die Marge",
+   "deck": "Die erste Bilanz unter Konzernchef John Ternus übertrifft die Erwartungen, der Ausblick enttäuscht die Börse.",
+   "text": [
+    "Apple hat in seinem vierten Geschäftsquartal, das Ende September endete, einen Umsatz von 114,5 Milliarden Dollar erzielt, zwölf Prozent mehr als vor einem Jahr und ein Rekord für ein Septemberquartal. Der Gewinn stieg auf 30,7 Milliarden Dollar oder 2,10 Dollar je Aktie, nach 27,5 Milliarden ein Jahr zuvor. Analysten hatten nach Angaben von Newsquawk mit 1,99 Dollar je Aktie gerechnet.",
+    "Treiber war das iPhone mit 57,6 Milliarden Dollar Umsatz, ein Plus von 17 Prozent. Der Mac wuchs um 24 Prozent, das Servicegeschäft erreichte mit 31,6 Milliarden Dollar einen Rekord. iPad und Wearables gingen dagegen zurück. Im gesamten Geschäftsjahr setzte Apple 478,8 Milliarden Dollar um, 15 Prozent mehr als im Vorjahr.",
+    "Für Ernüchterung sorgte der Ausblick. Für das Weihnachtsquartal erwartet Apple zwar sieben bis zehn Prozent Umsatzwachstum, die Bruttomarge soll aber auf 45 bis 46 Prozent sinken, nach 47,9 Prozent im abgelaufenen Quartal. Als Hauptgrund nannte das Management höhere Kosten für Speicherchips. Im nachbörslichen Handel gab die Aktie um knapp drei Prozent nach.",
+    "Es war die erste Quartalsbilanz unter John Ternus als Vorstandschef. Er sprach vom „besten Geschäftsjahr aller Zeiten“ und nannte das neue iPhone Duo das „transformativste iPhone seit dem Original“. Die Dividende bleibt bei 27 Cent je Aktie."
+   ],
+   "quellen": [
+    [
+     "MacRumors",
+     "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/"
+    ],
+    [
+     "Apple Newsroom",
+     "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tech",
+    "KI",
+    "Quartalszahlen"
+   ],
+   "kicker": "Software · Quartalszahlen",
+   "titel": "Palantir verdoppelt fast den Umsatz, Firmenkunden überholen den Staat",
+   "deck": "Zum dritten Mal in diesem Jahr hebt der Datenanalyst seine Prognose an, die Aktie fällt trotzdem.",
+   "text": [
+    "Der US-Softwarekonzern Palantir hat im dritten Quartal 2,313 Milliarden Dollar umgesetzt, 96 Prozent mehr als ein Jahr zuvor. Damit lag er 149 Millionen Dollar über der Obergrenze seiner eigenen Prognose. Der Nettogewinn stieg auf 1,128 Milliarden Dollar, nach 476 Millionen im Vorjahresquartal.",
+    "Erstmals in der Firmengeschichte übertraf das Geschäft mit US-Unternehmenskunden jenes mit der US-Regierung: Es wuchs um 148 Prozent auf 984 Millionen Dollar, während die Behörden 953 Millionen beisteuerten. Konzernchef Alex Karp hob diesen Meilenstein in der Mitteilung eigens hervor. Außerhalb der USA wuchs Palantir mit rund 26 Prozent deutlich langsamer.",
+    "Für das Gesamtjahr erwartet das Unternehmen nun 8,530 bis 8,534 Milliarden Dollar Umsatz, ein Plus von rund 91 Prozent. Es ist bereits die dritte Anhebung in diesem Jahr; Analysten hatten laut Newsquawk mit 8,21 Milliarden gerechnet. Palantir verfügt über 10,4 Milliarden Dollar an Barmitteln und kurzfristigen Staatsanleihen.",
+    "An der Börse überwog dennoch die Skepsis. Der Wert neu abgeschlossener Verträge mit US-Firmenkunden wuchs nur noch um elf Prozent, nach 153 Prozent im Vorquartal. Die Aktie verlor nachbörslich um drei bis fünf Prozent, auch weil KI-Werte derzeit insgesamt unter Druck stehen."
+   ],
+   "quellen": [
+    [
+     "Stock Titan",
+     "https://www.stocktitan.net/articles/palantir-q3-2026-earnings-us-commercial-revenue-passes-government"
+    ],
+    [
+     "Business Wire",
+     "https://www.businesswire.com/news/home/20261101396214/en/Palantir-Reports-Q3-2026-U.S.-Comm-Revenue-Growth-of-148-YY-and-Revenue-Growth-of-96-YY-Raises-FY-2026-Revenue-Guidance-to-91-YY-Growth-and-U.S.-Comm-Revenue-Guidance-to-143-YY-Crushing-Consensus-Expectations"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Bahn",
+    "Industrie",
+    "Frankreich"
+   ],
+   "kicker": "Frankreich · Gewinnwarnung",
+   "titel": "Alstom stürzt ab: Probleme mit deutschen Regionalzügen",
+   "deck": "Der Zughersteller senkt zum zweiten Mal in diesem Jahr seine Ziele, die Aktie verliert fast ein Drittel.",
+   "text": [
+    "Der französische Zughersteller Alstom hat zum zweiten Mal in diesem Jahr seine Prognose drastisch gesenkt. Die bereinigte operative Marge soll im laufenden Geschäftsjahr nur noch rund ein Prozent betragen statt 6,5 Prozent. Beim freien Mittelzufluss erwartet das Unternehmen nun einen Abfluss von rund 1,5 Milliarden Euro, nachdem es zuvor einen positiven Wert in Aussicht gestellt hatte. Auch das Umsatzwachstum und die Zahl der gefertigten Wagen fallen geringer aus.",
+    "Hauptgrund sind Schwierigkeiten mit den Regionalzügen vom Typ Coradia Max, die von deutschen Bundesländern bestellt wurden. Technische Probleme und zusätzliche Tests verlängern die Zulassung, was Lieferungen verzögert und Vertragsstrafen nach sich zieht. Konzernchef Martin Sion, seit April im Amt, räumte Probleme in Entwicklung und Projektmanagement ein, „die besser hätten sein müssen“. Belastend wirken zudem margenschwache Altverträge aus der Bombardier-Übernahme.",
+    "Die Aktie brach in Paris am Montag um bis zu 30 Prozent ein und hat seit Jahresbeginn mehr als die Hälfte ihres Werts verloren. Citi schätzt, dass der erwartete Mittelabfluss rund einem Fünftel des Börsenwerts entspricht; JPMorgan und Citi stuften das Papier ab. Alstom will die Schulden um rund zwei Milliarden Euro senken. Der Auftragseingang stieg im ersten Halbjahr immerhin um fünf Prozent auf elf Milliarden Euro."
+   ],
+   "quellen": [
+    [
+     "RTÉ (Reuters)",
+     "https://www.rte.ie/news/business/2026/1102/1597621-alstom-plunges-as-it-slashes-outlook-second-time-in-2026/"
+    ],
+    [
+     "The Irish Times",
+     "https://www.irishtimes.com/business/2026/11/02/luas-maker-alstom-shares-fall-28-after-train-maker-cuts-profit-forecast/"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Autoindustrie",
+    "Arbeitsmarkt",
+    "Deutschland"
+   ],
+   "kicker": "Deutschland · Autozulieferer",
+   "titel": "Schaeffler streicht 3.460 Stellen und schließt vier deutsche Werke",
+   "deck": "Betroffen sind Dortmund, Morbach, Berlin und Schwalbach; der Abbau soll bis 2028 abgeschlossen sein.",
+   "text": [
+    "Der Autozulieferer Schaeffler baut in Europa weitere 3.460 Stellen ab, davon 2.660 in Deutschland. Fünf Standorte sollen langfristig geschlossen werden, vier davon hierzulande: Dortmund mit 430 Beschäftigten, Morbach mit 160, Berlin mit 270 und Schwalbach mit 385. In Höchstadt, Erlangen und Schweinfurt kommt es zu „Anpassungen“, teils werden Geschäftsaktivitäten eingestellt. Im belgischen Herstal schließt ein kleiner Standort, in Frankreich und der Slowakei werden Werke verkleinert.",
+    "In Deutschland beschäftigt Schaeffler knapp 32.000 Menschen; der neue Abbau betrifft etwa neun Prozent davon. Zusammen mit früheren Sparprogrammen und 1.800 bereits unterschriebenen Altersteilzeitverträgen schrumpft die deutsche Belegschaft damit um 18 Prozent.",
+    "Das Unternehmen begründet den Schritt mit dem schwierigen Umfeld in der Autoindustrie: Die Nachfrage nach Verbrennern lasse nach, der Hochlauf der Elektroautos verzögere sich, und Elektromotoren benötigten deutlich weniger Bauteile. In Deutschland seien zudem die Personalkosten überdurchschnittlich hoch und die Konzernstruktur komplex.",
+    "Der Umbau kostet einmalig 480 Millionen Euro, ab 2030 sollen jährlich 300 Millionen Euro eingespart werden. In den ersten neun Monaten steigerte Schaeffler das bereinigte operative Ergebnis auf 794 Millionen Euro bei leicht gesunkenem Umsatz; die Jahresprognose wurde bestätigt."
+   ],
+   "quellen": [
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/wirtschaft/unternehmen/schaeffler-stellenabbau-standortschliessungen-100.html"
+    ],
+    [
+     "ad-hoc-news",
+     "https://www.ad-hoc-news.de/politik/schaeffler-baut-3-460-stellen-ab-und-schliesst-vier-standorte/70449100"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Luftfahrt",
+    "Energie",
+    "Deutschland"
+   ],
+   "kicker": "Luftfahrt · Quartalszahlen",
+   "titel": "Lufthansa: Rekordumsatz im Sommer, aber Kerosin frisst den Gewinn",
+   "deck": "Die Treibstoffrechnung steigt in diesem Jahr auf 9,3 Milliarden Euro, das Gewinnziel wird erneut gekappt.",
+   "text": [
+    "Die Lufthansa hat im dritten Quartal 12,2 Milliarden Euro umgesetzt, neun Prozent mehr als vor einem Jahr und so viel wie nie zuvor in einem Quartal. Das bereinigte operative Ergebnis stieg um sechs Prozent auf gut 1,4 Milliarden Euro und lag damit über den Erwartungen der Analysten. Unterm Strich verdiente der Konzern knapp 1,3 Milliarden Euro, auch dank Sondereffekten. Höhere Ticketpreise sowie das Wartungs- und Frachtgeschäft stützten das Ergebnis.",
+    "Belastend wirken die stark gestiegenen Treibstoffpreise. Schon im Sommerquartal gab die Airline mehr als eine halbe Milliarde Euro mehr für Kerosin aus als ein Jahr zuvor. Für das Gesamtjahr rechnet sie nun mit einer Treibstoffrechnung von 9,3 Milliarden Euro, rund zwei Milliarden mehr als 2025 und 600 Millionen mehr als noch im August erwartet.",
+    "Deshalb engt die Lufthansa ihr Gewinnziel ein: Das bereinigte operative Ergebnis soll 2026 zwischen 1,7 und 2,0 Milliarden Euro liegen statt bis zu 2,2 Milliarden. Gegenüber rund zwei Milliarden im Vorjahr deutet sich damit ein Rückgang an. Analysten hatten im Schnitt ohnehin nur gut 1,7 Milliarden erwartet. Finanzvorstand Till Streichert zeigte sich „zuversichtlich“, die Spanne im Einklang mit den Erwartungen des Kapitalmarkts zu erreichen."
+   ],
+   "quellen": [
+    [
+     "FinanzNachrichten (dpa-AFX)",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70014394-roundup-kerosinpreis-belastet-lufthansa-2026-noch-staerker-gewinnziel-gedaempft-016.htm"
+    ],
+    [
+     "ad-hoc-news",
+     "https://www.ad-hoc-news.de/wirtschaft/lufthansa-steigert-gewinn-trotz-600-millionen-mehr-kerosinkosten/70448973"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Pharma",
+    "Quartalszahlen",
+    "Deutschland"
+   ],
+   "kicker": "Leverkusen · Quartalszahlen",
+   "titel": "Neue Medikamente tragen Bayer: Prognose angehoben",
+   "deck": "Nubeqa und Kerendia gleichen die Verluste bei Xarelto und Eylea mehr als aus.",
+   "text": [
+    "Der Pharma- und Agrarkonzern Bayer hat im dritten Quartal besser abgeschnitten als erwartet und seine Jahresziele angehoben. Der Umsatz stieg um 4,1 Prozent auf 10,05 Milliarden Euro, das um Sondereffekte bereinigte operative Ergebnis (Ebitda) um 6,9 Prozent auf 1,62 Milliarden Euro. Analysten hatten mit rund 1,44 Milliarden gerechnet.",
+    "Wachstumstreiber war das Pharmageschäft. Das Prostatakrebsmittel Nubeqa legte um fast 61 Prozent zu, das Nierenmedikament Kerendia um rund 69 Prozent. Damit glich Bayer die sinkenden Umsätze mit dem Blutverdünner Xarelto und dem Augenmittel Eylea aus, die unter Patentabläufen und Konkurrenz leiden.",
+    "Für 2026 erwartet der Konzern nun eine bereinigte Ebitda-Marge von 25 bis 27 Prozent statt bisher 23 bis 25 Prozent. Die Spanne für den freien Mittelfluss hob Bayer um eine Milliarde Euro auf minus 1,5 bis minus 0,5 Milliarden Euro an, die Nettofinanzverschuldung soll zum Jahresende 28 bis 29 Milliarden Euro betragen.",
+    "Ganz ungetrübt ist das Bild nicht: Beim operativen Ergebnis (Ebit) stand wegen Sonderbelastungen ein Verlust von 110 Millionen Euro, und das bereinigte Ergebnis je Aktie verfehlte mit 31 Cent die Erwartungen. Die Aktie legte im frühen Handel dennoch um gut zwei Prozent zu."
+   ],
+   "quellen": [
+    [
+     "Der Aktionär",
+     "https://www.deraktionaer.de/artikel/pharma-biotech/bayer-mit-zahlen-prognose-erhoeht-aktie-legt-weiter-zu-20430852.html"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/european-pre-market-summary-3rd-november-2026-european-bourses-set-for-a-weak-open-amidst-iranian-diplomacy-pushback-bayn-gy-reports-strong-results-and-lifts-guidance"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Mode",
+    "Konsum",
+    "Deutschland"
+   ],
+   "kicker": "Metzingen · Prognosesenkung",
+   "titel": "Hugo Boss senkt die Ziele: Kaufzurückhaltung und KI-Abschreibungen",
+   "deck": "Der Modekonzern erwartet für 2026 nur noch 250 bis 300 Millionen Euro operativen Gewinn.",
+   "text": [
+    "Der Modekonzern Hugo Boss schraubt seine Erwartungen für das laufende Jahr zurück. Das operative Ergebnis (Ebit) soll 2026 nur noch 250 bis 300 Millionen Euro erreichen, nach zuvor 300 bis 350 Millionen. Im Vorjahr waren es 391 Millionen Euro. Beim Umsatz rechnet das Unternehmen nun währungsbereinigt mit einem Rückgang im hohen einstelligen Prozentbereich; bisher war von einem mittleren bis hohen einstelligen Minus die Rede.",
+    "Als Gründe nennt Hugo Boss eine größere Zurückhaltung der Verbraucher und höhere Abschreibungen im IT-Bereich. Diese begründet das Unternehmen mit den schnellen Entwicklungen bei Künstlicher Intelligenz, durch die bestehende Technik schneller an Wert verliert.",
+    "Im dritten Quartal sank der Umsatz währungsbereinigt um fünf Prozent auf 946 Millionen Euro, was etwas besser war als von Analysten befürchtet. Das Ebit fiel auf 81 Millionen Euro nach 95 Millionen im Vorjahresquartal. Analysten hatten laut Bloomberg zuvor knapp über 300 Millionen Euro Jahresergebnis erwartet.",
+    "Hugo Boss gehört seit Kurzem zur britischen Frasers Group. Die Aktie zeigte sich am Montag zunächst wenig bewegt, vorbörslich am Dienstag notierte sie gut zwei Prozent tiefer."
+   ],
+   "quellen": [
+    [
+     "boerse.de (dpa-AFX)",
+     "https://www.boerse.de/nachrichten/Hugo-Boss-schraubt-Erwartungen-an-2026-zurueck-KI-und-Konsumnachfrage/38700130"
+    ],
+    [
+     "FashionUnited",
+     "https://fashionunited.de/nachrichten/business/hugo-boss-senkt-jahresprognosen/2026110369198"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Halbleiter",
+    "Übernahmen",
+    "KI"
+   ],
+   "kicker": "Halbleiter · Übernahme",
+   "titel": "Onsemi kauft KI-Stromspezialisten Ferric",
+   "deck": "Der Chipkonzern zahlt bis zu 775 Millionen Dollar und hebt sein Ziel für das Rechenzentrumsgeschäft an.",
+   "text": [
+    "Der US-Halbleiterhersteller Onsemi übernimmt das Start-up Ferric, das sich auf die Stromversorgung von KI-Chips spezialisiert hat. Onsemi zahlt beim Abschluss 600 Millionen Dollar in bar, hinzu kommen bis zu 175 Millionen Dollar, die an Umsatzziele geknüpft sind. Die Übernahme wird aus vorhandenen Mitteln finanziert, rund 50 Ferric-Mitarbeiter sollen wechseln. Der Abschluss ist bis Ende 2026 geplant.",
+    "Mit dem Kauf hebt Onsemi sein Umsatzziel für das Geschäft mit KI-Rechenzentren für 2030 um 500 Millionen auf mehr als drei Milliarden Dollar an. Danach erwartet der Konzern mehrere Jahre beschleunigten Wachstums bei integrierten Spannungsreglern. Kurzfristig soll der Zukauf das Ergebnis kaum beeinflussen. Konzernchef Hassane El-Khoury sagte, die Übernahme stärke die Marktführerschaft und erweitere die Absatzmöglichkeiten.",
+    "Zugleich legte Onsemi Quartalszahlen vor, die leicht über den Erwartungen lagen: Der bereinigte Gewinn je Aktie betrug 90 Cent bei 1,72 Milliarden Dollar Umsatz. Der Umsatz mit KI-Rechenzentren wuchs nach Angaben von Newsquawk um 175 Prozent. Für das vierte Quartal stellt Onsemi 1,715 bis 1,815 Milliarden Dollar Umsatz in Aussicht."
+   ],
+   "quellen": [
+    [
+     "SEC / Onsemi",
+     "https://www.sec.gov/Archives/edgar/data/0001097864/000119312526443681/d185557dex991.htm"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Welthandel",
+    "Zölle",
+    "Kanada",
+    "USA"
+   ],
+   "kicker": "Nordamerika · Handelsstreit",
+   "titel": "Tauwetter zwischen Ottawa und Washington: Handelsabkommen in Reichweite",
+   "deck": "Carney spricht von einem „guten Gespräch“ mit Trump, der eine Keystone-XL-Pipeline ins Spiel bringt.",
+   "text": [
+    "Kanadas Premierminister Mark Carney hat nach eigenen Worten ein „gutes Gespräch“ mit US-Präsident Donald Trump über Handelsfragen geführt. Die Unterhändler beider Seiten sollen in den kommenden Wochen an einem Abkommen arbeiten, das auf früheren Gesprächen aufbaut. Trump bestätigte den Kontakt und sprach vom „Konzept eines sehr guten Deals mit Kanada“, ohne Einzelheiten zu nennen.",
+    "Nach Trumps Worten soll ein Abkommen den Bau der Keystone-XL-Pipeline umfassen. Das Projekt war von Umweltschützern lange bekämpft und unter Präsident Biden auf Eis gelegt worden.",
+    "Die Beziehungen waren im August auf einen Tiefpunkt gefallen. Nach dem Abbruch der Gespräche verhängte Washington neue Zölle auf kanadische Waren im Wert von rund 20 Milliarden Dollar, von Eishockeyschlägern bis zu Zement. Kanada reagierte mit Gegenzöllen in gleicher Höhe, worauf die USA bestimmte Waren mit Abgaben von bis zu 50 Prozent belegten. Einige der Zölle wurden vor den Zwischenwahlen wieder aufgehoben, da die gestiegenen Preise für viele Wähler ein zentrales Thema sind.",
+    "Kanada sucht zugleich neue Partner: Kurz zuvor hatten die EU und Kanada eine Allianz verkündet, die Kanada zum ersten „assoziierten Mitglied“ der Union machen soll."
+   ],
+   "quellen": [
+    [
+     "Canadian Affairs (AFP)",
+     "https://www.canadianaffairs.news/2026/11/02/carney-hails-good-conversation-on-trade-with-trump/"
+    ],
+    [
+     "Daily Tribune",
+     "https://tribune.net.ph/2026/11/02/carney-hails-good-conversation-on-trade-with-trump"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Quartalszahlen",
+    "Europa"
+   ],
+   "kicker": "Europa · Bilanzsaison",
+   "titel": "Philips überrascht, Fresenius Medical Care und Zalando bremsen",
+   "deck": "Ein Querschnitt durch die europäischen Quartalsberichte vom Dienstagmorgen.",
+   "text": [
+    "Neben den großen Namen haben am Dienstagmorgen zahlreiche weitere europäische Konzerne ihre Zahlen vorgelegt. Positiv fiel der Medizintechnikkonzern Philips auf: Der Umsatz lag mit 4,4 Milliarden Euro im Rahmen der Erwartungen, die bereinigte operative Marge erreichte aber 13 Prozent statt der erwarteten 11,9 Prozent. Der vergleichbare Auftragseingang stieg um acht Prozent, die Jahresziele wurden bestätigt. Vorbörslich legte die Aktie um fast drei Prozent zu.",
+    "Fresenius Medical Care übertraf mit 4,94 Milliarden Euro Umsatz und 160 Millionen Euro Nettogewinn die Prognosen knapp, engte aber den Ausblick für das operative Ergebnis auf eine Spanne zwischen Stagnation und einem Rückgang im mittleren einstelligen Prozentbereich ein. Die Aktie wurde knapp drei Prozent tiefer erwartet.",
+    "Der Onlinehändler Zalando steigerte das Handelsvolumen auf 4,54 Milliarden Euro nach 4,22 Milliarden im Vorjahr und bestätigte seine Ergebnisprognose von 680 bis 720 Millionen Euro, dennoch wurde die Aktie leichter gehandelt. Der Spezialchemiekonzern Evonik schnitt mit 3,83 Milliarden Euro Umsatz und 629 Millionen Euro bereinigtem Ebitda deutlich besser ab als erwartet und sieht sich in der oberen Hälfte seiner Jahresspanne.",
+    "Außerhalb der Bilanzen meldete der Schweizer Auftragsfertiger Lonza den Kauf von fünf US-Standorten von Merck KGaA."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (Pre-Market)",
+     "https://www.newsquawk.com/headlines/european-pre-market-summary-3rd-november-2026-european-bourses-set-for-a-weak-open-amidst-iranian-diplomacy-pushback-bayn-gy-reports-strong-results-and-lifts-guidance"
+    ],
+    [
+     "Newsquawk (Equity News)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "Börse",
+    "USA",
+    "KI"
+   ],
+   "kicker": "Wall Street · Schlussbericht",
+   "titel": "Nasdaq rutscht in die Korrektur, der Dow hält dagegen",
+   "deck": "Anleger fliehen aus KI-Werten in Industrie- und Finanztitel, die Indizes gehen getrennte Wege.",
+   "text": [
+    "An der Wall Street hat sich am Montag die Kluft zwischen Technologie- und klassischen Werten weiter vertieft. Der technologielastige Nasdaq Composite schloss 1,07 Prozent tiefer bei 25.164 Punkten, der S&P 500 gab 0,51 Prozent auf 7.541 Punkte nach. Der Dow Jones dagegen legte um 0,41 Prozent auf 51.984 Punkte zu, getragen von Industrie-, Finanz- und Substanzwerten.",
+    "Der Nasdaq 100 fiel um 1,39 Prozent auf den tiefsten Stand seit Ende Juli und liegt nun rund zehn Prozent unter seinem Rekord, womit er sich in einer technischen Korrektur befindet. Der Halbleiterindex der Börse Philadelphia verlor 3,3 Prozent. Intel und Oracle büßten jeweils fast neun Prozent ein, Marvell nach der Ankündigung der Lumentum-Übernahme 12,7 Prozent. Nach einer Auswertung fielen KI-Werte insgesamt um rund drei Prozent, während der S&P 500 ohne diese Titel um etwa ein Prozent stieg.",
+    "Gewinner waren Fluggesellschaften wie United, Delta und American, die vom fallenden Ölpreis profitierten, sowie einzelne Werte nach Übernahmeofferten oder guten Zahlen, etwa der Ladesäulenbetreiber EVgo mit einem Plus von fast 47 Prozent und der Laborausrüster IDEXX mit fast 22 Prozent. Ölkonzerne wie Exxon Mobil und Occidental gaben deutlich nach.",
+    "Der Konjunkturindex ISM für die US-Industrie stieg im Oktober auf 55,5 Punkte und übertraf die Erwartungen."
+   ],
+   "quellen": [
+    [
+     "Stock Titan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+    ],
+    [
+     "Why It Moved",
+     "https://whyitmoved.substack.com/p/daily-market-report-tuesday-november"
+    ],
+    [
+     "ARIVA (dpa-AFX)",
+     "https://www.ariva.de/news/dpa-afx-boersentag-auf-einen-blick-im-minus-erwartet-12191928"
+    ]
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "Börse",
+    "DAX"
+   ],
+   "kicker": "Frankfurt · Börsenbericht",
+   "titel": "Dax entfernt sich von 26.000 Punkten",
+   "deck": "Nach einem freundlichen Wochenstart belasten Tech-Schwäche und neue US-Angriffe auf Iran.",
+   "text": [
+    "Der deutsche Leitindex hat am Dienstag einen Teil seiner Vortagesgewinne wieder abgegeben. Kurz nach Handelsbeginn fiel der Dax um etwa ein Prozent auf 25.710 Punkte und unterschritt damit das Tief des Vortags. Der MDax verlor 1,2 Prozent auf 30.477 Punkte, der Euro Stoxx 50 1,1 Prozent. Belastend wirkten die erneute Schwäche der US-Technologiewerte und die Berichte über US-Angriffe auf die iranische Insel Qeschm; die Ölpreise holten einen Teil ihrer Vortagesverluste auf.",
+    "Am Montag hatte der Dax noch 0,63 Prozent auf 25.981 Punkte zugelegt und zeitweise die Marke von 26.000 Punkten zurückerobert. Gestützt hatten damals der fallende Ölpreis und die Hoffnung auf eine diplomatische Lösung im Iran-Konflikt. Der MDax stieg um 1,26 Prozent.",
+    "Marktbeobachter verweisen nun auf charttechnische Risiken: Der Dax droht erstmals seit Anfang April unter seine 200-Tage-Linien zu fallen, die viele Anleger als Maß für den langfristigen Trend nutzen. Auch die Apple-Zahlen halfen nicht. „Selbst glänzende Geschäftszahlen reichen nicht mehr aus, wenn die Perspektiven nicht ebenso überzeugend ausfallen“, kommentierte Andreas Lipkow von CMC Markets.",
+    "Im Fokus standen zudem zahlreiche Unternehmensberichte, darunter von Bayer, Lufthansa, Schaeffler, Zalando und Fresenius Medical Care, sowie die US-Zwischenwahlen."
+   ],
+   "quellen": [
+    [
+     "ARIVA (dpa-AFX)",
+     "https://www.ariva.de/news/aktien-frankfurt-eroeffnung-rueckschlag-dax-weiter-weg-von-12192147"
+    ],
+    [
+     "FinanzNachrichten (dpa-AFX)",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70009891-aktien-frankfurt-schluss-dax-legt-vor-apple-zahlen-und-us-zwischenwahlen-zu-016.htm"
+    ],
+    [
+     "ARIVA (Börsentag)",
+     "https://www.ariva.de/news/dpa-afx-boersentag-auf-einen-blick-im-minus-erwartet-12191928"
+    ]
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "Asien",
+    "Halbleiter"
+   ],
+   "kicker": "Asien · Börsen",
+   "titel": "Kospi bricht ein: Samsung und SK Hynix unter Druck",
+   "deck": "Die Zweifel an der Rentabilität der KI-Investitionen schwappen nach Seoul über.",
+   "text": [
+    "Der Ausverkauf bei Technologiewerten hat am Dienstag die südkoreanische Börse besonders hart getroffen. Der Leitindex Kospi eröffnete 2,46 Prozent tiefer bei 5.715 Punkten und weitete die Verluste im Handelsverlauf auf mehr als drei Prozent aus. Die Schwergewichte Samsung Electronics und SK Hynix verloren zum Start jeweils rund fünf Prozent; SK Hynix rutschte unter die Marke von 1,4 Millionen Won.",
+    "Ausländische Investoren und Institutionelle trennten sich von Aktien, während Privatanleger zukauften. Als Auslöser nennen Marktberichte die neu aufgeflammten Zweifel an der Wall Street, ob sich die gewaltigen Ausgaben für Künstliche Intelligenz rechnen. Die Kapitalaufnahme von Oracle im Umfang von rund 20 Milliarden Dollar habe die Last der Investitionen vor Augen geführt. Auch der nachbörsliche Kursrutsch bei Apple belastete.",
+    "Sinkende Ölpreise und Zinsen infolge der Hoffnung auf US-iranische Gespräche konnten die Stimmung nicht aufhellen. Die Börse in Tokio blieb am Dienstag wegen eines Feiertags geschlossen. In Australien legten die Aktien vor der Zinsentscheidung der Notenbank leicht zu.",
+    "Bereits am Montag war der koreanische Won die schwächste große Währung gewesen und hatte rund 0,9 Prozent zum Dollar verloren."
+   ],
+   "quellen": [
+    [
+     "Seoul Economic Daily",
+     "https://en.sedaily.com/finance/2026/11/03/samsung-sk-hynix-slide-on-us-ai-selloff-kospi-tests-5700"
+    ],
+    [
+     "Saxo",
+     "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+    ],
+    [
+     "TradingKey",
+     "https://www.tradingkey.com/analysis/stocks/more/262266138-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-tradingkey"
+    ]
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Leitzins",
+    "Australien",
+    "Inflation"
+   ],
+   "kicker": "Australien · Geldpolitik",
+   "titel": "Australiens Notenbank erhöht zum fünften Mal in diesem Jahr",
+   "deck": "Mit 4,85 Prozent erreicht der Leitzins den höchsten Stand seit 2008, im Rat gab es drei Gegenstimmen.",
+   "text": [
+    "Die australische Notenbank RBA hat ihren Leitzins am Dienstag um 0,25 Prozentpunkte auf 4,85 Prozent angehoben. Es ist die fünfte Erhöhung in diesem Jahr; so hoch lag der Zins zuletzt Ende 2008. Die Entscheidung fiel knapp: Sechs Mitglieder des geldpolitischen Gremiums stimmten für die Anhebung, drei wollten den Zins bei 4,60 Prozent belassen.",
+    "Hintergrund ist eine hartnäckige Inflation. Die Notenbank erwartet nun, dass die Teuerung bis weit ins Jahr 2027 hoch bleibt und erst Ende 2027 unter drei Prozent fällt, etwa drei Quartale später als bisher angenommen. Ihr Ziel ist eine Inflation von durchschnittlich rund 2,5 Prozent. Vizegouverneur Andrew Hauser warnte vor dem „Albtraum der Notenbanker“, dass sich die Inflationserwartungen vom Ziel lösen.",
+    "Für Haushalte mit Immobilienkrediten ist der Schritt ein weiterer Rückschlag, Sparer mit verzinsten Konten können dagegen auf höhere Erträge hoffen. Zinsänderungen wirken nach Angaben der Notenbank erst nach 12 bis 18 Monaten voll, die ganze Wirkung dürfte sich also erst 2028 zeigen.",
+    "Der australische Dollar hatte sich vor der Entscheidung bei rund 0,70 US-Dollar stabil gehalten."
+   ],
+   "quellen": [
+    [
+     "ABC News Australia",
+     "https://www.abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050"
+    ],
+    [
+     "Reserve Bank of Australia",
+     "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
+    ],
+    [
+     "Saxo",
+     "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börsengänge",
+    "KI",
+    "Tech"
+   ],
+   "kicker": "Börsengang · Künstliche Intelligenz",
+   "titel": "Anthropic legt vor dem Börsengang seine Zahlen offen",
+   "deck": "17 Milliarden Dollar Quartalsumsatz, aber hohe Verluste und fast 900 Milliarden an Rechenzentrums-Verpflichtungen.",
+   "text": [
+    "Das KI-Unternehmen Anthropic, Entwickler des Sprachmodells Claude, hat eine aktualisierte Fassung seines Börsenprospekts veröffentlicht. Demnach stieg der Umsatz im dritten Quartal auf rund 17 Milliarden Dollar, nach 11,6 Milliarden im Vorquartal. In den ersten neun Monaten setzte das Unternehmen 33,2 Milliarden Dollar um, gut dreizehnmal so viel wie ein Jahr zuvor.",
+    "Zugleich schreibt Anthropic hohe Verluste. Im Quartal belief sich der Nettoverlust laut der Nachrichtenagentur AP auf 23,3 Milliarden Dollar, für neun Monate auf 104 Milliarden; darin enthalten ist eine buchhalterische Belastung von 94 Milliarden Dollar im Zusammenhang mit Finanzierungsvereinbarungen. Operativ stand im dritten Quartal ein Verlust von 567 Millionen Dollar nach einem Gewinn im Vorquartal.",
+    "Bemerkenswert sind die langfristigen Verpflichtungen: Insgesamt hat Anthropic rund 895 Milliarden Dollar für Rechenkapazität und Rechenzentren zugesagt, davon etwa 70 Milliarden innerhalb der nächsten zwölf Monate. Das ist fast das Siebenfache der Barmittel von rund 132 Milliarden Dollar. Zu den größten Partnern zählen Broadcom, Google, die KI-Sparte von SpaceX und Amazon.",
+    "Die Aktie soll an der Nasdaq unter dem Kürzel „ANT“ notiert werden, der Börsengang wird noch in diesem Monat erwartet. Preisspanne und Zahl der Aktien sind noch offen. Privatanleger sollen über Broker wie Charles Schwab, Fidelity und Robinhood zeichnen können."
+   ],
+   "quellen": [
+    [
+     "VIN News (AP)",
+     "https://vinnews.com/2026/11/02/anthropic-posts-17b-quarterly-revenue-but-losses-continue-in-fresh-ipo-filing/"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/article/anthropics-new-ipo-filing-puts-its-computing-bill-near-900-billion-151830444.html"
+    ]
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Kapitalmarkt",
+    "Tech",
+    "Aktien"
+   ],
+   "kicker": "Kapitalmarkt · Platzierung",
+   "titel": "Oracle platziert Aktien für zehn Milliarden Dollar",
+   "deck": "Der Softwarekonzern verkauft 86,2 Millionen neue Aktien zu 116 Dollar, die Börse straft die Verwässerung ab.",
+   "text": [
+    "Oracle hat seine angekündigte Kapitalerhöhung zügig umgesetzt. Der Softwarekonzern platzierte 86,2 Millionen neue Aktien zum Preis von 116 Dollar und nimmt damit zehn Milliarden Dollar ein. Der Preis lag rund elf Prozent unter dem Schlusskurs vom Freitag von 130,67 Dollar. Hinzu kommen Anleihen, darunter zwei Milliarden Dollar mit einem Kupon von sieben Prozent und Laufzeit bis 2029; insgesamt umfasst das Paket rund 20 Milliarden Dollar.",
+    "Mit dem Geld will Oracle seinen kostspieligen Ausbau von Rechenzentren für Künstliche Intelligenz finanzieren. Die Ankündigung hatte die Aktie am Montag um 8,76 Prozent auf 119,22 Dollar gedrückt. Nachbörslich erholte sich der Kurs leicht auf gut 121 Dollar.",
+    "Die Transaktion wird am Markt als Symptom einer breiteren Sorge gelesen: Die großen Technologiekonzerne müssen ihre KI-Investitionen zunehmend über den Kapitalmarkt finanzieren, während die Erträge noch auf sich warten lassen. Die Oracle-Platzierung wurde in Asien als einer der Auslöser für den Ausverkauf bei Chipwerten genannt.",
+    "Oracle legt seine nächsten Quartalszahlen am 10. Dezember vor."
+   ],
+   "quellen": [
+    [
+     "MarketScreener",
+     "https://www.marketscreener.com/news/oracle-prices-20-billion-offerings-of-common-stock-notes-ce785fd9de8df224"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026"
+    ],
+    [
+     "Seoul Economic Daily",
+     "https://en.sedaily.com/finance/2026/11/03/samsung-sk-hynix-slide-on-us-ai-selloff-kospi-tests-5700"
+    ]
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Rohstoffe",
+    "Öl",
+    "Iran"
+   ],
+   "kicker": "Rohstoffe · Ölmarkt",
+   "titel": "Nach dem Absturz: Ölpreis erholt sich leicht",
+   "deck": "Die Angriffe auf Qeschm bremsen die Hoffnung auf eine schnelle Öffnung der Straße von Hormus.",
+   "text": [
+    "Nach einem der stärksten Tagesverluste des Jahres haben sich die Ölpreise am Dienstag etwas erholt. Ein Barrel der Nordseesorte Brent kostete am Morgen rund 105,84 Dollar, nachdem der Preis am Montag um 7,6 Prozent auf 104,77 Dollar gefallen war. Die US-Sorte WTI notierte bei etwa 97,43 Dollar; am Montag war sie um 7,66 Dollar auf 96,46 Dollar abgesackt, der größte Tagesverlust seit mehr als drei Monaten.",
+    "Den Rückgang hatten Berichte ausgelöst, wonach Präsident Trump der Diplomatie mit Iran vor neuen militärischen Schritten mehr Zeit geben will. Das ließ die Risikoprämie schrumpfen. Die Meldung über begrenzte US-Angriffe auf die iranische Insel Qeschm dämpfte die Zuversicht wieder, führte aber nur zu einer moderaten Gegenbewegung.",
+    "Am Aktienmarkt wirkt der Ölpreis in beide Richtungen. Fluggesellschaften gehörten am Montag zu den Gewinnern, während Ölförderer wie Exxon Mobil und Occidental um vier bis fünf Prozent nachgaben. Für Airlines wie die Lufthansa bleibt das Niveau dennoch hoch: Sie rechnet für dieses Jahr mit einer Treibstoffrechnung von 9,3 Milliarden Euro.",
+    "Industriemetalle zogen dagegen an: Kupfer verteuerte sich an der Londoner Metallbörse um rund 1,5 Prozent auf 14.345 Dollar je Tonne."
+   ],
+   "quellen": [
+    [
+     "ARIVA (dpa-AFX)",
+     "https://www.ariva.de/news/dpa-afx-boersentag-auf-einen-blick-im-minus-erwartet-12191928"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/european-pre-market-summary-3rd-november-2026-european-bourses-set-for-a-weak-open-amidst-iranian-diplomacy-pushback-bayn-gy-reports-strong-results-and-lifts-guidance"
+    ],
+    [
+     "Saxo",
+     "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "China",
+    "Notenbank"
+   ],
+   "kicker": "China · Marktstützung",
+   "titel": "Peking stemmt sich gegen den Kursverfall",
+   "deck": "Erleichterte Rückkaufregeln und eine dritte Runde des Swap-Programms der Notenbank sollen den Aktienmarkt stabilisieren.",
+   "text": [
+    "China hat ein Paket von Maßnahmen zur Stützung seines schwächelnden Aktienmarkts angekündigt. Die Behörden lockern die Regeln für Aktienrückkäufe börsennotierter Unternehmen und bereiten eine dritte Runde einer Swap-Fazilität der Zentralbank vor, über die Finanzinstitute leichter an Mittel für Aktienkäufe kommen. Zudem wird ein Kreditprogramm zur Finanzierung von Rückkäufen und Aufstockungen dauerhaft eingerichtet.",
+    "Ein Vertreter der Wertpapieraufsicht CSRC sagte, man überprüfe die Regeln für kursstützende Rückkäufe, verbessere die Anreize für langfristige Investitionen und erweitere das Angebot an Anlageprodukten. Nach Darstellung des Wirtschaftsmagazins Caixin belasten anhaltende Kursverluste die Bemühungen, die wirtschaftliche Erholung zu sichern.",
+    "Parallel griff die Notenbank am Devisenmarkt ein: Sie erhöhte den Mindestreservesatz für Fremdwährungen, woraufhin der Yuan nachgab. Mit diesem Instrument verteuert die PBoC Dollar-Bestände im Bankensystem.",
+    "Die Börse in Hongkong hatte am Montag 0,4 Prozent zugelegt, getragen von Technologiewerten. Sorgen über eine Blase bei KI-Werten begrenzten jedoch den Anstieg."
+   ],
+   "quellen": [
+    [
+     "Caixin Global",
+     "https://www.caixinglobal.com/2026-11-03/china-moves-to-support-stocks-with-buyback-and-liquidity-measures-102500134.html"
+    ],
+    [
+     "Saxo",
+     "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/european-pre-market-summary-3rd-november-2026-european-bourses-set-for-a-weak-open-amidst-iranian-diplomacy-pushback-bayn-gy-reports-strong-results-and-lifts-guidance"
+    ]
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "Leitzins",
+    "Großbritannien"
+   ],
+   "kicker": "Anleihen · Renditen",
+   "titel": "Lange Renditen fallen auf den tiefsten Stand seit September",
+   "deck": "Fallende Ölpreise nehmen Inflationssorgen etwas Dampf, auch britische Staatsanleihen sind gefragt.",
+   "text": [
+    "Der Ölpreisrutsch hat am Anleihemarkt für Entlastung gesorgt. Die Renditen für US-Staatsanleihen mit Laufzeiten von zehn bis dreißig Jahren fielen am Montag um rund vier Basispunkte auf den tiefsten Stand seit September. Zehnjährige rentierten bei etwa 4,91 Prozent, dreißigjährige bei 5,29 Prozent, zweijährige bei 4,60 Prozent.",
+    "Auch britische Staatsanleihen legten zu. Händler reduzierten ihre Wetten auf Zinserhöhungen der Bank of England um bis zu acht Basispunkte, preisen aber bis Ende 2027 noch immer rund 101 Basispunkte an Straffung ein.",
+    "In der Eurozone beschäftigt die Notenbanker die Frage, wie stark der jüngste Renditeanstieg bremst. Nach einem Bericht schätzen Fachleute der EZB, dass höhere Anleiherenditen das Wachstum in den Jahren 2027 und 2028 kumuliert um einen Prozentpunkt und die Inflation um 0,9 Prozentpunkte drücken könnten, verglichen mit der Projektion vom September. EZB-Präsidentin Christine Lagarde sagte, die Notenbank sei gut aufgestellt, um eingehende Daten abzuwarten."
+   ],
+   "quellen": [
+    [
+     "Saxo",
+     "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/european-pre-market-summary-3rd-november-2026-european-bourses-set-for-a-weak-open-amidst-iranian-diplomacy-pushback-bayn-gy-reports-strong-results-and-lifts-guidance"
+    ],
+    [
+     "Euronext (Reuters)",
+     "https://live.euronext.com/en/financial-news/ecb-keeps-december-rate-hike-table-amid-mounting-inflation-risks"
+    ]
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Devisen",
+    "Krypto",
+    "Euro"
+   ],
+   "kicker": "Devisen und Krypto",
+   "titel": "Euro über 1,12 Dollar, Bitcoin rutscht unter 77.000",
+   "deck": "Der Dollar wartet auf die Wahl, Kryptowährungen bleiben im Angstmodus.",
+   "text": [
+    "Der Euro hat zum Wochenauftakt zugelegt und stieg um rund ein halbes Prozent auf mehr als 1,12 Dollar. Am Dienstagmorgen hielt er sich um diese Marke. Der Dollar zeigte sich vor den US-Zwischenwahlen insgesamt wenig bewegt. Das britische Pfund stieg leicht auf 1,3407 Dollar, der japanische Yen notierte weiter nahe 158 je Dollar.",
+    "Kryptowährungen setzten ihre Schwächephase fort. Bitcoin fiel am Dienstagmorgen auf rund 76.700 Dollar, ein Minus von etwa zwei Prozent; dpa-AFX nannte einen Kurs um 76.500 Dollar. Ether hielt sich knapp unter 2.300 Dollar, Solana hat binnen einer Woche fast neun Prozent verloren und war damit der schwächste große Wert.",
+    "Der viel beachtete Krypto-Stimmungsindex „Fear & Greed“ lag bei 37 Punkten und signalisiert damit Angst; der Monatsdurchschnitt beträgt 55. Belastend wirken weiterhin die Folgen des Milliardenhacks bei der Börse Binance, der Abflüsse aus Bitcoin-Fonds ausgelöst hatte, sowie die allgemeine Flucht aus risikoreichen Technologiewerten.",
+    "Für XRP steht in dieser Woche zudem die Freigabe von einer Milliarde Token an, die das Angebot erhöht."
+   ],
+   "quellen": [
+    [
+     "Saxo",
+     "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+    ],
+    [
+     "Why It Moved",
+     "https://whyitmoved.substack.com/p/daily-market-report-tuesday-november"
+    ],
+    [
+     "KuCoin News",
+     "https://www.kucoin.com/news/insight/BTC/6ae9292abbcb5200074597b4"
+    ]
+   ]
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Tun",
+   "zitat": "„Es ist nicht genug, zu wissen, man muß auch anwenden; es ist nicht genug, zu wollen, man muß auch tun.“",
+   "urheber": "Johann Wolfgang von Goethe, Wilhelm Meisters Wanderjahre (1829)",
+   "text": "Passend zum amerikanischen Wahltag: Meinungen und Umfragen gibt es reichlich, am Ende zählt allein, wer tatsächlich zur Urne geht."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Kompromiss",
+   "text": "Fragt die Lehrerin: „Wer kann mir erklären, was ein Kompromiss ist?“ Meldet sich Paul: „Wenn Mama ans Meer will und Papa in die Berge – und am Ende fahren wir alle zu Oma.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Vater und Sohn",
+   "text": "Ein Vater ist heute 36 Jahre alt, sein Sohn 6. In wie vielen Jahren wird der Vater genau dreimal so alt sein wie sein Sohn?",
+   "loesung": "In 9 Jahren: Dann ist der Vater 45 und der Sohn 15 Jahre alt (36 + x = 3 · (6 + x), also x = 9)."
+  }
+ ]
+}
