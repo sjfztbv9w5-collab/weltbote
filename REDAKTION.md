@@ -37,7 +37,7 @@ So wird die Liste erstellt:
 - Für jeden Artikel eigens nach dem Thema suchen, z. B. mit Stichworten aus der Überschrift plus Datum, auf Englisch und auf Deutsch.
 - Aufnehmen werden alle Medien aus `medien.json`, die in den Ergebnissen mit einem Bericht zum Thema auftauchen. Nicht gezielt nach einer Seite suchen und nichts weglassen, damit die Verteilung nicht verzerrt wird.
 - Die eigenen Quellen-Links zählen mit, wenn sie in `medien.json` stehen. Fachmedien ohne Einordnung (z. B. CoinDesk) dürfen in der Liste stehen, sie werden nur nicht mitgezählt.
-- Bei Weltgeschehen, Wirtschaft, Finanzen und Köpfe des Tages braucht es mindestens 3 eingeordnete Medien. Bei Krypto und Vermögen ist das oft nicht möglich, dann reicht, was es gibt. Die Seite zeigt dann „zu wenige Medien“.
+- Ziel sind mindestens 3 eingeordnete Medien pro Artikel. Bei Weltgeschehen lohnt sich eine zweite Suche (andere Sprache, andere Stichworte), wenn es weniger sind. Wirtschafts-, Finanz-, Krypto- und Vermögensthemen stehen oft nur in Fachmedien ohne Einordnung. Dann bleibt die Liste kurz, die Seite zeigt „zu wenige Medien“. Niemals Medien eintragen, die nicht tatsächlich berichtet haben, nur um die Zahl zu erreichen. Das Prüfskript meldet zu kurze Listen nur als Hinweis, nicht als Fehler.
 - Nur Domains, ohne `https://` und `www.`, z. B. `["reuters.com", "foxnews.com", "spiegel.de"]`.
 - `medien.json` wird nicht von der Redaktion geändert. Neue Medien nimmt nur Moritz auf.
 

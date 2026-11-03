@@ -26,6 +26,9 @@ def _finde(domain: str, medien: dict):
     return None
 
 
+HINWEISE: list[str] = []
+
+
 def pruefe(pfad: Path) -> list[str]:
     fehler = []
     try:
@@ -100,8 +103,8 @@ def pruefe(pfad: Path) -> list[str]:
                 fehler.append(f"{aid}: 'berichterstattung' muss eine Liste von Domains sein")
                 continue
             bekannt = {_finde(x, medien) for x in b} - {None}
-            if a.get("rubrik") in ("welt", "wirtschaft", "finanzen", "koepfe") and len(bekannt) < 3:
-                fehler.append(f"{aid}: nur {len(bekannt)} eingeordnete Medien in 'berichterstattung' (mind. 3)")
+            if a.get("rubrik") == "welt" and len(bekannt) < 3:
+                HINWEISE.append(f"{aid}: nur {len(bekannt)} eingeordnete Medien, die Seite zeigt keine Verteilung")
     for r, soll in RUBRIKEN.items():
         if zaehler[r] != soll:
             fehler.append(f"Rubrik {r}: {zaehler[r]} Artikel statt {soll}")
@@ -133,6 +136,10 @@ def main() -> int:
         liste = json.loads(idx.read_text(encoding="utf-8")).get("ausgaben", [])
         if pfad.stem not in liste:
             fehler.append(f"{pfad.stem} fehlt in ausgaben/index.json")
+    if HINWEISE:
+        print("Hinweise (kein Fehler, wenn wirklich nicht mehr Berichterstattung zu finden ist):")
+        for h in HINWEISE:
+            print(" -", h)
     if fehler:
         print("NICHT in Ordnung:")
         for f in fehler:
