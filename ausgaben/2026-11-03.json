@@ -1241,14 +1241,122 @@
    "teilnahme": "Eine Quizfrage im Formular beantworten, einmal pro Person.",
    "pruefung": "offizielle Seite der Brauerei, keine Kosten oder Kaufpflicht genannt; Frist auf der Seite nicht angegeben",
    "url": "https://www.paulaner.de/fc-bayern-muenchen/ticketverlosung/"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Restaurant Week: Drei-Gänge-Menüs zum Festpreis",
+   "anbieter": "Restaurant Week (restaurant-week.de)",
+   "angebot": "Teilnehmende Münchner Restaurants, darunter Häuser mit Michelin-Auszeichnung, servieren ein festes Drei-Gänge-Festivalmenü, optional mit Martini-Aperitivo. Den Preis legt jedes Restaurant selbst fest.",
+   "wann": "läuft bis 22.11.2026",
+   "buchen_bis": "2026-11-22",
+   "hinweis": "Reservierung über restaurant-week.de; beliebte Tische an Wochenenden früh sichern.",
+   "frueh": false,
+   "url": "https://www.gourmet-report.de/artikel/419988/restaurant-week-in-berlin-hamburg-und-muenchen-mit-michelin-restaurants"
   },
   {
-   "art": "rabatt",
+   "kategorie": "Kino",
+   "titel": "Mathäser: Sneak für 5,99 €, Late Night für 6,99 €",
+   "anbieter": "Mathäser Filmpalast",
+   "angebot": "Dienstags Sneak Preview für 5,99 €. Late-Night-Ticket ab 21.30 Uhr für 6,99 € (So–Do). Superticket: fünf 2D-Karten für 35 €.",
+   "wann": "dauerhaft",
+   "hinweis": "Zuschläge für 3D, Dolby Cinema und Premium-Sitze kommen hinzu; Ermäßigungen sind nicht kombinierbar.",
+   "frueh": false,
+   "url": "https://www.mathaeser.de/mm/preise"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Lenbachhaus „extra+“: Gratis am Donnerstagabend",
+   "anbieter": "Lenbachhaus",
+   "angebot": "Am ersten Donnerstag im Monat freier Eintritt von 18 bis 22 Uhr, diesmal am 5. November. Der Kunstbau bleibt 2026 geschlossen.",
+   "wann": "Do, 5.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-05",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026), vor dem Besuch beim Museum prüfen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Villa Stuck „Friday Late“",
+   "anbieter": "Museum Villa Stuck",
+   "angebot": "Am ersten Freitag im Monat sind Eintritt und Abendprogramm von 18 bis 22 Uhr kostenlos, diesmal am 6. November.",
+   "wann": "Fr, 6.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-06",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026), vor dem Besuch prüfen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "1-Euro-Sonntag in Pinakotheken & Co.",
+   "anbieter": "Staatliche Museen (u. a. Alte Pinakothek, Pinakothek der Moderne, Brandhorst, Glyptothek, Nationalmuseum)",
+   "angebot": "Sonntags meist 1 € Eintritt in die Dauerausstellungen; unter 18 Jahren frei. Nächster Termin: 8. November.",
+   "wann": "jeden Sonntag",
+   "hinweis": "Sonderausstellungen sind oft ausgenommen; die Neue Pinakothek ist wegen Sanierung geschlossen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Haus der Kunst „Open Haus“",
+   "anbieter": "Haus der Kunst",
+   "angebot": "Am letzten Freitag im Monat freier Eintritt von 16 bis 22 Uhr, im November am 27.",
+   "wann": "Fr, 27.11.2026, 16–22 Uhr",
+   "buchen_bis": "2026-11-27",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026), vor dem Besuch prüfen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Lodenfrey: Habsburg-Pop-up und Canada-Goose-Tage",
+   "anbieter": "Lodenfrey",
+   "angebot": "Habsburg-Pop-up im 3. Stock vom 9. bis 29.11., am 20. und 21.11. Geschenk ab 1.000 € Einkauf. Canada Goose: kostenlose personalisierte Gepäckanhänger vom 17.11. bis 5.12. (Do–Sa, 16–19 Uhr). Luisa-Cerano-Event am 14.11. ab 10 Uhr.",
+   "wann": "9.11.–5.12.2026",
+   "buchen_bis": "2026-12-05",
+   "hinweis": "Für die Newsletter-Anmeldung gibt es 10 % auf die erste Bestellung.",
+   "frueh": false,
+   "url": "https://www.lodenfrey.com/Events/"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Kategorie 4 ab 15 € für Teens-Club-Mitglieder",
+   "anbieter": "FC Bayern München",
+   "angebot": "Mitglieder des Teens Club zahlen für alle Heimspiele 15 € (BMW Park) bzw. 18 € (SAP Garden), maximal zwei Karten pro Spiel.",
+   "wann": "alle Heimspiele",
+   "hinweis": "Nur 100 ermäßigte Karten pro Spiel; Aktionscode per Mail an den Teens Club anfordern.",
+   "frueh": true,
+   "url": "https://fcbayern.com/de/fans/teens-club/teens-club-tickets/fcbb-tickets/ticketangebot-fc-bayern-basketball"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Pakete bis 20 % günstiger",
+   "anbieter": "o2 Surftown MUC (Hallbergmoos)",
+   "angebot": "Surf-Sessions ab 95 €, Coachings 199 €. Mit Paketen spart man laut Anbieter bis zu 20 % auf die nächsten Sessions; Gutscheine und Pakete gelten zwei Jahre.",
+   "wann": "Sessions etwa 8 Wochen im Voraus buchbar",
+   "hinweis": "Wer zu Wunschterminen surfen will, sollte rund zwei Monate vorher buchen.",
+   "frueh": true,
+   "url": "https://surftown.de/en/presale"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Jochen Schweizer Arena: 10 % für Newsletter-Abonnenten",
+   "anbieter": "Jochen Schweizer Arena (Taufkirchen)",
+   "angebot": "Indoor-Surfen, Bodyflying und mehr; bei Anmeldung zum Newsletter gibt es laut Anbieter 10 % Rabatt.",
+   "wann": "dauerhaft",
+   "hinweis": "Eine aktuelle Saisonaktion war bei Redaktionsschluss nicht ausgeschrieben.",
+   "frueh": false,
+   "url": "https://www.jochen-schweizer-arena.de/category/aktion/"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
    "titel": "Bis zu 20 % auf Theater, Konzert und Musical",
    "anbieter": "Thea Kulturklub (Theatergemeinde München e.V.)",
-   "gewinn": "Ermäßigte Karten für Münchner Bühnen, im November etwa für „My Fair Lady“ im Gärtnerplatztheater oder das MKO im Prinzregententheater",
-   "teilnahme": "Registrierung bzw. Mitgliedschaft nötig; eine Probeteilnahme wird angeboten. Konditionen vor dem Buchen prüfen.",
-   "pruefung": "Angebot eines Münchner Vereins (Theatergemeinde München e.V.), kein anonymes Gutscheinportal",
+   "angebot": "Ermäßigte Karten für Münchner Bühnen, im November etwa für „My Fair Lady“ im Gärtnerplatztheater oder das MKO im Prinzregententheater",
+   "wann": "laufend",
+   "hinweis": "Registrierung bzw. Mitgliedschaft nötig; eine Probeteilnahme wird angeboten. Konditionen vor dem Buchen prüfen.",
+   "frueh": true,
    "url": "https://www.thea.info/november"
   }
  ]

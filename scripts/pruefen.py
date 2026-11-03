@@ -176,6 +176,22 @@ def pruefe_muenchen(d: dict, artikel: list, datum: str) -> list[str]:
                 fehler.append(f"gewinnspiel {name}: 'bis' muss JJJJ-MM-TT sein")
             elif str(bis)[:10] < datum:
                 fehler.append(f"gewinnspiel {name}: Frist {bis} ist schon abgelaufen, herausnehmen")
+    ak = d.get("aktionen", [])
+    if not isinstance(ak, list):
+        return fehler + ["'aktionen' muss eine Liste sein"]
+    for i, x in enumerate(ak, 1):
+        name = x.get("titel", f"Nr. {i}")
+        for f in ("kategorie", "titel", "anbieter", "angebot"):
+            if not x.get(f):
+                fehler.append(f"aktion {name}: Feld '{f}' fehlt")
+        if not _https(x.get("url")):
+            fehler.append(f"aktion {name}: 'url' (https) fehlt")
+        bis = x.get("buchen_bis")
+        if bis:
+            if not ISO_START.match(str(bis)):
+                fehler.append(f"aktion {name}: 'buchen_bis' muss JJJJ-MM-TT sein")
+            elif str(bis)[:10] < datum:
+                fehler.append(f"aktion {name}: {bis} ist schon vorbei, herausnehmen")
     return fehler
 
 

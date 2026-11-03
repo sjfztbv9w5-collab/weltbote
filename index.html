@@ -202,6 +202,7 @@ footer.colophon p { margin: 0; max-width: 80ch; }
 .muc-sprung { text-align: center; margin: 6px 0 0; font-family: var(--f-sc); letter-spacing: .05em; font-size: 15px; }
 .muc-box { margin-top: 26px; border: 3px double var(--rule); padding: 14px 16px; }
 .muc-box > h2 { font-family: var(--f-head); font-weight: 400; font-size: 28px; margin: 0 0 2px; text-align: center; }
+.muc-box > h3 { font-family: var(--f-sc); font-weight: 400; letter-spacing: .05em; font-size: 17px; color: var(--oxblood); border-bottom: 1px solid var(--rule); margin: 10px 0 8px; }
 .muc-box > .sub { text-align: center; font-style: italic; color: var(--ink-soft); margin: 0 0 12px; font-size: 14.5px; }
 .vvk { width: 100%; border-collapse: collapse; font-size: 14.5px; }
 .vvk th { font-family: var(--f-type); font-weight: 400; font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--ink-soft); text-align: left; border-bottom: 1px solid var(--rule); padding: 4px 6px; }
@@ -277,7 +278,7 @@ const RUBRIKEN = {
 };
 
 let MEDIEN = {};
-let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "", VORVERKAUF = [], GEWINNSPIELE = [];
+let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "", VORVERKAUF = [], GEWINNSPIELE = [], AKTIONEN = [];
 
 /* ---------- Hilfen ---------- */
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -408,8 +409,8 @@ function fmtStart(s) {
 }
 function renderMuenchenExtras(main) {
   const sp = el("p", "muc-sprung");
-  [["vorverkauf", "Vorverkaufskalender"], ["gewinnspiele", "Gewinnspiele & Rabatte"]].forEach(([id, t], i) => {
-    if (id === "vorverkauf" && !VORVERKAUF.length) return;
+  [["vorverkauf", "Vorverkaufskalender"], ["aktionen", "Aktionen & Frühbucher"], ["gewinnspiele", "Gewinnspiele & Rabatte"]].forEach(([id, t], i) => {
+    if ((id === "vorverkauf" && !VORVERKAUF.length) || (id === "aktionen" && !AKTIONEN.length)) return;
     const l = el("a", null, t + " ↓"); l.href = "#muenchen";
     l.addEventListener("click", e => { e.preventDefault(); const z = document.getElementById(id); if (z) z.scrollIntoView({ behavior: "smooth" }); });
     if (sp.childNodes.length) sp.append(document.createTextNode(" · "));
@@ -434,6 +435,28 @@ function renderMuenchenExtras(main) {
       tr.append(w, ver, to, wo); tb.append(tr);
     });
     t.append(tb); box.append(t); main.append(box);
+  }
+  if (AKTIONEN.length) {
+    const ab = el("section", "muc-box"); ab.id = "aktionen";
+    ab.append(el("h2", null, "Aktionen & Frühbucher"), el("p", "sub", "Restaurants, Bars, Kinos, Läden, Sport, Freizeit, Theater und Museen: rechtzeitig buchen und sparen"));
+    const gruppen = new Map();
+    AKTIONEN.forEach(x => { const k = x.kategorie || "Sonstiges"; if (!gruppen.has(k)) gruppen.set(k, []); gruppen.get(k).push(x); });
+    gruppen.forEach((liste, kat) => {
+      ab.append(el("h3", null, kat));
+      const g = el("div", "gw-grid"); g.style.marginBottom = "14px";
+      liste.sort((a, b) => (a.buchen_bis || "9999").localeCompare(b.buchen_bis || "9999")).forEach(x => {
+        const c = el("article", "gw" + (x.buchen_bis && x.buchen_bis < heute ? " abgelaufen" : ""));
+        c.append(el("div", "art", x.frueh ? "Frühbucher" : "Aktion"), el("h4", null, x.titel));
+        if (x.angebot) c.append(el("p", null, x.angebot));
+        const meta = [x.anbieter, x.wann, x.buchen_bis && !x.wann && "bis " + fmtStart(x.buchen_bis)].filter(Boolean).join(" · ");
+        if (meta) c.append(el("p", "meta", meta));
+        if (x.hinweis) c.append(el("p", "pruef", x.hinweis));
+        const p = el("p"); p.append(link("Zum Angebot", x.url)); c.append(p);
+        g.append(c);
+      });
+      ab.append(g);
+    });
+    main.append(ab);
   }
   const gb = el("section", "muc-box"); gb.id = "gewinnspiele";
   gb.append(el("h2", null, "Gewinnspiele & Rabatte"), el("p", "sub", "Nur geprüfte Aktionen von Veranstaltern, Sponsoren und etablierten Medien, kostenlos und ohne Kaufzwang"));
@@ -501,7 +524,7 @@ function navAnpassen() {
 function route() {
   if (!AUSGABE) return;
   const h = (location.hash || "").replace("#", "");
-  const unter = (h === "gewinnspiele" || h === "vorverkauf") && rubrikDa("muenchen") ? h : null;
+  const unter = (h === "gewinnspiele" || h === "vorverkauf" || h === "aktionen") && rubrikDa("muenchen") ? h : null;
   const key = unter ? "muenchen" : (RUBRIKEN[h] && rubrikDa(h) ? h : "welt");
   document.querySelectorAll("nav.rubriken a").forEach(a => {
     if (a.getAttribute("href") === "#" + key) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
@@ -548,7 +571,7 @@ async function ladeAusgabe(iso) {
   if (!res.ok) throw new Error("Ausgabe " + iso + " nicht gefunden");
   const d = await res.json();
   AUSGABE = d.datum; ARTIKEL = d.artikel || []; FEUILLETON = d.feuilleton || []; KURSE = d.kurse || []; STAND = d.kurse_stand || "";
-  VORVERKAUF = d.vorverkauf || []; GEWINNSPIELE = d.gewinnspiele || [];
+  VORVERKAUF = d.vorverkauf || []; GEWINNSPIELE = d.gewinnspiele || []; AKTIONEN = d.aktionen || [];
   $("#datum").textContent = d.datumszeile || fmtDatum(d.datum);
   $("#schluss").textContent = d.redaktionsschluss ? "Redaktionsschluss " + d.redaktionsschluss : "";
   $("#nummer").textContent = "Jahrgang " + d.datum.slice(0, 4) + " · Nr. " + tagNr(d.datum);
