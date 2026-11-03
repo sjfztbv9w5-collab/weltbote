@@ -9,7 +9,11 @@ import re
 import sys
 from pathlib import Path
 
-RUBRIKEN = {"welt": 10, "wirtschaft": 10, "finanzen": 10}
+RUBRIKEN_BASIS = {"welt": 10, "wirtschaft": 10, "finanzen": 10}
+# Seit der Ausgabe vom 4. November 2026 zusätzlich:
+RUBRIKEN_NEU = {"krypto": 5, "vermoegen": 5, "koepfe": 5}
+NEU_AB = "2026-11-04"
+ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU}
 MAX_WOERTER = 500
 
 
@@ -42,14 +46,17 @@ def pruefe(pfad: Path) -> list[str]:
 
     artikel = d.get("artikel", [])
     ids = set()
-    zaehler = {r: 0 for r in RUBRIKEN}
+    RUBRIKEN = dict(RUBRIKEN_BASIS)
+    if datum >= NEU_AB:
+        RUBRIKEN.update(RUBRIKEN_NEU)
+    zaehler = {r: 0 for r in ALLE_RUBRIKEN}
     for a in artikel:
         aid = a.get("id", "?")
         if aid in ids:
             fehler.append(f"Doppelte id {aid}")
         ids.add(aid)
         r = a.get("rubrik")
-        if r not in RUBRIKEN:
+        if r not in ALLE_RUBRIKEN:
             fehler.append(f"{aid}: unbekannte rubrik {r!r}")
         else:
             zaehler[r] += 1

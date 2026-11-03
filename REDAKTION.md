@@ -13,7 +13,10 @@ Diese Datei beschreibt, wie jeden Morgen eine neue Ausgabe entsteht. Die geplant
 
 - **Weltgeschehen (`welt`)**: die 10 wichtigsten Meldungen der letzten 24 Stunden weltweit, unabhängig vom Ressort, geordnet nach ihrem Gewicht auf den Titelseiten großer internationaler Medien (Reuters, AP, BBC, NYT, FT, Al Jazeera, Tagesschau, Spiegel, FAZ …). Platz 1 wird als großer Aufmacher gesetzt.
 - **Wirtschaft (`wirtschaft`)**: 10 Artikel zu Unternehmen, Übernahmen, Quartalszahlen und Welthandel.
-- **Finanzen (`finanzen`)**: 10 Artikel zu Aktienmärkten, Anleihen, Rohstoffen, Leitzinsen (Fed, EZB …), Börsengängen, Devisen und Krypto, dazu die Kurstafel.
+- **Finanzen (`finanzen`)**: 10 Artikel zu Aktienmärkten, Anleihen, Rohstoffen, Leitzinsen (Fed, EZB …), Börsengängen und Devisen, dazu die Kurstafel. Krypto nur, wenn es den Gesamtmarkt bewegt. Alles andere zu Krypto gehört in die Rubrik Krypto.
+- **Krypto (`krypto`)**: 5 Artikel zu Bitcoin, Ether und Altcoins, Kryptobörsen, Hacks, ETFs/ETPs, Stablecoins, DeFi, On-Chain-Daten und Regulierung (MiCA, DAC8, SEC, BaFin …). Fachlich genau, der Leser kennt sich aus.
+- **Vermögen & Beteiligungen (`vermoegen`)**: 5 Artikel zu Wealth Management, Family Offices und Private Equity: Deals, Fundraising, Exits, Fusionen von Vermögensverwaltern und Privatbanken, neue Family Offices, Regulierung, WealthTech, Studien (z. B. UBS Global Wealth Report). Gern mit Bezug zum deutschsprachigen Raum.
+- **Köpfe des Tages (`koepfe`)**: 5 kurze Porträt-Meldungen darüber, was eine wichtige Person gerade tut: Konzernchefs, Notenbanker, Investoren, Gründer, Politiker, Prominente aus Sport und Kultur. Jeder Artikel dreht sich um eine Person (Titel mit Namen, Kicker z. B. „Köpfe · Notenbank“). Personalwechsel, Aussagen, Deals, Auftritte. Keine Gerüchte über Privatleben.
 - **Feuilleton**: Weisheit/Zitat des Tages (echtes, korrekt zugeordnetes Zitat, gemeinfrei bzw. vor 1929 veröffentlicht), Witz des Tages (eigener, harmloser Witz) und Rätsel des Tages mit Auflösung. Jeden Tag ein neues Stück, keine Wiederholungen aus früheren Ausgaben.
 
 ## Regeln für Artikel
@@ -66,6 +69,7 @@ Die Sterne werden in Moritz' Browser gespeichert (localStorage) und sind für di
 }
 ```
 
-- IDs: `welt-01` … `welt-10`, `wirt-01` … `wirt-10`, `fin-01` … `fin-10`, innerhalb der Rubrik nach Wichtigkeit geordnet.
+- IDs: `welt-01` … `welt-10`, `wirt-01` … `wirt-10`, `fin-01` … `fin-10`, `krypto-01` … `krypto-05`, `verm-01` … `verm-05`, `koepfe-01` … `koepfe-05`, innerhalb der Rubrik nach Wichtigkeit geordnet.
+- Die drei neuen Rubriken gibt es seit der Ausgabe vom 4. November 2026. Ältere Ausgaben haben sie nicht, die Seite blendet sie dort aus.
 - Kurstafel (8 Werte): DAX, S&P 500, Nasdaq, Brent, Gold, Bitcoin, EUR/USD, Rendite 10-jähriger US-Anleihen. `richtung` ist `up`, `down` oder `flat`.
 - `tags`: 1 bis 4 kurze Themen-Schlagworte. Sie speisen das Leserbarometer, also einheitlich halten (z. B. immer „Krypto“, nicht mal „Kryptowährungen“).

@@ -70,7 +70,7 @@ nav.rubriken a {
   font-family: var(--f-sc); font-size: 18px; letter-spacing: .08em; text-decoration: none;
   padding: 8px 18px; border-right: 1px solid var(--rule); color: var(--ink-soft);
 }
-nav.rubriken a:first-child { border-left: 1px solid var(--rule); }
+nav.rubriken a { border-left: 1px solid var(--rule); margin-left: -1px; }
 nav.rubriken a[aria-current="page"] { color: var(--ink); background: var(--paper-deep); box-shadow: inset 0 -3px 0 var(--oxblood); }
 nav.rubriken a:hover { color: var(--ink); }
 
@@ -202,6 +202,9 @@ footer.colophon p { margin: 0; max-width: 80ch; }
       <a href="#welt">Weltgeschehen</a>
       <a href="#wirtschaft">Wirtschaft</a>
       <a href="#finanzen">Finanzen</a>
+      <a href="#krypto">Krypto</a>
+      <a href="#vermoegen">Vermögen</a>
+      <a href="#koepfe">Köpfe</a>
       <a href="#feuilleton">Feuilleton</a>
     </nav>
     <div class="archiv"><label for="archiv">Ältere Ausgaben</label><select id="archiv"></select></div>
@@ -227,6 +230,9 @@ const RUBRIKEN = {
   welt: { titel: "Die zehn Meldungen des Tages", unter: "Unabhängig vom Ressort, geordnet nach weltweiter Aufmerksamkeit" },
   wirtschaft: { titel: "Wirtschaft", unter: "Unternehmen, Übernahmen und der Welthandel" },
   finanzen: { titel: "Finanzen & Börse", unter: "Aktien, Anleihen, Rohstoffe, Leitzinsen, Börsengänge und Krypto" },
+  krypto: { titel: "Krypto", unter: "Bitcoin, Ether und Altcoins, Börsen, Regulierung, DeFi und On-Chain-Geschehen" },
+  vermoegen: { titel: "Vermögen & Beteiligungen", unter: "Wealth Management, Family Offices und Private Equity" },
+  koepfe: { titel: "Köpfe des Tages", unter: "Wer gerade was bewegt: Entscheider, Gründer, Politiker und Prominente" },
   feuilleton: { titel: "Feuilleton", unter: "Für die Mußestunde nach dem Börsenschluss" }
 };
 
@@ -339,10 +345,14 @@ function renderSection(key) {
   main.append(cols);
   list.forEach(a => paintStars(a.id));
 }
+const rubrikDa = k => k === "welt" || k === "feuilleton" || ARTIKEL.some(a => a.rubrik === k);
+function navAnpassen() {
+  document.querySelectorAll("nav.rubriken a").forEach(a => { a.hidden = !rubrikDa(a.getAttribute("href").slice(1)); });
+}
 function route() {
   if (!AUSGABE) return;
   const h = (location.hash || "").replace("#", "");
-  const key = RUBRIKEN[h] ? h : "welt";
+  const key = RUBRIKEN[h] && rubrikDa(h) ? h : "welt";
   document.querySelectorAll("nav.rubriken a").forEach(a => {
     if (a.getAttribute("href") === "#" + key) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
   });
@@ -359,7 +369,7 @@ function renderBarometer() {
     all.forEach(r => keyFn(r).forEach(k => { const g = m.get(k) || { sum: 0, n: 0 }; g.sum += r.stars; g.n++; m.set(k, g); }));
     return [...m.entries()].map(([k, g]) => ({ k, avg: g.sum / g.n, n: g.n })).sort((a, b) => b.avg - a.avg || b.n - a.n);
   };
-  const names = { welt: "Weltgeschehen", wirtschaft: "Wirtschaft", finanzen: "Finanzen", feuilleton: "Feuilleton" };
+  const names = { welt: "Weltgeschehen", wirtschaft: "Wirtschaft", finanzen: "Finanzen", krypto: "Krypto", vermoegen: "Vermögen", koepfe: "Köpfe", feuilleton: "Feuilleton" };
   const block = (title, rows, max) => {
     const col = el("div"); col.append(el("h4", null, title));
     rows.slice(0, max).forEach(r => {
@@ -371,7 +381,7 @@ function renderBarometer() {
     });
     return col;
   };
-  box.append(block("Nach Rubrik", group(r => [r.rubrik]), 4), block("Lieblingsthemen", group(r => r.tags || []), 6));
+  box.append(block("Nach Rubrik", group(r => [r.rubrik]), 7), block("Lieblingsthemen", group(r => r.tags || []), 6));
   const top = [...all].sort((a, b) => b.stars - a.stars || (b.ratedAt || "").localeCompare(a.ratedAt || "")).slice(0, 5);
   const col = el("div"); col.append(el("h4", null, "Bestbewertet (" + all.length + " Urteile)"));
   top.forEach(r => { const row = el("div", "baro-row"); row.style.gridTemplateColumns = "minmax(0,1fr) auto"; row.append(el("span", null, r.titel), el("span", null, "★".repeat(r.stars))); col.append(row); });
@@ -392,6 +402,7 @@ async function ladeAusgabe(iso) {
   $("#nummer").textContent = "Jahrgang " + d.datum.slice(0, 4) + " · Nr. " + tagNr(d.datum);
   $("#kolophon").textContent = d.kolophon || "";
   document.title = "Der Weltbote · " + (d.datumszeile || fmtDatum(d.datum));
+  navAnpassen();
   route();
 }
 
