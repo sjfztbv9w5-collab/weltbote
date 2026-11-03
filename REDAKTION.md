@@ -17,6 +17,9 @@ Diese Datei beschreibt, wie jeden Morgen eine neue Ausgabe entsteht. Die geplant
 - **Krypto (`krypto`)**: 5 Artikel zu Bitcoin, Ether und Altcoins, Kryptobörsen, Hacks, ETFs/ETPs, Stablecoins, DeFi, On-Chain-Daten und Regulierung (MiCA, DAC8, SEC, BaFin …). Fachlich genau, der Leser kennt sich aus.
 - **Vermögen & Beteiligungen (`vermoegen`)**: 5 Artikel zu Wealth Management, Family Offices und Private Equity: Deals, Fundraising, Exits, Fusionen von Vermögensverwaltern und Privatbanken, neue Family Offices, Regulierung, WealthTech, Studien (z. B. UBS Global Wealth Report). Gern mit Bezug zum deutschsprachigen Raum.
 - **Köpfe des Tages (`koepfe`)**: 5 kurze Porträt-Meldungen darüber, was eine wichtige Person gerade tut: Konzernchefs, Notenbanker, Investoren, Gründer, Politiker, Prominente aus Sport und Kultur. Jeder Artikel dreht sich um eine Person (Titel mit Namen, Kicker z. B. „Köpfe · Notenbank“). Personalwechsel, Aussagen, Deals, Auftritte. Auch Privatleben gehört dazu (Hochzeit, Trennung, Familienzuwachs, Umzug, Rückzug aus der Öffentlichkeit), wenn es breit berichtet wird und Gesprächsthema ist. Dann gilt Klatsch ausdrücklich als erlaubt. Bedingungen: Die Sache ist von mindestens einem seriösen Medium berichtet oder von der Person selbst bestätigt, nicht nur Spekulation. Keine Mutmaßungen über Gesundheit. Kinder und Privatpersonen im Umfeld werden nicht namentlich in den Mittelpunkt gestellt.
+- **München (`muenchen`)**: 5 Artikel zu Konzerten, Kultur, Theater, Festen (Wiesn, Frühlingsfest, Starkbierfest, Tollwood, Christkindlmärkte …) und Sport (FC Bayern, NFL, EHC, Basketball …) in München. Schwerpunkt ist der **Kartenvorverkauf**: Wann gehen Tickets live (Datum, Uhrzeit, Presales und wer Zugang hat), wo gibt es sie offiziell, was kosten sie, ist etwas ausverkauft. Neue Vorverkaufsstarts der nächsten Tage haben Vorrang vor allgemeinen Kulturmeldungen. Jeder Artikel bekommt, wenn es um Karten geht, den Kasten `karten`. Dazu gehören zwei Listen:
+  - **Vorverkaufskalender (`vorverkauf`)**: alle gefundenen Vorverkaufsstarts für München in den nächsten rund 14 Tagen, je Phase ein Eintrag (Presale und allgemeiner Verkauf getrennt). Nur mit belegtem Datum; Uhrzeit nur, wenn sie in der Quelle steht.
+  - **Gewinnspiele & Rabatte (`gewinnspiele`)**: aktuelle Verlosungen und Vergünstigungen zu Münchner Veranstaltungen, gern lukrativ (begehrte oder teure Karten, VIP, Reise). **Keine Scams.** Aufgenommen wird nur, was alle Bedingungen erfüllt: Anbieter ist der Veranstalter, ein offizieller Partner/Sponsor, ein Verkehrsunternehmen oder ein etabliertes Medium (z. B. SZ, AZ, tz, Merkur, BR, Antenne Bayern, Radio Arabella, IN München, muenchen.de) und die Aktion steht auf dessen eigener Website oder offiziellem Kanal; Teilnahme kostenlos und ohne Kaufpflicht, kein Bezahl-Abo, keine Mehrwertnummer oder Premium-SMS; Teilnahmebedingungen oder Impressum vorhanden; keine Abfrage von Bank- oder Kartendaten. Ausgeschlossen sind Glücksspiel- und Wettanbieter, Kettenbriefe, „Teilen & Liken“-Seiten unbekannter Profile, Gutschein-Sammelportale und Ticket-Zweitmärkte. Abgelaufene Fristen fliegen raus. Im Feld `pruefung` steht kurz, warum die Aktion seriös ist. Findet sich nichts Passendes, bleibt die Liste leer.
 - **Feuilleton**: Weisheit/Zitat des Tages (echtes, korrekt zugeordnetes Zitat, gemeinfrei bzw. vor 1929 veröffentlicht), Witz des Tages (eigener, harmloser Witz) und Rätsel des Tages mit Auflösung. Jeden Tag ein neues Stück, keine Wiederholungen aus früheren Ausgaben.
 
 ## Regeln für Artikel
@@ -82,7 +85,25 @@ Die Sterne werden in Moritz' Browser gespeichert (localStorage) und sind für di
 }
 ```
 
-- IDs: `welt-01` … `welt-10`, `wirt-01` … `wirt-10`, `fin-01` … `fin-10`, `krypto-01` … `krypto-05`, `verm-01` … `verm-05`, `koepfe-01` … `koepfe-05`, innerhalb der Rubrik nach Wichtigkeit geordnet.
+- IDs: `welt-01` … `welt-10`, `wirt-01` … `wirt-10`, `fin-01` … `fin-10`, `krypto-01` … `krypto-05`, `verm-01` … `verm-05`, `koepfe-01` … `koepfe-05`, `muc-01` … `muc-05`, innerhalb der Rubrik nach Wichtigkeit geordnet.
+- München gibt es seit der Ausgabe vom 3. November 2026. Zusätzliche Felder (alle Angaben aus den Quellen, sonst weglassen). Im München-Artikel:
+
+```json
+"karten": {"vorverkauf": "Presale Mi, 4.11.2026, 11 Uhr · allgemein Fr, 6.11.2026, 11 Uhr", "termin": "Sa, 22.5.2027, 20 Uhr", "ort": "Olympiahalle", "preise": "ab 59 €", "stelle": "Eventim", "link": "https://…"}
+```
+
+Auf oberster Ebene der Ausgabe:
+
+```json
+"vorverkauf": [
+ {"start": "2026-11-04T11:00", "veranstaltung": "Scorpions", "termin": "22.5.2027", "ort": "Olympiahalle", "stelle": "Eventim", "url": "https://…", "hinweis": "Presale"}
+],
+"gewinnspiele": [
+ {"art": "gewinnspiel", "titel": "…", "anbieter": "IN München", "gewinn": "5 × 2 Karten für den 20.11.", "bis": "2026-11-12", "teilnahme": "Formular ausfüllen", "pruefung": "etabliertes Stadtmagazin, Teilnahmebedingungen verlinkt, kostenlos", "url": "https://…"}
+]
+```
+
+`start` ist `JJJJ-MM-TT` oder `JJJJ-MM-TTTHH:MM` (Berliner Zeit), `art` ist `gewinnspiel` oder `rabatt`, `bis` ist optional (`JJJJ-MM-TT`). Die Seite sortiert beide Listen selbst und ist unter `#muenchen`, `#vorverkauf` und `#gewinnspiele` direkt erreichbar.
 - Die drei neuen Rubriken gibt es seit der Ausgabe vom 4. November 2026. Ältere Ausgaben haben sie nicht, die Seite blendet sie dort aus.
 - Kurstafel (8 Werte): DAX, S&P 500, Nasdaq, Brent, Gold, Bitcoin, EUR/USD, Rendite 10-jähriger US-Anleihen. `richtung` ist `up`, `down` oder `flat`.
 - `tags`: 1 bis 4 kurze Themen-Schlagworte. Sie speisen das Leserbarometer, also einheitlich halten (z. B. immer „Krypto“, nicht mal „Kryptowährungen“).

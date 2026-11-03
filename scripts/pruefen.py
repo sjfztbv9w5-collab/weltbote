@@ -13,7 +13,11 @@ RUBRIKEN_BASIS = {"welt": 10, "wirtschaft": 10, "finanzen": 10}
 # Seit der Ausgabe vom 4. November 2026 zusätzlich:
 RUBRIKEN_NEU = {"krypto": 5, "vermoegen": 5, "koepfe": 5}
 NEU_AB = "2026-11-04"
-ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU}
+# Seit der Ausgabe vom 3. November 2026: München mit Vorverkaufskalender und Gewinnspielen
+RUBRIK_MUENCHEN = {"muenchen": 5}
+MUENCHEN_AB = "2026-11-03"
+ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN}
+ISO_START = re.compile(r"\d{4}-\d{2}-\d{2}(T\d{2}:\d{2})?$")
 MAX_WOERTER = 500
 
 
@@ -61,6 +65,8 @@ def pruefe(pfad: Path) -> list[str]:
     RUBRIKEN = dict(RUBRIKEN_BASIS)
     if datum >= NEU_AB:
         RUBRIKEN.update(RUBRIKEN_NEU)
+    if datum >= MUENCHEN_AB:
+        RUBRIKEN.update(RUBRIK_MUENCHEN)
     zaehler = {r: 0 for r in ALLE_RUBRIKEN}
     for a in artikel:
         aid = a.get("id", "?")
@@ -109,6 +115,8 @@ def pruefe(pfad: Path) -> list[str]:
         if zaehler[r] != soll:
             fehler.append(f"Rubrik {r}: {zaehler[r]} Artikel statt {soll}")
 
+    fehler += pruefe_muenchen(d, artikel, datum)
+
     feuil = {f.get("art"): f for f in d.get("feuilleton", [])}
     for art in ("weisheit", "witz", "raetsel"):
         if art not in feuil:
@@ -122,6 +130,52 @@ def pruefe(pfad: Path) -> list[str]:
             if not f.get(k):
                 fehler.append(f"Feuilleton {f.get('art', '?')}: Feld '{k}' fehlt")
 
+    return fehler
+
+
+def _https(u) -> bool:
+    return isinstance(u, str) and u.startswith("https://")
+
+
+def pruefe_muenchen(d: dict, artikel: list, datum: str) -> list[str]:
+    fehler = []
+    for a in artikel:
+        if a.get("rubrik") != "muenchen" or "karten" not in a:
+            continue
+        k = a["karten"]
+        aid = a.get("id", "?")
+        if not isinstance(k, dict) or not k.get("vorverkauf"):
+            fehler.append(f"{aid}: 'karten' braucht mindestens 'vorverkauf'")
+        elif "link" in k and not _https(k["link"]):
+            fehler.append(f"{aid}: karten.link muss eine https-URL sein")
+    vvk = d.get("vorverkauf", [])
+    if not isinstance(vvk, list):
+        return fehler + ["'vorverkauf' muss eine Liste sein"]
+    for i, v in enumerate(vvk, 1):
+        if not ISO_START.match(str(v.get("start", ""))):
+            fehler.append(f"vorverkauf {i}: 'start' muss JJJJ-MM-TT oder JJJJ-MM-TTTHH:MM sein")
+        if not v.get("veranstaltung"):
+            fehler.append(f"vorverkauf {i}: 'veranstaltung' fehlt")
+        if not _https(v.get("url")):
+            fehler.append(f"vorverkauf {i}: 'url' (https) fehlt")
+    gw = d.get("gewinnspiele", [])
+    if not isinstance(gw, list):
+        return fehler + ["'gewinnspiele' muss eine Liste sein"]
+    for i, g in enumerate(gw, 1):
+        name = g.get("titel", f"Nr. {i}")
+        if g.get("art") not in ("gewinnspiel", "rabatt"):
+            fehler.append(f"gewinnspiel {name}: 'art' muss gewinnspiel oder rabatt sein")
+        for f in ("titel", "anbieter", "pruefung"):
+            if not g.get(f):
+                fehler.append(f"gewinnspiel {name}: Feld '{f}' fehlt")
+        if not _https(g.get("url")):
+            fehler.append(f"gewinnspiel {name}: 'url' (https) fehlt")
+        bis = g.get("bis")
+        if bis:
+            if not ISO_START.match(str(bis)):
+                fehler.append(f"gewinnspiel {name}: 'bis' muss JJJJ-MM-TT sein")
+            elif str(bis)[:10] < datum:
+                fehler.append(f"gewinnspiel {name}: Frist {bis} ist schon abgelaufen, herausnehmen")
     return fehler
 
 

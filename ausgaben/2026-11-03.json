@@ -956,6 +956,176 @@
      "https://www.kucoin.com/news/insight/BTC/6ae9292abbcb5200074597b4"
     ]
    ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "Olympiahalle · Vorverkaufsstart",
+   "titel": "Scorpions kommen 2027 in die Olympiahalle: Presale am Mittwoch",
+   "deck": "Für das Konzert am 22. Mai 2027 starten die ersten Karten am 4. November um 11 Uhr, der freie Verkauf zwei Tage später.",
+   "text": [
+    "Die Hannoveraner Rockband Scorpions geht 2027 auf ihre „Love, Peace & Rock ’n’ Roll“-Tour und macht dabei auch in München Station. Gespielt wird am Samstag, 22. Mai 2027, in der Olympiahalle. Einlass ist um 18.30 Uhr, Beginn um 20 Uhr.",
+    "Wer früh dran sein will, sollte sich den Mittwoch vormerken: Am 4. November 2026 um 11 Uhr beginnt ein Vorverkauf über myticket und Eventim. Der allgemeine Vorverkauf startet am Freitag, 6. November, ebenfalls um 11 Uhr. Wer für die vorgezogene Phase zugelassen ist, nennt die Ankündigung nicht; erfahrungsgemäß lohnt es sich, schon vorab ein Kundenkonto bei den Ticketanbietern anzulegen und eingeloggt zu sein.",
+    "Preise und Ticketkategorien waren bis Dienstag noch nicht veröffentlicht. Bei großen Hallenkonzerten sind die günstigeren Kategorien oft in den ersten Minuten vergriffen. Karten sollten ausschließlich bei den offiziellen Vorverkaufsstellen gekauft werden; Angebote auf Zweitmarktplattformen kurz nach dem Start sind häufig deutlich teurer und nicht immer gültig."
+   ],
+   "karten": {
+    "vorverkauf": "Presale Mi, 4.11.2026, 11 Uhr · allgemein Fr, 6.11.2026, 11 Uhr",
+    "termin": "Sa, 22.5.2027, 20 Uhr (Einlass 18.30 Uhr)",
+    "ort": "Olympiahalle",
+    "preise": "noch nicht veröffentlicht",
+    "stelle": "myticket, Eventim",
+    "link": "https://www.eventim.de/city/muenchen-11/konzerte-1/"
+   },
+   "quellen": [
+    [
+     "Pressure Magazine",
+     "https://www.pressure-magazine.de/news/scorpions-tour-2027-282754/"
+    ],
+    [
+     "moritz.de",
+     "https://moritz.de/journal/buehne/scorpions-love-peace-rock-n-roll-tour-2027"
+    ]
+   ]
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "Olympiahalle · Vorverkaufsstart",
+   "titel": "Xavier Naidoo kehrt im Februar 2027 zurück, Karten ab Donnerstag",
+   "deck": "Der umstrittene Sänger spielt am 23. Februar 2027 in der Olympiahalle; im Stadtrat gibt es Kritik.",
+   "text": [
+    "Der Soulsänger Xavier Naidoo tritt am 23. Februar 2027 erneut in der Münchner Olympiahalle auf. Der Kartenvorverkauf beginnt nach Angaben der Abendzeitung am Donnerstag, 5. November. Preise wurden zunächst nicht genannt.",
+    "Bei seiner letzten Tour hatte Naidoo die Olympiahalle im Januar an zwei Abenden gefüllt, beide Konzerte waren ausverkauft. Insgesamt zog die Tour nach Angaben der Zeitung mehr als 200.000 Besucher an.",
+    "Die Rückkehr ist politisch umstritten. Die Stadtratsfraktion Die Linke/Die Partei kritisierte den Olympiapark dafür, dem Sänger eine Bühne zu bieten. Hintergrund sind Äußerungen Naidoos auf einer Kundgebung vor dem Bundeskanzleramt nach seiner Tour sowie frühere verschwörungstheoretische Beiträge während der Corona-Zeit, die als antisemitisch eingestuft wurden. Von früheren Aussagen hatte sich Naidoo 2022 distanziert.",
+    "Wer Karten möchte, sollte am Donnerstag auf die offiziellen Vorverkaufsstellen achten; die genaue Uhrzeit des Verkaufsstarts nannte der Bericht nicht."
+   ],
+   "karten": {
+    "vorverkauf": "ab Do, 5.11.2026 (Uhrzeit noch offen)",
+    "termin": "Di, 23.2.2027",
+    "ort": "Olympiahalle",
+    "preise": "noch nicht veröffentlicht",
+    "link": "https://www.eventim.de/city/muenchen-11/konzerte-1/"
+   },
+   "quellen": [
+    [
+     "Abendzeitung München",
+     "https://www.abendzeitung-muenchen.de/kultur/musik/nach-menschenfresser-aeusserungen-xavier-naidoo-kommt-2027-wieder-in-die-olympiahalle-art-1170454"
+    ],
+    [
+     "t-online München",
+     "https://muenchen.t-online.de/region/muenchen/id_101510762/xavier-naidoo-kuendigt-arena-tour-an-dann-kommt-der-saenger-nach-muenchen.html"
+    ]
+   ]
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Football",
+    "Sport"
+   ],
+   "kicker": "Allianz Arena · NFL",
+   "titel": "NFL Munich Game ausverkauft: Wer jetzt noch Karten will, braucht Losglück",
+   "deck": "Patriots gegen Lions am 15. November: Sponsoren und Medien verlosen Restkarten, vor Fälschungen wird gewarnt.",
+   "text": [
+    "Das NFL Munich Game 2026 zwischen den New England Patriots und den Detroit Lions am Sonntag, 15. November, um 15.30 Uhr in der Allianz Arena ist ausverkauft. RTL überträgt die Partie live im frei empfangbaren Fernsehen.",
+    "Wer dennoch ins Stadion möchte, hat vor allem über Gewinnspiele eine Chance. Eine Übersicht des Football-Portals Footballerei zählt mehr als ein Dutzend Verlosungen, unter anderem von DB Regio Bayern, der S-Bahn München, Radio Arabella, der DKB, Kaufland, FedEx und der NFL selbst. Die Fristen laufen größtenteils zwischen dem 3. und dem 11. November ab; die Bedingungen unterscheiden sich, bei der NFL-Verlosung etwa müssen Teilnehmer volljährig sein und in Deutschland wohnen.",
+    "Zugleich warnt das Portal vor gefälschten Gewinnspielen in sozialen Netzwerken. Die S-Bahn München etwa benachrichtigt Gewinner nur über ihren offiziellen Account. Wer per Direktnachricht einen Gewinn gemeldet bekommt und dafür Gebühren oder Kartendaten angeben soll, hat es mit Betrügern zu tun. Eine Auswahl geprüfter Verlosungen steht unten in der Rubrik „Gewinnspiele & Rabatte“."
+   ],
+   "karten": {
+    "vorverkauf": "ausverkauft",
+    "termin": "So, 15.11.2026, 15.30 Uhr",
+    "ort": "Allianz Arena",
+    "stelle": "nur noch über Gewinnspiele",
+    "link": "https://www.nfl.com/international/games/munich/"
+   },
+   "quellen": [
+    [
+     "Footballerei",
+     "https://footballerei.de/nfl-muenchen-tickets-gewinnspiele/"
+    ],
+    [
+     "NFL",
+     "https://www.nfl.com/international/games/munich/"
+    ]
+   ]
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Starkbierfest",
+    "Feste"
+   ],
+   "kicker": "Nockherberg · Starkbierfest 2027",
+   "titel": "Starkbierfest 2027: Tische am Nockherberg sind schon buchbar",
+   "deck": "Vom 26. Februar bis 21. März 2027 wird angezapft; der Verkauf läuft seit September.",
+   "text": [
+    "Wer zur Starkbierzeit 2027 einen Tisch am Nockherberg möchte, kann bereits buchen. Das Starkbierfest im Paulaner am Nockherberg läuft vom 26. Februar bis 21. März 2027, drei Wochen lang. Der Ticketverkauf hat am 19. September 2026 begonnen und läuft über den Ticketshop Snapticket.",
+    "Gebucht wird in Zeitfenstern: Montag bis Freitag gilt eine Reservierungszeit von 16 bis 22.30 Uhr, am Wochenende gibt es zwei Schichten von 11 bis 16 Uhr und von 16.30 bis 22.30 Uhr. Reservierungen müssen bis spätestens 21 Uhr eingelöst werden, sonst verfallen sie; die Plätze werden je nach Wochentag 15 bis 30 Minuten nach der gebuchten Zeit weitergegeben. Die Karten gelten nur am gebuchten Tag.",
+    "Nach den bisherigen Angaben des Hauses kostet ein reservierter Tisch mit zehn Eintrittskarten 195 Euro; einzelne Einlasskarten gibt es an der Abendkasse, solange Plätze frei sind. Die Preise für 2027 können abweichen. Ein fester Termin im Kalender ist der Pink Monday am 8. März 2027. Wer an Freitagen und Samstagen feiern will, sollte nicht zu lange warten."
+   ],
+   "karten": {
+    "vorverkauf": "läuft seit 19.9.2026",
+    "termin": "26.2.–21.3.2027",
+    "ort": "Paulaner am Nockherberg",
+    "preise": "Tisch mit 10 Karten bisher 195 € (2027 ggf. abweichend)",
+    "stelle": "Snapticket (offizieller Shop)",
+    "link": "https://shop.snapticket.de/seller/schottenhamel-und-lechner-gmbh-hnc4/section/starkbierfest-xooo"
+   },
+   "quellen": [
+    [
+     "Paulaner am Nockherberg",
+     "https://paulaner-nockherberg.com/strong-beer-festival/"
+    ],
+    [
+     "Snapticket",
+     "https://shop.snapticket.de/seller/schottenhamel-und-lechner-gmbh-hnc4/section/starkbierfest-xooo"
+    ]
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Feste",
+    "Wiesn"
+   ],
+   "kicker": "Termine zum Vormerken",
+   "titel": "Vom Tollwood bis zur Wiesn 2027: Der Münchner Festkalender",
+   "deck": "Christkindlmarkt ab 20. November, Tollwood ab 24. November, Oktoberfest 2027 vom 18. September an.",
+   "text": [
+    "Der Christkindlmarkt am Marienplatz öffnet in diesem Jahr früher als sonst: vom 20. November bis 24. Dezember, Montag bis Samstag von 10 bis 21 Uhr, sonntags bis 20 Uhr. Am Totensonntag, 22. November, bleibt er geschlossen. Der Krampuslauf ist am 13. Dezember.",
+    "Auf der Theresienwiese beginnt am 24. November das Tollwood-Winterfestival, das bis 23. Dezember dauert. Der Eintritt aufs Gelände ist frei, mehr als 90 Prozent der Kulturveranstaltungen sind kostenlos. Karten braucht man für die Shows im Grand Chapiteau – die Akrobatik „Ten Thousand Hours“ (25. bis 29. November), die Tanzproduktion „Triptych“ (2. bis 9. Dezember) und den Zirkus „Mad in Finland“ (12. bis 20. Dezember) – sowie für die Silvesterparty am 31. Dezember.",
+    "Weiter voraus: Das Oktoberfest 2027 findet vom 18. September bis 3. Oktober statt. Tischreservierungen nehmen ausschließlich die einzelnen Festzelte an, ein zentrales Portal gibt es nicht. Wer bei Drittanbietern Reservierungen zu Aufpreisen sieht, sollte vorsichtig sein; in den Zelten gibt es auch Bereiche ohne Reservierung. Dienstags gelten bis 19 Uhr bei vielen Fahrgeschäften ermäßigte Preise."
+   ],
+   "quellen": [
+    [
+     "muenchen.de (Christkindlmarkt)",
+     "https://www.muenchen.de/christkindlmarkt"
+    ],
+    [
+     "muenchen.de (Tollwood)",
+     "https://www.muenchen.de/veranstaltungen/tollwood-winterfestival-2026"
+    ],
+    [
+     "muenchen.de (Oktoberfest)",
+     "https://www.muenchen.de/veranstaltungen/oktoberfest"
+    ]
+   ]
   }
  ],
  "feuilleton": [
@@ -991,6 +1161,95 @@
    "titel": "Vater und Sohn",
    "text": "Ein Vater ist heute 36 Jahre alt, sein Sohn 6. In wie vielen Jahren wird der Vater genau dreimal so alt sein wie sein Sohn?",
    "loesung": "In 9 Jahren: Dann ist der Vater 45 und der Sohn 15 Jahre alt (36 + x = 3 · (6 + x), also x = 9)."
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-04T11:00",
+   "veranstaltung": "Scorpions",
+   "termin": "22.5.2027",
+   "ort": "Olympiahalle",
+   "stelle": "myticket / Eventim",
+   "url": "https://www.eventim.de/city/muenchen-11/konzerte-1/",
+   "hinweis": "Presale"
+  },
+  {
+   "start": "2026-11-05",
+   "veranstaltung": "Xavier Naidoo",
+   "termin": "23.2.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Vorverkaufsstellen",
+   "url": "https://www.abendzeitung-muenchen.de/kultur/musik/nach-menschenfresser-aeusserungen-xavier-naidoo-kommt-2027-wieder-in-die-olympiahalle-art-1170454",
+   "hinweis": "Uhrzeit offen"
+  },
+  {
+   "start": "2026-11-06T11:00",
+   "veranstaltung": "Scorpions",
+   "termin": "22.5.2027",
+   "ort": "Olympiahalle",
+   "stelle": "myticket / Eventim",
+   "url": "https://www.eventim.de/city/muenchen-11/konzerte-1/",
+   "hinweis": "allgemeiner Verkauf"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "Rat für den Ausflug, Tickets fürs NFL Munich Game",
+   "anbieter": "DB Regio Bayern",
+   "gewinn": "2 Karten für Patriots – Lions am 15.11. in der Allianz Arena, dazu 5 Gutscheine à 100 € für den NFL-Shop",
+   "bis": "2026-11-03",
+   "teilnahme": "Ausflugsziel wählen, Name und E-Mail angeben, Teilnahme per Bestätigungsmail bestätigen. Ab 18.",
+   "pruefung": "offizielle Seite des Verkehrsunternehmens, Teilnahmebedingungen verlinkt, kostenlos, keine Zahlungsdaten",
+   "url": "https://www.wir-entdecken-bayern.de/Gewinnspiel/NFL-Munich-Games"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Negah Amiri: „Schön laut“ im Schlachthof",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 11.11.",
+   "bis": "2026-11-05",
+   "teilnahme": "Formular ausfüllen; Newsletter-Häkchen ist freiwillig.",
+   "pruefung": "etabliertes Münchner Stadtmagazin, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten genannt",
+   "url": "https://www.in-muenchen.de/verlosungen/negah-amiri-schoen-laut-11-november-schlachthof.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Pogues im Kesselhaus",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 20.11.",
+   "bis": "2026-11-12",
+   "teilnahme": "Formular ausfüllen; Newsletter-Häkchen ist freiwillig.",
+   "pruefung": "etabliertes Münchner Stadtmagazin, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten genannt",
+   "url": "https://www.in-muenchen.de/verlosungen/the-pogues-20-november-kesselhaus.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Gregory Porter & Orchestra in der Isarphilharmonie",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 15.12. („Spirit of Christmas“)",
+   "bis": "2026-11-19",
+   "teilnahme": "Formular ausfüllen; Newsletter-Häkchen ist freiwillig.",
+   "pruefung": "etabliertes Münchner Stadtmagazin, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten genannt",
+   "url": "https://www.in-muenchen.de/verlosungen/gregory-porter-and-orchestra-15-dezember-isarphilharmonie.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "FC Bayern – 1. FC Köln in der Allianz Arena",
+   "anbieter": "Paulaner (Partner des FC Bayern)",
+   "gewinn": "3 × 2 Karten für das Heimspiel am 20.11.2026, 20.30 Uhr",
+   "teilnahme": "Eine Quizfrage im Formular beantworten, einmal pro Person.",
+   "pruefung": "offizielle Seite der Brauerei, keine Kosten oder Kaufpflicht genannt; Frist auf der Seite nicht angegeben",
+   "url": "https://www.paulaner.de/fc-bayern-muenchen/ticketverlosung/"
+  },
+  {
+   "art": "rabatt",
+   "titel": "Bis zu 20 % auf Theater, Konzert und Musical",
+   "anbieter": "Thea Kulturklub (Theatergemeinde München e.V.)",
+   "gewinn": "Ermäßigte Karten für Münchner Bühnen, im November etwa für „My Fair Lady“ im Gärtnerplatztheater oder das MKO im Prinzregententheater",
+   "teilnahme": "Registrierung bzw. Mitgliedschaft nötig; eine Probeteilnahme wird angeboten. Konditionen vor dem Buchen prüfen.",
+   "pruefung": "Angebot eines Münchner Vereins (Theatergemeinde München e.V.), kein anonymes Gutscheinportal",
+   "url": "https://www.thea.info/november"
   }
  ]
 }

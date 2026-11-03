@@ -193,6 +193,32 @@ footer.colophon p { margin: 0; max-width: 80ch; }
 .spektrum summary { cursor: pointer; font-family: var(--f-type); font-size: 11px; color: var(--faded); }
 .spektrum .leer { font-family: var(--f-type); font-size: 11px; color: var(--faded); }
 .fehler { text-align:center; font-style:italic; color: var(--oxblood); padding: 40px 0; }
+/* München: Karten, Vorverkaufskalender, Gewinnspiele */
+.karten { margin: 10px 0 4px; border: 1px solid var(--rule); background: var(--paper-deep); padding: 8px 10px; font-size: 14.5px; }
+.karten h4, .muc-box h3 { font-family: var(--f-sc); font-weight: 400; letter-spacing: .05em; margin: 0 0 4px; font-size: 15px; color: var(--oxblood); }
+.karten dl { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 2px 10px; margin: 0; }
+.karten dt { font-family: var(--f-type); font-size: 11.5px; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); padding-top: 2px; }
+.karten dd { margin: 0; overflow-wrap: anywhere; }
+.muc-sprung { text-align: center; margin: 6px 0 0; font-family: var(--f-sc); letter-spacing: .05em; font-size: 15px; }
+.muc-box { margin-top: 26px; border: 3px double var(--rule); padding: 14px 16px; }
+.muc-box > h2 { font-family: var(--f-head); font-weight: 400; font-size: 28px; margin: 0 0 2px; text-align: center; }
+.muc-box > .sub { text-align: center; font-style: italic; color: var(--ink-soft); margin: 0 0 12px; font-size: 14.5px; }
+.vvk { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.vvk th { font-family: var(--f-type); font-weight: 400; font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--ink-soft); text-align: left; border-bottom: 1px solid var(--rule); padding: 4px 6px; }
+.vvk td { border-bottom: 1px dotted var(--faded); padding: 6px; vertical-align: top; overflow-wrap: anywhere; }
+.vvk td.wann { font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; }
+.vvk tr.vorbei td { color: var(--faded); }
+.vvk .bald { font-family: var(--f-type); font-size: 11px; color: var(--oxblood); display: block; font-weight: 400; }
+@media (max-width: 640px) { .vvk thead { display: none; } .vvk tr { display: block; border-bottom: 1px solid var(--rule); padding: 6px 0; } .vvk td { display: block; border: 0; padding: 1px 4px; } }
+.gw-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.gw { border: 1px solid var(--rule); padding: 10px 12px; min-width: 0; }
+.gw .art { font-family: var(--f-type); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--oxblood); }
+.gw h4 { font-family: var(--f-head); font-weight: 400; font-size: 20px; margin: 4px 0; line-height: 1.15; }
+.gw p { margin: 0 0 6px; font-size: 14.5px; }
+.gw .meta { font-family: var(--f-type); font-size: 12px; color: var(--ink-soft); }
+.gw .pruef { font-size: 13px; color: var(--ink-soft); border-top: 1px dotted var(--faded); padding-top: 5px; }
+.gw.abgelaufen { opacity: .55; }
+.warnung { font-size: 13.5px; color: var(--ink-soft); margin: 12px 0 0; border-top: 1px solid var(--rule); padding-top: 8px; }
 </style>
 </head>
 <body>
@@ -216,6 +242,7 @@ footer.colophon p { margin: 0; max-width: 80ch; }
       <a href="#krypto">Krypto</a>
       <a href="#vermoegen">Vermögen</a>
       <a href="#koepfe">Köpfe</a>
+      <a href="#muenchen">München</a>
       <a href="#feuilleton">Feuilleton</a>
     </nav>
     <div class="archiv"><label for="archiv">Ältere Ausgaben</label><select id="archiv"></select></div>
@@ -245,11 +272,12 @@ const RUBRIKEN = {
   krypto: { titel: "Krypto", unter: "Bitcoin, Ether und Altcoins, Börsen, Regulierung, DeFi und On-Chain-Geschehen" },
   vermoegen: { titel: "Vermögen & Beteiligungen", unter: "Wealth Management, Family Offices und Private Equity" },
   koepfe: { titel: "Köpfe des Tages", unter: "Wer gerade was bewegt: Entscheider, Gründer, Politiker und Prominente" },
+  muenchen: { titel: "München", unter: "Konzerte, Kultur, Feste und Fußball: wann der Vorverkauf startet und wo es Karten gibt" },
   feuilleton: { titel: "Feuilleton", unter: "Für die Mußestunde nach dem Börsenschluss" }
 };
 
 let MEDIEN = {};
-let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "";
+let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "", VORVERKAUF = [], GEWINNSPIELE = [];
 
 /* ---------- Hilfen ---------- */
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -351,6 +379,7 @@ function renderArticle(a, i, lead) {
   const k = el("div", "kicker"); k.append(el("span", "rank", (i + 1) + "."), el("span", null, a.kicker)); art.append(k);
   art.append(el("h3", null, a.titel), el("p", "deck", a.deck));
   const body = el("div", "body"); a.text.forEach(p => body.append(el("p", null, p))); art.append(body);
+  if (a.karten) art.append(kartenKasten(a.karten));
   const src = el("div", "sources"); src.append(el("b", null, "Weiterlesen: "));
   a.quellen.forEach(([name, url], j) => {
     const l = el("a", null, name); l.href = url; l.target = "_blank"; l.rel = "noopener"; src.append(l);
@@ -360,6 +389,72 @@ function renderArticle(a, i, lead) {
   const sp = spektrum(a); if (sp) art.append(sp);
   art.append(el("div", "wc", wordCount(a) + " Wörter"), starWidget(a));
   return art;
+}
+function link(text, url) { const l = el("a", null, text); l.href = url; l.target = "_blank"; l.rel = "noopener"; return l; }
+function kartenKasten(k) {
+  const box = el("div", "karten"); box.append(el("h4", null, "Karten"));
+  const dl = el("dl");
+  [["Vorverkauf", k.vorverkauf], ["Termin", k.termin], ["Ort", k.ort], ["Preise", k.preise], ["Verkauf", k.stelle]].forEach(([t, v]) => {
+    if (v) { dl.append(el("dt", null, t), el("dd", null, v)); }
+  });
+  if (k.link) { const dd = el("dd"); dd.append(link("Zu den Karten", k.link)); dl.append(el("dt", null, "Link"), dd); }
+  box.append(dl); return box;
+}
+const heuteIso = () => new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Berlin" });
+function fmtStart(s) {
+  const d = new Date(s.length > 10 ? s : s + "T12:00:00");
+  const tag = d.toLocaleDateString("de-DE", { weekday: "short", day: "numeric", month: "short", year: "numeric" });
+  return s.length > 10 ? tag + ", " + d.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" }) + " Uhr" : tag;
+}
+function renderMuenchenExtras(main) {
+  const sp = el("p", "muc-sprung");
+  [["vorverkauf", "Vorverkaufskalender"], ["gewinnspiele", "Gewinnspiele & Rabatte"]].forEach(([id, t], i) => {
+    if (id === "vorverkauf" && !VORVERKAUF.length) return;
+    const l = el("a", null, t + " ↓"); l.href = "#muenchen";
+    l.addEventListener("click", e => { e.preventDefault(); const z = document.getElementById(id); if (z) z.scrollIntoView({ behavior: "smooth" }); });
+    if (sp.childNodes.length) sp.append(document.createTextNode(" · "));
+    sp.append(l);
+  });
+  main.insertBefore(sp, main.children[1] || null);
+  const heute = heuteIso();
+  if (VORVERKAUF.length) {
+    const box = el("section", "muc-box"); box.id = "vorverkauf";
+    box.append(el("h2", null, "Vorverkaufskalender"), el("p", "sub", "Wann die Tickets live gehen, nach Startzeit sortiert"));
+    const t = el("table", "vvk");
+    const th = el("thead"); const hr = el("tr"); ["Start", "Veranstaltung", "Termin & Ort", "Wo"].forEach(x => hr.append(el("th", null, x))); th.append(hr); t.append(th);
+    const tb = el("tbody");
+    [...VORVERKAUF].sort((a, b) => a.start.localeCompare(b.start)).forEach(v => {
+      const tr = el("tr", v.start.slice(0, 10) < heute ? "vorbei" : "");
+      const w = el("td", "wann", fmtStart(v.start));
+      if (v.start.slice(0, 10) === heute) w.append(el("span", "bald", "heute"));
+      if (v.hinweis) w.append(el("span", "bald", v.hinweis));
+      const ver = el("td"); ver.append(el("b", null, v.veranstaltung));
+      const to = el("td", null, [v.termin, v.ort].filter(Boolean).join(" · "));
+      const wo = el("td"); if (v.url) wo.append(link(v.stelle || "Tickets", v.url)); else wo.textContent = v.stelle || "";
+      tr.append(w, ver, to, wo); tb.append(tr);
+    });
+    t.append(tb); box.append(t); main.append(box);
+  }
+  const gb = el("section", "muc-box"); gb.id = "gewinnspiele";
+  gb.append(el("h2", null, "Gewinnspiele & Rabatte"), el("p", "sub", "Nur geprüfte Aktionen von Veranstaltern, Sponsoren und etablierten Medien, kostenlos und ohne Kaufzwang"));
+  if (!GEWINNSPIELE.length) gb.append(el("p", "empty", "Heute keine Aktion, die unseren Prüfkriterien genügt."));
+  else {
+    const g = el("div", "gw-grid");
+    [...GEWINNSPIELE].sort((a, b) => (a.bis || "9999").localeCompare(b.bis || "9999")).forEach(x => {
+      const c = el("article", "gw" + (x.bis && x.bis < heute ? " abgelaufen" : ""));
+      c.append(el("div", "art", x.art === "rabatt" ? "Rabatt" : "Gewinnspiel"), el("h4", null, x.titel));
+      if (x.gewinn) c.append(el("p", null, x.gewinn));
+      const meta = [x.anbieter && "Anbieter: " + x.anbieter, x.bis ? "Teilnahme bis " + fmtStart(x.bis) : "Frist: siehe Teilnahmebedingungen"].filter(Boolean).join(" · ");
+      c.append(el("p", "meta", meta));
+      if (x.teilnahme) c.append(el("p", null, x.teilnahme));
+      if (x.pruefung) c.append(el("p", "pruef", "Geprüft: " + x.pruefung));
+      const p = el("p"); p.append(link("Zur Aktion beim Anbieter", x.url)); c.append(p);
+      g.append(c);
+    });
+    gb.append(g);
+  }
+  gb.append(el("p", "warnung", "Vorsicht vor Fälschungen: Seriöse Gewinnspiele verlangen nie Geld, Bankdaten, Kartennummern oder kostenpflichtige Anrufe und SMS. Gewinner werden nur über die offiziellen Kanäle des Anbieters benachrichtigt. Kopierte Profile in sozialen Netzwerken, die per Direktnachricht einen Gewinn melden, sind fast immer Betrug."));
+  main.append(gb);
 }
 function renderSection(key) {
   const main = $("#blatt"); main.replaceChildren();
@@ -396,6 +491,7 @@ function renderSection(key) {
   const cols = el("div", "columns");
   list.forEach((a, i) => cols.append(renderArticle(a, i, i === 0)));
   main.append(cols);
+  if (key === "muenchen") renderMuenchenExtras(main);
   list.forEach(a => paintStars(a.id));
 }
 const rubrikDa = k => k === "welt" || k === "feuilleton" || ARTIKEL.some(a => a.rubrik === k);
@@ -405,11 +501,13 @@ function navAnpassen() {
 function route() {
   if (!AUSGABE) return;
   const h = (location.hash || "").replace("#", "");
-  const key = RUBRIKEN[h] && rubrikDa(h) ? h : "welt";
+  const unter = (h === "gewinnspiele" || h === "vorverkauf") && rubrikDa("muenchen") ? h : null;
+  const key = unter ? "muenchen" : (RUBRIKEN[h] && rubrikDa(h) ? h : "welt");
   document.querySelectorAll("nav.rubriken a").forEach(a => {
     if (a.getAttribute("href") === "#" + key) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
   });
   renderSection(key);
+  if (unter) { const z = document.getElementById(unter); if (z) z.scrollIntoView(); }
 }
 
 /* ---------- Leserbarometer ---------- */
@@ -422,7 +520,7 @@ function renderBarometer() {
     all.forEach(r => keyFn(r).forEach(k => { const g = m.get(k) || { sum: 0, n: 0 }; g.sum += r.stars; g.n++; m.set(k, g); }));
     return [...m.entries()].map(([k, g]) => ({ k, avg: g.sum / g.n, n: g.n })).sort((a, b) => b.avg - a.avg || b.n - a.n);
   };
-  const names = { welt: "Weltgeschehen", wirtschaft: "Wirtschaft", finanzen: "Finanzen", krypto: "Krypto", vermoegen: "Vermögen", koepfe: "Köpfe", feuilleton: "Feuilleton" };
+  const names = { welt: "Weltgeschehen", wirtschaft: "Wirtschaft", finanzen: "Finanzen", krypto: "Krypto", vermoegen: "Vermögen", koepfe: "Köpfe", muenchen: "München", feuilleton: "Feuilleton" };
   const block = (title, rows, max) => {
     const col = el("div"); col.append(el("h4", null, title));
     rows.slice(0, max).forEach(r => {
@@ -450,6 +548,7 @@ async function ladeAusgabe(iso) {
   if (!res.ok) throw new Error("Ausgabe " + iso + " nicht gefunden");
   const d = await res.json();
   AUSGABE = d.datum; ARTIKEL = d.artikel || []; FEUILLETON = d.feuilleton || []; KURSE = d.kurse || []; STAND = d.kurse_stand || "";
+  VORVERKAUF = d.vorverkauf || []; GEWINNSPIELE = d.gewinnspiele || [];
   $("#datum").textContent = d.datumszeile || fmtDatum(d.datum);
   $("#schluss").textContent = d.redaktionsschluss ? "Redaktionsschluss " + d.redaktionsschluss : "";
   $("#nummer").textContent = "Jahrgang " + d.datum.slice(0, 4) + " · Nr. " + tagNr(d.datum);
