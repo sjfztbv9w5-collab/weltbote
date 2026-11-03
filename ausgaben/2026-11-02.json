@@ -1,0 +1,1005 @@
+{
+ "datum": "2026-11-02",
+ "datumszeile": "Montag, den 2. November 2026",
+ "redaktionsschluss": "21 Uhr",
+ "kurse_stand": "Stand: Montag, Mittagshandel New York",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 2. November 2026; verlässliche weltweite Lesezahlen veröffentlicht kaum ein Verlag. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "S&P 500",
+   "wert": "7.605",
+   "veraenderung": "+0,3 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Dow Jones",
+   "wert": "52.244",
+   "veraenderung": "+0,9 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "25.519",
+   "veraenderung": "+0,3 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Brent",
+   "wert": "≈ 104 $",
+   "veraenderung": "−7 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.976 $",
+   "veraenderung": "+2,0 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "≈ 78.000 $",
+   "veraenderung": "± 0",
+   "richtung": "flat"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,1175",
+   "veraenderung": "",
+   "richtung": ""
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,94 %",
+   "veraenderung": "−0,04",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "Krypto",
+    "Cybersicherheit",
+    "Nordkorea"
+   ],
+   "kicker": "Krypto · Cyberangriff",
+   "titel": "Hacker erbeuten 6,3 Milliarden Dollar bei Binance",
+   "deck": "Analysefirmen sehen Nordkoreas Elite-Einheit TraderTraitor hinter dem womöglich größten Finanzraub der Geschichte.",
+   "text": [
+    "Ende vergangener Woche haben Angreifer rund 6,3 Milliarden US-Dollar aus Wallets der weltgrößten Kryptobörse Binance abgezogen. Nach Angaben der Blockchain-Analysefirma TRM Labs lief der Großteil des Diebstahls in etwa zwanzig Minuten über zehn verschiedene Blockchains. TRM und Chainalysis schreiben den Angriff mit hoher Sicherheit der nordkoreanischen Gruppe TraderTraitor zu, die das FBI bereits für den Bybit-Hack von 2025 über 1,5 Milliarden Dollar verantwortlich macht.",
+    "Einfallstor war nach ersten Erkenntnissen der kompromittierte Laptop eines DevOps-Ingenieurs. Darüber gelangten die Angreifer an einen Service-Container und reichten unautorisierte Auszahlungen ein. Private Schlüssel seien nicht abgeflossen, betont Binance.",
+    "Rund drei Milliarden Dollar wurden gemeinsam mit Partnern eingefroren. Binance hat nach eigenen Angaben etwa 6,34 Milliarden Dollar an Firmenmitteln zur Deckung der Schäden reserviert; Co-Chefin Yi He bezifferte die eingefrorene Summe auf etwa zwei Prozent der Kundengelder und Reserven.",
+    "Seit dem 1. November gibt die Börse Auszahlungen schrittweise wieder frei. In den ersten neuneinhalb Stunden flossen 4,65 Milliarden Dollar ab, denen 1,01 Milliarden an Einzahlungen gegenüberstanden. Experten sehen den Fall auch sicherheitspolitisch: Gestohlene Kryptowerte gelten als wichtige Devisenquelle für Pjöngjangs Waffenprogramme."
+   ],
+   "quellen": [
+    [
+     "AP via Hawaii News Now",
+     "https://www.hawaiinewsnow.com/2026/10/30/north-korea-linked-63-billion-hack-binance-blockchain-intelligence-firms-say/"
+    ],
+    [
+     "The Daily Record",
+     "https://thedailyrecord.com/2026/10/30/hackers-steal-6-3-billion-from-binance-north-korea/"
+    ],
+    [
+     "Yahoo Finance (Live)",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    ]
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Wahlen",
+    "Politik"
+   ],
+   "kicker": "Vereinigte Staaten · Zwischenwahl",
+   "titel": "Amerika wählt morgen: Die Midterms als Urteil über Trump",
+   "deck": "Alle 435 Sitze im Repräsentantenhaus, 33 reguläre Senatssitze und 36 Gouverneursämter stehen am 3. November zur Wahl.",
+   "text": [
+    "Morgen entscheiden die Vereinigten Staaten über die Machtverhältnisse im Kongress für die zweite Hälfte von Donald Trumps Amtszeit. Neben allen 435 Sitzen des Repräsentantenhauses und 33 regulären Senatssitzen werden 36 Gouverneure sowie tausende Amtsträger in Bundesstaaten und Gemeinden bestimmt. Zig Millionen Amerikaner haben ihre Stimme bereits vorzeitig abgegeben.",
+    "Die Abstimmung gilt als Votum über eine der turbulentesten Präsidentschaften der jüngeren Geschichte. Nach mehreren Umfragemaßstäben geht Trump unbeliebter in eine Zwischenwahl als jeder seiner Vorgänger in der modernen Meinungsforschung. Auf dem Prognosemarkt Kalshi wird den Demokraten in vielen Staaten zugetraut, beide Kammern zurückzuerobern.",
+    "Für Unruhe sorgt kurz vor Schluss Michigan: Die Demokratin Haley Stevens hat sich hinter den republikanischen Senatskandidaten Mike Rogers gestellt; ihre Partei berät über die Konsequenzen.",
+    "Die ersten Wahllokale schließen um 18 Uhr Ostküstenzeit, also um Mitternacht deutscher Zeit, in Teilen von Indiana und Kentucky. Die letzten Stimmen werden in Alaska abgegeben. Belastbare Ergebnisse sind aus europäischer Sicht frühestens am Mittwochmorgen zu erwarten."
+   ],
+   "quellen": [
+    [
+     "Political.org: Schließzeiten",
+     "https://political.org/2026/10/27/2026-midterms-when-polls-close-on-election-night-and-when-results-are-expected/"
+    ],
+    [
+     "WBEZ Chicago",
+     "https://www.wbez.org/in-the-loop-with-sasha-ann-simons/2026/10/30/wbezs-weekly-news-recap-oct-30-2026-election-day-preview-new-bears-stadium-proposal-revealed-and-more"
+    ],
+    [
+     "NPR World",
+     "https://www.npr.org/sections/world/"
+    ]
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Nahost",
+    "Iran",
+    "Geopolitik",
+    "USA"
+   ],
+   "kicker": "Nahost · Militär",
+   "titel": "Washington warnt Golfstaaten vor kurzem, heftigem Schlag gegen Iran",
+   "deck": "Laut Wall Street Journal erwägt Trump nach der Wahl Angriffe auf Infrastruktur und Atomanlagen. Teheran droht mit Vergeltung am Golf.",
+   "text": [
+    "Die USA haben mehrere arabische Golfstaaten aufgefordert, sich auf eine mögliche kurze, aber intensive Militäroperation gegen Iran nach den Zwischenwahlen einzustellen. Das berichtete das Wall Street Journal unter Berufung auf Personen, die in die Gespräche eingeweiht sind.",
+    "Eine endgültige Entscheidung hat der Präsident demnach noch nicht getroffen, er neige aber zu einem großen Angriff auf iranische Infrastruktur und Nuklearanlagen. Vor der Wahl werde er nicht angreifen, hatte Trump selbst erklärt. Zugleich verlegt das US-Militär Patriot-Abwehrsysteme, füllt Munitionslager auf und bereitet Bomber, Kampfflugzeuge und eine Flugzeugträgergruppe vor. Auch Israel hat Ziele und Pläne für einen neuen Angriff ausgearbeitet.",
+    "Iran kündigt an, jeden Angriff mit Schlägen gegen wirtschaftliche und zivile Ziele in der ganzen Region zu beantworten, wie es das Land schon früher im Krieg mit Angriffen auf US-Stützpunkte, Energieanlagen und Flughäfen am Golf getan hat. Die Golfstaaten fürchten deshalb vor allem um ihre Öl- und Gasinfrastruktur.",
+    "Trump hält sich parallel die Tür für ein Abkommen offen. Die Märkte setzen derzeit eher auf Diplomatie, wie der Ölpreissturz vom Montag zeigt."
+   ],
+   "quellen": [
+    [
+     "investingLive (WSJ-Bericht)",
+     "https://investinglive.com/commodities/us-warns-gulf-allies-of-possible-short-intense-iran-campaign-after-midterms-wsj/"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/10/22/gulf-nations-brace-for-possible-return-to-all-out-war-between-us-and-iran"
+    ],
+    [
+     "Ynet News",
+     "https://www.ynetnews.com/article/s1c65jkazg"
+    ]
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Nahost",
+    "Iran",
+    "Öl",
+    "Diplomatie"
+   ],
+   "kicker": "Diplomatie · Energie",
+   "titel": "Hoffnung auf eine Hormus-Lösung: Ölpreis stürzt um sieben Prozent",
+   "deck": "Iran und Katar verhandeln in Doha über die Öffnung der Meerenge, die Börsen atmen auf.",
+   "text": [
+    "Berichte über Gespräche zwischen iranischen und katarischen Vertretern über ein Ende des Konflikts haben den Ölpreis am Montag einbrechen lassen. Die Nordseesorte Brent verlor zeitweise mehr als sieben Prozent auf rund 104 Dollar je Barrel. Die Verhandlungen in Doha gingen nach Marktberichten in den dritten Tag; Teheran soll einen zweitägigen Fahrplan zur Wiederöffnung der Straße von Hormus vorgelegt haben.",
+    "Durch die Meerenge laufen in Friedenszeiten rund 20 Prozent des weltweit verschifften Öls. Seit Beginn des Krieges ist der Verkehr dort eingebrochen: Im August passierten an einzelnen Tagen nur sechs Schiffe statt der früher üblichen 130 bis 140. Eine im Juni mit Hilfe Katars und Pakistans ausgehandelte Absichtserklärung war am Streit um die Schifffahrtsroute zerbrochen.",
+    "Die Erleichterung hat Grenzen. Angriffe auf Tanker im Golf halten die Risikoprämie hoch, und Washington hält sich einen Militärschlag nach den Zwischenwahlen offen. An der Wall Street führten Konsumwerte die Erholung an, die als Gruppe fast vier Prozent zulegten, weil sinkende Energiepreise die Kaufkraft der Verbraucher stärken."
+   ],
+   "quellen": [
+    [
+     "The Motley Fool",
+     "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-midday-nov-2-stocks-rally-as-oil-prices-tumble-on-diplomatic-hopes/"
+    ],
+    [
+     "NordFX Market Pulse",
+     "https://nordfx.com/market-news/market-pulse-november-02-2026"
+    ],
+    [
+     "Euronews (Hintergrund)",
+     "https://euronews.com/2026/08/11/qatar-sees-positive-signs-in-iran-oman-talks-on-reopening-hormuz"
+    ]
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Börse",
+    "KI",
+    "Tech"
+   ],
+   "kicker": "Wall Street · Technologie",
+   "titel": "Die KI-Angst erschüttert die Wall Street",
+   "deck": "Der Nasdaq erlebte am Freitag seinen schwersten Tag seit fast fünf Monaten. Intel stürzte trotz besserer Zahlen um 28,6 Prozent ab.",
+   "text": [
+    "Anleger haben sich zum Monatsende in großem Stil von Aktien rund um künstliche Intelligenz getrennt und in defensive Anlagen geflüchtet. Der Nasdaq verzeichnete den größten prozentualen Tagesverlust seit fast fünf Monaten, der Technologie-Fonds XLK gab 2,5 Prozent nach.",
+    "Am härtesten traf es Intel. Obwohl der Chipkonzern mit 0,52 Dollar Gewinn je Aktie und 16,51 Milliarden Dollar Umsatz die Erwartungen übertraf, ließ ein schwacher Ausblick wegen nachlassender PC-Verkäufe die Aktie um 28,6 Prozent abstürzen. AMD verlor 10,9 Prozent, Nvidia 4,2 Prozent. Amazon fiel um 1,4 Prozent, nachdem der Gewinn je Aktie mit 1,89 Dollar unter den erwarteten 2,01 Dollar blieb.",
+    "Ökonomen der Bank of America bezeichnen eine anhaltende Korrektur im KI-Handel inzwischen als eines der größeren Risiken für die amerikanische und die Weltwirtschaft. Am Montag erholten sich die Indizes zunächst, doch Technologiewerte wie Oracle und Marvell bremsten die Gegenbewegung. Als Gegenpol gilt Apple: Analysten sehen den iPhone-Hersteller inzwischen als Absicherung gegen den KI-Handel."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance / Zacks",
+     "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html"
+    ],
+    [
+     "Yahoo Finance (Live)",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    ]
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Europa",
+    "Polen",
+    "Rechtsstaat",
+    "Politik"
+   ],
+   "kicker": "Europa · Rechtsstaat",
+   "titel": "Polen: Polizei im Verfassungsgericht, Präsident bricht Staatsbesuch ab",
+   "deck": "Der Streit zwischen Tusks Regierung und Präsident Nawrocki um das höchste Gericht eskaliert. Die Opposition spricht von einem Putsch.",
+   "text": [
+    "Polens jahrelange Krise um den Verfassungsgerichtshof hat einen neuen Höhepunkt erreicht. Eine von der Regierung gestützte Gruppe von Richtern versuchte am Freitagabend, die Kontrolle über das Gericht von dessen Präsidenten zu übernehmen, der der rechten Opposition nahesteht. Nach Zwischenfällen vor dem Gebäude, bei denen Gegenstände auf Beamte geworfen wurden, betrat die Polizei das Gelände. Gerichtspräsident Bogdan Święczkowski wurde suspendiert.",
+    "Staatspräsident Karol Nawrocki ließ sein Flugzeug auf dem Weg in den Senegal umkehren. PiS-Chef Jarosław Kaczyński warf der Regierung einen Putsch vor; auch der Erste Präsident des separaten Obersten Gerichts sprach von einem Staatsstreich.",
+    "Hintergrund ist ein seit 2015 schwelender Konflikt. Die Regierung von Donald Tusk erkennt das Gericht nicht an, weil dort unter der PiS rechtswidrig ernannte Richter sitzen. Nawrocki verweigerte vier vom Parlament gewählten Richtern die Vereidigung, obwohl der Europäische Gerichtshof für Menschenrechte deren Aufnahme angeordnet hatte. Beobachter warnen seit Monaten vor zwei konkurrierenden Verfassungsgerichten.",
+    "Auch international zieht der Fall Kreise: Marine Le Pen verurteilte das Vorgehen der Regierung, ein Abgeordneter der Europäischen Volkspartei hielt dagegen, der Präsident habe bei der Richterernennung keine Zuständigkeit."
+   ],
+   "quellen": [
+    [
+     "Cyprus Mail (Reuters)",
+     "https://cyprus-mail.com/2026/10/30/polish-president-turns-back-from-senegal-trip-as-top-court-chief-suspended"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/protests-erupt-in-poland-over-composition/"
+    ],
+    [
+     "Notes from Poland",
+     "https://notesfrompoland.com/?p=106234"
+    ]
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Sport",
+    "China",
+    "Fußball"
+   ],
+   "kicker": "Sport · China",
+   "titel": "Mbappé und der „chinesische Diktator“: Ein Meme kostet Millionen",
+   "deck": "Chinesische Sponsoren kündigen, das Staatsfernsehen setzt die spanische Liga ab. Der Ballon-d’Or-Zweite entschuldigt sich in drei Sprachen.",
+   "text": [
+    "Ein beiläufiger Satz in der französischen Talkshow „The Bridge“ hat Kylian Mbappé eine handfeste Krise in China beschert. Nach seinem liebsten Internet-Meme gefragt, nannte der Stürmer von Real Madrid ein Video, in dem sein Gesicht auf einen Mann montiert ist, den er für einen chinesischen Diktator hielt. Gemeint war offenbar Mao Zedong.",
+    "Die Empörung in den sozialen Netzwerken Chinas folgte prompt. Mindestens drei chinesische Marken, darunter der Getränkehersteller Dongpeng, beendeten ihre Partnerschaft, das Staatsfernsehen CCTV setzte Übertragungen der spanischen La Liga aus, und das Fußballportal Dongqiudi strich Mbappé aus seiner Ballon-d’Or-Rangliste. Das Außenministerium ließ wissen, wer die Gefühle des chinesischen Volkes verletze, stoße auf Widerstand der gesamten Gesellschaft.",
+    "Mbappé entschuldigte sich auf Französisch, Chinesisch und Englisch für die unbedachte Bemerkung, auch La Liga bat um Verzeihung. In Frankreich dagegen stellten sich Politiker hinter den Kapitän der Nationalmannschaft. Der Fall zeigt erneut, wie schnell Sportstars mit Millionenverträgen in China zwischen Markt und Meinung geraten."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment"
+    ],
+    [
+     "Irish News",
+     "https://www.irishnews.com/sport/soccer/kylian-mbappe-apologises-to-china-for-ill-judged-remarks-about-mao-zedong-GIM3QFTCUFKRLMXPSPSQSZOYRQ/"
+    ],
+    [
+     "AJC (AP)",
+     "https://www.ajc.com/news/2026/10/soccer-star-kylian-mbappe-apologizes-for-remark-about-chinese-dictator/"
+    ]
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Rüstung",
+    "USA"
+   ],
+   "kicker": "Ukraine · Rüstung",
+   "titel": "USA genehmigen 500 Patriot-Raketen für die Ukraine",
+   "deck": "Das Geschäft über 2,1 Milliarden Dollar finanzieren Kanada, Deutschland, Norwegen und ein Kredit der EU.",
+   "text": [
+    "Das US-Außenministerium hat den Verkauf von 500 Abfangraketen vom Typ Patriot PAC-3 an die Ukraine genehmigt. Der geschätzte Wert des Pakets liegt bei 2,1 Milliarden Dollar.",
+    "Washington zahlt dabei nicht selbst. Kiew begleicht die Rechnung mit Beiträgen Kanadas, Deutschlands und Norwegens, die über das US-Programm JUMPSTART laufen, sowie mit eigenen Mitteln aus dem Ukraine-Unterstützungskredit der Europäischen Union. Hersteller der Raketen ist der Rüstungskonzern Lockheed Martin.",
+    "Präsident Selenskyj hatte zuvor beklagt, sein Land warte seit fast einem Monat auf die Freigabe kritischer Lieferungen, während Russland seine Angriffe auf Energieversorgung und zivile Infrastruktur verstärke. Patriot-Abfangraketen sind weltweit knapp, weil auch die Golfstaaten und Israel ihre Bestände wegen des Iran-Konflikts aufstocken."
+   ],
+   "quellen": [
+    [
+     "ThePrint (Reuters)",
+     "https://theprint.in/world/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/3086672/"
+    ],
+    [
+     "CNN via KEYT",
+     "https://keyt.com/politics/cnn-us-politics/2026/10/30/us-approves-potential-2-1-billion-sale-of-scarce-patriot-missiles-to-ukraine/"
+    ]
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Afrika",
+    "Vereinte Nationen",
+    "Geopolitik"
+   ],
+   "kicker": "Afrika · Vereinte Nationen",
+   "titel": "Nach 35 Jahren: UN-Mission in der Westsahara beendet",
+   "deck": "Die MINURSO hat am Sonntag ihren Betrieb eingestellt. Das versprochene Referendum fand nie statt.",
+   "text": [
+    "Die Friedensmission der Vereinten Nationen in der umstrittenen Westsahara hat am Sonntag nach 35 Jahren ihren Betrieb eingestellt, berichtet der US-Sender NPR. Das frühere spanische Kolonialgebiet wird sowohl von Marokko als auch von der Unabhängigkeitsbewegung Polisario beansprucht.",
+    "Die MINURSO war 1991 eingesetzt worden, um einen Waffenstillstand zu überwachen und eine Volksabstimmung über die Zukunft des Gebiets vorzubereiten. Dazu kam es nie: Die Konfliktparteien konnten sich nicht auf die Wählerliste einigen, und die UN gaben die Referendumsoption 2001 faktisch auf. Zuletzt kostete die Mission rund 75 Millionen Dollar im Jahr.",
+    "Bereits im Herbst 2025 hatte der Sicherheitsrat Marokkos Autonomieplan als Grundlage einer Lösung bezeichnet, und republikanisch geprägte Denkfabriken in Washington drängten auf ein Ende der Finanzierung. Die Polisario hatte schon den schrittweisen Rückbau der Mission mit großer Sorge verfolgt."
+   ],
+   "quellen": [
+    [
+     "NPR World",
+     "https://www.npr.org/sections/world/"
+    ],
+    [
+     "Africanews",
+     "https://www.africanews.com/2025/11/01/un-security-council-backs-moroccos-western-sahara-plan-in-divisive-vote/"
+    ],
+    [
+     "Yabiladi",
+     "https://en.yabiladi.com/articles/details/163431/bachir-dkhil-minurso-longer-role.html"
+    ]
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Tech",
+    "Quartalszahlen",
+    "Apple"
+   ],
+   "kicker": "Technologie · Quartalszahlen",
+   "titel": "Apple öffnet heute Abend die Bücher – erste Bilanz unter John Ternus",
+   "deck": "Nach Börsenschluss legt der Konzern seine Zahlen zum vierten Geschäftsquartal vor. Im Blick: iPhone 18 und China.",
+   "text": [
+    "Um 22.30 Uhr deutscher Zeit veröffentlicht Apple seine Zahlen für das vierte Geschäftsquartal 2026, um 23 Uhr folgt die Telefonkonferenz mit Analysten. Es ist der erste Quartalsbericht von John Ternus als Vorstandschef; der langjährige Hardware-Chef hatte das Amt am 1. September von Tim Cook übernommen.",
+    "Das Quartal lief vom 28. Juni bis zum 26. September und enthält damit die ersten neun Verkaufstage von iPhone 18 Pro und Pro Max, die am 18. September in den Handel kamen, dazu Apple Watch Series 12, Watch Ultra 4 und AirPods 5. Das neue iPhone Duo wird erst seit dem 23. Oktober ausgeliefert und fällt größtenteils ins nächste Quartal. Apple selbst hatte ein Umsatzplus von neun bis elf Prozent in Aussicht gestellt.",
+    "Investoren achten auf die Nachfrage nach dem iPhone 18, das zuletzt langsamer wachsende Servicegeschäft, die Margenprognose von 47 bis 48 Prozent und die Entwicklung in China. Nach dem KI-Ausverkauf vom Freitag gilt Apple als einer der wenigen großen Technologiewerte, die von den Sorgen um ausufernde KI-Investitionen weitgehend verschont bleiben."
+   ],
+   "quellen": [
+    [
+     "iGeeksBlog",
+     "https://www.igeeksblog.com/apple-q4-2026-earnings-november-2/"
+    ],
+    [
+     "Mac Observer",
+     "https://www.macobserver.com/?p=490199"
+    ],
+    [
+     "FXStreet",
+     "https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Übernahmen",
+    "Halbleiter",
+    "KI"
+   ],
+   "kicker": "Übernahme · Halbleiter",
+   "titel": "Marvell kauft Lumentum für 115 Milliarden Dollar",
+   "deck": "Einer der größten Chip-Deals der Geschichte soll einen Komplettanbieter für KI-Datenverbindungen schaffen. Die Börse bleibt skeptisch.",
+   "text": [
+    "Der Chipentwickler Marvell Technology übernimmt den Laser- und Optikspezialisten Lumentum. Die Transaktion bewertet Lumentum mit einem Unternehmenswert von 115 Milliarden Dollar, rund 1.132 Dollar je Aktie. Das entspricht einem Aufschlag von etwa 23,9 Prozent auf den Kurs vom 28. Oktober, bevor erste Gerüchte die Runde machten. Bezahlt wird in Aktien.",
+    "Strategisch sollen Marvells Signalprozessoren mit Lumentums Lasern und optischen Transceivern zusammenwachsen, die Daten zwischen KI-Chips transportieren. Rechenzentren ersetzen Kupferverbindungen zunehmend durch Licht. Die Unternehmen sehen einen adressierbaren Markt von 550 Milliarden Dollar, versprechen jährliche Kostensynergien von mehr als einer Milliarde Dollar und einen höheren bereinigten Gewinn je Aktie schon im ersten Jahr nach Abschluss.",
+    "Anleger reagierten verhalten: Am Nachmittag lag Marvell rund elf Prozent im Minus, Lumentum sogar 17 Prozent. Brisant ist die Rolle von Nvidia. Der Marktführer ist seit März mit zwei Milliarden Dollar an Lumentum beteiligt und sieht seinen Optiklieferanten nun bei einem Wettbewerber im Geschäft mit maßgeschneiderten KI-Chips landen."
+   ],
+   "quellen": [
+    [
+     "SEC: Pressemitteilung (8-K)",
+     "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
+    ],
+    [
+     "StockTitan Live",
+     "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/marvell-in-advanced-talks-to-acquire-ai-optics-maker-lumentum"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tech",
+    "KI",
+    "Kapitalmarkt"
+   ],
+   "kicker": "Unternehmen · Finanzierung",
+   "titel": "Oracle holt sich 20 Milliarden Dollar für den KI-Ausbau",
+   "deck": "Je zehn Milliarden über neue Aktien und über Anleihen. Die Aktie verliert mehr als sieben Prozent.",
+   "text": [
+    "Oracle will sich frisches Kapital in Höhe von 20 Milliarden Dollar beschaffen, je zur Hälfte über die Ausgabe neuer Aktien und über Anleihen. Die Ankündigung drückte die Aktie am Montag zeitweise um mehr als sieben Prozent und bremste die Erholung der Technologiewerte.",
+    "Der Softwarekonzern braucht das Geld für den Bau und Betrieb von Cloud-Rechenzentren, mit denen er Großkunden wie OpenAI und Meta bedient. Oracle gehört bereits zu den größten Schuldnern unter den Technologiekonzernen mit Investment-Grade-Rating. Analysten von CreditSights hatten schon 2025 geschätzt, dass der Konzern bis 2028 rund 65 Milliarden Dollar an neuen Schulden aufnehmen müsse.",
+    "Für Altaktionäre bedeutet die Kapitalerhöhung Verwässerung, die Anleihen erhöhen den Schuldenstand weiter. Das Timing ist heikel, denn Anleger stellen gerade die Rentabilität der gewaltigen KI-Investitionen infrage. Der Fall zeigt, wie kapitalintensiv das Wettrüsten um Rechenleistung geworden ist."
+   ],
+   "quellen": [
+    [
+     "StockTitan Live",
+     "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+    ],
+    [
+     "Treasury & Risk (Bloomberg, 2025)",
+     "https://www.treasuryandrisk.com/amp/2025/09/24/oracle-raises-18-billion-in-second-biggest-bond-sale-this-year/"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Welthandel",
+    "Zölle",
+    "China",
+    "USA"
+   ],
+   "kicker": "Welthandel · Zölle",
+   "titel": "Der Zollfrieden mit China läuft in acht Tagen aus",
+   "deck": "Am 10. November endet die einjährige Waffenruhe im Handelskrieg. Ohne Verlängerung steigt der US-Gegenzoll von 10 auf 34 Prozent.",
+   "text": [
+    "Für den Welthandel läuft eine Uhr ab. Der Ende Oktober 2025 zwischen Donald Trump und Xi Jinping in Südkorea vereinbarte Handelsfrieden ist bis zum 10. November 2026 befristet. Bis dahin gilt auf chinesische Importe ein reduzierter sogenannter reziproker Zoll von zehn Prozent. Wird nicht verlängert, springt er auf 34 Prozent zurück.",
+    "An dieselbe Frist geknüpft sind weitere Zugeständnisse: ausgesetzte US-Hafengebühren für chinesische Schiffe, verlängerte Ausnahmen von Strafzöllen nach Section 301 und die zurückgestellte Ausweitung von Exportkontrollen auf Tochterfirmen gelisteter Unternehmen. China hatte im Gegenzug Vergeltungszölle auf US-Agrargüter ausgesetzt und den Kauf von mindestens 25 Millionen Tonnen Sojabohnen pro Jahr bis 2028 zugesagt.",
+    "Dass die Frist ausgerechnet eine Woche nach den Zwischenwahlen endet, erhöht die Unsicherheit. Unternehmen mit chinesischen Lieferketten halten Notfallpläne bereit, Importeure ziehen Bestellungen vor. Eine offizielle Verlängerung lag bis Redaktionsschluss nicht vor."
+   ],
+   "quellen": [
+    [
+     "National Law Review",
+     "https://natlawreview.com/article/shifts-us-trade-asia-key-agreements-president-trumps-october-2025-asia-trip-part-ii"
+    ],
+    [
+     "JD Supra (Polsinelli)",
+     "https://www.jdsupra.com/legalnews/lower-tariffs-take-effect-under-new-8442010/"
+    ],
+    [
+     "MoneyOval",
+     "https://moneyoval.com/article/major-us-china-trade-deal-extends-tariff-suspension-through-2026-qmqtt0c7aaxgql9n00f2y5ko"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Übernahmen",
+    "Börse"
+   ],
+   "kicker": "Unternehmen · Übernahmen",
+   "titel": "Übernahme-Montag: Grant Thornton schluckt CBIZ, EVgo springt um 46 Prozent",
+   "deck": "Neben dem Marvell-Deal kündigten zahlreiche Unternehmen Zukäufe an, und mehrere Standardwerte erreichten Rekordhöhen.",
+   "text": [
+    "Die Prüfungs- und Beratungsgesellschaft Grant Thornton übernimmt den börsennotierten Buchhaltungsdienstleister CBIZ. Ingersoll Rand erweitert sein Life-Sciences-Geschäft mit dem Kauf eines Herstellers von Präzisions-Dosiertechnik, und der Laborausstatter Kewaunee Scientific kauft den Händler Nycom für 55 Millionen Dollar.",
+    "Die Aktie des Ladenetzbetreibers EVgo schoss nach einem Übernahmeangebot um knapp 46 Prozent nach oben. Kimberly-Clark steht kurz vor dem Abschluss der Kenvue-Übernahme; Kenvue wird deshalb ab Mittwoch im S&P 500 durch den Identitätsspezialisten Okta ersetzt. Die Werbeholding Publicis schließt den Kauf von LiveRamp ab. Tilray bündelt sein kanadisches Cannabisgeschäft, um Kosten zu sparen.",
+    "Bei den Kursen zeigte sich eine deutliche Rotation weg von Technologie: Coca-Cola, Marriott, Hilton und der Börsenbetreiber Nasdaq Inc. markierten Allzeithochs. Größter Gewinner im S&P 500 war der Tierdiagnostik-Anbieter Idexx Laboratories mit einem Plus von mehr als 20 Prozent."
+   ],
+   "quellen": [
+    [
+     "Everhint Business Update",
+     "https://www.everhint.com/global-business-news-november-02-2026-midday-update-last-12-hours-pacific-time/"
+    ],
+    [
+     "Investrade Morning Preview",
+     "https://investrade.com/morning-preview-november-02-2026/"
+    ],
+    [
+     "TheStreet",
+     "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Luftfahrt",
+    "Energie",
+    "Europa"
+   ],
+   "kicker": "Luftfahrt · Energiekosten",
+   "titel": "Ryanair stellt sich auf zwei Milliarden Euro höhere Spritrechnung ein",
+   "deck": "Europas größter Billigflieger sucht Einsparungen, nachdem der Golfkrieg die Kerosinpreise nach oben getrieben hat.",
+   "text": [
+    "Ryanair rechnet für das kommende Jahr mit einer um rund zwei Milliarden Euro höheren Treibstoffrechnung und sucht deshalb nach Einsparungen an anderer Stelle, berichtet Euronews. Kerosin ist für Fluggesellschaften einer der größten Kostenblöcke, und der Krieg um Iran sowie die Blockade der Straße von Hormus haben die Ölpreise seit dem Frühjahr kräftig steigen lassen.",
+    "Schon im September hatte die irische Airline angekündigt, ihren europäischen Winterflugplan auszudünnen. So wolle man das Risiko durch ungesicherten Treibstoff in der ohnehin verlustreichen Wintersaison begrenzen. Damals waren rund 95 Prozent des Bedarfs unter 85 Dollar je Barrel abgesichert. Das Rekordergebnis des Vorjahres werde man voraussichtlich nicht erreichen, hieß es.",
+    "Der Ölpreissturz vom Montag verschafft der Branche etwas Luft. Ob die Entlastung anhält, hängt am Ausgang der Hormus-Gespräche und an der Frage, ob Washington nach den Midterms tatsächlich angreift."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening"
+    ],
+    [
+     "The Local (AFP)",
+     "https://www.thelocal.de/20260902/ryanair-to-cut-winter-flights-in-europe-to-save-on-fuel-costs"
+    ],
+    [
+     "InsideFlyer",
+     "https://www.insideflyer.com/tag/passenger-targets/"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Rohstoffe",
+    "Europa",
+    "Welthandel"
+   ],
+   "kicker": "Rohstoffe · Zentralasien",
+   "titel": "Europa wirbt um Zentralasiens Rohstoffe, doch die Förderländer wollen mehr",
+   "deck": "Kasachstan und Usbekistan verlangen, dass Erze vor Ort verarbeitet werden. Für Brüssel ist das der Preis der Unabhängigkeit von China.",
+   "text": [
+    "Die EU verstärkt ihr Werben um kritische Mineralien aus Zentralasien und stößt dabei auf klare Bedingungen: Die Förderländer wollen Wertschöpfung im eigenen Land statt bloßer Erzexporte, berichtet Euronews. Die Region verfügt über rund 40 Prozent der weltweiten Manganreserven sowie über Lithium, Graphit, Kupfer und seltene Erden.",
+    "Beim ersten Gipfel mit den fünf zentralasiatischen Staaten in Samarkand hatte Brüssel 2025 ein Investitionspaket von zwölf Milliarden Euro geschnürt, davon 2,5 Milliarden für Rohstoffprojekte. Kommissionspräsidentin von der Leyen versprach ausdrücklich Partnerschaft bei der Verarbeitung. Deutsche Förderbanken finanzieren etwa einen neuen Kupferschmelz-Komplex des usbekischen Bergbaukonzerns Almalyk.",
+    "Europa ist spät dran. Chinesische Firmen betreiben bereits zahlreiche Projekte in der Region und nehmen einen Großteil der geförderten Erze ab; weltweit kontrolliert China mehr als 85 Prozent der Verarbeitung kritischer Mineralien. Eine Schlüsselrolle spielt die Logistik: Der Mittlere Korridor über das Kaspische Meer und den Kaukasus soll die Transportzeit nach Europa auf rund 15 Tage halbieren."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-evening"
+    ],
+    [
+     "S&P Global",
+     "https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/040725-european-union-commits-eur25-billion-to-critical-minerals-projects-in-central-asia"
+    ],
+    [
+     "Caspian Post",
+     "https://caspianpost.com/energy/central-asia-s-critical-raw-materials-boom-balancing-risk-and-reward"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Raumfahrt",
+    "Telekom",
+    "Tech"
+   ],
+   "kicker": "Raumfahrt · Telekommunikation",
+   "titel": "SpaceX-Aktie steigt nach Bericht über Gespräche mit EchoStar",
+   "deck": "Musks Raumfahrtkonzern verhandelt laut Berichten über die Mobilfunkmarke Boost Mobile und könnte zum eigenen Netzbetreiber werden.",
+   "text": [
+    "Die Aktie von SpaceX hat am Montag zugelegt, nachdem über Gespräche mit EchoStar über dessen Mobilfunkmarke Boost Mobile berichtet wurde. Einzelheiten zu einem möglichen Geschäft sind bislang nicht bekannt.",
+    "Die beiden Unternehmen sind eng verflochten. Im September 2025 kaufte SpaceX Frequenzlizenzen von EchoStar für rund 17 Milliarden Dollar, je zur Hälfte in bar und in Aktien. Seitdem können Boost-Kunden den Starlink-Dienst nutzen, der Satelliten direkt mit gewöhnlichen Handys verbindet. Mit den eigenen Frequenzen ist SpaceX nicht mehr allein auf Partner wie T-Mobile angewiesen.",
+    "Seit dem Börsengang, bei dem SpaceX zu 135 Dollar je Aktie platziert und mit rund 1,8 Billionen Dollar bewertet wurde, gehört die Aktie zu den meistgehandelten Werten. Eine Übernahme von Boost Mobile würde Elon Musks Unternehmen endgültig zum Konkurrenten von AT&T, Verizon und T-Mobile machen."
+   ],
+   "quellen": [
+    [
+     "TheStreet",
+     "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    ],
+    [
+     "EchoStar Investor Relations (2025)",
+     "https://ir.echostar.com/node/32686"
+    ],
+    [
+     "Rallies.ai",
+     "https://rallies.ai/news/echostar-shares-soar-88-after-spacex-ipo-pricing-17b-spectrum-deal-adds-400b-stake"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tourismus",
+    "Konsum"
+   ],
+   "kicker": "Hotellerie · Konsum",
+   "titel": "Marriott hebt die Prognose, Hotelaktien auf Rekordkurs",
+   "deck": "Ein starkes drittes Quartal lässt die Hotelkette optimistischer auf das Gesamtjahr blicken.",
+   "text": [
+    "Marriott International hat seine Prognose für das weltweite Wachstum des Umsatzes pro verfügbarem Zimmer, die wichtigste Kennzahl der Branche, auf 4,5 bis 5 Prozent für 2026 angehoben. Als Grund nennt der Konzern ein starkes drittes Quartal und anhaltend gesunde Nachfrage.",
+    "Die Aktie markierte daraufhin ein Allzeithoch, ebenso wie die des Konkurrenten Hilton. Das passt zum Bild des Tages: Anleger schichten aus teuren Technologiewerten in Branchen um, die vom Konsum leben und von sinkenden Energiepreisen profitieren.",
+    "Reisen bleibt damit eine der robustesten Ausgabenkategorien der Verbraucher, trotz hoher Inflation und eines Ölpreises, der zeitweise weit über 100 Dollar lag. Spannend wird, ob die Nachfrage auch einen möglichen neuen Militärschlag am Golf übersteht, der Flugrouten und Kerosinpreise erneut belasten würde."
+   ],
+   "quellen": [
+    [
+     "TheStreet",
+     "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    ],
+    [
+     "Everhint Business Update",
+     "https://www.everhint.com/global-business-news-november-02-2026-midday-update-last-12-hours-pacific-time/"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "KI",
+    "Tech"
+   ],
+   "kicker": "Künstliche Intelligenz · Kosten",
+   "titel": "Musk drosselt Grok: Die Kosten seien untragbar hoch",
+   "deck": "Der Chatbot von xAI wird gedeckelt. Die Rechenkosten der KI holen auch die reichsten Anbieter ein.",
+   "text": [
+    "Elon Musk begrenzt die Nutzung seines Chatbots Grok, weil die Kosten nach seinen Worten untragbar hoch geworden sind. Das meldete Yahoo Finance am Montag. Für Nutzer ist das kein ganz neues Erlebnis: Schon seit dem Frühjahr klagen vor allem Gratisnutzer über harte Obergrenzen und Fehlermeldungen wegen hoher Auslastung.",
+    "Die Zahlen zeigen, dass Grok im Wettbewerb an Boden verloren hat. Nach Daten des Analysedienstes AppMagic sanken die monatlichen Downloads von über 20 Millionen im Januar auf rund 8,3 Millionen im April. Bereits im März hatte Musk die Funktion, Grok unter Beiträgen auf X zu befragen, zahlenden Abonnenten vorbehalten.",
+    "Die Meldung fällt in eine Woche, in der die Börse die Wirtschaftlichkeit der KI-Branche ohnehin infrage stellt. Wenn selbst ein Anbieter mit Zugriff auf eigene Supercomputer die Nutzung rationieren muss, nährt das Zweifel daran, wie schnell sich die Milliardeninvestitionen auszahlen."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance (Live)",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    ],
+    [
+     "IBTimes Australia",
+     "https://ibtimes.com.au/grok-service-outages-spark-frustration-2026-xai-struggles-explosive-demand-1867347"
+    ],
+    [
+     "Let’s Data Science",
+     "https://letsdatascience.com/news/musk-restricts-grok-chatbot-to-paid-subscribers-34e3bb0f"
+    ]
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Krypto",
+    "Finanzbranche"
+   ],
+   "kicker": "Finanzbranche · Krypto",
+   "titel": "Nach dem Rekord-Hack: Kunden ziehen Milliarden von Binance ab",
+   "deck": "Die Börse zahlt wieder aus und verliert netto 3,6 Milliarden Dollar an einem halben Tag. Gründer Zhao verspricht volle Entschädigung.",
+   "text": [
+    "Binance hat am 1. November um 7 Uhr deutscher Zeit begonnen, Auszahlungen schrittweise wieder freizugeben. Bis zum Nachmittag verarbeitete die Börse nach eigenen Angaben Abhebungen über 4,649 Milliarden Dollar und Einzahlungen über 1,01 Milliarden Dollar, ein Nettoabfluss von rund 3,64 Milliarden Dollar.",
+    "Für die Größe des Hauses ist das ein beherrschbarer Abfluss. Co-Chefin Yi He betont, die vom Hack betroffenen Summen entsprächen nur einem kleinen Teil der Kundengelder und Reserven. Gründer Changpeng Zhao, der Binance nicht mehr führt, aber Großaktionär ist, erklärt, er erwarte eine vollständige Entschädigung aller Kunden. Binance besitze unter anderem SpaceX-Aktien im Wert von mehr als einer Milliarde Dollar.",
+    "Für die Branche ist der Vorfall dennoch ein Rückschlag. Zhao hatte sich 2023 wegen Versäumnissen bei der Geldwäschebekämpfung schuldig bekannt und wurde 2025 von Präsident Trump begnadigt. Regulierer dürften nun die Sicherheitsstandards großer Handelsplätze schärfer prüfen."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance (Live)",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    ],
+    [
+     "The Daily Record",
+     "https://thedailyrecord.com/2026/10/30/hackers-steal-6-3-billion-from-binance-north-korea/"
+    ],
+    [
+     "Fox5 Vegas (AP)",
+     "https://www.fox5vegas.com/2026/10/30/north-korea-linked-63-billion-hack-binance-blockchain-intelligence-firms-say/"
+    ]
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "Börse",
+    "USA"
+   ],
+   "kicker": "Aktien · Wall Street",
+   "titel": "Wall Street startet erholt in den November",
+   "deck": "Der Dow legt rund ein Prozent zu, der Nasdaq bleibt nach dem Freitagsausverkauf zögerlich.",
+   "text": [
+    "Nach dem Einbruch vom Freitag haben die US-Börsen zum Wochenstart eine Gegenbewegung versucht. Gegen Mittag New Yorker Zeit notierte der Dow Jones rund ein Prozent höher bei etwa 52.300 Punkten, der S&P 500 gewann 0,3 bis 0,6 Prozent auf rund 7.610 Punkte. Der Nasdaq Composite schwankte um die Nulllinie, weil Oracle, Marvell und Lumentum belasteten. Kleinere Werte im Russell 2000 gaben zeitweise deutlich nach.",
+    "Der S&P 500 liegt damit gut drei Prozent unter seinem Rekordhoch von 7.844 Punkten aus dem Oktober und hat im vergangenen Monat rund zwei Prozent verloren, notiert aber noch etwa elf Prozent über dem Vorjahresniveau.",
+    "Die Woche verspricht Bewegung: Am Dienstag wählen die USA, dazu kommen zahlreiche Quartalsberichte, darunter Apple heute Abend und Palantir, sowie neue Arbeitsmarktdaten, die für die Zinsentscheidung der Fed im Dezember wichtig sind."
+   ],
+   "quellen": [
+    [
+     "The Motley Fool",
+     "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-midday-nov-2-stocks-rally-as-oil-prices-tumble-on-diplomatic-hopes/"
+    ],
+    [
+     "Trading Economics",
+     "https://tradingeconomics.com/united-states/stock-market"
+    ],
+    [
+     "TheStreet",
+     "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Rohstoffe",
+    "Öl"
+   ],
+   "kicker": "Rohstoffe · Energie",
+   "titel": "Rohöl erlebt einen der stärksten Tagesverluste des Jahres",
+   "deck": "Brent fällt auf rund 104 Dollar, die US-Sorte WTI rutscht unter 100 Dollar.",
+   "text": [
+    "Die Aussicht auf eine diplomatische Lösung im Iran-Konflikt hat den Ölpreis am Montag einbrechen lassen. Brent verlor mehr als sieben Prozent auf rund 104 Dollar je Barrel, die amerikanische Sorte WTI notierte zeitweise unter 97 Dollar. Bereits in der Nacht hatte Brent nachgegeben, als die Gespräche in Doha in den dritten Tag gingen.",
+    "Für die Weltwirtschaft ist das eine spürbare Entlastung. Energie war in diesem Jahr der stärkste Inflationstreiber und der Hauptgrund, warum Notenbanken in Washington und Frankfurt von Zinssenkungen auf Zinserhöhungen umgeschwenkt sind.",
+    "Händler warnen dennoch vor zu viel Optimismus. Die Risikoprämie bleibt wegen Angriffen auf Tanker und der Drohung eines US-Militärschlags nach den Wahlen hoch. Ein Ölpreis um 100 Dollar liegt weiterhin weit über dem Niveau vor Kriegsbeginn."
+   ],
+   "quellen": [
+    [
+     "StockTitan Live",
+     "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+    ],
+    [
+     "Trading Economics",
+     "https://tradingeconomics.com/united-states/stock-market"
+    ],
+    [
+     "NordFX Market Pulse",
+     "https://nordfx.com/market-news/market-pulse-november-02-2026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Rohstoffe",
+    "Edelmetalle"
+   ],
+   "kicker": "Rohstoffe · Edelmetalle",
+   "titel": "Gold erholt sich vom Jahrestief, Silber über 50 Dollar",
+   "deck": "Das gelbe Metall steigt um bis zu zwei Prozent, liegt aber noch rund 30 Prozent unter dem Rekord vom Januar.",
+   "text": [
+    "Gold hat sich zu Wochenbeginn von seinem Einjahrestief abgesetzt. Der Preis stieg im Tagesverlauf um bis zu zwei Prozent auf knapp 3.976 Dollar je Feinunze. Silber legte ebenfalls zu und notierte mit rund 50,19 Dollar je Unze wieder über der symbolischen Marke von 50 Dollar.",
+    "Der Abstand zum Hoch ist allerdings groß. Im Januar hatte Gold mit 5.608 Dollar ein Rekordhoch markiert, seither ist der Preis um rund 30 Prozent gefallen, allein im vergangenen Monat um fast sechs Prozent. Hauptgrund ist die Aussicht auf steigende Leitzinsen: Höhere Zinsen machen das zinslose Edelmetall relativ unattraktiver.",
+    "Marktbeobachter sprechen deshalb eher von einer technischen Erholung nach einem überverkauften Markt als von einer Trendwende. Entscheidend für die nächste Richtung dürften die Arbeitsmarktdaten dieser Woche und die Zinserwartungen für Dezember sein."
+   ],
+   "quellen": [
+    [
+     "Trading Economics: Gold",
+     "https://tradingeconomics.com/commodity/gold"
+    ],
+    [
+     "TheStreet",
+     "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    ],
+    [
+     "FXStreet",
+     "https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652"
+    ]
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "ETF"
+   ],
+   "kicker": "Krypto · Bitcoin",
+   "titel": "Bitcoin hält 78.000 Dollar, ETFs verzeichnen größte Abflüsse seit Juni",
+   "deck": "Nach einem schwachen Oktober und dem Binance-Hack ziehen Anleger Geld aus Kryptofonds ab.",
+   "text": [
+    "Bitcoin pendelte am Montag in einer engen Spanne zwischen 77.500 und 78.800 Dollar. Ether notierte bei rund 2.300 Dollar. Der Oktober war mit einem Minus von 7,3 Prozent einer der schwächsten Oktobermonate in der Geschichte der ältesten Kryptowährung.",
+    "Am Freitag zogen Anleger rund 643 Millionen Dollar aus Bitcoin-Fonds ab, so viel wie seit Juni nicht mehr; Ether-Fonds verloren etwa 156 Millionen Dollar. Die Kryptoaktien folgten dem Tech-Ausverkauf: Coinbase führte die Verluste an, der Bitcoin-Miner Core Scientific fiel um etwa 14 Prozent.",
+    "Belastet wird die Stimmung durch den Binance-Hack, auch wenn die Wiederaufnahme der Auszahlungen für etwas Beruhigung sorgte. Positiv wirkt der fallende Ölpreis, der die Inflationssorgen dämpft. Analysten halten den Markt für stabil, aber anfällig."
+   ],
+   "quellen": [
+    [
+     "Saxo Market Quick Take",
+     "https://www.home.saxo/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+    ],
+    [
+     "FXStreet",
+     "https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652"
+    ],
+    [
+     "NordFX Market Pulse",
+     "https://nordfx.com/market-news/market-pulse-november-02-2026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "Indizes"
+   ],
+   "kicker": "Krypto · Indizes",
+   "titel": "Strategy vor dem MSCI-Urteil: Bitcoin nur knapp über dem Einstandspreis",
+   "deck": "Am 11. November entscheidet der Indexanbieter, ob Saylors Bitcoin-Speicher aus den globalen Indizes fliegt.",
+   "text": [
+    "Die Aktie von Strategy, dem größten börsennotierten Bitcoin-Halter, ist am Freitag um rund acht Prozent gefallen. Bitcoin liegt damit nur noch wenige Prozent über dem durchschnittlichen Einstandspreis des Unternehmens. Strategy hält nach eigenen Angaben 848.250 Bitcoin, gekauft für 64 Milliarden Dollar zu durchschnittlich 75.444 Dollar je Coin.",
+    "Am 11. November veröffentlicht MSCI die endgültige Liste der Änderungen seiner Indizes. Nach neuen Regeln könnten Firmen ausgeschlossen werden, deren Geschäft vor allem im Halten digitaler Vermögenswerte besteht; eine Simulation des Indexanbieters hatte neben Strategy auch die japanische Metaplanet erfasst. Die Änderungen würden nach Handelsschluss am 30. November greifen.",
+    "JPMorgan schätzt die möglichen Abflüsse aus MSCI-gebundenen Fonds auf bis zu 2,8 Milliarden Dollar, und deutlich mehr, falls andere Indexanbieter nachziehen. Strategy betont, sein Bitcoin-Geschäft sei keine passive Vermögensverwaltung."
+   ],
+   "quellen": [
+    [
+     "Bitcoin.com News",
+     "https://news.bitcoin.com/msci-strategy-index-removal-rule-saylor/"
+    ],
+    [
+     "Saxo Market Quick Take",
+     "https://www.home.saxo/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+    ],
+    [
+     "DiarioBitcoin",
+     "https://www.diariobitcoin.com/mercados/strategy-enfrenta-una-decision-clave-de-msci-sobre-sus-acciones-el-11-de-noviembre/"
+    ]
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Leitzins",
+    "Fed",
+    "Anleihen"
+   ],
+   "kicker": "Leitzins · Federal Reserve",
+   "titel": "Märkte rechnen mit einer Zinserhöhung der Fed im Dezember",
+   "deck": "Die Wahrscheinlichkeit wird auf rund 75 Prozent taxiert. Zehnjährige US-Staatsanleihen rentieren knapp unter fünf Prozent.",
+   "text": [
+    "An den Terminmärkten gilt eine Leitzinserhöhung der US-Notenbank im Dezember inzwischen als wahrscheinlich: Die eingepreiste Wahrscheinlichkeit liegt bei rund 75 Prozent. Noch zu Jahresbeginn hatten die Märkte mit Senkungen gerechnet. Der Schwenk geht vor allem auf den Ölpreisschock infolge des Iran-Kriegs zurück, der die Inflation deutlich über das Ziel von zwei Prozent getrieben hat. In einer Reuters-Umfrage erwarten auch die meisten Ökonomen einen Zinsschritt nach oben.",
+    "Die Rendite zehnjähriger US-Staatsanleihen gab am Montag leicht auf 4,94 Prozent nach. Der fallende Ölpreis dämpft die Inflationserwartungen etwas.",
+    "Wichtig für die Entscheidung werden die Arbeitsmarktdaten dieser Woche. Bleibt der Jobmarkt robust und verharrt der Ölpreis um 100 Dollar, dürfte die Fed im Dezember tatsächlich straffen. Eine nachhaltige Einigung in der Hormus-Frage könnte die Rechnung dagegen ändern."
+   ],
+   "quellen": [
+    [
+     "NordFX Market Pulse",
+     "https://nordfx.com/market-news/market-pulse-november-02-2026"
+    ],
+    [
+     "IBKR Traders’ Insight",
+     "https://www.interactivebrokers.com/campus/traders-insight/prediction-market/fed-hike-odds-at-7-for-tomorrow-but-75-for-december/"
+    ],
+    [
+     "Florida Realtors (Reuters)",
+     "https://www.floridarealtors.org/news-media/news-articles/2026/10/fed-likely-hold-rates-hike-again-december"
+    ]
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Leitzins",
+    "EZB",
+    "Europa"
+   ],
+   "kicker": "Leitzins · EZB",
+   "titel": "EZB hält still, Lagarde kündigt vorzeitigen Abschied an",
+   "deck": "Der Einlagensatz bleibt bei 2,50 Prozent, obwohl die Inflation im Euroraum bei 3,8 Prozent liegt.",
+   "text": [
+    "Die Europäische Zentralbank hat ihre Leitzinsen in der vergangenen Woche wie erwartet unverändert gelassen. Der Einlagensatz bleibt bei 2,50 Prozent, der Hauptrefinanzierungssatz bei 2,65 Prozent. In diesem Jahr hatte die EZB die Zinsen bereits zweimal angehoben, im Juni und im September, jeweils um 0,25 Prozentpunkte.",
+    "Für Aufsehen sorgte eine Personalie: Christine Lagarde verlässt die Notenbank vorzeitig am 7. Februar 2027. Ihre reguläre Amtszeit wäre im Herbst 2027 ausgelaufen.",
+    "Die Lage ist schwierig. Mit 3,8 Prozent liegt die Inflation im Euroraum fast doppelt so hoch wie das Ziel, zugleich trüben hohe Energiepreise und politische Spannungen in Frankreich die Konjunktur. Analysten sprechen von einem wachsenden Stagflationsrisiko. Real, also nach Abzug der Inflation, liegt der Einlagensatz damit bei rund minus 1,3 Prozent. Die nächste Zinsentscheidung fällt am 17. Dezember, dann mit neuen Prognosen."
+   ],
+   "quellen": [
+    [
+     "FXStreet: EZB-Rückblick",
+     "https://www.fxstreet.com/amp/analysis/ecb-review-a-no-hike-decision-202610291544"
+    ],
+    [
+     "XTB",
+     "https://www.xtb.com/en/market-analysis/ecb-holds-rates-unchanged-eurusd-down"
+    ],
+    [
+     "Admiral Markets",
+     "https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026"
+    ]
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "Kredit"
+   ],
+   "kicker": "Anleihen · Kreditmärkte",
+   "titel": "Hochzinsanleihen unter Druck, Tech-Konzerne leihen sich Milliarden",
+   "deck": "Der Risikoaufschlag für US-Junkbonds steigt auf ein 18-Monats-Hoch. Alphabet platziert die zweite Euro-Anleihe des Jahres.",
+   "text": [
+    "Die gedrückte Stimmung hat auch die Kreditmärkte erfasst. Der Renditeabstand zwischen US-Hochzinsanleihen und Staatsanleihen weitete sich am Freitag um 17 Basispunkte auf 340 Basispunkte aus, den höchsten Stand seit fast 18 Monaten. Anleger verlangen also deutlich mehr Ausgleich für das Risiko, Unternehmen mit schwacher Bonität Geld zu leihen.",
+    "Ganz anders bei den Schwergewichten: Alphabet sammelt nach einem Bericht von Bloomberg sechs Milliarden Euro über seine zweite Euro-Anleihe in diesem Jahr ein, Oracle will zehn Milliarden Dollar an Anleihen platzieren. Der KI-Ausbau wird zunehmend über Schulden finanziert.",
+    "Die Schere zeigt, wie selektiv der Markt geworden ist. Erstklassige Adressen finden weiterhin reichlich Abnehmer, während bei riskanteren Schuldnern die Finanzierungskosten steigen. Höhere Leitzinsen im Dezember würden diesen Trend verstärken."
+   ],
+   "quellen": [
+    [
+     "Saxo Market Quick Take",
+     "https://www.home.saxo/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+    ],
+    [
+     "Yahoo Finance (Live)",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    ]
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börsengänge",
+    "Indien",
+    "Telekom"
+   ],
+   "kicker": "Börsengänge · Indien",
+   "titel": "Jio Platforms: Indiens größter Börsengang legt 21 Prozent zu",
+   "deck": "Ambanis Telekom- und Digitaltochter ist mit rund 131 Milliarden Dollar nun das zweitwertvollste Unternehmen des Landes.",
+   "text": [
+    "Der Börsengang von Jio Platforms ist der größte in der Geschichte Indiens. Die Digital- und Telekomtochter des Ambani-Konzerns Reliance Industries sammelte 30.213 Crore Rupien ein, rund 3,2 Milliarden Dollar. Beim Debüt am vergangenen Mittwoch eröffnete die Aktie bei 1.358 Rupien, 21,4 Prozent über dem Ausgabepreis von 1.119 Rupien.",
+    "Damit ist Jio mit einer Bewertung von mehr als 12,5 Lakh Crore Rupien, umgerechnet rund 131 Milliarden Dollar, hinter dem Mutterkonzern das zweitwertvollste börsennotierte Unternehmen Indiens und überholt den Rivalen Bharti Airtel. Institutionelle Investoren hatten die für sie reservierten Aktien gut siebzigfach überzeichnet.",
+    "Es wurden nur neue Aktien ausgegeben; Reliance sowie die Großaktionäre Meta und Google verkauften nichts. Für den indischen Kapitalmarkt gilt das Debüt als Beleg, dass auch sehr große Emissionen Abnehmer finden. 2026 war bereits ein Rekordjahr für Börsengänge, angeführt von SpaceX und dem KI-Chiphersteller Cerebras."
+   ],
+   "quellen": [
+    [
+     "Outlook Money",
+     "https://www.outlookmoney.com/amp/story/invest/jio-platforms-ipo-listing-price-21-percent-premium-valuation"
+    ],
+    [
+     "Groww",
+     "https://groww.in/blog/jio-platforms-shares-list-at-21-36-premium-on-nse-bse"
+    ],
+    [
+     "TechCrunch",
+     "https://techcrunch.com/?p=3182447"
+    ]
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Devisen",
+    "Euro",
+    "Dollar"
+   ],
+   "kicker": "Devisen · Euro",
+   "titel": "Der Euro bleibt schwach, der Yen nahe 158",
+   "deck": "Ein Euro kostet rund 1,12 Dollar. Die Kombination aus Inflation, Energiepreisen und politischer Unsicherheit belastet die Gemeinschaftswährung.",
+   "text": [
+    "Der Euro notierte zum Wochenstart bei rund 1,1175 Dollar und damit in der Nähe seines schwächsten Niveaus seit dem Frühjahr 2025. Vor der EZB-Sitzung vergangene Woche hatten Turbulenzen am französischen Anleihemarkt die Gemeinschaftswährung zusätzlich belastet. Am Montag gab allerdings auch der Dollar insgesamt etwas nach; der Dollarindex lag bei rund 101,8 Punkten.",
+    "Der japanische Yen bleibt schwach: Ein Dollar kostete rund 157,9 Yen. Damit nähert sich der Kurs Niveaus, bei denen Japans Finanzministerium in der Vergangenheit am Devisenmarkt eingegriffen hat.",
+    "Für die Richtung des Euro sind nun zwei Faktoren entscheidend: der Abstand zwischen den Zinsen in den USA und im Euroraum, der bei einer Fed-Erhöhung im Dezember wachsen würde, und der Ölpreis, der die Handelsbilanz des energieimportierenden Europas belastet."
+   ],
+   "quellen": [
+    [
+     "NordFX Market Pulse",
+     "https://nordfx.com/market-news/market-pulse-november-02-2026"
+    ],
+    [
+     "Digg / Bloomberg",
+     "https://digg.com/world-business/a8g0uw7j"
+    ],
+    [
+     "Trading Economics",
+     "https://tradingeconomics.com/united-states/stock-market"
+    ]
+   ]
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Wagen",
+   "zitat": "„Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer.“",
+   "urheber": "Seneca, Briefe an Lucilius",
+   "text": "Passend zu einem Tag, an dem die Märkte zwischen Krieg und Frieden schwanken: Die größte Hürde liegt oft nicht in der Sache selbst, sondern im Zögern davor."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Datenabhängig",
+   "text": "Treffen sich zwei Notenbanker auf dem Flur. Fragt der eine: „Na, wie geht’s?“ Sagt der andere: „Kann ich dir noch nicht sagen. Ich warte die Arbeitsmarktdaten ab.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Wer bin ich?",
+   "text": "Ich habe Städte, aber keine Häuser. Ich habe Berge, aber keine Bäume. Ich habe Wasser, aber keine Fische. Ich habe Straßen, aber keinen Verkehr. Was bin ich?",
+   "loesung": "Eine Landkarte."
+  }
+ ]
+}
