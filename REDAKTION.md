@@ -29,6 +29,18 @@ Diese Datei beschreibt, wie jeden Morgen eine neue Ausgabe entsteht. Die geplant
 - Keine Meldung doppelt, auch nicht über die Rubriken hinweg. Ein Thema darf in einer zweiten Rubrik nur mit klar anderem Blickwinkel auftauchen (z. B. Weltgeschehen: Hack, Finanzen: Kursfolgen).
 - Neue Themen vor Fortsetzungen: Eine Geschichte aus der Vorausgabe kommt nur wieder, wenn es echte Neuigkeiten gibt.
 
+## „Wer berichtet?“: politisches Spektrum
+
+Unter jedem Artikel zeigt die Seite, wie sich die Medien, die über das Thema berichtet haben, auf links, Mitte und rechts verteilen. Die Prozente rechnet die Seite selbst aus `medien.json` aus. Die Redaktion schreibt **keine Prozentzahlen**, sondern nur das Feld `berichterstattung`: eine Liste der Domains, die über das Thema berichtet haben.
+
+So wird die Liste erstellt:
+- Für jeden Artikel eigens nach dem Thema suchen, z. B. mit Stichworten aus der Überschrift plus Datum, auf Englisch und auf Deutsch.
+- Aufnehmen werden alle Medien aus `medien.json`, die in den Ergebnissen mit einem Bericht zum Thema auftauchen. Nicht gezielt nach einer Seite suchen und nichts weglassen, damit die Verteilung nicht verzerrt wird.
+- Die eigenen Quellen-Links zählen mit, wenn sie in `medien.json` stehen. Fachmedien ohne Einordnung (z. B. CoinDesk) dürfen in der Liste stehen, sie werden nur nicht mitgezählt.
+- Bei Weltgeschehen, Wirtschaft, Finanzen und Köpfe des Tages braucht es mindestens 3 eingeordnete Medien. Bei Krypto und Vermögen ist das oft nicht möglich, dann reicht, was es gibt. Die Seite zeigt dann „zu wenige Medien“.
+- Nur Domains, ohne `https://` und `www.`, z. B. `["reuters.com", "foxnews.com", "spiegel.de"]`.
+- `medien.json` wird nicht von der Redaktion geändert. Neue Medien nimmt nur Moritz auf.
+
 ## Bewertungen
 
 Die Sterne werden in Moritz' Browser gespeichert (localStorage) und sind für die Redaktion nicht einsehbar. Wenn Moritz Vorlieben nennt, gehören sie in den Abschnitt unten.
@@ -58,7 +70,8 @@ Die Sterne werden in Moritz' Browser gespeichert (localStorage) und sind für di
    "titel": "Überschrift",
    "deck": "Unterzeile in einem Satz.",
    "text": ["Absatz 1", "Absatz 2", "Absatz 3"],
-   "quellen": [["Reuters", "https://…"], ["Tagesschau", "https://…"]]
+   "quellen": [["Reuters", "https://…"], ["Tagesschau", "https://…"]],
+   "berichterstattung": ["reuters.com", "tagesschau.de", "foxnews.com", "nytimes.com", "faz.net"]
   }
  ],
  "feuilleton": [

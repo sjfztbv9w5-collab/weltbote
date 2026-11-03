@@ -1,0 +1,369 @@
+{
+ "hinweis": "Vereinfachte Drei-Stufen-Einordnung von Medien (links/mitte/rechts), angelehnt an AllSides (US/UK) und Media Bias/Fact Check (übrige). Leichte Neigungen sind der jeweiligen Seite zugeschlagen. Ergänzungen und Korrekturen erfolgen nur durch Moritz.",
+ "medien": {
+  "abcnews.go.com": {
+   "name": "ABC News",
+   "ausrichtung": "links"
+  },
+  "aljazeera.com": {
+   "name": "Al Jazeera",
+   "ausrichtung": "links"
+  },
+  "apnews.com": {
+   "name": "AP",
+   "ausrichtung": "links"
+  },
+  "axios.com": {
+   "name": "Axios",
+   "ausrichtung": "links"
+  },
+  "barrons.com": {
+   "name": "Barron's",
+   "ausrichtung": "mitte"
+  },
+  "bbc.co.uk": {
+   "name": "BBC",
+   "ausrichtung": "mitte"
+  },
+  "bbc.com": {
+   "name": "BBC",
+   "ausrichtung": "mitte"
+  },
+  "bild.de": {
+   "name": "Bild",
+   "ausrichtung": "rechts"
+  },
+  "bloomberg.com": {
+   "name": "Bloomberg",
+   "ausrichtung": "links"
+  },
+  "br.de": {
+   "name": "BR",
+   "ausrichtung": "mitte"
+  },
+  "breitbart.com": {
+   "name": "Breitbart",
+   "ausrichtung": "rechts"
+  },
+  "businessinsider.com": {
+   "name": "Business Insider",
+   "ausrichtung": "links"
+  },
+  "cbsnews.com": {
+   "name": "CBS News",
+   "ausrichtung": "links"
+  },
+  "cicero.de": {
+   "name": "Cicero",
+   "ausrichtung": "rechts"
+  },
+  "cnbc.com": {
+   "name": "CNBC",
+   "ausrichtung": "mitte"
+  },
+  "cnn.com": {
+   "name": "CNN",
+   "ausrichtung": "links"
+  },
+  "corriere.it": {
+   "name": "Corriere della Sera",
+   "ausrichtung": "mitte"
+  },
+  "dailymail.co.uk": {
+   "name": "Daily Mail",
+   "ausrichtung": "rechts"
+  },
+  "dailywire.com": {
+   "name": "Daily Wire",
+   "ausrichtung": "rechts"
+  },
+  "derstandard.at": {
+   "name": "Der Standard",
+   "ausrichtung": "links"
+  },
+  "deutschlandfunk.de": {
+   "name": "Deutschlandfunk",
+   "ausrichtung": "mitte"
+  },
+  "diepresse.com": {
+   "name": "Die Presse",
+   "ausrichtung": "rechts"
+  },
+  "dw.com": {
+   "name": "Deutsche Welle",
+   "ausrichtung": "mitte"
+  },
+  "economist.com": {
+   "name": "The Economist",
+   "ausrichtung": "links"
+  },
+  "elmundo.es": {
+   "name": "El Mundo",
+   "ausrichtung": "rechts"
+  },
+  "elpais.com": {
+   "name": "El País",
+   "ausrichtung": "links"
+  },
+  "euronews.com": {
+   "name": "Euronews",
+   "ausrichtung": "mitte"
+  },
+  "faz.net": {
+   "name": "FAZ",
+   "ausrichtung": "rechts"
+  },
+  "focus.de": {
+   "name": "Focus",
+   "ausrichtung": "rechts"
+  },
+  "forbes.com": {
+   "name": "Forbes",
+   "ausrichtung": "mitte"
+  },
+  "foxbusiness.com": {
+   "name": "Fox Business",
+   "ausrichtung": "rechts"
+  },
+  "foxnews.com": {
+   "name": "Fox News",
+   "ausrichtung": "rechts"
+  },
+  "fr.de": {
+   "name": "Frankfurter Rundschau",
+   "ausrichtung": "links"
+  },
+  "france24.com": {
+   "name": "France 24",
+   "ausrichtung": "mitte"
+  },
+  "ft.com": {
+   "name": "Financial Times",
+   "ausrichtung": "mitte"
+  },
+  "haaretz.com": {
+   "name": "Haaretz",
+   "ausrichtung": "links"
+  },
+  "handelsblatt.com": {
+   "name": "Handelsblatt",
+   "ausrichtung": "mitte"
+  },
+  "huffpost.com": {
+   "name": "HuffPost",
+   "ausrichtung": "links"
+  },
+  "independent.co.uk": {
+   "name": "The Independent",
+   "ausrichtung": "links"
+  },
+  "jpost.com": {
+   "name": "Jerusalem Post",
+   "ausrichtung": "rechts"
+  },
+  "jungewelt.de": {
+   "name": "junge Welt",
+   "ausrichtung": "links"
+  },
+  "justthenews.com": {
+   "name": "Just the News",
+   "ausrichtung": "rechts"
+  },
+  "lefigaro.fr": {
+   "name": "Le Figaro",
+   "ausrichtung": "rechts"
+  },
+  "lemonde.fr": {
+   "name": "Le Monde",
+   "ausrichtung": "links"
+  },
+  "manager-magazin.de": {
+   "name": "manager magazin",
+   "ausrichtung": "mitte"
+  },
+  "marketwatch.com": {
+   "name": "MarketWatch",
+   "ausrichtung": "mitte"
+  },
+  "msnbc.com": {
+   "name": "MSNBC",
+   "ausrichtung": "links"
+  },
+  "n-tv.de": {
+   "name": "n-tv",
+   "ausrichtung": "mitte"
+  },
+  "nationalreview.com": {
+   "name": "National Review",
+   "ausrichtung": "rechts"
+  },
+  "nbcnews.com": {
+   "name": "NBC News",
+   "ausrichtung": "links"
+  },
+  "nd-aktuell.de": {
+   "name": "nd",
+   "ausrichtung": "links"
+  },
+  "newsmax.com": {
+   "name": "Newsmax",
+   "ausrichtung": "rechts"
+  },
+  "newsweek.com": {
+   "name": "Newsweek",
+   "ausrichtung": "mitte"
+  },
+  "nius.de": {
+   "name": "Nius",
+   "ausrichtung": "rechts"
+  },
+  "npr.org": {
+   "name": "NPR",
+   "ausrichtung": "links"
+  },
+  "nypost.com": {
+   "name": "New York Post",
+   "ausrichtung": "rechts"
+  },
+  "nytimes.com": {
+   "name": "New York Times",
+   "ausrichtung": "links"
+  },
+  "nzz.ch": {
+   "name": "NZZ",
+   "ausrichtung": "rechts"
+  },
+  "orf.at": {
+   "name": "ORF",
+   "ausrichtung": "mitte"
+  },
+  "politico.com": {
+   "name": "Politico",
+   "ausrichtung": "links"
+  },
+  "politico.eu": {
+   "name": "Politico Europe",
+   "ausrichtung": "links"
+  },
+  "reason.com": {
+   "name": "Reason",
+   "ausrichtung": "rechts"
+  },
+  "reuters.com": {
+   "name": "Reuters",
+   "ausrichtung": "mitte"
+  },
+  "scmp.com": {
+   "name": "South China Morning Post",
+   "ausrichtung": "mitte"
+  },
+  "spiegel.de": {
+   "name": "Spiegel",
+   "ausrichtung": "links"
+  },
+  "srf.ch": {
+   "name": "SRF",
+   "ausrichtung": "mitte"
+  },
+  "stern.de": {
+   "name": "Stern",
+   "ausrichtung": "links"
+  },
+  "sueddeutsche.de": {
+   "name": "Süddeutsche Zeitung",
+   "ausrichtung": "links"
+  },
+  "t-online.de": {
+   "name": "t-online",
+   "ausrichtung": "mitte"
+  },
+  "tagesschau.de": {
+   "name": "Tagesschau",
+   "ausrichtung": "mitte"
+  },
+  "tagesspiegel.de": {
+   "name": "Tagesspiegel",
+   "ausrichtung": "links"
+  },
+  "taz.de": {
+   "name": "taz",
+   "ausrichtung": "links"
+  },
+  "telegraph.co.uk": {
+   "name": "The Telegraph",
+   "ausrichtung": "rechts"
+  },
+  "theatlantic.com": {
+   "name": "The Atlantic",
+   "ausrichtung": "links"
+  },
+  "theepochtimes.com": {
+   "name": "Epoch Times",
+   "ausrichtung": "rechts"
+  },
+  "theguardian.com": {
+   "name": "The Guardian",
+   "ausrichtung": "links"
+  },
+  "thehill.com": {
+   "name": "The Hill",
+   "ausrichtung": "mitte"
+  },
+  "thetimes.co.uk": {
+   "name": "The Times",
+   "ausrichtung": "rechts"
+  },
+  "thetimes.com": {
+   "name": "The Times",
+   "ausrichtung": "rechts"
+  },
+  "time.com": {
+   "name": "Time",
+   "ausrichtung": "links"
+  },
+  "timesofisrael.com": {
+   "name": "Times of Israel",
+   "ausrichtung": "mitte"
+  },
+  "usatoday.com": {
+   "name": "USA Today",
+   "ausrichtung": "links"
+  },
+  "vox.com": {
+   "name": "Vox",
+   "ausrichtung": "links"
+  },
+  "washingtonexaminer.com": {
+   "name": "Washington Examiner",
+   "ausrichtung": "rechts"
+  },
+  "washingtonpost.com": {
+   "name": "Washington Post",
+   "ausrichtung": "links"
+  },
+  "washingtontimes.com": {
+   "name": "Washington Times",
+   "ausrichtung": "rechts"
+  },
+  "welt.de": {
+   "name": "Welt",
+   "ausrichtung": "rechts"
+  },
+  "wiwo.de": {
+   "name": "WirtschaftsWoche",
+   "ausrichtung": "mitte"
+  },
+  "wsj.com": {
+   "name": "Wall Street Journal",
+   "ausrichtung": "mitte"
+  },
+  "zdf.de": {
+   "name": "ZDF",
+   "ausrichtung": "mitte"
+  },
+  "zeit.de": {
+   "name": "Zeit",
+   "ausrichtung": "links"
+  }
+ }
+}

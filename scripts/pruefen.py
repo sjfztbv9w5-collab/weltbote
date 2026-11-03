@@ -17,6 +17,15 @@ ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU}
 MAX_WOERTER = 500
 
 
+def _finde(domain: str, medien: dict):
+    d = domain.lower().split("//")[-1].split("/")[0].removeprefix("www.")
+    while "." in d:
+        if d in medien:
+            return medien[d]["name"]
+        d = d.split(".", 1)[1]
+    return None
+
+
 def pruefe(pfad: Path) -> list[str]:
     fehler = []
     try:
@@ -81,6 +90,18 @@ def pruefe(pfad: Path) -> list[str]:
             for q in quellen:
                 if not (isinstance(q, list) and len(q) == 2 and str(q[1]).startswith("https://")):
                     fehler.append(f"{aid}: Quelle {q!r} muss [Name, https-URL] sein")
+    if datum >= NEU_AB:
+        medien = json.loads((pfad.parent.parent / "medien.json").read_text(encoding="utf-8")).get("medien", {}) \
+            if (pfad.parent.parent / "medien.json").exists() else {}
+        for a in artikel:
+            aid = a.get("id", "?")
+            b = a.get("berichterstattung")
+            if not isinstance(b, list) or not all(isinstance(x, str) and "." in x and " " not in x for x in b):
+                fehler.append(f"{aid}: 'berichterstattung' muss eine Liste von Domains sein")
+                continue
+            bekannt = {_finde(x, medien) for x in b} - {None}
+            if a.get("rubrik") in ("welt", "wirtschaft", "finanzen", "koepfe") and len(bekannt) < 3:
+                fehler.append(f"{aid}: nur {len(bekannt)} eingeordnete Medien in 'berichterstattung' (mind. 3)")
     for r, soll in RUBRIKEN.items():
         if zaehler[r] != soll:
             fehler.append(f"Rubrik {r}: {zaehler[r]} Artikel statt {soll}")

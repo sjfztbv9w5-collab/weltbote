@@ -181,6 +181,17 @@ footer.colophon p { margin: 0; max-width: 80ch; }
 <style>
 .archiv { display:flex; justify-content:center; align-items:center; gap:8px; margin-top:8px; font-family: var(--f-sc); font-size:14px; color: var(--ink-soft); }
 .archiv select { font-family: var(--f-type); font-size:13px; background: var(--paper); color: var(--ink); border:1px solid var(--rule); padding:3px 6px; }
+.spektrum { margin-top: 10px; font-size: 13.5px; }
+.spektrum-kopf { display: flex; justify-content: space-between; gap: 8px; font-family: var(--f-sc); letter-spacing: .04em; color: var(--ink-soft); font-size: 13px; }
+.spektrum-bar { display: flex; height: 10px; border: 1px solid var(--rule); margin: 4px 0; }
+.spektrum-bar i { display: block; height: 100%; }
+.spektrum-bar .s-links { background: var(--ink-soft); }
+.spektrum-bar .s-mitte { background: var(--paper-deep); }
+.spektrum-bar .s-rechts { background: var(--faded); background-image: repeating-linear-gradient(45deg, transparent 0 3px, rgba(0,0,0,.18) 3px 5px); }
+.spektrum-werte { display: flex; justify-content: space-between; gap: 6px; font-family: var(--f-type); font-size: 11.5px; font-variant-numeric: tabular-nums; }
+.spektrum details { margin-top: 3px; font-size: 13px; color: var(--ink-soft); }
+.spektrum summary { cursor: pointer; font-family: var(--f-type); font-size: 11px; color: var(--faded); }
+.spektrum .leer { font-family: var(--f-type); font-size: 11px; color: var(--faded); }
 .fehler { text-align:center; font-style:italic; color: var(--oxblood); padding: 40px 0; }
 </style>
 </head>
@@ -221,6 +232,7 @@ footer.colophon p { margin: 0; max-width: 80ch; }
 
   <footer class="colophon">
     <p id="kolophon"></p>
+    <p>„Wer berichtet?“ zeigt, wie sich die Medien, die über ein Thema berichtet haben, politisch verteilen (vereinfachte Einordnung angelehnt an AllSides und Media Bias/Fact Check). Es beschreibt die Berichterstattung, nicht die Tendenz unseres Artikels.</p>
     <p>Kurse ohne Gewähr.</p>
   </footer>
 </div>
@@ -236,6 +248,7 @@ const RUBRIKEN = {
   feuilleton: { titel: "Feuilleton", unter: "Für die Mußestunde nach dem Börsenschluss" }
 };
 
+let MEDIEN = {};
 let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "";
 
 /* ---------- Hilfen ---------- */
@@ -284,6 +297,44 @@ function starWidget(item) {
   return wrap;
 }
 
+/* ---------- Politisches Spektrum der Berichterstattung ---------- */
+const STUFEN = [["links", "Links"], ["mitte", "Mitte"], ["rechts", "Rechts"]];
+function medium(domain) {
+  let d = String(domain).toLowerCase().replace(/^https?:\/\//, "").replace(/\/.*$/, "").replace(/^www\./, "");
+  while (d.includes(".")) { if (MEDIEN[d]) return MEDIEN[d]; d = d.slice(d.indexOf(".") + 1); }
+  return null;
+}
+function prozente(zahlen, gesamt) {
+  const roh = zahlen.map(n => n / gesamt * 100), ab = roh.map(Math.floor);
+  let rest = 100 - ab.reduce((a, b) => a + b, 0);
+  roh.map((r, i) => [r - ab[i], i]).sort((a, b) => b[0] - a[0]).forEach(([, i]) => { if (rest-- > 0) ab[i]++; });
+  return ab;
+}
+function spektrum(a) {
+  if (!Array.isArray(a.berichterstattung)) return null;
+  const box = el("div", "spektrum");
+  const kopf = el("div", "spektrum-kopf"); kopf.append(el("span", null, "Wer berichtet?"));
+  box.append(kopf);
+  const gesehen = new Set(), gruppen = { links: [], mitte: [], rechts: [] };
+  a.berichterstattung.forEach(d => { const m = medium(d); if (m && !gesehen.has(m.name)) { gesehen.add(m.name); gruppen[m.ausrichtung].push(m.name); } });
+  const n = gesehen.size;
+  if (n < 3) { box.append(el("div", "leer", "Zu wenige politisch eingeordnete Medien (" + n + ") für eine Verteilung.")); return box; }
+  kopf.append(el("span", null, n + " Medien"));
+  const p = prozente(STUFEN.map(([k]) => gruppen[k].length), n);
+  const bar = el("div", "spektrum-bar"); bar.setAttribute("role", "img");
+  bar.setAttribute("aria-label", STUFEN.map(([, l], i) => l + " " + p[i] + " Prozent").join(", "));
+  const werte = el("div", "spektrum-werte");
+  STUFEN.forEach(([k, l], i) => {
+    if (p[i]) { const seg = el("i", "s-" + k); seg.style.width = p[i] + "%"; bar.append(seg); }
+    werte.append(el("span", null, l + " " + p[i] + " %"));
+  });
+  box.append(bar, werte);
+  const det = el("details"); det.append(el("summary", null, "Welche Medien?"));
+  STUFEN.forEach(([k, l]) => { if (gruppen[k].length) det.append(el("div", null, l + ": " + gruppen[k].join(", "))); });
+  box.append(det);
+  return box;
+}
+
 /* ---------- Setzen der Seite ---------- */
 function renderTicker() {
   const t = el("div", "ticker");
@@ -305,7 +356,9 @@ function renderArticle(a, i, lead) {
     const l = el("a", null, name); l.href = url; l.target = "_blank"; l.rel = "noopener"; src.append(l);
     if (j < a.quellen.length - 1) src.append(document.createTextNode(" · "));
   });
-  art.append(src, el("div", "wc", wordCount(a) + " Wörter"), starWidget(a));
+  art.append(src);
+  const sp = spektrum(a); if (sp) art.append(sp);
+  art.append(el("div", "wc", wordCount(a) + " Wörter"), starWidget(a));
   return art;
 }
 function renderSection(key) {
@@ -408,6 +461,7 @@ async function ladeAusgabe(iso) {
 
 (async () => {
   loadLocal(); renderBarometer();
+  try { MEDIEN = (await (await fetch("medien.json", { cache: "no-cache" })).json()).medien || {}; } catch (e) { MEDIEN = {}; }
   window.addEventListener("hashchange", route);
   try {
     const idx = await (await fetch("ausgaben/index.json", { cache: "no-cache" })).json();
