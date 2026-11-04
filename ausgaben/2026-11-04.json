@@ -1,0 +1,2379 @@
+{
+ "datum": "2026-11-04",
+ "datumszeile": "Mittwoch, den 4. November 2026",
+ "redaktionsschluss": "6.30 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom 3.11.2026; Bitcoin und EUR/USD am 4.11. gegen 4 Uhr MEZ; Gold: Dezember-Future, Brent: Settlement",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 4. November 2026. Die Ergebnisse der US-Zwischenwahlen beruhen auf Hochrechnungen vom frühen Mittwochmorgen und können sich noch ändern. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "25.865",
+   "veraenderung": "−0,45 %",
+   "richtung": "down"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.569",
+   "veraenderung": "+0,4 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "25.372",
+   "veraenderung": "+0,8 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Brent",
+   "wert": "103,60 $",
+   "veraenderung": "−1,1 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.940 $",
+   "veraenderung": "−0,7 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "≈ 75.900 $",
+   "veraenderung": "−0,9 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,125",
+   "veraenderung": "+0,5 %",
+   "richtung": "up"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,96 %",
+   "veraenderung": "+0,05",
+   "richtung": "up"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Wahlen",
+    "Kongress"
+   ],
+   "kicker": "USA · Zwischenwahlen",
+   "titel": "Hochrechnungen: Demokraten erobern beide Kammern des Kongresses",
+   "deck": "Nach Hochrechnungen von CNN und NBC verlieren Trumps Republikaner Repräsentantenhaus und Senat – mit Siegen in Texas, Ohio, Kansas und South Carolina.",
+   "text": [
+    "Die Republikaner von Präsident Donald Trump haben bei den Zwischenwahlen vom Dienstag nach übereinstimmenden Hochrechnungen ihre Mehrheiten in beiden Kammern des Kongresses verloren. CNN und NBC News sehen die Demokraten sowohl im Repräsentantenhaus als auch im Senat vorn (Stand: Mittwoch, etwa 5.40 Uhr MEZ). Als Erstes hatte der Decision Desk HQ des Senders NewsNation um 21.11 Uhr Ostküstenzeit den Demokraten das Repräsentantenhaus zugesprochen; CNN und MS NOW folgten. Vor der Wahl hielten die Republikaner dort 218 Sitze, die Demokraten 214. Wie groß die neue Mehrheit ausfällt, war am Morgen noch offen; der Cook Political Report hatte vorab Zugewinne von bis zu 25 Sitzen für möglich gehalten.",
+    "Im Senat brauchten die Demokraten netto vier zusätzliche Sitze für die Mehrheit. Laut CNN nahmen sie den Republikanern sechs ab: North Carolina, wo der frühere Gouverneur Roy Cooper Michael Whatley besiegte, South Carolina, wo Annie Andrews Senatorin Darline Graham schlug, Texas, Ohio, Iowa und Kansas. In Texas setzte sich James Talarico gegen Ken Paxton durch – als erster demokratischer Senator des Bundesstaats seit 1993. In Ohio gewann Sherrod Brown gegen Amtsinhaber Jon Husted, in Kansas Adam Hamilton gegen Roger Marshall.",
+    "Ihre eigenen umkämpften Sitze in Georgia und New Hampshire verteidigten die Demokraten: Jon Ossoff wurde wiedergewählt, Chris Pappas gewann den offenen Sitz gegen John E. Sununu. In Florida behauptete die Republikanerin Ashley Moody ihren Sitz. Noch offen waren am Morgen unter anderem Michigan, wo der Demokrat Abdul El-Sayed vor Mike Rogers lag, und Minnesota, wo die Republikanerin Michele Tafoya vor Peggy Flanagan führte. In Alaska schlossen die letzten Wahllokale erst um 7 Uhr MEZ.",
+    "Trump reagierte auf seiner Plattform Truth Social: Er habe nicht auf dem Stimmzettel gestanden; wäre er angetreten, „hätten wir haushoch gewonnen“. Der New York Times sagte er laut Berichten, er sei bereit, das Ergebnis zu akzeptieren, und man werde „wahrscheinlich eine Lösung finden“. Die neuen Mehrheiten gelten ab Januar; sie erlauben den Demokraten, Gesetzesvorhaben des Weißen Hauses zu blockieren und Untersuchungsausschüsse einzusetzen."
+   ],
+   "quellen": [
+    [
+     "Tagesspiegel",
+     "https://www.tagesspiegel.de/internationales/schwere-niederlage-von-trumps-republikaner-bei-den-midtermsdemokraten-gewinnen-den-senat-und-das-reprasentantenhaus-16238845.html"
+    ],
+    [
+     "TheWrap via Yahoo News",
+     "https://www.yahoo.com/news/politics/articles/democrats-projected-flip-house-2026-032152940.html"
+    ],
+    [
+     "Forbes",
+     "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-talarico-wins-texas-brown-wins-ohio-in-democratic-rout/?streamIndex=0"
+    ]
+   ],
+   "berichterstattung": [
+    "tagesspiegel.de",
+    "yahoo.com",
+    "thewrap.com",
+    "forbes.com",
+    "cnn.com",
+    "nbcnews.com",
+    "cbsnews.com",
+    "cnbc.com",
+    "npr.org",
+    "time.com",
+    "variety.com",
+    "washingtonpost.com",
+    "newsweek.com",
+    "thehill.com",
+    "dailywire.com",
+    "axios.com",
+    "nbcwashington.com",
+    "abc7ny.com",
+    "whyy.org",
+    "newsfromthestates.com",
+    "mediaite.com",
+    "bluewin.ch",
+    "watson.ch",
+    "t-online.de",
+    "zdfheute.de",
+    "20min.ch",
+    "tagesanzeiger.ch"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Wahlen"
+   ],
+   "kicker": "USA · Gouverneurswahlen",
+   "titel": "Texas wählt erstmals seit Jahrzehnten eine Demokratin zur Gouverneurin",
+   "deck": "Gina Hinojosa schlägt Greg Abbott, in Georgia siegt Keisha Lance Bottoms, Florida bleibt republikanisch.",
+   "text": [
+    "Neben dem Kongress wurden am Dienstag in 36 Bundesstaaten die Gouverneure gewählt. Die größte Überraschung meldet Texas: Die demokratische Abgeordnete Gina Hinojosa aus Austin hat nach Berichten mehrerer US-Sender Amtsinhaber Greg Abbott besiegt. Sie ist die erste Demokratin an der Spitze des Bundesstaats seit Ann Richards, die 1995 aus dem Amt schied, und die erste Latina in diesem Amt. Abbott hatte eine Rekord-vierte Amtszeit angestrebt und nach Angaben der Texas Tribune rund 119 Millionen Dollar für Werbung ausgegeben. Schon die Vorabstimmung war außergewöhnlich: Mehr als 7,7 Millionen Texaner gaben ihre Stimme vorzeitig ab, ein Rekord für eine Zwischenwahl.",
+    "Trump machte Abbott selbst für die Niederlage verantwortlich. Auf Truth Social schrieb er, der Gouverneur sei in die „alten Gewohnheiten“ zurückgefallen, und das sei „nicht schön“ gewesen.",
+    "In Georgia gewann die frühere Bürgermeisterin von Atlanta, Keisha Lance Bottoms, mit fast zehn Prozentpunkten Vorsprung; sie wird die erste schwarze Gouverneurin des Bundesstaats. In Kalifornien wird der Demokrat Xavier Becerra laut Projektionen neuer Gouverneur. In New York wurde Kathy Hochul als Siegerin projiziert, ebenso Ned Lamont in Connecticut. Die demokratischen Amtsinhaber Wes Moore (Maryland), Josh Shapiro (Pennsylvania) und JB Pritzker (Illinois) wurden wie erwartet bestätigt.",
+    "Einen Erfolg verbuchten die Republikaner in Florida: Byron Donalds setzte sich in einem knappen Rennen gegen den Demokraten David Jolly durch."
+   ],
+   "quellen": [
+    [
+     "watson",
+     "https://www.watson.ch/international/usa/973905052-das-wichtigste-der-midterms-in-sechs-punkten"
+    ],
+    [
+     "Texas Tribune",
+     "https://www.texastribune.org/2026/11/03/texas-governor-greg-abbott-gina-hinojosa-election/"
+    ],
+    [
+     "blue News",
+     "https://www.bluewin.ch/en/news/international/we-would-have-won-by-a-landslide-trump-s-reaction-to-the-crushing-defeat-li.3660433"
+    ]
+   ],
+   "berichterstattung": [
+    "watson.ch",
+    "texastribune.org",
+    "bluewin.ch",
+    "kxan.com",
+    "axios.com",
+    "cbsnews.com",
+    "nbcnews.com",
+    "fox4news.com",
+    "newsweek.com",
+    "nprillinois.org",
+    "washingtonpost.com",
+    "fox13news.com",
+    "foxnews.com",
+    "abc7news.com",
+    "abc7ny.com",
+    "forbes.com"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "Nahost",
+    "USA"
+   ],
+   "kicker": "Nahost · Iran-Krieg",
+   "titel": "Trump bestätigt Angriff, Teheran sieht Einigung „weit entfernt“",
+   "deck": "Während Katar zwischen Washington und Teheran vermittelt, melden die Revolutionsgarden Minentreffer an drei Tankern in der Straße von Hormus.",
+   "text": [
+    "US-Präsident Donald Trump hat am Wahltag einen neuen Schlag gegen Iran bestätigt. Eine iranische Luftabwehrstellung sei „vergangene Nacht“ nach ihrer Fertigstellung getroffen worden, sagte er dem Sender Fox News und sprach von einem „kleineren Angriff“. Die Nachrichtenagentur IRNA meldete fünf Explosionen auf der Insel Qeschm. US-Regierungsvertreter nannten die Schläge „defensiv“ und begrenzt; sie hätten Boden-Luft-Raketen gegolten und bedeuteten keine Rückkehr zu größeren Kampfhandlungen. Trump sagte, er wolle nicht viele Menschen töten, werde aber notfalls handeln.",
+    "Die Verhandlungen über ein Ende des seit Februar andauernden Krieges kommen derweil kaum voran. Ein hochrangiger iranischer Vertreter sagte Reuters, beide Seiten seien von einer Einigung weit entfernt; Teheran werde „überzogene Forderungen“ nicht akzeptieren. Mohsen Rezaei, Sekretär des Obersten Nationalen Sicherheitsrats, nannte die US-Antwort „nicht überzeugend“: Nur wenn Washington Irans sieben Bedingungen erfülle – darunter die Aufhebung der Ölsanktionen, ein Ende der Seeblockade und die Freigabe eingefrorener Gelder –, werde die Meerenge wieder geöffnet.",
+    "Katar vermittelt gemeinsam mit Pakistan. Außenamtssprecher Majed al-Ansari sagte, beide Seiten prüften die Vorschläge, man bleibe „hoffnungsvoll“. Ein mit den Gesprächen vertrauter Beamter erwartet Rückmeldungen aus Washington und Teheran binnen 36 Stunden. Vizepräsident JD Vance hatte sich zuvor optimistisch über ein Abkommen geäußert.",
+    "Die Revolutionsgarden erklärten, sie hätten US-Drohnen nahe Qeschm abgefangen, und meldeten Explosionen an drei Tankern, die auf Seeminen gelaufen seien; unabhängig überprüfbar ist das nicht. Die Ölexporte durch die Meerenge lagen nach Daten von Kpler zuletzt bei etwa 45 Prozent des Vorkriegsniveaus. Mehrere Medien berichteten, Washington plane nach der Wahl gemeinsam mit Israel neue Angriffe."
+   ],
+   "quellen": [
+    [
+     "Reuters via TimesLIVE",
+     "https://www.timeslive.co.za/news/world/2026-11-03-iran-us-still-far-apart-on-deal-to-end-war-as-qatar-pushes-mediation/"
+    ],
+    [
+     "Südtirol News (dpa/APA)",
+     "https://www.suedtirolnews.it/politik/trump-bestaetigt-neuen-angriff-auf-den-iran"
+    ],
+    [
+     "AFP via Malay Mail",
+     "https://www.malaymail.com/news/world/2026/11/03/us-sees-progress-in-iran-talks-as-both-sides-seek-to-avert-renewed-war/241756"
+    ]
+   ],
+   "berichterstattung": [
+    "timeslive.co.za",
+    "sundaytimes.timeslive.co.za",
+    "suedtirolnews.it",
+    "vol.at",
+    "malaymail.com",
+    "aljazeera.com",
+    "finchannel.com",
+    "diyatvusa.com",
+    "algemeiner.com",
+    "newscord.org",
+    "tass.com",
+    "aa.com.tr",
+    "rferl.org",
+    "en.mehrnews.com",
+    "dropsitenews.com"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland"
+   ],
+   "kicker": "Osteuropa · Krieg in der Ukraine",
+   "titel": "Russischer Großangriff trifft Klinik in Charkiw",
+   "deck": "289 Drohnen und 76 Raketen in einer Nacht: Mindestens 73 Menschen werden verletzt, allein in der Region Schytomyr fällt für mehr als 180.000 Menschen der Strom aus.",
+   "text": [
+    "Russland hat die Ukraine in der Nacht zum Dienstag mit einem der schwersten Luftangriffe der vergangenen Wochen überzogen. Nach Angaben von Präsident Wolodymyr Selenskyj setzte die russische Armee 289 Angriffsdrohnen, 17 ballistische Raketen und 59 Marschflugkörper ein. In Charkiw wurde ein städtisches Klinikum getroffen, darunter die Kardiologie, in der Patienten behandelt wurden. Mindestens 73 Menschen wurden verletzt. Bürgermeister Ihor Terechow sprach von schweren Schäden; mehr als 1000 Fenster seien zerborsten.",
+    "Hauptziel war nach Selenskyjs Worten die Energieversorgung: Kraftwerke und Umspannwerke in den Regionen Odessa, Tscherkassy, Schytomyr, Winnyzja, Charkiw, Dnipro, Czernowitz, Tschernihiw und Riwne. Allein in der Region Schytomyr waren am Dienstagmorgen mehr als 180.000 Menschen ohne Strom, in Odessa gelten geplante Abschaltungen. Das russische Verteidigungsministerium erklärte, es habe Energieanlagen angegriffen, die Armee und Rüstungsbetriebe versorgten. Die Ukraine griff ihrerseits eine Ölraffinerie in Jaroslawl an; dort wurden zwei Mitarbeiter verletzt.",
+    "Der Angriff fällt in eine Phase neuer Diplomatie. Am 10. und 11. November sollen Berater der USA, Russlands und der Ukraine in Abu Dhabi verhandeln, die russische Delegation leitet Wladimir Medinski. Selenskyj hofft, dass daraus ein Treffen der Staatschefs mit Wladimir Putin erwächst. Bundeskanzler Friedrich Merz sagte nach dem Besuch Selenskyjs in Berlin, er sehe bisher nicht, dass Russland ernsthaft über einen Waffenstillstand verhandeln wolle."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "kyivindependent.com",
+    "united24media.com",
+    "news.az",
+    "orf.at",
+    "lessentiel.lu",
+    "de.investing.com",
+    "ariva.de",
+    "it-boltwise.de"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Jemen",
+    "Nahost"
+   ],
+   "kicker": "Nahost · Jemen",
+   "titel": "Huthi-Miliz rückt bis auf 80 Kilometer an Aden heran",
+   "deck": "So nah waren die Rebellen der provisorischen Hauptstadt seit 2015 nicht. Der Krieg um Iran hat im Jemen eine neue Front eröffnet.",
+   "text": [
+    "Die mit Iran verbündeten Huthi-Rebellen sind im Süden Jemens bis auf etwa 80 Kilometer an Aden vorgerückt, den provisorischen Sitz der international anerkannten Regierung. Das berichtete die Nachrichtenagentur Reuters unter Berufung auf vier Militärquellen. Näher waren die Huthi der Hafenstadt seit den ersten Monaten des Krieges 2015 nicht, als sie kurzzeitig in die Stadt eindrangen und wieder vertrieben wurden.",
+    "Vor wenigen Tagen griffen die Huthi Regierungsstellungen im Bezirk Al-Makatira an und nahmen ihn nach Berichten vollständig ein. Am Montag wurde um ein Militärlager am Eingang des Bezirks Tur al-Bahah gekämpft. Die Gegend überblickt die Straße zwischen Taiz und Aden, die letzte Verbindung zwischen dem Regierungsgebiet und der seit Anfang Oktober eingekesselten drittgrößten Stadt des Landes. Die Belagerung von Taiz hat mehr als 100.000 Menschen vertrieben, es fehlt an Lebensmitteln, Treibstoff und Medikamenten.",
+    "Die Offensive gilt als neue Front im Krieg der USA und Israels gegen Iran. Die Huthi haben ihre Angriffe auf Saudi-Arabien verstärkt, das die Regierung stützt; die saudisch geführte Koalition fliegt mehr Luftangriffe. Schon im September hatten die Rebellen Gebiete an der Meerenge Bab al-Mandab erobert, im Oktober wurde der Präsidentenpalast in Aden getroffen, zuletzt der Flughafen. Damit ist die 2022 von den Vereinten Nationen vermittelte Waffenruhe Geschichte."
+   ],
+   "quellen": [
+    [
+     "Reuters via Al-Monitor",
+     "https://www.al-monitor.com/originals/2026/11/yemens-houthis-advance-within-80-km-aden-sources-say"
+    ],
+    [
+     "The New Arab",
+     "https://www.newarab.com/news/yemens-houthis-advance-within-80-km-aden-sources-say"
+    ]
+   ],
+   "berichterstattung": [
+    "al-monitor.com",
+    "newarab.com",
+    "jpost.com",
+    "brecorder.com",
+    "democracynow.org",
+    "internazionale.it",
+    "theprint.in",
+    "egyptian-gazette.com",
+    "kiprinform.com",
+    "inkl.com",
+    "fakti.bg",
+    "shafaq.com",
+    "jfeed.com",
+    "news.jkn.co.kr"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Großbritannien",
+    "EU",
+    "Brexit"
+   ],
+   "kicker": "Europa · Brexit-Neustart",
+   "titel": "London und Brüssel einigen sich auf Entwurf für Lebensmittelabkommen",
+   "deck": "Ein 200 Seiten starker Vertragstext soll Kontrollen und Zertifikate im Agrarhandel abschaffen. Großbritannien würde dafür EU-Standards übernehmen.",
+   "text": [
+    "Großbritannien und die Europäische Union haben sich auf den Entwurf eines Veterinär- und Pflanzenschutzabkommens geeinigt, das einen Großteil der Kontrollen und Formalitäten im Handel mit Lebensmitteln und Agrarprodukten seit dem Brexit beseitigen soll. Der rund 200 Seiten lange Text wurde nach Angaben der BBC an die EU-Mitgliedstaaten verschickt; die Botschafter sollen am Mittwoch darüber beraten. Zugleich kursieren Entwürfe zur Verknüpfung der Emissionshandelssysteme, zu einem Jugendmobilitätsprogramm und eine 15-seitige gemeinsame Erklärung für einen Gipfel später im Monat.",
+    "Kommt das Abkommen, könnten britische Exporteure wieder frische Würste, Burger, Schalentiere und Saatkartoffeln in die EU liefern. Veterinärzertifikate für rund 200 Pfund und Pflanzenschutzzeugnisse für 25 Pfund würden entfallen, Haustiere könnten wieder mit Heimtierpass reisen. Die Regierung rechnet langfristig mit einem wirtschaftlichen Nutzen von 5,1 Milliarden Pfund im Jahr. Auch die Kontrollen in der Irischen See für Waren nach Nordirland würden deutlich reduziert.",
+    "Im Gegenzug soll sich das Vereinigte Königreich zu einer „dynamischen Angleichung“ an bestehende EU-Regeln für Pflanzen, Tiere und Lebensmittel verpflichten. Die konservative Oppositionsführerin Kemi Badenoch nannte das einen Rückschritt, die Liberaldemokraten sprachen von einem Schritt in die richtige Richtung, aber nur einem Flicken. Premierminister Andy Burnham, der die Labour-Führung im Juli von Keir Starmer übernahm, sagte, die Stimmung im Land habe sich seit 2016 gewandelt; eine Rückkehr zur Freizügigkeit habe er aber nicht vorgeschlagen."
+   ],
+   "quellen": [
+    [
+     "BBC News via Yahoo",
+     "https://ca.news.yahoo.com/uk-eu-agree-draft-deal-021118048.html"
+    ],
+    [
+     "RTÉ",
+     "https://www.rte.ie/news/uk/2026/1103/1597747-uk-eu/"
+    ]
+   ],
+   "berichterstattung": [
+    "yahoo.com",
+    "rte.ie",
+    "aol.com",
+    "aol.co.uk",
+    "foodmanagement.today",
+    "bmmagazine.co.uk",
+    "tob.news"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Polen",
+    "Justiz",
+    "EU"
+   ],
+   "kicker": "Europa · Polen",
+   "titel": "Umstrittenes Verfassungsgericht tagt erstmals unter neuer Führung",
+   "deck": "Acht regierungsnahe Richter leiten Disziplinarverfahren gegen den Gerichtspräsidenten ein. Präsident Nawrocki spricht von einer illegalen Übernahme.",
+   "text": [
+    "Im Machtkampf um Polens Verfassungsgericht haben die acht von der Regierungsmehrheit gestützten Richter am Dienstag erstmals eine Generalversammlung abgehalten – und sie zum ersten Mal in der Geschichte des Tribunals live übertragen. Sie leiteten Disziplinarverfahren gegen Gerichtspräsident Bogdan Święczkowski und seinen Stellvertreter Bartłomiej Sochański ein, losten die Richter für die Disziplinarkammern aus und verabschiedeten einen Haushaltsentwurf für 2027, den Święczkowski nicht durchgebracht hatte.",
+    "Einberufen hatte die Sitzung die dienstälteste Richterin Anna Korwin-Piotrowska, die beide Gerichtspräsidenten am Freitag für suspendiert erklärt hatte. Umstritten ist die Beschlussfähigkeit: Nötig sind normalerweise zwei Drittel der 15 Richter, also zehn. Die acht Anwesenden schlossen drei Kollegen aus der Zählung aus und kamen so auf ein Quorum von acht. Die sieben unter der früheren PiS-Regierung ernannten Richter blieben fern. Verfassungsrechtler äußerten Zweifel an der Rechtmäßigkeit; Święczkowski sprach von einem „geselligen Beisammensein“ und nannte Korwin-Piotrowska eine Usurpatorin.",
+    "Präsident Karol Nawrocki warf Ministerpräsident Donald Tusk bei einer Sitzung des Nationalen Sicherheitsrats vor, die Regierung übernehme das Gericht illegal; Tusk trage die volle Verantwortung. Die Regierung verweist darauf, dass Nawrocki fünf vom Parlament gewählte Richter nicht vereidigt habe, und hält das Tribunal seit der PiS-Zeit für nicht legitim. Justizminister Waldemar Żurek nannte das Vorgehen den einzigen Weg, die Unabhängigkeit des Gerichts wiederherzustellen."
+   ],
+   "quellen": [
+    [
+     "Notes from Poland",
+     "https://notesfrompoland.com/2026/11/03/disputed-polish-constitutional-court-holds-first-meeting-after-takeover-by-government-backed-judges/"
+    ],
+    [
+     "ABC News (AP)",
+     "https://abcnews.com/International/wireStory/crisis-polands-constitutional-tribunal-137807738"
+    ]
+   ],
+   "berichterstattung": [
+    "notesfrompoland.com",
+    "abcnews.com",
+    "unn.ua",
+    "thecatholicthing.org",
+    "hungarianconservative.com",
+    "thegatewaypundit.com",
+    "orf.at",
+    "euronews.com",
+    "lto.de",
+    "polenjournal.de"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Tschechien",
+    "Medien",
+    "EU"
+   ],
+   "kicker": "Europa · Tschechien",
+   "titel": "Tschechiens öffentlich-rechtliche Sender streiken gegen Babiš",
+   "deck": "Die Regierung will die Rundfunkgebühr abschaffen und die Sender aus dem Staatshaushalt finanzieren. Die Beschäftigten fürchten politische Einflussnahme.",
+   "text": [
+    "Die Beschäftigten des tschechischen öffentlich-rechtlichen Fernsehens und Rundfunks haben am Dienstag einen eintägigen Streik abgehalten. Sie protestieren gegen ein Gesetz der Regierung von Ministerpräsident Andrej Babiš, das die monatliche Haushaltsgebühr von 205 Kronen abschaffen und die Sender künftig aus dem Staatshaushalt finanzieren soll. Der Nachrichtenkanal des Tschechischen Fernsehens zeigte ein abgedunkeltes Studio, die Moderatoren trugen Schwarz und lasen ihre Texte ab. Für den Nachmittag waren Kundgebungen mit Unterstützung von Künstlern und Studenten angekündigt.",
+    "Neben der Umstellung ist eine Kürzung der Mittel um 15 Prozent vorgesehen. Das Budget des Fernsehens fiele damit nominal auf den Stand von 2008, das des Rundfunks auf den von 2005. Das Gesetz hat eine erste Abstimmung im Parlament bereits passiert; Kritiker bemängeln, dass es überraschend an einem Freitag eingebracht und vor dem Morgengrauen an einem Samstag durch die erste Lesung gebracht wurde.",
+    "„Dieser Vorschlag würde der Koalition Werkzeuge geben, den Inhalt beider öffentlicher Medien politisch zu beeinflussen“, sagte der Fernsehreporter Jan Moláček vom Streikkomitee. Die Opposition zieht Vergleiche mit Ungarn unter Viktor Orbán. Babiš, dessen Regierung von der rechtsextremen SPD und der euroskeptischen Partei der Motoristen gestützt wird, wies das zurück: Niemand wolle die öffentlichen Medien übernehmen. Die Regierung halte ein Versprechen, die Bürger finanziell zu entlasten; das Gesetz könne in der weiteren Debatte noch geändert werden."
+   ],
+   "quellen": [
+    [
+     "Reuters via The Star",
+     "https://www.thestar.com.my/news/world/2026/11/03/czech-public-media-launch-strike-accusing-government-of-political-meddling"
+    ],
+    [
+     "NZZ",
+     "https://www.nzz.ch/international/tschechien-proteste-gegen-abschaffung-der-rundfunkgebuehren-ld.10052007"
+    ]
+   ],
+   "berichterstattung": [
+    "thestar.com.my",
+    "nzz.ch",
+    "washingtonpost.com",
+    "khaosodenglish.com",
+    "euobserver.com",
+    "tvpworld.com",
+    "broadbandtvnews.com",
+    "wsau.com",
+    "finanzen.net",
+    "newzs.de"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Afrika",
+    "Gesundheit"
+   ],
+   "kicker": "Afrika · Epidemie",
+   "titel": "Ebola-Ausbruch fordert mehr als 5300 Tote",
+   "deck": "Die afrikanische Gesundheitsbehörde korrigiert die Opferzahl nach oben. Gegen den Bundibugyo-Stamm gibt es weder zugelassenen Impfstoff noch Therapie.",
+   "text": [
+    "Der Ebola-Ausbruch in Zentral- und Ostafrika hat nach neuen Zahlen der Gesundheitsbehörde Africa CDC bislang 5376 Menschen das Leben gekostet. Fast alle Toten – 5372 – wurden in der Demokratischen Republik Kongo gezählt, je zwei in Kenia und Uganda. Bestätigt sind 10.444 Fälle, die Sterblichkeit liegt über 50 Prozent. Der Kongo hatte Mitte Mai seinen 17. Ebola-Ausbruch erklärt; Euronews spricht vom am schnellsten wachsenden Ausbruch seit Beginn der Aufzeichnungen.",
+    "Verursacht wird die Epidemie vom Bundibugyo-Stamm, gegen den es keinen zugelassenen Impfstoff und keine zugelassene Behandlung gibt. In den vergangenen Wochen haben klinische Studien mit dem Impfstoff Ervebo begonnen, der sich gegen den häufigeren Zaire-Stamm bewährt hat.",
+    "Das Virus hat sich über die Grenzen ausgebreitet. Uganda zählt 20 Fälle, fast alle bei Menschen, die aus dem Kongo eingereist waren. Kenia meldete im Oktober neun Infektionen und damit die ersten Ebola-Fälle seiner Geschichte. In Nigeria erkrankte im Oktober eine 42-jährige Schweizerin, deren Mann an der Schweizer Botschaft in Abuja arbeitet; das Paar war zuvor in Uganda gewesen. Ebola wird über Körperflüssigkeiten übertragen und hat in Afrika in den vergangenen 50 Jahren mehr als 15.000 Menschen getötet."
+   ],
+   "quellen": [
+    [
+     "AFP via Daily Sabah",
+     "https://www.dailysabah.com/world/africa/africa-cdc-revises-latest-ebola-outbreak-toll-to-over-5300"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record"
+    ]
+   ],
+   "berichterstattung": [
+    "dailysabah.com",
+    "euronews.com",
+    "aljazeera.com",
+    "medicalxpress.com",
+    "hngn.com",
+    "swedenherald.com",
+    "africaradio.com",
+    "ouelen.com",
+    "riotimesonline.com",
+    "world-today-news.com",
+    "neosciencehub.com"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Gaza",
+    "Nahost",
+    "Israel"
+   ],
+   "kicker": "Nahost · Gaza",
+   "titel": "Israel schließt Grenzübergang Rafah für Hilfsgüter",
+   "deck": "Die Sperre trifft Hilfslieferungen, Waren, Treibstoff und Reisende über die ägyptische Route. Israel begründet sie mit Schmuggel.",
+   "text": [
+    "Israel hat am Dienstag den Grenzübergang Rafah zwischen Ägypten und dem Gazastreifen für Hilfslieferungen, Handelsgüter und Reisende geschlossen. Nach Angaben der Grenzbehörde in Gaza wurden Reisende zurückgeschickt und Lastwagen aus Ägypten gestoppt, ohne vorherige Ankündigung. Betroffen sind Lieferungen des ägyptischen Komitees, der Vereinten Nationen und internationaler Organisationen sowie Treibstoff, Kochgas und Lebensmittel. Der Übergang Kerem Schalom ist nicht betroffen.",
+    "Israelische Militärkreise begründeten die Schließung gegenüber dem Sender Kan mit Schmuggel und Einmischung der Sicherheitskräfte der Hamas. Über die ägyptische Route waren zuletzt täglich etwa 40 Lastwagen nach Gaza gelangt. Nach Zahlen des Hamas-geführten Medienbüros kamen seit Beginn der Waffenruhe im Oktober 2025 rund 77.700 Lkw in den Gazastreifen – etwa ein Drittel der vereinbarten Menge.",
+    "Die Versorgungslage ist angespannt. Das Gesundheitsministerium in Gaza meldet, dass 42 Prozent der unentbehrlichen Medikamente nicht vorrätig sind. Die Handelskammer beklagt drastisch gestiegene Preise, weil Baumaterial nicht eingeführt werden darf. Am selben Tag wurden bei israelischen Angriffen im Süden des Gazastreifens nach palästinensischen Angaben mehrere Menschen getötet, darunter bei einem Drohnenangriff auf einen Polizeiposten westlich von Chan Junis."
+   ],
+   "quellen": [
+    [
+     "Xinhua",
+     "https://english.news.cn/20261104/a417131bbc594c638346f60ea03e6c86/c.html"
+    ],
+    [
+     "Drop Site News",
+     "https://www.dropsitenews.com/p/us-iran-qeshm-gaza-israel-rafah-aid-turkey-somalia-shabaab"
+    ]
+   ],
+   "berichterstattung": [
+    "news.cn",
+    "dropsitenews.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "KI",
+    "Chips",
+    "USA"
+   ],
+   "kicker": "USA · Halbleiter",
+   "titel": "AMD verdoppelt fast das Rechenzentrumsgeschäft und verspricht 2027 noch mehr",
+   "deck": "Der Chipkonzern übertrifft die Erwartungen deutlich, auch Arista und Astera Labs liefern starke KI-Zahlen.",
+   "text": [
+    "Nach den Zweifeln der vergangenen Tage an der Rentabilität der KI-Investitionen hat AMD am Dienstagabend ein deutliches Gegensignal gesetzt. Der Chipkonzern steigerte seinen Umsatz im dritten Quartal um 45 Prozent auf 13,4 Milliarden Dollar, Analysten hatten mit rund 13,1 Milliarden gerechnet. Das Rechenzentrumsgeschäft wuchs um 97 Prozent auf 8,5 Milliarden Dollar. Der bereinigte Gewinn je Aktie stieg um 74 Prozent auf 2,09 Dollar.",
+    "Für das vierte Quartal stellt AMD rund 17 Milliarden Dollar Umsatz in Aussicht, plus oder minus drei Prozent. Das entspräche einem Plus von etwa 66 Prozent zum Vorjahr; der Markt hatte gut 16,2 Milliarden erwartet. Konzernchefin Lisa Su sagte, die Nachfrage nach den Produkten habe sich „weiter verstärkt“. Für 2027 rechnet sie Berichten zufolge mit einem Umsatzwachstum von mehr als 80 Prozent. Schwach blieb das Spielegeschäft, das um 40 Prozent auf 773 Millionen Dollar einbrach. Belastet wurde der Nettogewinn nach US-Bilanzregeln zudem durch eine Neubewertung von Kunden-Optionsscheinen über knapp 1,1 Milliarden Dollar.",
+    "Die Aktie legte nachbörslich um rund sieben Prozent auf gut 520 Dollar zu. Noch kräftiger reagierten Anleger auf den Netzwerkausrüster Arista Networks: Er steigerte den Umsatz um 58,5 Prozent auf 3,66 Milliarden Dollar und stellte für das Schlussquartal bis zu vier Milliarden Dollar in Aussicht, die Aktie stieg nachbörslich um mehr als 15 Prozent. Der Verbindungschip-Spezialist Astera Labs meldete ein Umsatzplus von 154 Prozent auf 585 Millionen Dollar.",
+    "Die Zahlen zeigen, dass die großen Cloud-Anbieter ihre Ausgaben für KI-Rechenzentren bislang nicht zurückfahren. Ob die Begeisterung anhält, dürfte sich in den kommenden Wochen auch an den Berichten von Nvidia und den Investitionsplänen der Hyperscaler zeigen."
+   ],
+   "quellen": [
+    [
+     "Stock Titan (AMD-Mitteilung)",
+     "https://www.stocktitan.net/news/AMD/amd-reports-third-quarter-2026-financial-7j6jzo29buqw.html"
+    ],
+    [
+     "Phil Stock World",
+     "https://www.philstockworld.com/2026/11/03/after-hours-earnings-recap-amd-amgn-anet-alab-and-tost/"
+    ],
+    [
+     "Investing.com",
+     "https://de.investing.com/news/transcripts/earnings-call-amd-ubertrifft-erwartungen-im-q3-2026--aktie-springt-nachborslich-kraftig-an-93CH-3743899"
+    ]
+   ],
+   "berichterstattung": [
+    "stocktitan.net",
+    "philstockworld.com",
+    "investing.com",
+    "cnbc.com",
+    "benzinga.com",
+    "finance.yahoo.com",
+    "marketscreener.com",
+    "techpowerup.com",
+    "tradingkey.com",
+    "goldesel.de",
+    "aktiencheck.de",
+    "drweb.de",
+    "kucoin.com",
+    "archyde.com"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Chemie",
+    "Übernahme",
+    "Dax"
+   ],
+   "kicker": "Deutschland · Chemie",
+   "titel": "Evonik verdient deutlich mehr und hält BASF auf Abstand",
+   "deck": "Der Essener Spezialchemiekonzern wird zuversichtlicher für das Jahr und betont seine Eigenständigkeit.",
+   "text": [
+    "Mitten im Übernahmeringen mit BASF hat Evonik ein starkes Quartal vorgelegt. Das operative Ergebnis stieg im dritten Quartal um rund 40 Prozent auf 629 Millionen Euro, der Umsatz um etwa 13 Prozent auf knapp 3,83 Milliarden Euro. Unter dem Strich blieb wegen Rückstellungen von 313 Millionen Euro für den Stellenabbau ein Verlust von 53 Millionen Euro, nur etwa halb so viel wie vor einem Jahr. Für das Gesamtjahr erwartet Evonik nun ein bereinigtes Ebitda in der oberen Hälfte der Spanne von 2,0 bis 2,2 Milliarden Euro.",
+    "Treiber war vor allem die Sparte Advanced Technologies, deren operatives Ergebnis um fast 90 Prozent auf 377 Millionen Euro zulegte. Der Konzern beschäftigte Ende September 30.319 Menschen, rund 1.000 weniger als ein Jahr zuvor; bis 2029 sollen 3.200 Stellen wegfallen. Der Verkauf des Geschäfts Oxeno C4 kommt voran, auch der Betreiber der Chemieparks Marl und Wesseling, Syneqt, soll verkauft werden.",
+    "BASF hat 24 Euro je Aktie in bar signalisiert, insgesamt rund 11,2 Milliarden Euro. Der Evonik-Vorstand hatte Ende Oktober entschieden, nicht in Verhandlungen einzutreten, ist aber zu einem „rein informativen und vertraulichen Austausch“ bereit. Finanzchef Michael Rauch bekräftigte nun, Evonik sei „groß genug“ und „stark“, um allein zu wachsen. BASF-Chef Markus Kamieth nennt Evonik das bevorzugte Ziel, schließt einen Kauf „um jeden Preis“ aber aus.",
+    "An der Börse kostete die Evonik-Aktie am Dienstagmittag rund 20,90 Euro und damit deutlich weniger als die gebotenen 24 Euro – der Markt preist einen Erfolg der Offerte also nicht voll ein. Ob BASF ein formelles Angebot direkt an die Aktionäre richtet, ist offen."
+   ],
+   "quellen": [
+    [
+     "boerse.de (dpa-AFX)",
+     "https://www.boerse.de/nachrichten/ROUNDUP-2-Evonik-etwas-optimistischer-fuer-2026-BASF-Offerte-im-Blick/38701673"
+    ],
+    [
+     "Der Aktionär",
+     "https://www.deraktionaer.de/artikel/aktien/basf-evonik-lehnt-neues-angebot-ab-jetzt-spricht-der-vorstand-20429126.html"
+    ],
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/unternehmen/industrie/uebernahme-basf-bietet-jetzt-mehr-als-elf-milliarden-euro-fuer-evonik/100264522.html"
+    ]
+   ],
+   "berichterstattung": [
+    "boerse.de",
+    "finanznachrichten.de",
+    "deraktionaer.de",
+    "handelsblatt.com",
+    "goldesel.de",
+    "it-boltwise.de",
+    "ad-hoc-news.de",
+    "boersen-zeitung.de",
+    "wiwo.de"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Pharma",
+    "USA"
+   ],
+   "kicker": "USA · Pharma",
+   "titel": "Pfizer hebt die Prognose, neue Mittel ersetzen das Corona-Geschäft",
+   "deck": "Eliquis und Krebsmedikamente tragen den Konzern, Paxlovid und Comirnaty brechen weiter ein. Auch Amgen wird optimistischer.",
+   "text": [
+    "Der US-Pharmakonzern Pfizer hat zum wiederholten Mal in diesem Jahr seine Ziele angehoben. Für 2026 erwartet das Unternehmen nun einen Umsatz von 62 bis 64 Milliarden Dollar statt bisher 60,5 bis 62,5 Milliarden. Der bereinigte Gewinn je Aktie soll bei 2,95 bis 3,05 Dollar liegen, zuvor waren 2,80 bis 3,00 Dollar angepeilt. Darin enthalten ist eine einmalige Belastung von 650 Millionen Dollar für eine Lizenzvereinbarung mit dem chinesischen Biotechunternehmen Innovent.",
+    "Im dritten Quartal lag der Umsatz mit 16,6 Milliarden Dollar etwa auf Vorjahresniveau, der bereinigte Gewinn je Aktie bei 87 Cent und damit über den Schätzungen. Hinter der stabilen Summe verbirgt sich ein Umbau: Ohne die Corona-Produkte wuchs Pfizer operativ um sieben Prozent, neu eingeführte und zugekaufte Mittel legten um 32 Prozent zu. Der Blutverdünner Eliquis steigerte den Umsatz um 25 Prozent, das Krebsmittel Padcev um 55 Prozent. Die Corona-Pille Paxlovid verlor dagegen 63 Prozent, der Impfstoff Comirnaty 29 Prozent.",
+    "Konzernchef Albert Bourla sprach von einem weiteren starken Quartal mit „kommerziellem Schwung und disziplinierter Umsetzung“. Pfizer setzt auf Zukäufe und Lizenzen, um bevorstehende Patentabläufe auszugleichen, und will bis 2029 insgesamt 9,7 Milliarden Dollar einsparen.",
+    "Am Abend legte auch der Biotechkonzern Amgen Zahlen vor: Der Umsatz stieg um acht Prozent auf 10,4 Milliarden Dollar, die Jahresprognose wurde leicht auf 38,9 bis 39,7 Milliarden Dollar angehoben. Das Osteoporose-Mittel Prolia brach nach Patentablauf um 45 Prozent ein. Die Aktie, die seit Jahresbeginn um 41 Prozent gestiegen war, gab nachbörslich rund zwei Prozent nach."
+   ],
+   "quellen": [
+    [
+     "Stock Titan (Pfizer-Mitteilung)",
+     "https://www.stocktitan.net/news/PFE/pfizer-reports-strong-third-quarter-2026-results-and-raises-2026-btucxs2u3y10.html"
+    ],
+    [
+     "onvista (Reuters)",
+     "https://www.onvista.de/news/2026/11-03-blockbuster-medikamente-befluegeln-pfizer-prognose-angehoben-0-20-26571832"
+    ],
+    [
+     "Phil Stock World",
+     "https://www.philstockworld.com/2026/11/03/after-hours-earnings-recap-amd-amgn-anet-alab-and-tost/"
+    ]
+   ],
+   "berichterstattung": [
+    "stocktitan.net",
+    "onvista.de",
+    "cash.ch",
+    "cnbc.com",
+    "finance.yahoo.com",
+    "investing.com",
+    "fool.com",
+    "marketscreener.com",
+    "pfizer.com",
+    "investingnews.com",
+    "aktiencheck.de",
+    "tradingkey.com",
+    "ad-hoc-news.de",
+    "philstockworld.com"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Zölle",
+    "USA",
+    "Handel"
+   ],
+   "kicker": "Welthandel · Zölle",
+   "titel": "Nach den Midterms: Trumps Zölle dürften bleiben",
+   "deck": "Ökonomen erwarten auch bei neuen Mehrheiten im Kongress kaum Änderungen am Zollkurs. Kanada meldet Fortschritte in den Verhandlungen.",
+   "text": [
+    "Wie auch immer die Machtverhältnisse im Kongress nach den Zwischenwahlen aussehen: An der amerikanischen Zollpolitik wird sich nach Einschätzung von Ökonomen wenig ändern. Das Institut der deutschen Wirtschaft (IW) argumentiert, eine oppositionelle Mehrheit wäre voraussichtlich zu knapp, um ein Veto des Präsidenten zu überstimmen. Deutsche Unternehmen sollten damit rechnen, dass die Wirtschafts- und Zollpolitik mindestens bis Januar 2029 in dieser Richtung bleibe. „Die USA bleiben für Deutschland und die EU ein wichtiger Handelspartner“, sagt IW-Expertin Samina Sultan; die Unsicherheit bleibe bestehen.",
+    "Ihr erklärtes Ziel haben die Zölle laut IW bisher nicht erreicht: Das US-Warenhandelsdefizit lag im August 2026 bei 130 Milliarden Dollar und damit rund 35 Milliarden über dem Wert vom August 2024. Der Anteil Chinas am Defizit sank allerdings von 29 auf 14 Prozent, der der EU von 20 auf 7 Prozent – vor allem, weil die USA mehr Energie nach Europa liefern. Das Defizit gegenüber Deutschland blieb mit 5,8 Milliarden Dollar weitgehend stabil.",
+    "Ähnlich sieht es der frühere US-Botschafter in Vietnam, Ted Osius. Ein demokratisch geführter Kongress könne Trump zwar über das Budgetrecht im Nahen Osten bremsen, Zölle seien aber „schwerer rückgängig zu machen, wenn sie einmal da sind“; die Zollhoheit liege bei der Regierung. Der Supreme Court hatte im Februar die auf das Notstandsgesetz IEEPA gestützten Zölle für unrechtmäßig erklärt, die Regierung wich danach auf andere Rechtsgrundlagen aus. In Asien wird der Handel nach Einschätzung der Citi eher umgeleitet als geschrumpft: Vietnam wuchs im dritten Quartal um fast zehn Prozent.",
+    "Kanadas Premier Mark Carney berichtete am Dienstag von „intensiveren“ Gesprächen mit Washington. Die USA verlangten weniger und böten mehr, „aber wir sind noch nicht ganz da“. Trump sagte, ein Abkommen komme „sehr bald“."
+   ],
+   "quellen": [
+    [
+     "Institut der deutschen Wirtschaft",
+     "https://www.iwkoeln.de/presse/pressemitteilungen/daniel-james-muncaster-thomas-obst-samina-sultan-us-midterms-trumps-wirtschaftspolitik-geht-bisher-nicht-auf.html"
+    ],
+    [
+     "Fortune",
+     "https://fortune.com/2026/11/03/us-midterms-iran-war-tariffs-asia/"
+    ],
+    [
+     "BNN Bloomberg",
+     "https://www.bnnbloomberg.ca/tariffs/2026/11/04/more-intense-us-trade-negotiations-have-started-carney-says/"
+    ]
+   ],
+   "berichterstattung": [
+    "iwkoeln.de",
+    "handelsblatt.com",
+    "fortune.com",
+    "bnnbloomberg.ca",
+    "cp24.com",
+    "marktundmittelstand.de",
+    "ad-hoc-news.de",
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Pharma",
+    "Übernahme",
+    "Dax"
+   ],
+   "kicker": "Deutschland · Pharma",
+   "titel": "Merck trennt sich von seiner US-Auftragsfertigung",
+   "deck": "Der Schweizer Zulieferer Lonza übernimmt fünf Standorte mit rund 1.100 Beschäftigten und verdoppelt damit fast seine US-Präsenz.",
+   "text": [
+    "Der Darmstädter Merck-Konzern verkauft sein US-Geschäft mit der Auftragsentwicklung und -herstellung von Arzneimitteln (CDMO) an den Schweizer Pharmazulieferer Lonza. Über den Preis machten die Unternehmen keine genauen Angaben; Merck spricht von einem mittleren dreistelligen Millionen-Euro-Betrag. Lonza zahlt bar aus eigenen Mitteln und bestehenden Kreditlinien. Der Abschluss wird für Mitte 2027 erwartet.",
+    "Übernommen werden fünf Standorte: St. Louis (Missouri), Madison und Verona (Wisconsin), Carlsbad (Kalifornien) und Indianapolis (Indiana). Dort werden unter anderem Wirkstoff-Konjugate für Krebstherapien, virale Vektoren für Zell- und Gentherapien sowie Lipid-Nanopartikel hergestellt. Rund 1.100 Beschäftigte wechseln zu Lonza, dessen US-Netz damit von vier auf neun Standorte wächst. Für 2028 erwartet Lonza aus dem Zukauf etwa 250 Millionen Franken Umsatz, allerdings mit einer Marge unter dem Konzerndurchschnitt.",
+    "Für Merck ist der Verkauf Teil des Portfolioumbaus unter Konzernchef Kai Beckmann, der im Mai das Ruder übernommen hat. Er nannte den Schritt „einen weiteren wichtigen Schritt zur Umsetzung unserer mittel- bis langfristigen strategischen Agenda“. JPMorgan-Analyst Richard Vosser hält ihn für logisch, weil dem kapitalintensiven Geschäft die nötige Größe fehle. Zuvor hatte Merck den Kauf des US-Analytikanbieters Bio-Techne für fast zehn Milliarden Euro und der britischen Silence Therapeutics für rund eine Milliarde Euro vereinbart.",
+    "Lonza-Chef Wolfgang Wienand verweist auf die hohe Nachfrage nach Bio-Konjugaten und viralen Vektoren. Der Kauf passe zur Strategie „One Lonza“."
+   ],
+   "quellen": [
+    [
+     "Pharmazeutische Zeitung",
+     "https://www.pharmazeutische-zeitung.de/merck-verkauft-us-auftragsfertigung-an-lonza-171664/"
+    ],
+    [
+     "Pharmaceutical Technology",
+     "https://www.pharmaceutical-technology.com/news/lonza-us-manufacturing-sites-merck-kgaa/"
+    ],
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/darmstaedter-merck-verkauft-us-auftragsherstellung-an-lonza-16031371"
+    ]
+   ],
+   "berichterstattung": [
+    "pharmazeutische-zeitung.de",
+    "pharmaceutical-technology.com",
+    "finanzen.net",
+    "finanznachrichten.de",
+    "ariva.de",
+    "it-boltwise.de",
+    "gurufocus.com",
+    "manufacturingchemist.com",
+    "contractpharma.com",
+    "bioxconomy.com",
+    "pharmoutsourcing.com"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Öl",
+    "Nahost",
+    "Energie"
+   ],
+   "kicker": "Saudi-Arabien · Energie",
+   "titel": "Aramco verdient trotz Angriffen auf seine Anlagen mehr",
+   "deck": "Hohe Ölpreise und ein Beteiligungsverkauf treiben den Gewinn des saudischen Staatskonzerns, Huthi-Angriffe stören die Exportwege.",
+   "text": [
+    "Der saudische Ölkonzern Aramco profitiert von den kriegsbedingt hohen Ölpreisen. Der bereinigte Nettogewinn stieg im dritten Quartal um neun Prozent auf 31,2 Milliarden Dollar und übertraf die Erwartungen der Analysten. Unbereinigt legte der Gewinn um knapp 35 Prozent auf 135,9 Milliarden Riyal zu, umgerechnet rund 32 Milliarden Euro. Darin enthalten ist ein Ertrag von 25,9 Milliarden Riyal aus dem Verkauf der Beteiligung am Gemeinschaftsunternehmen PRefChem an den malaysischen Konzern Petronas. Gegenüber dem zweiten Quartal ging der bereinigte Gewinn um etwa sieben Prozent zurück.",
+    "Der Preis der Nordseesorte Brent lag im Quartalsdurchschnitt bei über 90 Dollar je Barrel, mehr als 40 Prozent über dem Vorjahr. Zugleich operiert Aramco unter schwierigen Bedingungen: Seit dem Wiederaufflammen der Kämpfe im Juli greifen die Huthi-Rebellen aus dem Jemen regelmäßig saudische Tanker, Pipelines, Lager und Raffinerien an, zuletzt auch den Konzernsitz. Angriffe auf die Ost-West-Pipeline legten diese zeitweise still und beeinträchtigten die Ausweichroute über das Rote Meer, während Iran die Schifffahrt in der Straße von Hormus behindert.",
+    "Konzernchef Amin Nasser warnte, die Angriffe und die geopolitische Unsicherheit verschärften die globale Energieversorgungskrise, mit „ernsten Folgen für die weltweite Energiesicherheit“. Aramco hatte im September die Lieferungen über den Exporthafen Ras Tanura ausgeweitet, um Marktanteile in Asien zurückzugewinnen. Die Dividenden des Konzerns decken einen Großteil des Finanzbedarfs des Königreichs."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/03/saudi-aramco-profits-jump-35-despite-attacks-on-oil-facilities"
+    ],
+    [
+     "onvista (Reuters)",
+     "https://www.onvista.de/news/2026/11-03-saudi-arabischer-oelkonzern-aramco-verdient-dank-hoher-preise-mehr-0-10-26571542"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com",
+    "onvista.de",
+    "gulfbusiness.com",
+    "ttnews.com",
+    "investing.com",
+    "energynewsmagazine.at",
+    "sabq.org",
+    "salaamgateway.com",
+    "finanzen.net"
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Software",
+    "Börse",
+    "Deutschland"
+   ],
+   "kicker": "Deutschland · Software",
+   "titel": "Teamviewer kappt die Umsatzprognose, die Aktie verliert ein Viertel",
+   "deck": "Großkunden zögern, vor allem in Europa und bei US-Behörden. Der Kurseinbruch zieht auch SAP und Nemetschek nach unten.",
+   "text": [
+    "Der Göppinger Fernwartungsspezialist Teamviewer rechnet für 2026 nicht mehr mit Wachstum. Der Umsatz soll währungsbereinigt nun um ein bis zwei Prozent unter dem Vorjahr liegen; bisher hatte das Unternehmen eine Spanne von null bis drei Prozent Wachstum angepeilt. Als Gründe nannte Teamviewer verzögerte Vertragsabschlüsse mit Großkunden und die erneut gestiegene wirtschaftliche Unsicherheit in Europa.",
+    "Im dritten Quartal sank der Umsatz um 3,9 Prozent auf 184,5 Millionen Euro, die wiederkehrenden Jahreserlöse (ARR) gingen um 2,6 Prozent zurück. Die bereinigte operative Marge lag mit 42,8 Prozent fast drei Prozentpunkte unter dem Vorjahr; das Margenziel von rund 43 Prozent für das Gesamtjahr bleibt bestehen. Der Nettogewinn stieg um mehr als ein Viertel auf 36 Millionen Euro.",
+    "Konzernchef Oliver Steil räumte ein, mehrere größere Abschlüsse in der Pipeline kämen nicht wie erwartet zustande, darunter geplante Verträge mit US-Behörden. Das Neugeschäft sei „ehrlicherweise nicht gut genug“ gewesen. An der Strategie hält er fest, die Großkundenprodukte Teamviewer One und Dex entwickelten sich gut. Analyst Harald Hof von MWB Research sieht die Wachstumserholung zunehmend unsicher und verweist auf KI-Konkurrenz; er stufte die Aktie auf „Halten“ ab.",
+    "Die Aktie brach am Dienstag um rund ein Viertel auf etwa 5,40 Euro ein und verlor damit alle Gewinne seit Jahresbeginn. Der Kursrutsch belastete auch andere Softwarewerte: SAP gab 1,8 Prozent nach, Nemetschek 3,5 Prozent."
+   ],
+   "quellen": [
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/roundup-teamviewer-kappt-umsatzprognose-aktie-rutscht-stark-ab-16031617"
+    ],
+    [
+     "MarketScreener",
+     "https://www.marketscreener.com/news/teamviewer-share-plunge-also-weighs-on-sap-and-nemetschek-ce785fdeda8ef523"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.net",
+    "marketscreener.com",
+    "handelsblatt.com",
+    "finanznachrichten.de",
+    "boersennews.de",
+    "investing.com",
+    "finance.yahoo.com",
+    "deraktionaer.de",
+    "goldesel.de",
+    "it-boltwise.de",
+    "admiralmarkets.com"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Autos",
+    "Italien",
+    "Luxus"
+   ],
+   "kicker": "Italien · Autoindustrie",
+   "titel": "Ferrari hebt die Ziele erneut und erreicht ein Jahreshoch",
+   "deck": "Individualisierungen treiben die Marge, das Auftragsbuch reicht bis 2028. In China bricht der Absatz ein.",
+   "text": [
+    "Während Europas Autobranche mit Stellenabbau und Gewinnwarnungen kämpft, legt Ferrari weiter zu. Der Sportwagenhersteller steigerte im dritten Quartal den Umsatz um sieben Prozent auf 1,9 Milliarden Euro, das Ebitda um zwölf Prozent auf 753 Millionen Euro und den Nettogewinn um 13 Prozent auf 431 Millionen Euro. Die Ebitda-Marge erreichte 39,7 Prozent. Der freie Mittelzufluss aus dem Industriegeschäft wuchs um 43 Prozent auf 567 Millionen Euro.",
+    "Ferrari hob die Prognose zum zweiten Mal in diesem Jahr leicht an: Das bereinigte Ebitda soll 2026 mindestens drei Milliarden Euro erreichen, bisher waren mindestens 2,97 Milliarden angepeilt. Der Umsatz soll bei etwa 7,65 Milliarden Euro liegen. Begründet wird das vor allem mit stärkerer Nachfrage nach individuellen Ausstattungen und geringeren Währungsbelastungen.",
+    "Ausgeliefert wurden 3.368 Fahrzeuge, 33 weniger als vor einem Jahr. Deutlich schwächer lief es in China, Hongkong und Taiwan, wo nur noch 143 Wagen verkauft wurden, 105 weniger als im Vorjahr. In Europa, Nahost und Afrika sowie in Amerika stiegen die Auslieferungen leicht. „Unser Auftragsbuch reicht nun bis ins Jahr 2028, und wir bringen dieses Jahr noch zwei weitere neue Modelle“, sagte Konzernchef Benedetto Vigna.",
+    "Die Aktie schwankte zunächst, stieg in Mailand dann um bis zu fast fünf Prozent auf 375,60 Euro und erreichte ein Jahreshoch. Der Börsenwert liegt bei rund 66 Milliarden Euro; seit Jahresbeginn hat er um fast ein Fünftel zugelegt. Die Porsche-Aktie hat seit Ende 2025 dagegen rund 35 Prozent verloren."
+   ],
+   "quellen": [
+    [
+     "Stock Titan (Ferrari-Mitteilung)",
+     "https://www.stocktitan.net/news/RACE/strong-mix-and-personalizations-sustain-q3-growth-and-further-2026-6a51fjoaj7z3.html"
+    ],
+    [
+     "finanzen.at (dpa-AFX)",
+     "https://www.finanzen.at/nachrichten/aktien/roundup-ferrari-hebt-gewinnprognose-erneut-leicht-an-aktie-auf-jahreshoch-1036707960"
+    ]
+   ],
+   "berichterstattung": [
+    "stocktitan.net",
+    "finanzen.at",
+    "finanzen.net",
+    "cnbc.com",
+    "marketscreener.com",
+    "gurufocus.com",
+    "benzinga.com",
+    "investing.com",
+    "onvista.de",
+    "cash.ch",
+    "trend.at",
+    "ariva.de",
+    "ad-hoc-news.de",
+    "finanztrends.de",
+    "archyde.com"
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Chips",
+    "Deutschland",
+    "Autos"
+   ],
+   "kicker": "Deutschland · Halbleiter",
+   "titel": "Bosch macht sein Chipgeschäft zur eigenen Sparte",
+   "deck": "Ab 2028 soll ein eigener Geschäftsbereich Halbleiter auch für fremde Kunden fertigen. Bis 2030 peilt Bosch fünf Milliarden Euro Umsatz an.",
+   "text": [
+    "Der Stuttgarter Technologiekonzern Bosch baut seine Halbleiterfertigung zu einem eigenständigen Geschäftsbereich aus. Vom 1. Januar 2028 an sollen die Chips eine eigene Division „Semiconductors“ bilden, die zwar im Unternehmensbereich Mobility bleibt, aber aus der gemeinsamen Struktur mit Mobility Electronics herausgelöst wird. Bis 2030 will Bosch mit Halbleitern rund fünf Milliarden Euro im Jahr umsetzen.",
+    "Die neue Sparte soll ihre Fertigungskapazitäten stärker für externe Kunden öffnen und das Geschäft als Auftragsfertiger ausbauen. Neue Absatzfelder sieht Bosch unter anderem in der Robotik; die Chips des Konzerns steuern bereits humanoide Roboter. Zu den Stärken zählt das Unternehmen mikromechanische Sensoren (MEMS), Siliziumkarbid-Chips und anwendungsspezifische Schaltkreise. „Diese Stärken wollen wir ausbauen und in ausgewählten neuen Märkten nutzen“, sagte Erik Rein, der das Halbleitergeschäft verantwortet. Bosch-Vize Markus Heyn nannte Halbleiter einen „Schlüsselfaktor“ für alle Geschäftsfelder.",
+    "Bosch betreibt weltweit rund 40 Halbleiterstandorte für Forschung, Entwicklung und Fertigung und hat nach eigenen Angaben in den vergangenen Jahren etwa drei Milliarden Euro in die Werke in Dresden und Reutlingen investiert. Im kalifornischen Roseville baut der Konzern für rund zwei Milliarden Dollar ein Werk für Siliziumkarbid-Chips um, zudem hält er zehn Prozent am Dresdner Gemeinschaftsunternehmen ESMC."
+   ],
+   "quellen": [
+    [
+     "Automobil Industrie",
+     "https://www.automobil-industrie.vogel.de/bosch-halbleiter-eigene-sparte-ab-2028-umsatz-bis-2030-a-57717886cfb1a2c99f8dc54512e84f3a/"
+    ],
+    [
+     "electrive",
+     "https://www.electrive.com/2026/11/03/bosch-to-restructure-semiconductor-business-from-2028/"
+    ],
+    [
+     "Stimme.de (dpa)",
+     "https://www.stimme.de/baden-wuerttemberg/nachrichten/bosch-baut-weiter-um-halbleiter-eigener-geschaeftsbereich-art-5229549"
+    ]
+   ],
+   "berichterstattung": [
+    "automobil-industrie.vogel.de",
+    "electrive.com",
+    "stimme.de",
+    "pz-news.de",
+    "badische-zeitung.de",
+    "wnoz.de",
+    "finanzen.ch",
+    "ariva.de",
+    "thenextweb.com",
+    "powersemiconductorsweekly.com",
+    "analyticsinsight.net"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Autos",
+    "E-Mobilität",
+    "Deutschland"
+   ],
+   "kicker": "Deutschland · E-Mobilität",
+   "titel": "Mercedes gibt seine Schnellladeparks in Europa ab",
+   "deck": "Der französische Betreiber Electra übernimmt 47 Standorte, die meisten davon in Deutschland. Einen Preis nennen beide Seiten nicht.",
+   "text": [
+    "Mercedes-Benz zieht sich aus dem Betrieb eigener Schnellladeparks in Europa zurück. Der Autobauer verkauft sein europäisches Netz an den französischen Ladeanbieter Electra, wie das Unternehmen am Dienstag mitteilte. Übernommen werden 47 Ladeparks mit 374 Ladepunkten, davon 31 in Deutschland und sechs in Österreich. Zum Kaufpreis machten beide Seiten auf Nachfrage keine Angaben. Die Standorte in Nordamerika sind nicht Teil des Geschäfts.",
+    "Electra betreibt nach dem Kauf mehr als 800 Stationen mit über 5.000 Ladepunkten in zehn europäischen Ländern. Mercedes-Kunden sollen Zugang zu diesem Netz erhalten. Ein Sprecher sagte, Mercedes habe den Ausbau der Schnellladeinfrastruktur „früh aktiv mitgestaltet“. Inzwischen habe sich der Markt dynamisch entwickelt und viele Anbieter hätten ihre Netze ausgebaut. Man prüfe laufend, wo das eigene Netz sinnvoll sei, um „Ressourcen gezielt dort einzusetzen, wo sie den größten Mehrwert schaffen“.",
+    "Der Schritt ist ein Abschied von früheren Ambitionen: Anfang 2023 hatte Mercedes angekündigt, bis zum Ende des Jahrzehnts mehr als 10.000 Schnellladepunkte an 2.000 Standorten in Nordamerika, China und Europa aufzubauen. Seither hat der Konzern mit sinkenden Gewinnen und Absätzen zu kämpfen und ein Sparprogramm aufgelegt."
+   ],
+   "quellen": [
+    [
+     "Handelsblatt (dpa)",
+     "https://www.handelsblatt.com/unternehmen/industrie/elektromobilitaet-mercedes-benz-verkauft-sein-schnellladenetzwerk-in-europa/100266862.html"
+    ],
+    [
+     "Yahoo Finance (Reuters)",
+     "https://finance.yahoo.com/technology/articles/mercedes-benz-sells-european-fast-091827201.html"
+    ],
+    [
+     "ecomento",
+     "https://ecomento.de/2026/11/03/mercedes-benz-verkauft-europaeisches-schnellladenetz-an-electra/"
+    ]
+   ],
+   "berichterstattung": [
+    "handelsblatt.com",
+    "finance.yahoo.com",
+    "ecomento.de",
+    "autohaus.de",
+    "automobil-produktion.de",
+    "edison.media",
+    "mobiflip.de",
+    "auto-motor-und-sport.de",
+    "electrifying.com",
+    "electriccarsreport.com",
+    "ad-hoc-news.de"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "USA",
+    "Asien",
+    "Wahl"
+   ],
+   "kicker": "Asien · Wahlreaktion",
+   "titel": "Blaue Welle trifft Tokio und Seoul: Nikkei bricht um bis zu 4,5 Prozent ein",
+   "deck": "Die frühen Ergebnisse der US-Zwischenwahlen lösen in Asien einen Ausverkauf von KI- und Chipwerten aus, die US-Terminkontrakte geben deutlich nach.",
+   "text": [
+    "Die Börsen in Ostasien haben am Mittwochmorgen heftig auf die ersten Ergebnisse der amerikanischen Zwischenwahlen reagiert. Der japanische Nikkei 225 fiel im Verlauf um bis zu 4,5 Prozent und notierte zwischenzeitlich bei 60.835 Punkten, dem tiefsten Stand seit Anfang Mai. Der südkoreanische Kospi verlor gut drei Prozent auf rund 5.467 Punkte, nachdem er anfangs noch mehr als drei Prozent im Plus gelegen hatte. In Taiwan ging es um 2,3 Prozent abwärts, in Sydney um 0,8 Prozent. Hongkong und Shanghai hielten sich mit Abschlägen von rund 0,2 und 0,1 Prozent vergleichsweise gut.",
+    "Nach Projektionen von CNN und CBS haben die Demokraten die Mehrheit im Repräsentantenhaus zurückerobert; auch im Senat lagen sie in der Nacht vorn, unter anderem durch den Sieg von Roy Cooper in North Carolina. Anleger fürchten, dass ein demokratisch kontrollierter Kongress den Ausbau von KI-Rechenzentren und weitere fiskalische Impulse bremsen könnte. In Tokio brachen SoftBank um acht Prozent und der Speicherchiphersteller Kioxia um 10,8 Prozent ein, in Seoul gaben SK Hynix 3,2 und Samsung 1,8 Prozent nach. Hinzu kam, dass Japan nach einem Feiertag am Dienstag die Verluste der Chipwerte vom Wochenbeginn nachholte.",
+    "Auch an der Wall Street deutet sich ein schwacher Start an. Die Terminkontrakte auf den Nasdaq 100 verloren zeitweise rund zwei Prozent, jene auf den S&P 500 gut ein Prozent und die auf den Dow Jones 0,7 Prozent. Der Dollar gab gegenüber den meisten Währungen nach, zehnjährige US-Staatsanleihen waren als sicherer Hafen gefragt.",
+    "Charu Chanana, Chefanlagestrategin bei Saxo in Singapur, sagte, die Märkte preisten die Möglichkeit eines stärker als erwarteten Abschneidens der Demokraten ein. Pepperstone-Analyst Chris Weston hatte vorab gewarnt, für Händler sei der Unterschied zwischen einer knappen demokratischen Mehrheit und einem deutlichen Sieg entscheidend."
+   ],
+   "quellen": [
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-maerkte-fuerchten-sieg-der-demokraten-nikkei-stuerzt-ab-us-futures-fallen/100265439.html"
+    ],
+    [
+     "AP via News4Jax",
+     "https://www.news4jax.com/business/2026/11/04/asian-shares-fall-on-selling-of-tech-shares-as-markets-watch-for-results-of-us-midterm-elections/"
+    ],
+    [
+     "The National",
+     "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
+    ]
+   ],
+   "berichterstattung": [
+    "handelsblatt.com",
+    "asia.nikkei.com",
+    "investinglive.com",
+    "wsbtv.com",
+    "news4jax.com",
+    "finance.yahoo.com",
+    "brecorder.com",
+    "thenationalnews.com",
+    "cnbc.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "USA",
+    "KI"
+   ],
+   "kicker": "USA · Wall Street",
+   "titel": "Wahltag an der Wall Street: Chipwerte heben den Nasdaq, Apple drückt den Dow",
+   "deck": "Die großen Indizes gingen am 3. November getrennte Wege, der S&P 500 beendete eine dreitägige Verlustserie.",
+   "text": [
+    "Am Tag der US-Zwischenwahlen haben sich die New Yorker Aktienmärkte uneinheitlich gezeigt. Der S&P 500 stieg um 27,52 Punkte oder 0,4 Prozent auf 7.568,92 Punkte und beendete damit eine dreitägige Verlustserie. Der technologielastige Nasdaq Composite legte um 0,8 Prozent auf 25.372,01 Punkte zu. Der Dow Jones Industrial dagegen verlor 197,26 Punkte oder 0,4 Prozent auf 51.786,72 Punkte. Der Nebenwerteindex Russell 2000 gewann 0,2 Prozent.",
+    "Getragen wurde der Nasdaq von einer Erholung der Halbleiterwerte nach den Verlusten der Vortage. Microsoft, Amazon und Meta Platforms stiegen jeweils um mehr als zwei Prozent. Den Dow belastete Apple: Die Aktie gab rund zwei Prozent nach, obwohl der Konzern beim Gewinn und Umsatz die Erwartungen übertroffen hatte. Anleger störten sich an der Margenprognose, die wegen teurer Speicherchips schwächer ausfiel. Laut dem Branchendienst Stocktitan büßte Apple damit rund 94 Milliarden Dollar an Börsenwert ein. Palantir verlor 1,65 Prozent.",
+    "Bemerkenswert war die schwache Marktbreite: Obwohl der S&P 500 zulegte, fielen die meisten seiner Mitglieder. Nach Börsenschluss legte AMD einen Rekordumsatz von 13,4 Milliarden Dollar vor, die Aktie stieg nachbörslich um rund 6,6 Prozent; Arista Networks gewann nach einem Umsatzplus von 58,5 Prozent fast elf Prozent. Der Softwareanbieter Amdocs brach nach einer gesenkten Umsatzprognose um mehr als 40 Prozent ein.",
+    "Die Gewinne des Tages waren allerdings bald Makulatur: Mit den ersten Wahlergebnissen in der Nacht fielen die Terminkontrakte auf die US-Indizes deutlich, besonders jene auf den Nasdaq 100."
+   ],
+   "quellen": [
+    [
+     "AP via La Nación",
+     "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-1132026-nid03112026/"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-futures-130822524.html"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "finance.yahoo.com",
+    "asiae.co.kr",
+    "prnewswire.com",
+    "newswire.ca",
+    "stocktitan.net",
+    "lanacion.com.ar",
+    "wtop.com",
+    "krmg.com",
+    "deraktionaer.de",
+    "news4jax.com"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Dax",
+    "Öl"
+   ],
+   "kicker": "Deutschland · Aktien",
+   "titel": "Dax gibt vor der US-Wahl nach, Softwarewerte unter Druck",
+   "deck": "Ölpreisschwankungen, Softwareschwäche und abwartende Anleger drückten den Leitindex am Dienstag unter 25.900 Punkte.",
+   "text": [
+    "Der deutsche Aktienmarkt hat sich am Tag der US-Zwischenwahlen schwächer gezeigt. Der Dax schloss nach Angaben von dpa-AFX 0,45 Prozent tiefer bei 25.864,62 Punkten. Der MDax der mittelgroßen Werte verlor 0,36 Prozent auf 30.743,36 Punkte, der Eurozonen-Leitindex EuroStoxx 50 gab 0,51 Prozent auf 6.144,56 Punkte nach. In London fiel der FTSE 100 um 1,1 Prozent, in Zürich der SMI um 0,4 Prozent.",
+    "Belastet wurde die Stimmung zunächst durch Berichte über neue amerikanische Angriffe auf Ziele in Iran, die den Ölpreis zeitweise steigen ließen; Gerüchte über eine Annäherung zwischen Washington und Teheran sorgten nur kurz für Entlastung. Zugleich hielten sich viele Investoren vor den Wahlergebnissen zurück, die erst in der Nacht erwartet wurden.",
+    "Unter den Einzelwerten litt der Softwaresektor: SAP verlor 1,8 Prozent, nachdem der Nebenwert Teamviewer um 27 Prozent eingebrochen war, weil das Unternehmen für dieses Jahr kein Umsatzwachstum mehr erwartet. Schlusslicht im Dax war Zalando mit minus 6,3 Prozent; Analysten bemängelten die Bruttomarge, zudem nahmen Anleger nach der starken Erholung im Oktober Gewinne mit. Fresenius Medical Care fiel nach gesenkten Zielen des neuen Vorstandschefs um 3,6 Prozent, MTU nach einer Herabstufung durch die Bank of America um 3,1 Prozent.",
+    "An der Indexspitze stand Bayer mit plus 3,6 Prozent. Die Lufthansa gewann fast vier Prozent: Trotz eines erneut gekappten Gewinnziels kam die Ankündigung deutlich höherer Ticketpreise für 2027 gut an."
+   ],
+   "quellen": [
+    [
+     "dpa-AFX via onvista",
+     "https://www.onvista.de/news/2026/11-03-roundup-aktien-frankfurt-schluss-dax-zur-us-wahl-unter-oelpreiseinfluss-im-minus-0-10-26571981"
+    ],
+    [
+     "boerse.de",
+     "https://www.boerse.de/nachrichten-amp/ROUNDUP-Aktien-Frankfurt-Schluss-Dax-zur-US-Wahl-unter-Oelpreiseinfluss-im-Minus/38701941"
+    ],
+    [
+     "Ariva",
+     "https://www.ariva.de/news/aktien-frankfurt-schluss-dax-unter-oelpreiseinfluss-im-minus-12193188"
+    ]
+   ],
+   "berichterstattung": [
+    "onvista.de",
+    "boerse.de",
+    "de.investing.com",
+    "ariva.de",
+    "finanznachrichten.de",
+    "tradingeconomics.com"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "USA",
+    "Zinsen",
+    "Wahl"
+   ],
+   "kicker": "USA · Anleihen",
+   "titel": "Treasuries als sicherer Hafen: Rendite fällt in der Wahlnacht unter 4,9 Prozent",
+   "deck": "Am Wahltag hatten robuste Arbeitsmarktdaten die Renditen noch steigen lassen, über Nacht kehrte sich das Bild um.",
+   "text": [
+    "Am amerikanischen Anleihemarkt hat die Wahlnacht eine Kehrtwende ausgelöst. Am Dienstag war die Rendite zehnjähriger Staatsanleihen noch auf 4,96 Prozent gestiegen, nach 4,91 Prozent am späten Montag. Auslöser war vor allem der JOLTS-Bericht: Die Zahl der offenen Stellen blieb im September mit 7,5 Millionen nahezu unverändert und deutete auf einen robusten Arbeitsmarkt hin. Zudem trieb der wieder anziehende Ölpreis nach den Berichten über US-Angriffe auf die iranische Insel Qeschm zeitweise die Inflationssorgen.",
+    "Mit den ersten Ergebnissen, die auf einen deutlichen Sieg der Demokraten hindeuteten, flüchteten Anleger dann aus Aktien in Staatsanleihen. Nach Bloomberg-Daten fiel die Zehnjahresrendite im asiatischen Handel um sieben Basispunkte auf 4,89 Prozent und näherte sich damit dem tiefsten Stand seit acht Wochen. Andrew Ticehurst, Zinsstratege bei Nomura, sagte, eine „blaue Welle“ gelte gemeinhin als negativ für den Dollar und positiv für US-Staatsanleihen. Hintergrund ist die Erwartung, dass ein geteilter Kongress weitere schuldenfinanzierte Ausgabenprogramme erschwert.",
+    "Am Mittwoch legt das Finanzministerium die Details seiner Refinanzierungsplanung für das laufende Quartal vor. Für Oktober bis Dezember rechnet es mit einem Kreditbedarf von 618 Milliarden Dollar, zehn Milliarden weniger als zuvor geschätzt, was allerdings auf einen höheren Kassenbestand zurückgeht.",
+    "Für die Geldpolitik sehen die Märkte weiter eine Straffung: Laut CME FedWatch lag die Wahrscheinlichkeit einer Zinserhöhung der Fed im Dezember am Dienstag bei 79 Prozent. Die Notenbank hatte ihr Zielband zuletzt bei 3,75 bis 4 Prozent belassen, zwei Mitglieder stimmten für eine Anhebung. Die nächste Sitzung ist am 8. und 9. Dezember."
+   ],
+   "quellen": [
+    [
+     "Trading Economics",
+     "https://tradingeconomics.com/united-states/government-bond-yield"
+    ],
+    [
+     "The National",
+     "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
+    ],
+    [
+     "PR Newswire",
+     "https://www.prnewswire.com/news-releases/election-day-trading-splits-the-benchmarks-with-the-dow-lower-and-the-nasdaq-higher-302928098.html"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "tradingeconomics.com",
+    "kucoin.com",
+    "coinpaper.com",
+    "rallies.ai",
+    "thenationalnews.com",
+    "news4jax.com",
+    "prnewswire.com",
+    "kitco.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Devisen",
+    "Dollar",
+    "Euro",
+    "Wahl"
+   ],
+   "kicker": "Devisen · Dollar",
+   "titel": "Dollar unter Druck, Franken und Yen gefragt",
+   "deck": "Der Euro steigt auf rund 1,125 Dollar, der Dollar-Index fällt unter 101,5 Punkte.",
+   "text": [
+    "Die Aussicht auf einen von den Demokraten kontrollierten Kongress hat den Dollar in der Nacht zum Mittwoch geschwächt. Der Dollar-Index, der die US-Währung gegen sechs wichtige Währungen misst, fiel um rund 0,5 Prozent auf etwa 101,3 Punkte. Der Euro stieg um 0,5 Prozent auf 1,1249 Dollar, nachdem er am Vortag noch bei rund 1,119 Dollar gelegen hatte. Das Pfund legte 0,4 Prozent auf 1,346 Dollar zu.",
+    "Zu den größten Gewinnern zählten die klassischen Fluchtwährungen. Der Dollar verlor 0,9 Prozent zum Schweizer Franken auf 0,8133 Franken. Der Yen gewann 0,7 Prozent auf 157,63 je Dollar, nachdem der Kurs am Vortag noch bei knapp 158,7 gelegen hatte. Auch der südkoreanische Won legte um 0,5 Prozent zu. Der australische Dollar dagegen blieb mit rund 0,696 Dollar nahe einem Zweiwochentief, obwohl die Notenbank in Sydney am Dienstag den Leitzins angehoben hatte; drei Gegenstimmen im Rat nährten die Erwartung, dass das Ende der Straffung naht.",
+    "Carol Kong von der Commonwealth Bank of Australia sagte, der Dollar könne von hier aus weiter fallen, da eine demokratische Mehrheit die Staatsausgaben begrenzen würde. Sie verwies aber auch auf ein Gegenrisiko: Sollte Präsident Trump die Angriffe auf Iran nach der Wahl wieder aufnehmen, könnte ein steigender Ölpreis den Dollar stützen. Moh Siong Sim von der OCBC gab zu bedenken, dass es selbst bei einem demokratischen Durchmarsch schwierig bleibe, auf Bundesebene Gesetze durchzubringen.",
+    "Am Donnerstag rückt das Pfund in den Mittelpunkt: Die Bank of England dürfte dann erstmals seit August 2023 den Leitzins anheben."
+   ],
+   "quellen": [
+    [
+     "Reuters via Yahoo Finance",
+     "https://finance.yahoo.com/markets/currencies/articles/dollar-drops-sharply-democrats-early-034310225.html"
+    ],
+    [
+     "Investing.com",
+     "https://za.investing.com/news/forex-news/asian-fx-gains-as-dollar-falls-on-us-midterm-results-yuan-weakens-on-pboc-move-4548114"
+    ],
+    [
+     "AP via News4Jax",
+     "https://www.news4jax.com/business/2026/11/04/asian-shares-fall-on-selling-of-tech-shares-as-markets-watch-for-results-of-us-midterm-elections/"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "investing.com",
+    "finance.yahoo.com",
+    "aol.com",
+    "cnbc.com",
+    "mitrade.com",
+    "news4jax.com"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "China",
+    "Devisen",
+    "Notenbank"
+   ],
+   "kicker": "China · Währung",
+   "titel": "Peking tritt auf die Yuan-Bremse",
+   "deck": "Die Notenbank erhöht die Mindestreserve auf Devisen von vier auf sechs Prozent und beendet damit die längste Aufwertungsserie seit 1996.",
+   "text": [
+    "Chinas Zentralbank stemmt sich gegen eine allzu rasche Aufwertung der eigenen Währung. Die People's Bank of China hebt den Mindestreservesatz für Fremdwährungseinlagen der Finanzinstitute um zwei Prozentpunkte von vier auf sechs Prozent an; die Regel gilt ab dem 15. November. Banken müssen damit mehr Devisen vorhalten, was das Angebot an Dollar am Markt verknappt und den Aufwärtsdruck auf den Yuan mindert.",
+    "Die Wirkung zeigte sich sofort. Am Dienstag schwächte sich der Yuan im Inlandshandel um bis zu 0,4 Prozent auf 6,6766 je Dollar ab und beendete damit eine Serie von 13 Gewinntagen in Folge, die längste seit 1996. Im Offshore-Handel verzeichnete die Währung den stärksten Tagesverlust seit Mitte Mai. Am Mittwoch legte die Notenbank ihren Referenzkurs bei 6,7180 je Dollar fest und damit deutlich schwächer als von Analysten mit 6,6811 erwartet. Der Yuan notierte im Handel bei rund 6,68 je Dollar, dem schwächsten Stand seit mehr als zwei Wochen.",
+    "Trotz der Gegenbewegung liegt der Yuan in diesem Jahr noch mehr als vier Prozent im Plus und damit vor vielen asiatischen Währungen. Getragen wird er von starken Exporten, dem Umtausch von Dollar-Erlösen durch Unternehmen und einer bislang toleranten Haltung Pekings. Die Notenbank flankierte den Schritt mit weiteren Maßnahmen für den Aktienmarkt: Den Zins für Kredite zur Finanzierung von Aktienrückkäufen senkte sie auf ein Prozent; die Anträge für solche Darlehen überstiegen laut Marktberichten 200 Milliarden Yuan."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://za.investing.com/news/forex-news/asian-fx-gains-as-dollar-falls-on-us-midterm-results-yuan-weakens-on-pboc-move-4548114"
+    ],
+    [
+     "investingLive",
+     "https://investinglive.com/news/investinglive-asia-pacific-market-news-stocks-slide-as-trump-slammed-in-mid-terms-loss/"
+    ]
+   ],
+   "berichterstattung": [
+    "investing.com",
+    "investinglive.com",
+    "marketnews.com",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Zinsen",
+    "Großbritannien",
+    "Notenbank"
+   ],
+   "kicker": "Großbritannien · Geldpolitik",
+   "titel": "Bank of England vor der ersten Zinserhöhung seit drei Jahren",
+   "deck": "Am Donnerstag dürfte der Leitzins von 3,75 auf 4 Prozent steigen. Die Märkte rechnen mit weiteren Schritten im kommenden Jahr.",
+   "text": [
+    "Die britische Notenbank steht vor einer geldpolitischen Wende. Für die Sitzung am Donnerstag, 5. November, erwarten Märkte und die meisten Volkswirte eine Anhebung des Leitzinses um einen Viertelprozentpunkt auf 4 Prozent. Es wäre die erste Erhöhung seit August 2023. Seit einer Senkung im Dezember 2025 liegt die Bank Rate bei 3,75 Prozent. Schon im September hatten drei der neun Mitglieder des geldpolitischen Ausschusses, Megan Greene, Catherine Mann und Huw Pill, für einen Schritt auf 4 Prozent gestimmt; Gouverneur Andrew Bailey gehörte zur Mehrheit, die abwartete.",
+    "Der Druck kommt von den Preisen. Die Verbraucherinflation stieg im September auf 3,5 Prozent, nach 3,1 Prozent im August, und damit stärker als erwartet; maßgeblich waren die Kraftstoffkosten infolge des Kriegs mit Iran. Die Haushaltsaufsicht OBR erwartet Anfang 2027 eine Teuerung nahe 4 Prozent. In einer Reuters-Umfrage unter 63 Ökonomen von Mitte Oktober rechneten 54 mit einer Anhebung im November. Bailey hatte Ende September gewarnt, anhaltend hohe Energiepreise machten es schwieriger, die Zinsen unverändert zu lassen.",
+    "Nach einer Erhöhung im November preisen die Märkte nach Reuters-Angaben drei bis vier weitere Schritte im Jahr 2027 ein, was den Leitzins auf 4,75 bis 5 Prozent bringen würde. Vor dem Nahost-Konflikt waren für 2026 noch zwei Senkungen erwartet worden. Mehrere Häuser, darunter Oxford Economics, Fidelity International, ING und die Bank of America, rechnen dagegen nur mit einem weiteren Schritt im Februar. Als Argument für Zurückhaltung gelten die leicht steigende Arbeitslosigkeit und nachlassende Lohnzuwächse in der Privatwirtschaft."
+   ],
+   "quellen": [
+    [
+     "HomeOwners Alliance",
+     "https://hoa.org.uk/news/interest-rate-predictions-2/"
+    ],
+    [
+     "investingLive",
+     "https://investinglive.com/central-banks/boe-bailey-bangkok-what-could-possibly-go-wrong-preview-and-3-questions-for-the-governor/"
+    ],
+    [
+     "Cambridge Currencies",
+     "https://cambridgecurrencies.com/next-bank-of-england-interest-rate-decision/"
+    ]
+   ],
+   "berichterstattung": [
+    "hoa.org.uk",
+    "investinglive.com",
+    "cambridgecurrencies.com",
+    "poundsterlinglive.com",
+    "sovereignmagazine.com",
+    "primexbt.com",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Rohstoffe",
+    "Nahost"
+   ],
+   "kicker": "Rohstoffe · Öl",
+   "titel": "Brent fällt auf den tiefsten Stand seit Anfang Oktober",
+   "deck": "Friedensgespräche zu Iran und der Ukraine überwiegen die Sorge vor neuen Angriffen. Das Nordseeöl schließt bei 103,60 Dollar.",
+   "text": [
+    "Die Ölpreise haben ihren Rückgang am Dienstag fortgesetzt. Die Nordseesorte Brent schloss 1,17 Dollar oder gut ein Prozent tiefer bei 103,60 Dollar je Barrel, dem niedrigsten Schlusskurs seit dem 7. Oktober. Die US-Sorte WTI verbilligte sich um 37 Cent auf 96,09 Dollar, den tiefsten Stand seit dem 14. Oktober. Am Montag war Brent bereits um 7,6 Prozent eingebrochen. Im frühen asiatischen Handel am Mittwoch gab der Preis weiter auf rund 103,1 Dollar nach.",
+    "Zu Handelsbeginn hatte der Markt noch zugelegt. Ein Bericht des Wall Street Journal über amerikanische Angriffe auf die iranische Insel Qeschm hatte Brent zunächst über 105 Dollar getrieben. Tim Waterer von KCM Trade sprach von einer Rückkehr der Risikoprämie. Ein US-Vertreter bezeichnete die Angriffe später jedoch als begrenzt. Iran und die USA lägen bei einem Abkommen noch weit auseinander, sagte ein hochrangiger iranischer Vertreter; der Vermittler Katar erklärte, beide Seiten prüften Vorschläge.",
+    "Zusätzlich drückten Hoffnungen auf ein Ende des Ukraine-Kriegs: Russland, die Ukraine und die USA wollen am 10. und 11. November in Abu Dhabi zu Dreiergesprächen zusammenkommen. Analysten erwarteten für die Woche bis 30. Oktober zudem den ersten Anstieg der US-Rohöllagerbestände seit fünf Wochen. Die ING mahnte, es sei wohl zu früh, die Eskalationsrisiken für überstanden zu halten. Der Verkehr durch die Straße von Hormus, über die normalerweise rund ein Fünftel des weltweiten Rohöls und Erdgases läuft, ist seit Kriegsbeginn Ende Februar stark eingebrochen."
+   ],
+   "quellen": [
+    [
+     "Reuters via Central Oregon Daily",
+     "https://www.centraloregondaily.com/news/consumer/oil-prices-ease-to-settle-near-4-week-low-on-hopes-peace-talks-will-end/article_fb735ac6-1ebb-585c-8284-af7d770292d0.html"
+    ],
+    [
+     "Reuters via Yahoo Finance",
+     "https://finance.yahoo.com/energy/articles/oil-rises-report-us-strike-012715191.html"
+    ],
+    [
+     "AP via News4Jax",
+     "https://www.news4jax.com/business/2026/11/04/asian-shares-fall-on-selling-of-tech-shares-as-markets-watch-for-results-of-us-midterm-elections/"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "asiae.co.kr",
+    "nationthailand.com",
+    "cnbc.com",
+    "asiaone.com",
+    "finance.biggo.com",
+    "centraloregondaily.com",
+    "globalbankingandfinance.com"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Rohstoffe",
+    "Notenbanken"
+   ],
+   "kicker": "Rohstoffe · Edelmetalle",
+   "titel": "Gold bleibt unter 4.000 Dollar, Notenbanken kaufen so viel wie lange nicht",
+   "deck": "Steigende Renditen und ein festerer Dollar drücken den Preis. Der World Gold Council meldet 42 Prozent mehr Käufe der Zentralbanken.",
+   "text": [
+    "Der Goldpreis ist am Dienstag den zweiten Tag in Folge unter der Marke von 4.000 Dollar geblieben. Der Terminkontrakt zur Lieferung im Dezember schloss 0,7 Prozent tiefer bei 3.940,40 Dollar je Feinunze; der Kassapreis fiel zeitweise bis auf 3.893 Dollar. Silber verbilligte sich um 1,9 Prozent auf rund 49,70 Dollar, Platin ebenfalls um 1,9 Prozent und Palladium um 3,4 Prozent. Gold liegt damit fast 29 Prozent unter seinem Rekord vom 28. Januar.",
+    "Belastet wurde das zinslose Edelmetall vom festeren Dollar und den steigenden Renditen amerikanischer Staatsanleihen am Wahltag. Händler bezifferten die Wahrscheinlichkeit einer Zinserhöhung der Fed im Dezember laut CME FedWatch auf 79 Prozent. Der zwischenzeitlich fallende Ölpreis milderte zwar die Inflationssorgen und bescherte Gold einen kurzen Anstieg, der aber nicht hielt.",
+    "Gestützt wird der Markt langfristig von den Zentralbanken. Nach dem am Dienstag veröffentlichten Quartalsbericht des World Gold Council kauften sie im dritten Quartal geschätzt 321 Tonnen, 42 Prozent mehr als ein Jahr zuvor. Größter offengelegter Käufer war die chinesische Notenbank mit 63 Tonnen, gefolgt von Polen mit 40 Tonnen. Rund 63 Prozent der geschätzten Käufe wurden nicht offiziell gemeldet. Goldfonds verzeichneten Zuflüsse von 211 Tonnen. Die Schmucknachfrage brach dagegen wegen der hohen Preise um 17 Prozent auf 313 Tonnen ein. Die Gesamtnachfrage lag mit 1.369 Tonnen ein Prozent unter dem Vorjahr. Seine Prognose für das Wachstum der Investmentnachfrage 2026 halbierte der Verband auf 200 Tonnen."
+   ],
+   "quellen": [
+    [
+     "Reuters via Kitco",
+     "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus"
+    ],
+    [
+     "Mugglehead",
+     "https://mugglehead.com/central-banks-third-quarter-gold-buying-reported-estimated-demand/"
+    ],
+    [
+     "The Rio Times",
+     "https://www.riotimesonline.com/gold-silver-precious-metals-tuesday-november-3-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "mining.com",
+    "finance.yahoo.com",
+    "cnbc.com",
+    "nationthailand.com",
+    "riotimesonline.com",
+    "gurufocus.com",
+    "investinglive.com",
+    "mugglehead.com",
+    "goldsilver.com",
+    "gold.org",
+    "marketscreener.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börsengang",
+    "KI",
+    "USA"
+   ],
+   "kicker": "USA · Börsengänge",
+   "titel": "Anthropic: Investoren drängen auf niedrigere Bewertung, Roadshow ab 9. November",
+   "deck": "Statt rund zwei Billionen Dollar sollen es eher 1,5 bis 1,6 Billionen werden. Ein Konsortium aus 22 Banken bereitet die Vermarktung vor.",
+   "text": [
+    "Vor dem erwarteten Börsengang des KI-Entwicklers Anthropic dämpfen große Investoren die Erwartungen. Nach Berichten des Wall Street Journal und von Reuters drängen institutionelle Anleger das Unternehmen und seine Berater, die Bewertung auf 1,5 bis 1,6 Billionen Dollar anzusetzen, statt der zuvor diskutierten rund zwei Billionen. Als Gründe gelten die jüngste Kursschwäche bei Technologiewerten und die Zweifel an der Rentabilität der hohen KI-Investitionen. Dan Ives von Yorkville Ives & Co. sieht Druck auf die Bewertung und spricht von einem beginnenden Auseinanderdriften von Gewinnern und Verlierern im KI-Handel.",
+    "Ein Konsortium aus 22 Banken unter Führung von Goldman Sachs und Morgan Stanley will laut Tech Times in der Woche ab dem 9. November mit der formellen Vermarktung bei Investoren beginnen. Der Handel könnte demnach um den 26. November, kurz vor Thanksgiving, starten, sofern Marktlage und Aufsicht es zulassen. Ausgabepreis, Zahl der Aktien und Emissionsvolumen enthält der überarbeitete Börsenprospekt noch nicht.",
+    "Zum Vergleich: SpaceX hatte bei seinem Debüt im Juni 86,2 Milliarden Dollar eingesammelt, bei einer Bewertung von rund 1,77 Billionen Dollar. Eine Bewertung von 1,5 bis 1,6 Billionen würde Anthropic dennoch unter die größten Börsengänge der US-Geschichte einreihen. Bei seiner letzten privaten Finanzierungsrunde im Mai war das Unternehmen mit 965 Milliarden Dollar bewertet worden. Für die Kapitalmärkte gilt die Emission als Gradmesser dafür, wie viel Vertrauen Anleger nach den jüngsten Verlusten noch in das KI-Geschäft setzen."
+   ],
+   "quellen": [
+    [
+     "Tech Times",
+     "https://www.techtimes.com/articles/329931/20261103/anthropic-ipo-filing-shows-revenue-growth-slowing-investors-cut-target-valuation.htm"
+    ],
+    [
+     "Ground News",
+     "https://ground.news/article/anthropic-ipo-valuation-expectations-fall-to-15-trillion-16-trillion"
+    ],
+    [
+     "Let's Data Science",
+     "https://letsdatascience.com/blog/anthropic-grew-45-percent-quarter-investors-1-5-trillion"
+    ]
+   ],
+   "berichterstattung": [
+    "techtimes.com",
+    "ground.news",
+    "letsdatascience.com",
+    "investinglive.com",
+    "fourweekmba.com",
+    "finance.yahoo.com",
+    "tokenpost.com",
+    "finimize.com",
+    "nypost.com",
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "USA",
+    "Regulierung"
+   ],
+   "kicker": "USA · Krypto-Politik",
+   "titel": "Midterms: Das Krypto-Geld verliert seinen Prüfstein in Ohio",
+   "deck": "Sherrod Brown kehrt laut Projektionen trotz rund 63 Millionen Dollar an Gegenkampagnen der Branche in den Senat zurück, der CLARITY Act rückt in weite Ferne.",
+   "text": [
+    "Für die Kryptobranche war das Senatsrennen in Ohio der wichtigste Test der US-Zwischenwahlen. Die Branchen-PACs Fairshake und Digital Freedom Fund hatten in den zwei Monaten vor der Wahl zusammen rund 63 Millionen Dollar gegen den Demokraten Sherrod Brown ausgegeben, den langjährigen Vorsitzenden des Bankenausschusses und scharfen Kritiker der Branche. Nach Projektionen, über die Coindesk in der Nacht berichtete, schlägt Brown dennoch Amtsinhaber Jon Husted. Das Rennen gilt als das teuerste der US-Geschichte. Insgesamt hatten Krypto-Gruppen laut Reuters-Daten, die Cointelegraph zitiert, rund 176 Millionen Dollar in mehr als 100 Rennen investiert.",
+    "Nach Projektionen von NBC News auf Basis von AP-Daten gewinnen die Demokraten das Repräsentantenhaus; mehrere Medien sehen sie auch im Senat vorn, die Auszählung war bei Redaktionsschluss jedoch nicht abgeschlossen. Für die Branche heißt das: Maxine Waters dürfte den Finanzausschuss des Repräsentantenhauses übernehmen, Elizabeth Warren steht für den Vorsitz des Senats-Bankenausschusses bereit. Mit der Mehrheit erhielten die Demokraten auch Vorladungsrechte, Analyst Jaret Seiberg von TD Cowen erwartet Untersuchungen zu Trumps Krypto-Geschäften.",
+    "Besonders betroffen ist das Marktstrukturgesetz CLARITY Act. Es war im September im Senat mit 49 zu 50 Stimmen gescheitert, nötig wären 60 gewesen. Verabschiedet der alte Kongress es nicht bis zum 3. Januar, verfällt es; eine Neuauflage müsste dann durch den von Waters geführten Ausschuss. TD Cowen erwartet keine Verabschiedung in den kommenden zwei Jahren. Die Regulierung dürfte sich damit stärker auf die Rulemaking-Arbeit von SEC und CFTC verlagern; die SEC hatte zuletzt ihre FAQ zu Kryptowerten um Hinweise ergänzt, wann in der Token-Governance eine zentrale Partei vorliegt. Stablecoins bleiben über den GENIUS Act geregelt.",
+    "Am Markt fiel Bitcoin in der Wahlnacht kurzzeitig unter 76.000 Dollar, den tiefsten Stand seit Mitte September. Analysten führten die Risikoscheu allerdings eher auf die Sorge vor strengeren Regeln für KI-Rechenzentren und neuen Haushaltsstreit zurück als auf die Kryptopolitik."
+   ],
+   "quellen": [
+    [
+     "Coindesk",
+     "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog"
+    ],
+    [
+     "Cointelegraph",
+     "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?amp=&amp="
+    ],
+    [
+     "Cryptoticker",
+     "https://cryptoticker.io/en/democrats-win-house-midterms-2026-crypto/"
+    ]
+   ],
+   "berichterstattung": [
+    "coindesk.com",
+    "cointelegraph.com",
+    "cryptoticker.io",
+    "forbes.com"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "DeFi",
+    "Ethereum"
+   ],
+   "kicker": "DeFi · Cross-Chain",
+   "titel": "Ein Ethereum-Reorg legt THORChain lahm",
+   "deck": "Eine verworfene Einzahlung über 10 ETH löste eine doppelte Rückerstattung aus. Seither ruht der Handel für Bitcoin, Ether und Solana – und damit auch eine Waschroute für die Binance-Beute.",
+   "text": [
+    "Das Cross-Chain-Protokoll THORChain hat am Samstag, 31. Oktober, den Handel auf zehn seiner 13 angebundenen Blockchains gestoppt. Auslöser war eine Reorganisation auf Ethereum: Eine Einzahlung über 10 ETH stand in einem Block, der später aus der kanonischen Kette fiel. THORChain hatte die Einzahlung bereits gutgeschrieben. Weil der zugehörige Swap sein Preislimit verfehlte, erstattete der Vault den Betrag zurück und zahlte damit Ether für eine Einzahlung aus, die es auf der gültigen Kette nie gab.",
+    "Die automatische Solvenzprüfung des Protokolls erkannte die Lücke und hielt die ETH-Swaps an; rund zwei Minuten später stoppten die Node-Betreiber die Signatur von ETH-Transaktionen und vorsorglich weitere Netze. Betroffen waren ATOM, BCH, BSC, BTC, DOGE, ETH, LTC, SOL, TRON und ZEC. Der Nutzer gab die 10 ETH, umgerechnet etwa 23.000 Dollar, zurück, die Solvenz des Vaults ist wiederhergestellt. Avalanche, Base, das XRP Ledger und das eigene RUNE-Netz laufen wieder; für Bitcoin, Ether und Solana gibt es noch keinen Neustarttermin. Die Kernentwickler arbeiten an Korrekturen, über die Wiederaufnahme entscheiden die Node-Betreiber.",
+    "Der Stillstand hat eine Nebenwirkung: Er bremst die Geldwäsche aus dem Binance-Hack. Nach Analysen, auf die sich The Block beruft, wurden binnen zwei Tagen rund 242 Millionen Dollar über Tron gewaschen, etwa 44 Millionen davon über THORChain. Das FBI hat Swap-Dienste und DeFi-Protokolle aufgefordert, 608 Ethereum-, 19 Bitcoin- und eine Solana-Adresse der Angreifer zu sperren. Der RUNE-Token verlor bis Montag mehr als 18 Prozent auf rund 0,51 Dollar."
+   ],
+   "quellen": [
+    [
+     "Tokenpost",
+     "https://www.tokenpost.com/news/technology/46005"
+    ],
+    [
+     "Cryptoticker",
+     "https://cryptoticker.io/en/thorchain-swap-pause-bitcoin-ether-laundering/"
+    ]
+   ],
+   "berichterstattung": [
+    "tokenpost.com",
+    "cryptoticker.io",
+    "cryptobriefing.com",
+    "coin-turk.com",
+    "cryptorank.io",
+    "coinpedia.org",
+    "blockonomi.com",
+    "cryptodnes.bg",
+    "coingabbar.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Tokenisierung"
+   ],
+   "kicker": "Tokenisierung · Wertpapiere",
+   "titel": "Tokenisierte Aktien auf Solana: Securitize verdoppelt fast das Angebot",
+   "deck": "Die Plattform listet nun 25 US-Aktien als Token, StoneX sieht im neuen DTCC-Dienst eher Rückenwind als Konkurrenz.",
+   "text": [
+    "Der Tokenisierungsanbieter Securitize hat sein Angebot tokenisierter US-Aktien am Montag um 13 Titel auf 25 erweitert, darunter ExxonMobil, GameStop, Salesforce und Disney. Die Token laufen auf Solana und sind eins zu eins durch die zugrunde liegenden Aktien gedeckt. Berechtigte Anleger erhalten die wirtschaftlichen Rechte einschließlich Dividenden und, wo vorgesehen, Stimmrechte.",
+    "Die Erweiterung fällt in eine Phase, in der die traditionelle Marktinfrastruktur nachzieht. Die US-Wertpapierverwahrstelle DTCC hat einen eigenen Tokenisierungsdienst gestartet, der zunächst als permissioned Lösung auf ausgewählte Wertpapiere, Teilnehmer und Netzwerke beschränkt ist. StoneX-Analyst Mark Palmer sieht darin eine Bestätigung für Securitize, nicht eine Bedrohung: Die beiden bedienten unterschiedliche Märkte. Securitize setze auf öffentliche Blockchains und DeFi-taugliche Assets und verfüge als einzige Plattform über den vollen Regulierungsstapel aus SEC-registriertem Transfer Agent, Broker-Dealer und alternativem Handelssystem. Rund um die Uhr bewegliche tokenisierte Staatsanleihen könnten zudem die Nachfrage nach tokenisierten Fondsanteilen als Sicherheiten erhöhen. Tokenisierte Privatkredite auf Solana erreichen bereits 1,44 Milliarden Dollar; Token von Securitize und Maple werden etwa im Lending-Markt Kamino als Collateral akzeptiert.",
+    "Auch andernorts geht es voran: Die NYSE holt Broadridge für On-Chain-Abstimmungen der Aktionäre tokenisierter Aktien, Standard Chartered bietet Firmenkunden in Hongkong tokenisierte Einlagen an, und die Hongkonger Währungsbehörde will Stablecoins in Erprobungen des Exchange Fund einbeziehen. Consensys stellte am Dienstag einen Stack für ledgerübergreifendes Settlement und Routing in institutionellen Netzen vor."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331"
+    ],
+    [
+     "KuCoin Daily Report",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-3-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Hack",
+    "Börse"
+   ],
+   "kicker": "Kryptobörsen · Sicherheit",
+   "titel": "Nach Binance: Hack in Brasilien, Seoul verlangt mehr Cold Storage",
+   "deck": "Mercado Bitcoin verliert rund 46 Millionen Dollar, Südkoreas Finanzaufsicht ruft die Börsen zu einer Krisensitzung.",
+   "text": [
+    "Wenige Tage nach dem Rekordraub bei Binance ist die nächste Kryptobörse getroffen worden. Mercado Bitcoin, die größte Börse Brasiliens, meldete am Montag einen Sicherheitsvorfall mit einem Schaden von rund 46 Millionen Dollar und setzte Ein- und Auszahlungen aus. Details zum Angriffsweg lagen zunächst nicht vor.",
+    "In Südkorea berief die Finanzaufsicht FSC eine Notsitzung mit den Kryptobörsen des Landes ein und forderte, mehr Kundenvermögen in Cold Wallets zu halten. Parallel plant Seoul ab 2027 eine Kapitalertragsteuer von elf Prozent auf Gewinne aus Perpetual-Kontrakten auf US-Aktien, die an ausländischen Börsen gehandelt werden.",
+    "Binance selbst arbeitet an der Normalisierung. Die Börse hat nach eigenen Angaben 95 Prozent der betroffenen Bestände wieder aufgefüllt und Zero-Knowledge-Reservenachweise für zehn große Assets veröffentlicht. Die Netto-Abflüsse binnen 24 Stunden sanken von einem Höchststand von etwa sieben auf 3,5 Milliarden Dollar, das Verhältnis von Ein- zu Auszahlungen erholte sich auf 78 Prozent. Laut Elliptic sind von 6,43 Milliarden Dollar gestohlenen Vermögenswerten rund 2,85 Milliarden eingefroren oder beschlagnahmt. Zur Rückgewinnung der Liquidität legte Binance eine USDC-Belohnungsaktion über 20 Millionen Dollar auf und bietet einzelnen Market Makern höhere Rabatte; die Orderbuchtiefe bei Bitcoin war laut Talos zeitweise um rund 30 Prozent eingebrochen."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
+    ],
+    [
+     "KuCoin Daily Report",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-3-2026"
+    ],
+    [
+     "Cryptoticker",
+     "https://cryptoticker.io/en/thorchain-swap-pause-bitcoin-ether-laundering/"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "kucoin.com",
+    "cryptoticker.io",
+    "bitcoinnewsdigest.substack.com"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Altcoins"
+   ],
+   "kicker": "Altcoins · Tokenomics",
+   "titel": "NEAR drosselt die Inflation, Lisk schaltet seine Chain ab",
+   "deck": "Zwei Layer-1-Projekte ziehen Konsequenzen aus schwacher Nachfrage – mit sehr unterschiedlichen Folgen für die Halter.",
+   "text": [
+    "Die Governance von NEAR hat einen Vorschlag gebilligt, die Obergrenze der jährlichen Token-Ausgabe auf 1,6 Prozent zu senken. Der Token legte daraufhin um fast fünf Prozent zu. Für Staker bedeutet die niedrigere Emission perspektivisch geringere nominale Staking-Erträge, dafür weniger Verwässerung.",
+    "Einen radikaleren Schritt ist Lisk gegangen. Nach rund zehn Jahren wurde die Lisk Chain am 31. Oktober abgeschaltet, auch die Lisk DAO samt Abstimmungsverträgen wird aufgelöst. LSK lebt als Token auf dem bestehenden Ethereum-Kontrakt weiter und soll künftig als Treuepunkt in der Zahlungs- und Treasury-Software dienen, auf die sich das Projekt für Unternehmenskunden ausrichtet.",
+    "Geplant ist, 100 Millionen LSK aus der DAO-Treasury zu verbrennen, womit das Gesamtangebot von 400 auf 300 Millionen sinken würde. LSK, das bis zur Abschaltung nicht von der Lisk Chain abgezogen wurde, ist nach Angaben aus dem Projektumfeld nicht mehr zugänglich; Bestände auf Ethereum oder bei Handelsplätzen sind nicht betroffen. Der Kurs fiel nach der Abschaltung um fast 18 Prozent."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378"
+    ],
+    [
+     "KuCoin Daily Report",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-3-2026"
+    ],
+    [
+     "Cryptoticker",
+     "https://cryptoticker.io/en/lisk-chain-shutdown-lsk-bridge-deadline/"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "kucoin.com",
+    "cryptoticker.io",
+    "cryptobriefing.com"
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Private Credit",
+    "USA"
+   ],
+   "kicker": "USA · Vermögensverwalter",
+   "titel": "Apollo: Rekord bei der Kreditvergabe, aber Zinsanstieg reißt Lücke in die Bilanz",
+   "deck": "Der Finanzinvestor verwaltet inzwischen rund 1,07 Billionen Dollar, schreibt nach US-Bilanzregeln aber einen Quartalsverlust von 1,1 Milliarden Dollar.",
+   "text": [
+    "Der amerikanische Finanzinvestor und Vermögensverwalter Apollo Global Management hat am Dienstagmorgen Zahlen zum dritten Quartal vorgelegt, die zwei Seiten zeigen. Der bereinigte Nettogewinn belief sich auf 1,3 Milliarden Dollar oder 2,07 Dollar je Aktie. Die Erträge aus Verwaltungsgebühren (Fee Related Earnings) lagen bei 802 Millionen Dollar. Nach US-Bilanzierungsregeln (GAAP) wies Apollo dagegen einen Verlust von 1,1 Milliarden Dollar oder 1,78 Dollar je Aktie aus.",
+    "Den Verlust führt das Unternehmen vor allem auf nicht realisierte Bewertungsverluste bei bestimmten Kapitalanlagen seines Altersvorsorgegeschäfts (Retirement Services) zurück, ausgelöst durch die gestiegenen Zinsen. Für ein Haus, dessen Geschäftsmodell stark auf Lebensversicherungs- und Rentenprodukte der Tochter Athene setzt, schlagen Zinsbewegungen unmittelbar auf die Bilanz durch.",
+    "Im operativen Geschäft meldete Apollo dagegen Wachstum. Im Quartal flossen dem Haus 53 Milliarden Dollar an neuen Geldern zu, das verwaltete Vermögen erreichte zum 30. September rund 1,07 Billionen Dollar. Über zwölf Monate summierten sich die Zuflüsse laut Apollo auf 270 Milliarden Dollar. Konzernchef Marc Rowan hob hervor, die Kreditvergabe (Origination) habe mit 114 Milliarden Dollar einen neuen Höchststand erreicht; die starken Zahlen spiegelten das „Schwungrad“ des Modells, das mit der Beschaffung von immer mehr guten Anlagen beginne.",
+    "Die Börse reagierte verhalten: Am Vormittag notierte die Aktie bei 114,15 Dollar und damit 4,45 Prozent im Minus. Die Aktionäre erhalten eine Quartalsdividende von 0,5625 Dollar je Aktie, zahlbar am 30. November an alle, die am 18. November im Aktienregister stehen."
+   ],
+   "quellen": [
+    [
+     "Apollo / SEC (Quartalsmitteilung)",
+     "https://www.sec.gov/Archives/edgar/data/0001858681/000185868126000063/erex9913q2026.htm"
+    ],
+    [
+     "PR Newswire (Marktbericht)",
+     "https://www.prnewswire.com/news-releases/election-day-trading-splits-the-benchmarks-with-the-dow-lower-and-the-nasdaq-higher-302928098.html"
+    ]
+   ],
+   "berichterstattung": [
+    "sec.gov",
+    "prnewswire.com",
+    "newswire.ca"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Energie",
+    "Kanada"
+   ],
+   "kicker": "Kanada · Infrastruktur",
+   "titel": "Blackstone führt 3,1-Milliarden-Dollar-Einstieg bei LNG Canada an",
+   "deck": "Ein Konsortium mit vier großen kanadischen Pensionsfonds übernimmt knapp die Hälfte der Mitsubishi-Holding, die 15 Prozent am Flüssiggasterminal in Kitimat hält.",
+   "text": [
+    "Eine von Blackstone angeführte Investorengruppe steigt indirekt beim Flüssiggas-Exportterminal LNG Canada ein. Wie Blackstone am Montag mitteilte, investieren von Blackstone Credit & Insurance verwaltete Fonds gemeinsam mit den kanadischen Pensionsinvestoren CPP Investments, OMERS, IMCO und PSP Investments 3,1 Milliarden US-Dollar in eine Tochter des japanischen Handelshauses Mitsubishi. Diese Gesellschaft hält Mitsubishis Anteil von 15 Prozent an dem Projekt.",
+    "Die Investoren erhalten 49,9 Prozent der Holding, allerdings ohne Kontrollrechte; wirtschaftlich entspricht das einem indirekten Anteil von rund 7,5 Prozent am Terminal. Nach Angaben des „Globe and Mail“ entfallen 1,6 Milliarden Dollar auf den Kauf der Anteile und 1,5 Milliarden Dollar auf die Finanzierung des Ausbaus. Mitsubishi behält die Kontrolle und seine volle Abnahmemenge an Flüssiggas. Für kanadische Pensionsfonds ist es das erste Engagement bei dem bislang einzigen großen LNG-Exportterminal des Landes.",
+    "Das Terminal in Kitimat in British Columbia verschiffte seine erste Ladung im Juni 2025. Ende September 2026 beschlossen die Partner Shell, Petronas, PetroChina, Mitsubishi und Kogas eine zweite Ausbaustufe, die die Kapazität auf 28 Millionen Tonnen pro Jahr verdoppeln soll. Im Frühjahr hatten Apollo, Blackstone und KKR noch um einen deutlich größeren Teil des Shell-Anteils geboten, der auf über zehn Milliarden Dollar taxiert wurde; Shell hat den Verkauf inzwischen laut Berichten auf Eis gelegt.",
+    "CPP Investments nannte LNG Canada eine „hochwertige, global strategische Anlage“ mit attraktivem Renditepotenzial. Rick Campbell von Blackstone Credit & Insurance verwies auf die weltweit wachsende Energienachfrage, zu deren Deckung das Projekt beitrage. Die Umweltorganisation Stand.earth kritisierte dagegen, dass Rentengelder in Flüssiggas fließen; Kanadier sollten darüber „extrem beunruhigt“ sein."
+   ],
+   "quellen": [
+    [
+     "The Hub",
+     "https://thehub.ca/2026/11/03/blackstone-canadian-pension-funds-commit-us3-1-billion-to-mitsubishis-lng-canada-unit-as-shell-reportedly-shelves-sale"
+    ],
+    [
+     "The Edge Malaysia (Reuters, Bieterverfahren im Frühjahr)",
+     "https://theedgemalaysia.com/node/801925"
+    ]
+   ],
+   "berichterstattung": [
+    "thehub.ca",
+    "privateequitywire.co.uk",
+    "offshore-technology.com"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Gesundheit",
+    "Großbritannien"
+   ],
+   "kicker": "Großbritannien · Buyout",
+   "titel": "Cinven übernimmt Frauengesundheits-Spezialisten Theramex",
+   "deck": "Carlyle und PAI Partners verkaufen das britische Pharmaunternehmen nach gut vier Jahren; einen Preis nennen die Beteiligten nicht.",
+   "text": [
+    "Der Finanzinvestor Cinven übernimmt das britische Spezialpharma-Unternehmen Theramex. Verkäufer sind Carlyle und PAI Partners, die Theramex 2022 vom Finanzinvestor CVC gekauft hatten. Wie das Fachportal Investors in Healthcare am Dienstag berichtete, wurde ein Kaufpreis nicht genannt. Der Abschluss wird für das erste Halbjahr 2027 erwartet und steht unter dem Vorbehalt behördlicher Genehmigungen.",
+    "Theramex entwickelt, lizenziert und vertreibt Mittel gegen Beschwerden in den Wechseljahren, Osteoporose sowie für Verhütung und Kinderwunschbehandlung. Das Unternehmen beschäftigt mehr als 500 Menschen und ist in über 80 Ländern in Europa, Afrika, Asien-Pazifik und Lateinamerika aktiv. Unter Carlyle und PAI hat es nach Angaben der Verkäufer seinen operativen Gewinn (Ebitda) ungefähr verdoppelt und ist in 17 Märkten mit eigener Vertriebsorganisation vertreten.",
+    "Beim Einstieg 2022 hatte die City A.M. den Kaufpreis auf rund 1,2 Milliarden Pfund beziffert; damals erreichte Theramex nach eigenen Angaben Patientinnen in 57 Ländern. Cinven-Partner Philipp Meyer lobte die marktführende Stellung in der Frauengesundheit und das widerstandsfähige Geschäftsmodell. Carlyle-Partnerin Lubna Qunash sprach von einem Bereich mit erheblichem ungedecktem medizinischem Bedarf.",
+    "Der Verkauf ist ein sogenannter Secondary Buyout: Ein Finanzinvestor reicht eine Beteiligung an den nächsten weiter. Theramex war 2018 als Abspaltung von Frauengesundheits-Produkten entstanden und gehörte zunächst CVC, bevor Carlyle und PAI übernahmen."
+   ],
+   "quellen": [
+    [
+     "Investors in Healthcare",
+     "https://www.investorsinhealthcare.com/articles/category/news/uk-cinven-agrees-to-acquire-womens-health-specialist-theramex-from-carlyle-and-pai-partners/"
+    ],
+    [
+     "City A.M. (Kauf 2022)",
+     "https://www.cityam.com/?p=1857075"
+    ]
+   ],
+   "berichterstattung": [
+    "investorsinhealthcare.com"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Schweiz",
+    "Personalien"
+   ],
+   "kicker": "Schweiz · Privatmärkte",
+   "titel": "LGT Capital Partners: Sascha Gruber übernimmt von Gründungschef Paganoni",
+   "deck": "Der Private-Markets-Spezialist der Liechtensteiner Fürstenfamilie verwaltet über 120 Milliarden Dollar und bekommt zum Jahreswechsel einen neuen Chef.",
+   "text": [
+    "Beim Schweizer Private-Markets-Haus LGT Capital Partners steht ein Generationswechsel an. Sascha Gruber wird zum 1. Januar 2027 Chief Executive Officer, vorbehaltlich der Zustimmung der Aufsicht. Er folgt auf Roberto Paganoni, der das Unternehmen seit fast drei Jahrzehnten führt. Paganoni verlässt das Haus nicht, sondern wechselt in das Group Holding Board. Bekannt gegeben wurde die Personalie am vergangenen Donnerstag.",
+    "Gruber ist seit 2002 bei LGT Capital Partners und gehört der Geschäftsleitung an. Er hat nach Angaben der Börsen-Zeitung das Private-Markets-Geschäft und die Strategie am Sekundärmarkt geprägt, auf dem Fondsanteile und Beteiligungsportfolios von bestehenden Investoren übernommen werden, und den Ausbau in Nord- und Südamerika verantwortet.",
+    "LGT Capital Partners mit Sitz in Pfäffikon im Kanton Schwyz verwaltet mehr als 120 Milliarden Dollar für über 750 institutionelle Kunden und beschäftigt rund 1.000 Mitarbeitende in 16 Büros weltweit. Eigentümerin ist die Liechtensteiner Fürstenfamilie. Prinz Max von und zu Liechtenstein würdigte, Paganoni habe einen widerstandsfähigen, globalen Investmentmanager mit klarer Strategie aufgebaut; an dieser Strategie werde sich unter Gruber nichts ändern."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/personen/lgt-capital-partners-ernennt-neuen-ceo"
+    ],
+    [
+     "Hedgeweek",
+     "https://hedgeweek.com/news/lgt-capital-partners-names-sascha-gruber-ceo-as-paganoni-moves-to-board"
+    ],
+    [
+     "Investment Week",
+     "https://www.investmentweek.co.uk/news/4538061/lgt-capital-partners-appoints-sascha-gruber-ceo"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de",
+    "finews.ch",
+    "finews.com",
+    "hedgeweek.com",
+    "investmentweek.co.uk",
+    "wealthbriefing.com",
+    "wealthbriefingasia.com",
+    "privatebankerinternational.com",
+    "fundselectorasia.com"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Wealth Management",
+    "USA",
+    "Fusionen"
+   ],
+   "kicker": "USA · Vermögensberater",
+   "titel": "Amerikas Vermögensberater fusionieren weiter, Finanzinvestoren steigen lieber minderheitlich ein",
+   "deck": "Die Wirtschaftsprüfergesellschaft Aprio kauft in Texas zu; eine Branchenstudie zählt im dritten Quartal 125 Übernahmen unter unabhängigen Beratern.",
+   "text": [
+    "Die Konsolidierung unter den unabhängigen US-Vermögensberatern (Registered Investment Advisers, RIA) setzt sich fort. Am Dienstag meldete Aprio, eine der 25 größten Wirtschaftsprüfungsgesellschaften der USA, über ihre Sparte Aprio Wealth Management die Übernahme von Garner Asset Management aus Plano in Texas. Der Kauf wurde zum 2. November wirksam; finanzielle Details nannten die Beteiligten nicht. Für Aprio ist es bereits die neunte Übernahme im laufenden Jahr, die Vermögenssparte betreut nach eigenen Angaben mehr als 6,1 Milliarden Dollar.",
+    "Der Deal reiht sich in einen anhaltenden Trend ein. Nach der vergangene Woche veröffentlichten Zählung der Investmentbank ECHELON Partners gab es im dritten Quartal 125 Transaktionen unter Vermögensberatern, 4,2 Prozent mehr als im Vorquartal und das zweitbeste Quartal seit Beginn der Erhebung. Bis Ende September waren es 387 Deals, für das Gesamtjahr erwartet ECHELON 510 und damit einen neuen Rekord nach 466 im Vorjahr.",
+    "Auffällig ist ein Wandel bei den Finanzinvestoren, die an 102 der 125 Transaktionen beteiligt waren: Sieben der zehn großen Private-Equity-Deals waren Minderheitsbeteiligungen. Die drei größten Transaktionen nach verwalteten Vermögen waren allesamt Minderheits- oder Kapitalbeteiligungen, darunter der Einstieg von Merchant Investment Management mit 25,9 Prozent bei Ironbark und eine Kapitalspritze von Carlyle über 600 Millionen Dollar für Prime Capital Financial. Zudem gewinnen Fortführungsfonds als Ausstiegsweg an Bedeutung."
+   ],
+   "quellen": [
+    [
+     "CPA Practice Advisor",
+     "https://cpapracticeadvisor.com/2026/11/03/aprio-acquires-texas-based-ria-garner-asset-management/193109"
+    ],
+    [
+     "InvestmentNews",
+     "https://investmentnews.com/ria-news/ria-ma-ties-second-best-quarter-as-pe-turns-to-minority-stakes/268778"
+    ]
+   ],
+   "berichterstattung": [
+    "cpapracticeadvisor.com",
+    "investmentnews.com"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "KI",
+    "Anleihen",
+    "Börse"
+   ],
+   "kicker": "Köpfe · Vermögensverwaltung",
+   "titel": "Emmanuel Roman: Der Pimco-Chef sieht die KI-Finanzierung an ihre Grenze kommen",
+   "deck": "Auf dem Finanzgipfel in Hongkong warnt der Chef des Anleihehauses, irgendwann werde „etwas zerbrechen“.",
+   "text": [
+    "Emmanuel Roman führt mit Pimco einen der größten Anleiheverwalter der Welt, und wenn er über Schulden spricht, hören Investoren genau hin. Am Dienstag nutzte der Franzose das Global Financial Leaders' Investment Summit in Hongkong, ein von der Hongkonger Währungsbehörde ausgerichtetes Treffen von rund 280 Spitzenleuten der Finanzbranche, für eine deutliche Warnung: Die Finanzierung des KI-Ausbaus könne sich laut Bloomberg in fünf Jahren auf rund zehn Billionen Dollar summieren, und dieses Volumen werde irgendwann „zu viel“.",
+    "Als mögliche Auslöser einer Wende nannte Roman steigende US-Zinsen, einen Krieg im Nahen Osten oder eine Krise in der Eurozone. „Irgendwann wird es einen Abschwung geben, und dann werden Dinge zerbrechen“, zitierte ihn der Sender CNBC TV18.",
+    "Auf dem Podium stand er mit seiner Skepsis nicht allein, aber auch nicht unwidersprochen. Goldman-Sachs-Chef David Solomon betonte, die Nachfrage nach Rechenleistung übersteige weiterhin das Angebot. Morgan-Stanley-Chef Ted Pick bezifferte den Kapitalbedarf für den KI-Ausbau im kommenden Jahrzehnt auf 10 bis 15 Billionen Dollar und nannte regelmäßige Korrekturen gesund. Blackstone-Präsident Jon Gray befand, „ein Teil der heutigen Skepsis ist vermutlich gesund“.",
+    "Romans Worte fallen in eine nervöse Phase: Nach dem Kurseinbruch der Technologiewerte im Oktober zweifeln viele Anleger, ob sich die Milliardeninvestitionen der Cloud-Konzerne rechnen. Gerade die Anleihemärkte, auf denen Pimco zu Hause ist, tragen einen wachsenden Teil dieser Rechnung."
+   ],
+   "quellen": [
+    [
+     "The Next Web",
+     "https://thenextweb.com/news/wall-street-ceos-ai-risks-hong-kong-summit"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-03/pimco-ceo-warns-ai-financing-is-on-path-to-become-too-much"
+    ]
+   ],
+   "berichterstattung": [
+    "thenextweb.com",
+    "bloomberg.com",
+    "cnbc.com",
+    "newsbytesapp.com",
+    "cryptobriefing.com",
+    "fourweekmba.com",
+    "indexbox.io"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "EZB",
+    "Zinsen",
+    "Europa"
+   ],
+   "kicker": "Köpfe · Notenbank",
+   "titel": "Pablo Hernández de Cos: Der Spanier geht als Favorit ins Rennen um die EZB-Spitze",
+   "deck": "Bis Freitag müssen die Euroländer ihre Kandidaten für die Nachfolge von Christine Lagarde benennen.",
+   "text": [
+    "Seit Dienstag ist das Rennen um die Führung der Europäischen Zentralbank offiziell eröffnet, und ein Name fällt dabei am häufigsten: Pablo Hernández de Cos. Der frühere Gouverneur der Banco de España, der seit Juli 2025 die Bank für Internationalen Zahlungsausgleich in Basel leitet, gilt als aussichtsreichster Bewerber für die Nachfolge von Christine Lagarde, die ihr Amt am 7. Februar 2027 vorzeitig abgibt.",
+    "Spaniens Regierung unter Pedro Sánchez hat sich hinter ihn gestellt, es ist die erste spanische Bewerbung für das Amt überhaupt. Laut Euronews unterstützt auch Oppositionsführer Alberto Núñez Feijóo die Kandidatur. Für ihn spricht, dass Spanien noch nie den EZB-Präsidenten gestellt hat. In der Geldpolitik gilt er als eher gemäßigt. „Ein gemäßigter Geldpolitiker dürfte derzeit von vielen Regierungen bevorzugt werden“, sagt VP-Bank-Chefvolkswirt Thomas Gitzel.",
+    "Ärgster Konkurrent ist der Niederländer Klaas Knot, der die Notenbank seines Landes 14 Jahre lang führte und als geldpolitischer Falke gilt. Bundesbankpräsident Joachim Nagel werden geringere Chancen eingeräumt, weil mit Ursula von der Leyen bereits eine Deutsche an der Spitze der EU-Kommission steht.",
+    "Der Zeitplan ist eng: Nominierungen bis Freitag, am 9. November berät die Eurogruppe. Ein Kandidat braucht mindestens 16 der 21 Euroländer, die zugleich 65 Prozent der Bevölkerung repräsentieren. Die letzte Entscheidung treffen die EU-Staats- und Regierungschefs."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/03/who-will-replace-lagarde-eurozone-picks-nominees-as-race-for-ecb-top-job-begins"
+    ],
+    [
+     "onvista (dpa)",
+     "https://www.onvista.de/news/2026/11-04-poker-um-ezb-spitze-wer-folgt-auf-christine-lagarde-0-10-26572053"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com",
+    "onvista.de",
+    "handelsblatt.com",
+    "tagesspiegel.de",
+    "cash-online.de",
+    "infranken.de",
+    "werra-rundschau.de",
+    "webnachrichten.de",
+    "ad-hoc-news.de"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "USA",
+    "Ukraine",
+    "Russland"
+   ],
+   "kicker": "Köpfe · Diplomatie",
+   "titel": "Melania Trump: Die First Lady lädt Russen und Ukrainer ins Weiße Haus",
+   "deck": "Nach einer von ihr vermittelten Feuerpause in Oleschky will sie am Donnerstag beide Seiten zusammenbringen.",
+   "text": [
+    "Melania Trump hat sich in den vergangenen Wochen eine Rolle erarbeitet, die für eine First Lady ungewöhnlich ist. Am Dienstag kündigte das Weiße Haus an, sie werde Vertreter Russlands und der Ukraine in Washington zusammenbringen. Für Donnerstag, 11 Uhr Ortszeit, ist eine Ansprache der First Lady zur Waffenruhe im südukrainischen Oleschky geplant. Die Initiative habe sie eigenständig begonnen, hieß es in der Mitteilung, die von einem „außergewöhnlichen Moment in der amerikanischen Geschichte“ sprach.",
+    "Hintergrund ist eine fünftägige Feuerpause um die russisch besetzte Stadt in der Region Cherson, die am Sonntagabend endete. In dieser Zeit wurden mehrere hundert Zivilisten evakuiert, die meisten in ukrainisch kontrolliertes Gebiet. Der ukrainische Menschenrechtsbeauftragte Dmytro Lubinez sagte, Vertreter der Ukraine, Russlands und der USA hätten das Abkommen unterzeichnet, Washington trete als Garant auf. Ähnliche Einsätze könnten monatlich stattfinden.",
+    "Die ukrainische Delegation soll laut einem Abgeordneten von David Arachamija angeführt werden. In Moskau gab man sich zurückhaltend: Kremlsprecher Dmitri Peskow sagte, er wisse „noch nichts davon“. Wer auf russischer Seite kommt, ließ das Weiße Haus offen.",
+    "Ukrainische Militärs äußern zugleich Bedenken: Russland könne die Pausen nutzen, um Truppen zu rotieren und Gerät zu verlegen. Lubinez wies Berichte über Verstöße gegen die Waffenruhe zurück."
+   ],
+   "quellen": [
+    [
+     "Kyiv Post",
+     "https://www.kyivpost.com/post/89020"
+    ],
+    [
+     "United24 Media",
+     "https://united24media.com/war-in-ukraine/melania-trump-to-convene-ukraine-russia-meeting-as-kremlin-says-it-knows-nothing-about-it-24055"
+    ],
+    [
+     "White House",
+     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/"
+    ]
+   ],
+   "berichterstattung": [
+    "kyivpost.com",
+    "united24media.com",
+    "whitehouse.gov",
+    "cnn.com",
+    "cnbc.com",
+    "thehill.com",
+    "yahoo.com",
+    "westernjournal.com",
+    "thepavlovictoday.com",
+    "news.de"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Sport",
+    "Fußball"
+   ],
+   "kicker": "Köpfe · Fußball",
+   "titel": "Frank Schmidt: Heidenheims Trainer-Ikone hört nach fast 20 Jahren auf",
+   "deck": "Der dienstälteste Trainer im deutschen Profifußball verlängert seinen Vertrag nicht und geht im Sommer.",
+   "text": [
+    "Eine der ungewöhnlichsten Geschichten des deutschen Fußballs bekommt ein Enddatum. Frank Schmidt, 52, wird den 1. FC Heidenheim nach dieser Saison verlassen. Der Zweitligist teilte am Dienstagabend mit, dass der Trainer seinen auslaufenden Vertrag nicht verlängert. Seine Entscheidung hatte Schmidt nach eigenen Worten am Montag dem Vorstandsvorsitzenden Holger Sanwald mitgeteilt.",
+    "Schmidt hatte die Mannschaft im September 2007 zunächst als Interimslösung übernommen und sie in den folgenden Jahren aus der vierten Liga bis in die Bundesliga und sogar in die Conference League geführt. Mehr als 700 Pflichtspiele hat er für den Klub an der Seitenlinie gestanden. Schon im Frühjahr hatte er angedeutet, dass es „mutmaßlich“ seine letzte Saison werde.",
+    "„Es war beeindruckend, wie sehr sich der Verein um eine erneute Vertragsverlängerung mit mir bemüht hat“, sagte Schmidt. Die Entscheidung sei in den vergangenen Wochen gereift. Zunächst wolle er eine Pause einlegen. Mit ihm gehen laut SRF auch die Schweizer Co-Trainer Michael Heule und Alessandro Vogt.",
+    "Ganz abgeschlossen sei das Kapitel aber noch nicht, betonte Schmidt: „Das letzte Kapitel ist noch nicht zu Ende.“ Sportlich läuft es derzeit durchwachsen. Heidenheim steht auf Platz sechs der Zweiten Liga, verlor am Wochenende 1:2 beim Karlsruher SC und ist früh aus dem DFB-Pokal ausgeschieden."
+   ],
+   "quellen": [
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/sport/fussball-2-bundesliga/frank-schmidt-1-fc-heidenheim-abschied-entscheidung-100.html"
+    ],
+    [
+     "SRF",
+     "https://www.srf.ch/sport/fussball/internationale-ligen/deutsche-trainer-ikone-nach-fast-20-jahren-frank-schmidt-verlaesst-heidenheim-im-sommer"
+    ]
+   ],
+   "berichterstattung": [
+    "zdfheute.de",
+    "srf.ch",
+    "t-online.de",
+    "sport.de",
+    "fussballdaten.de",
+    "getfootballnewsgermany.com",
+    "foot-africa.com"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Musik",
+    "Konzerte",
+    "Promis"
+   ],
+   "kicker": "Köpfe · Musik",
+   "titel": "Helene Fischer: Podolskis Wunschstar, neues Album, Weihnachtsshow",
+   "deck": "Die Schlagersängerin soll 2027 beim Glücksgefühle-Festival am Hockenheimring auftreten.",
+   "text": [
+    "Für Lukas Podolski geht nach eigenen Worten ein lange gehegter Wunsch in Erfüllung. Der frühere Nationalspieler, der mit Musikmanager Markus Krampe seit 2023 das Glücksgefühle-Festival veranstaltet, kündigte gegenüber der Bild-Zeitung an, dass Helene Fischer bei der fünften Ausgabe vom 2. bis 4. September 2027 am Hockenheimring auftreten werde. Ihr Auftritt soll rund 90 Minuten dauern. „Ich freue mich sehr“, sagte Podolski. Eine eigene Stellungnahme der Sängerin lag zunächst nicht vor.",
+    "Neben Fischer stehen bislang Dieter Bohlen, Jason Derulo, Sarah Connor und Anastacia auf dem Programm. Laut Bild wurden bereits rund 60.000 Karten verkauft.",
+    "Auch sonst ist Fischer derzeit präsent. Nach den Aufzeichnungen der „Helene Fischer Show“ am 30. und 31. Oktober in der Messe Düsseldorf zeigte sie sich in einem an Freddie Mercury angelehnten Halloween-Kostüm und warb auf Instagram für ihr neues Album: „Und jetzt steigt die Vorfreude.“ Das Album soll nach Angaben des Fachportals Schlagerprofis „Wir“ heißen und am 4. Dezember erscheinen.",
+    "Die Show selbst kehrt nach einjähriger Pause zurück: Das ZDF zeigt sie am ersten Weihnachtsfeiertag um 20.15 Uhr, zu Gast sind unter anderem Roland Kaiser, Giovanni Zarrella, Nina Chuba und Carolin Kebekus."
+   ],
+   "quellen": [
+    [
+     "t-online",
+     "https://www.t-online.de/unterhaltung/stars/id_101509538/lukas-podolski-gelingt-coup-mit-helene-fischer-fuer-gluecksgefuehle-festival.html"
+    ],
+    [
+     "t-online",
+     "https://t-online.de/unterhaltung/stars/id_101510192/helene-fischer-legt-nach-und-zeigt-sich-tanzend-als-mann-im-video.html"
+    ],
+    [
+     "Schlagerprofis",
+     "https://schlagerprofis.de/helene-fischer-album-wir-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de",
+    "schlagerprofis.de"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf",
+    "Tollwood"
+   ],
+   "kicker": "Tollwood · Sommerfestival 2027",
+   "titel": "Queens of the Stone Age kommen zum Tollwood, Karten ab Freitag",
+   "deck": "Die kalifornische Rockband bringt ihre „Perfecth World Tour“ im Juni 2027 auf das Sommerfestival; der Verkauf beginnt am 6. November um 10 Uhr.",
+   "text": [
+    "Das Tollwood-Sommerfestival 2027 hat einen weiteren großen Namen: Queens of the Stone Age kommen mit ihrer „Perfecth World Tour“ nach München. Die Band stellt dabei ihr angekündigtes neues Album „Perfecth“ vor. Das Ticketportal Eventim hat die Deutschland-Termine am Montag veröffentlicht.",
+    "Karten gibt es nach Angaben von Eventim ab Freitag, 6. November, um 10 Uhr auf eventim.de. Ob es vorher einen Presale gibt, geht aus der Ankündigung nicht hervor; Preise sind noch nicht genannt. Tollwood-Konzerte werden nach Angaben der städtischen Tourismusseite außerdem über die Website des Festivals verkauft.",
+    "Beim Datum ist Vorsicht geboten: Im Text der Eventim-Ankündigung ist vom 20. Juni 2027 die Rede, in der Terminliste derselben Seite vom 28. Juni 2027. Wer plant, sollte den Termin vor dem Kauf auf der Ticketseite prüfen.",
+    "Queens of the Stone Age sind nicht der einzige Rock-Termin beim Tollwood im kommenden Sommer: Simply Red stehen laut Ticketmaster bereits am 27. Juni 2027 auf dem Tollwood-Programm, für deren Tour läuft der Vorverkauf seit September."
+   ],
+   "karten": {
+    "vorverkauf": "Fr, 6.11.2026, 10 Uhr",
+    "termin": "Juni 2027 (Eventim nennt 20.6. und 28.6.)",
+    "ort": "Tollwood-Sommerfestival",
+    "stelle": "Eventim",
+    "link": "https://www.eventim.de/magazin/rock-pop/queens-of-the-stone-age-kommen-2027-mit-ihrer-perfecth-world-tour-nach-deutschland"
+   },
+   "quellen": [
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/queens-of-the-stone-age-kommen-2027-mit-ihrer-perfecth-world-tour-nach-deutschland"
+    ],
+    [
+     "Ticketmaster Blog",
+     "https://blog.ticketmaster.de/musik/simply-red-open-air-tour-2027-vorverkauf-deutschland-konzerte-19424/"
+    ],
+    [
+     "munich.travel",
+     "https://www.munich.travel/en/topics/arts-culture/munich-concerts"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de",
+    "blog.ticketmaster.de",
+    "munich.travel"
+   ]
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Vorverkauf",
+    "Shows"
+   ],
+   "kicker": "Olympiahalle · Tanzshow",
+   "titel": "„Let's Dance“ kommt 2027 wieder: Karten ab Donnerstag",
+   "deck": "Die Live-Tour der RTL-Tanzshow gastiert am 6. und 7. November 2027 in der Olympiahalle – während die aktuelle Tour erst an diesem Wochenende dort Station macht.",
+   "text": [
+    "Kaum ist die diesjährige Tournee in München angekommen, steht schon die nächste fest: „Let's Dance – Die Live-Tour“ kehrt 2027 in die Olympiahalle zurück, und zwar am 6. und 7. November 2027. Das gab Eventim am Dienstag bekannt.",
+    "Der Kartenverkauf beginnt am Donnerstag, 5. November 2026, um 10 Uhr auf eventim.de. Eine eigene Presale-Phase nennt die Ankündigung nicht, Preise ebenfalls nicht. Die Tour ist die achte Arena-Ausgabe der RTL-Show und führt durch 19 Städte in Deutschland, Österreich und der Schweiz; Eventim spricht von 26 Shows.",
+    "In der Jury sitzen wie im Fernsehen Motsi Mabuse, Joachim Llambi und Jorge González, durch den Abend führt Daniel Hartwich. Geboten werden Standard- und Lateintänze mit Jurywertung, dazu Kostüme, Lichtshow und Pyrotechnik.",
+    "Wer nicht bis 2027 warten will: Die laufende Tour gastiert nach Angaben des Münchner Veranstaltungsblogs muc-blog am Samstag, 7. November, um 20 Uhr und am Sonntag, 8. November, um 14 Uhr in der Olympiahalle."
+   ],
+   "karten": {
+    "vorverkauf": "Do, 5.11.2026, 10 Uhr",
+    "termin": "Sa, 6.11.2027 und So, 7.11.2027",
+    "ort": "Olympiahalle",
+    "stelle": "Eventim",
+    "link": "https://www.eventim.de/magazin/rock-pop/lets-dance-die-live-tour-kommt-2027-zurueck"
+   },
+   "quellen": [
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/lets-dance-die-live-tour-kommt-2027-zurueck"
+    ],
+    [
+     "muc-blog",
+     "https://muc-blog.com/veranstaltungen-muenchen-kw45-2-bis-8-november-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de",
+    "muc-blog.com"
+   ]
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "NFL",
+    "Sport"
+   ],
+   "kicker": "NFL Munich Game · Fanwoche",
+   "titel": "Lions-Fanfest am Odeonsplatz, Shops in der Innenstadt: München wird zur NFL-Stadt",
+   "deck": "Vor dem Spiel Patriots gegen Lions am 15. November öffnen Pop-up-Läden, die Detroit Lions laden zum kostenlosen Fanfest mit Big Sean.",
+   "text": [
+    "Das Spiel selbst ist ausverkauft, auf der NFL-Seite sind derzeit weder reguläre noch Hospitality-Karten erhältlich. Rund um die Partie der New England Patriots gegen die Detroit Lions am Sonntag, 15. November, um 15.30 Uhr in der Allianz Arena verwandelt sich die Innenstadt aber schon ab kommender Woche in eine Football-Meile – vieles davon ohne Ticket.",
+    "Herzstück ist das Detroit Lions Fan Fest auf dem Odeonsplatz am Freitag, 13., und Samstag, 14. November, jeweils von 11 bis 18 Uhr. Am Freitag legt ab 17 Uhr Techno-Pionier Kevin Saunderson auf, am Samstag tritt ab 17 Uhr der Rapper Big Sean auf. Der Eintritt ist frei, eine Registrierung bei One Pride Worldwide ist nötig, garantiert aber keinen Einlass.",
+    "Der NFL-Shop in der Neuhauser Straße 47 öffnet am 12., 13., 14. und 16. November von 10 bis 20 Uhr, am Spieltag bleibt er zu. Die Lions verkaufen vom 9. bis 16. November in den Fünf Höfen (Theatinerstraße 11) Fanartikel, nur bargeldlos. Die Patriots schicken frühere Spieler: Troy Brown kommt am Samstag um 13 Uhr zu Galeria am Marienplatz, Brian Hoyer um 14 Uhr ins Dertour-Reisebüro in der Kaufingerstraße 9. Im Augustiner Stammhaus läuft am Samstag von 16 bis 18.30 Uhr „Boston in Bavaria“ bei freiem Eintritt.",
+    "Auch Teams, die gar nicht spielen, sind präsent: Packers und Chiefs betreiben vom 12. bis 14. November einen Laden im Rosental 5, die Tampa Bay Buccaneers ein Café mit Lauftreff und Treffen mit Ex-Profi Cameron Brate."
+   ],
+   "quellen": [
+    [
+     "muc-blog",
+     "https://muc-blog.com/nfl-pop-up-stores-muenchen/"
+    ],
+    [
+     "NFL",
+     "https://www.nfl.com/international/games/munich/"
+    ],
+    [
+     "muc-blog",
+     "https://muc-blog.com/cafe-krewe-muenchen/"
+    ]
+   ],
+   "berichterstattung": [
+    "muc-blog.com",
+    "nfl.com"
+   ]
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "Zenith & Circus Krone · Herbst 2027",
+   "titel": "Meshuggah ins Zenith, Teskey Brothers in den Circus Krone",
+   "deck": "Zwei Ankündigungen vom Dienstag, zwei Verkaufsstarts in dieser Woche: Donnerstagmittag und Freitagfrüh.",
+   "text": [
+    "Für Metal-Fans und Liebhaber von handgemachtem Soul-Rock gibt es in dieser Woche je einen Pflichttermin am Rechner. Beide Konzerte finden erst im Herbst 2027 statt, die Karten gehen aber schon jetzt in den Verkauf.",
+    "Die Band Meshuggah feiert ihr 40-jähriges Bestehen mit der Jubiläumstour „The Forty-Year Anomaly“ und spielt am 16. Oktober 2027 im Zenith. Tickets gibt es laut Eventim ab Donnerstag, 5. November 2026, um 12 Uhr auf eventim.de. Ungewöhnlich ist die Mittagszeit: Die meisten Verkaufsstarts der Woche liegen bei 10 Uhr.",
+    "Noch früher aufstehen müssen Fans der Teskey Brothers. Die Band kommt mit neuer Musik zurück und hat für September 2027 vier Deutschland-Konzerte bestätigt, darunter am 27. September 2027 im Circus-Krone-Bau. Der Verkauf beginnt am Freitag, 6. November 2026, bereits um 9 Uhr auf eventim.de.",
+    "Für beide Konzerte nennt Eventim weder Preise noch eine vorgezogene Presale-Phase."
+   ],
+   "karten": {
+    "vorverkauf": "Meshuggah: Do, 5.11.2026, 12 Uhr · Teskey Brothers: Fr, 6.11.2026, 9 Uhr",
+    "termin": "Meshuggah 16.10.2027 · Teskey Brothers 27.9.2027",
+    "ort": "Zenith · Circus-Krone-Bau",
+    "stelle": "Eventim",
+    "link": "https://www.eventim.de/magazin/rock-pop/meshuggah-kuendigen-jubilaeumstour-the-forty-year-anomaly-fuer-2027-an"
+   },
+   "quellen": [
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/meshuggah-kuendigen-jubilaeumstour-the-forty-year-anomaly-fuer-2027-an"
+    ],
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/the-teskey-brothers-kommen-2027-mit-neuer-musik-zurueck-vier-deutschland-shows-im-september-bestaetigt"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de"
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "Kesselhaus & Isarphilharmonie · 2027",
+   "titel": "Onkelz-Gründer Stephan Weidner kommt als „Der W“ ins Kesselhaus",
+   "deck": "Karten für das Clubkonzert am 30. September 2027 gibt es ab Freitag; für das Fantasy-Projekt Dämmerland in der Isarphilharmonie läuft der Verkauf bereits.",
+   "text": [
+    "Stephan Weidner, Sänger und Gitarrist der Böhsen Onkelz, geht mit seinem Soloprojekt Der W im Herbst 2027 auf Tour. 15 Konzerte in Deutschland sind angekündigt, eines davon am 30. September 2027 im Kesselhaus. Das Projekt läuft seit fast zwei Jahrzehnten getrennt von den Onkelz und setzt auf persönliche Themen und kleinere Clubbühnen.",
+    "Der Verkauf beginnt laut Eventim am Freitag, 6. November 2026, um 10 Uhr. Eine Presale-Phase und Preise nennt die Ankündigung nicht.",
+    "Bereits erhältlich sind Karten für Dämmerland: Das Fantasy-Musikprojekt aus dem Umfeld von Versengold und Kissin' Dynamite kommt mit einer neuen Geschichte zurück und gastiert am 7. Oktober 2027 in der Isarphilharmonie. Der Verkauf startete am Montag, 2. November, um 12 Uhr auf eventim.de.",
+    "Eine Präzisierung zu einem Termin aus der Dienstagsausgabe: Für das Konzert von Xavier Naidoo am 23. Februar 2027 in der Olympiahalle nennt Eventim als Verkaufsbeginn Donnerstag, 5. November, 10 Uhr. Die Scorpions-Karten für den 22. Mai 2027 gibt es heute ab 11 Uhr auf eventim.de."
+   ],
+   "karten": {
+    "vorverkauf": "Fr, 6.11.2026, 10 Uhr",
+    "termin": "Do, 30.9.2027",
+    "ort": "Kesselhaus",
+    "stelle": "Eventim",
+    "link": "https://www.eventim.de/magazin/rock-pop/der-w-kuendigt-15-deutschland-konzerte-fuer-herbst-2027-an"
+   },
+   "quellen": [
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/der-w-kuendigt-15-deutschland-konzerte-fuer-herbst-2027-an"
+    ],
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/daemmerland-kommt-2027-mit-neuer-geschichte-zurueck"
+    ],
+    [
+     "Eventim Magazin",
+     "https://www.eventim.de/magazin/rock-pop/xavier-naidoo-geht-2027-auf-arena-tour"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de",
+    "t-online.de"
+   ]
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Anderswerden",
+   "zitat": "„Ich weiß nicht, ob es besser wird, wenn es anders wird; aber so viel kann ich sagen: es muß anders werden, wenn es gut werden soll.“",
+   "urheber": "Georg Christoph Lichtenberg, Sudelbücher",
+   "text": "Am Morgen nach einer Wahl, die in Washington die Mehrheiten verschiebt, passt der Göttinger Physiker und Aphoristiker: Veränderung ist noch keine Verbesserung, aber ohne sie gibt es keine."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Hochrechnung",
+   "text": "Fragt der Enkel: „Opa, was ist eigentlich eine Hochrechnung?“ Sagt der Opa: „Das ist, wenn die Oma nach dem ersten Bissen schon weiß, dass der ganze Kuchen zu trocken ist.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Drei falsche Etiketten",
+   "text": "Auf dem Viktualienmarkt stehen drei geschlossene Kisten. Die erste ist mit „Äpfel“ beschriftet, die zweite mit „Birnen“, die dritte mit „Äpfel und Birnen“. Der Händler verrät: Jedes Etikett ist falsch. Sie dürfen aus einer einzigen Kiste blind ein einziges Obststück ziehen. Aus welcher Kiste ziehen Sie, um danach alle drei Kisten richtig zu beschriften?",
+   "loesung": "Aus der Kiste „Äpfel und Birnen“. Da ihr Etikett falsch ist, enthält sie nur eine Sorte, etwa Äpfel. Dann kann die Kiste „Birnen“ keine Birnen enthalten und keine Äpfel (die sind schon vergeben), also enthält sie die Mischung; die Kiste „Äpfel“ enthält folglich die Birnen. Mit einer Birne als Zug gilt das Gleiche umgekehrt."
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-04T11:00",
+   "veranstaltung": "Scorpions",
+   "termin": "22.5.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Eventim",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101509328/scorpions-kuendigen-welttournee-an-konzert-in-muenchen-geplant.html",
+   "hinweis": "Presale (laut t-online; Eventim nennt den Start ohne Phasenangabe)"
+  },
+  {
+   "start": "2026-11-05T10:00",
+   "veranstaltung": "Xavier Naidoo",
+   "termin": "23.2.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/xavier-naidoo-geht-2027-auf-arena-tour",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-05T10:00",
+   "veranstaltung": "Let's Dance – Die Live-Tour 2027",
+   "termin": "6./7.11.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/lets-dance-die-live-tour-kommt-2027-zurueck",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-05T12:00",
+   "veranstaltung": "Meshuggah",
+   "termin": "16.10.2027",
+   "ort": "Zenith",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/meshuggah-kuendigen-jubilaeumstour-the-forty-year-anomaly-fuer-2027-an",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-06T09:00",
+   "veranstaltung": "The Teskey Brothers",
+   "termin": "27.9.2027",
+   "ort": "Circus-Krone-Bau",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/the-teskey-brothers-kommen-2027-mit-neuer-musik-zurueck-vier-deutschland-shows-im-september-bestaetigt",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Queens of the Stone Age",
+   "termin": "Juni 2027 (20.6. oder 28.6.)",
+   "ort": "Tollwood-Sommerfestival",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/queens-of-the-stone-age-kommen-2027-mit-ihrer-perfecth-world-tour-nach-deutschland",
+   "hinweis": "Verkaufsstart; Datum in der Quelle widersprüchlich"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Der W (Stephan Weidner)",
+   "termin": "30.9.2027",
+   "ort": "Kesselhaus",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/der-w-kuendigt-15-deutschland-konzerte-fuer-herbst-2027-an",
+   "hinweis": "Verkaufsstart"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "Negah Amiri: „Schön laut“ im Schlachthof",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 11.11.",
+   "bis": "2026-11-05",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Bedingungen akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin (Stadtmagazin München GmbH) auf eigener Seite, Teilnahmebedingungen verlinkt, laut Bedingungen kostenlos und ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/negah-amiri-schoen-laut-11-november-schlachthof.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Pogues im Kesselhaus",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 20.11.",
+   "bis": "2026-11-12",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Bedingungen akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin (Stadtmagazin München GmbH) auf eigener Seite, Teilnahmebedingungen verlinkt, laut Bedingungen kostenlos und ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-pogues-20-november-kesselhaus.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Scratch in der Backstage Halle",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 23.11.",
+   "bis": "2026-11-16",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Bedingungen akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin (Stadtmagazin München GmbH) auf eigener Seite, Teilnahmebedingungen verlinkt, laut Bedingungen kostenlos und ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-scratch-23-november-backstage.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Access to Dance: „Mercury Rising“ im Schwere Reiter",
+   "anbieter": "IN München",
+   "gewinn": "2 × 2 Karten für den 22.11.",
+   "bis": "2026-11-18",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Bedingungen akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin (Stadtmagazin München GmbH) auf eigener Seite, Teilnahmebedingungen verlinkt, laut Bedingungen kostenlos und ohne Kaufpflicht, keine Zahlungsdaten; in der Übersicht als Anzeige gekennzeichnet (präsentiert von Joint Adventures)",
+   "url": "https://www.in-muenchen.de/verlosungen/access-to-dance-22-november-im-schwere-reiter.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Rat Pack – Swingin' At The Sands im Prinzregententheater",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 4.1.2027",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Bedingungen akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin (Stadtmagazin München GmbH) auf eigener Seite, Teilnahmebedingungen verlinkt, laut Bedingungen kostenlos und ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/rat-pack-swingin-at-the-sands-4-januar-prinzregententheater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Gregory Porter & Orchestra in der Isarphilharmonie",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 15.12. („Spirit of Christmas“)",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Bedingungen akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin (Stadtmagazin München GmbH) auf eigener Seite, Teilnahmebedingungen verlinkt, laut Bedingungen kostenlos und ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/gregory-porter-and-orchestra-15-dezember-isarphilharmonie.html"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Restaurant Week: Drei-Gänge-Menüs zum Festpreis",
+   "anbieter": "Restaurant Week (restaurant-week.de)",
+   "angebot": "Teilnehmende Münchner Restaurants, darunter Häuser mit Michelin-Auszeichnung, servieren ein festes Drei-Gänge-Festivalmenü, optional mit Martini-Aperitivo. Den Preis legt jedes Restaurant selbst fest.",
+   "wann": "läuft bis 22.11.2026",
+   "buchen_bis": "2026-11-22",
+   "hinweis": "Reservierung über restaurant-week.de; beliebte Tische an Wochenenden früh sichern. Aus der Vorausgabe übernommen; Quelle am 4.11. nicht erneut abrufbar.",
+   "frueh": false,
+   "url": "https://www.gourmet-report.de/artikel/419988/restaurant-week-in-berlin-hamburg-und-muenchen-mit-michelin-restaurants"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Seehaus: Weihnachtsente zum Abholen vorbestellen",
+   "anbieter": "Seehaus im Englischen Garten",
+   "angebot": "Ganze Ente für 59 €, Abholung am 25., 26. oder 27. Dezember 2026 zwischen 9 und 11 Uhr.",
+   "wann": "Abholung 25.–27.12.2026",
+   "buchen_bis": "2026-12-19",
+   "hinweis": "Bestellung per E-Mail bis 19.12., 20 Uhr; höchstens 30 Bestellungen pro Tag. Angaben laut IN München (Stand 27.10.2026), beim Seehaus prüfen.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/gastro/weihnachten-silvester-gans-fuer-zuhause-liefern-abholen.html"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Käfer: Festtagsessen ab 10. November bestellbar",
+   "anbieter": "Feinkost Käfer (Stammhaus)",
+   "angebot": "Weihnachts- und Silvesteressen zum Abholen oder Liefern am 23., 24. und 31. Dezember; der Online-Einkaufszettel öffnet am 10. November. Preise 2026 noch offen (2025: ganze Hafermast-Gans mit Beilagen 264 €).",
+   "wann": "Bestellung 10.11.–19.12.2026",
+   "buchen_bis": "2026-12-19",
+   "hinweis": "Angaben laut IN München (Stand 27.10.2026), Preise beim Anbieter prüfen.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/gastro/weihnachten-silvester-gans-fuer-zuhause-liefern-abholen.html"
+  },
+  {
+   "kategorie": "Kino",
+   "titel": "Mathäser: Sneak für 5,99 €, Late Night für 6,99 €",
+   "anbieter": "Mathäser Filmpalast",
+   "angebot": "Dienstags Sneak Preview für 5,99 €. Late-Night-Ticket ab 21.30 Uhr für 6,99 € (So–Do). Superticket: fünf 2D-Karten für 35 €.",
+   "wann": "dauerhaft",
+   "hinweis": "Zuschläge für 3D, Dolby Cinema und Premium-Sitze kommen hinzu; Ermäßigungen sind nicht kombinierbar. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "frueh": false,
+   "url": "https://www.mathaeser.de/mm/preise"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Lenbachhaus „extra+“: Gratis am Donnerstagabend",
+   "anbieter": "Lenbachhaus",
+   "angebot": "Am ersten Donnerstag im Monat freier Eintritt von 18 bis 22 Uhr, diesmal am 5. November. Der Kunstbau bleibt 2026 geschlossen.",
+   "wann": "Do, 5.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-05",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026), vor dem Besuch beim Museum prüfen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Villa Stuck „Friday Late“",
+   "anbieter": "Museum Villa Stuck",
+   "angebot": "Am ersten Freitag im Monat sind Eintritt und Abendprogramm von 18 bis 22 Uhr kostenlos, diesmal am 6. November.",
+   "wann": "Fr, 6.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-06",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026), vor dem Besuch prüfen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "1-Euro-Sonntag in Pinakotheken & Co.",
+   "anbieter": "Staatliche Museen (u. a. Alte Pinakothek, Pinakothek der Moderne, Brandhorst, Glyptothek, Nationalmuseum)",
+   "angebot": "Sonntags meist 1 € Eintritt in die Dauerausstellungen; unter 18 Jahren frei. Nächster Termin: 8. November.",
+   "wann": "jeden Sonntag",
+   "hinweis": "Sonderausstellungen sind oft ausgenommen; die Neue Pinakothek ist wegen Sanierung geschlossen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Haus der Kunst „Open Haus“",
+   "anbieter": "Haus der Kunst",
+   "angebot": "Am letzten Freitag im Monat freier Eintritt von 16 bis 22 Uhr, im November am 27.",
+   "wann": "Fr, 27.11.2026, 16–22 Uhr",
+   "buchen_bis": "2026-11-27",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026), vor dem Besuch prüfen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Lodenfrey: Habsburg-Pop-up und Canada-Goose-Tage",
+   "anbieter": "Lodenfrey",
+   "angebot": "Habsburg-Pop-up im 3. Stock vom 9. bis 29.11., am 20. und 21.11. Geschenk ab 1.000 € Einkauf. Canada Goose: kostenlose personalisierte Gepäckanhänger vom 17.11. bis 5.12. (Do–Sa, 16–19 Uhr). Luisa-Cerano-Event am 14.11. ab 10 Uhr.",
+   "wann": "9.11.–5.12.2026",
+   "buchen_bis": "2026-12-05",
+   "hinweis": "Für die Newsletter-Anmeldung gibt es 10 % auf die erste Bestellung. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "frueh": false,
+   "url": "https://www.lodenfrey.com/Events/"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Kategorie 4 ab 15 € für Teens-Club-Mitglieder",
+   "anbieter": "FC Bayern München",
+   "angebot": "Mitglieder des Teens Club zahlen für alle Heimspiele 15 € (BMW Park) bzw. 18 € (SAP Garden), maximal zwei Karten pro Spiel.",
+   "wann": "alle Heimspiele",
+   "hinweis": "Nur 100 ermäßigte Karten pro Spiel; Aktionscode per Mail an den Teens Club anfordern. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "frueh": true,
+   "url": "https://fcbayern.com/de/fans/teens-club/teens-club-tickets/fcbb-tickets/ticketangebot-fc-bayern-basketball"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Weihnachtsfeiern in der Surfhalle",
+   "anbieter": "o2 Surftown MUC (Hallbergmoos)",
+   "angebot": "Weihnachtsfeiern für Firmen und Gruppen: festliches Menü, Eisstockschießen oder Christbaumkugeln bemalen jeweils ab 69 €, Team Challenges & Casino Night ab 99 €, Winterhütten ab 1.500 €, Surf-Show 2.500 €; Shuttle ab München oder Flughafen.",
+   "wann": "Weihnachtssaison, auf Anfrage",
+   "hinweis": "Die Preisliste nennt kein Jahr und keine Termine; Anfrage per Mail an events@surftown.de, Konditionen vorab bestätigen lassen.",
+   "frueh": true,
+   "url": "https://surftown.de/media/site/88d5a08377-1759239717/weihnachts-send-out-1.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Pakete bis 20 % günstiger",
+   "anbieter": "o2 Surftown MUC (Hallbergmoos)",
+   "angebot": "Surf-Sessions ab 95 €, Coachings 199 €. Mit Paketen spart man laut Anbieter bis zu 20 % auf die nächsten Sessions; Gutscheine und Pakete gelten zwei Jahre.",
+   "wann": "Sessions etwa 8 Wochen im Voraus buchbar",
+   "hinweis": "Wer zu Wunschterminen surfen will, sollte rund zwei Monate vorher buchen. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "frueh": true,
+   "url": "https://surftown.de/en/presale"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Bis zu 20 % auf Theater, Konzert und Musical",
+   "anbieter": "Thea Kulturklub (Theatergemeinde München e.V.)",
+   "angebot": "Ermäßigte Karten für Münchner Bühnen, im November etwa für „My Fair Lady“ im Gärtnerplatztheater oder das MKO im Prinzregententheater",
+   "wann": "laufend",
+   "hinweis": "Registrierung bzw. Mitgliedschaft nötig; eine Probeteilnahme wird angeboten. Konditionen vor dem Buchen prüfen. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "frueh": true,
+   "url": "https://www.thea.info/november"
+  }
+ ]
+}
