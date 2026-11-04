@@ -15,6 +15,7 @@ Diese Datei beschreibt, wie jeden Morgen eine neue Ausgabe entsteht. Die geplant
 - **Wirtschaft (`wirtschaft`)**: 10 Artikel zu Unternehmen, Übernahmen, Quartalszahlen und Welthandel.
 - **Finanzen (`finanzen`)**: 10 Artikel zu Aktienmärkten, Anleihen, Rohstoffen, Leitzinsen (Fed, EZB …), Börsengängen und Devisen, dazu die Kurstafel. Krypto nur, wenn es den Gesamtmarkt bewegt. Alles andere zu Krypto gehört in die Rubrik Krypto.
 - **Krypto (`krypto`)**: 5 Artikel zu Bitcoin, Ether und Altcoins, Kryptobörsen, Hacks, ETFs/ETPs, Stablecoins, DeFi, On-Chain-Daten und Regulierung (MiCA, DAC8, SEC, BaFin …). Fachlich genau, der Leser kennt sich aus.
+- **Künstliche Intelligenz (`ki`)**: 5 Artikel zu KI: neue Modelle und Versionen, neue Funktionen und Produkte, technische Entwicklungen und Forschung (Benchmarks, Chips, Rechenzentren, Open Source), Geschäftsmodelle und Unternehmensstrategien (Finanzierungsrunden, Bewertungen, Partnerschaften, Preise, Übernahmen), Regulierung (EU AI Act, USA, China) sowie Sicherheit: KI-Sicherheitsforschung, Missbrauch, Deepfakes, Cyberangriffe mit KI, Datenschutz und Urheberrecht. Fachlich genau, Fachbegriffe kurz erklären. Alle Anbieter werden gleich behandelt, auch Anthropic, das die Redaktion betreibt: keine Bevorzugung, keine Werbesprache, Herstellerangaben (z. B. eigene Benchmarks) als solche kennzeichnen. KI-Themen mit Börsen- oder Konjunkturbezug können auch in Wirtschaft oder Finanzen stehen, aber nie dieselbe Meldung doppelt.
 - **Vermögen & Beteiligungen (`vermoegen`)**: 5 Artikel zu Wealth Management, Family Offices und Private Equity: Deals, Fundraising, Exits, Fusionen von Vermögensverwaltern und Privatbanken, neue Family Offices, Regulierung, WealthTech, Studien (z. B. UBS Global Wealth Report). Gern mit Bezug zum deutschsprachigen Raum.
 - **Köpfe des Tages (`koepfe`)**: 5 kurze Porträt-Meldungen darüber, was eine wichtige Person gerade tut: Konzernchefs, Notenbanker, Investoren, Gründer, Politiker, Prominente aus Sport und Kultur. Jeder Artikel dreht sich um eine Person (Titel mit Namen, Kicker z. B. „Köpfe · Notenbank“). Personalwechsel, Aussagen, Deals, Auftritte. Auch Privatleben gehört dazu (Hochzeit, Trennung, Familienzuwachs, Umzug, Rückzug aus der Öffentlichkeit), wenn es breit berichtet wird und Gesprächsthema ist. Dann gilt Klatsch ausdrücklich als erlaubt. Bedingungen: Die Sache ist von mindestens einem seriösen Medium berichtet oder von der Person selbst bestätigt, nicht nur Spekulation. Keine Mutmaßungen über Gesundheit. Kinder und Privatpersonen im Umfeld werden nicht namentlich in den Mittelpunkt gestellt.
 - **München (`muenchen`)**: 5 Artikel zu Konzerten, Kultur, Theater, Festen (Wiesn, Frühlingsfest, Starkbierfest, Tollwood, Christkindlmärkte …) und Sport (FC Bayern, NFL, EHC, Basketball …) in München. Schwerpunkt ist der **Kartenvorverkauf**: Wann gehen Tickets live (Datum, Uhrzeit, Presales und wer Zugang hat), wo gibt es sie offiziell, was kosten sie, ist etwas ausverkauft. Neue Vorverkaufsstarts der nächsten Tage haben Vorrang vor allgemeinen Kulturmeldungen. Jeder Artikel bekommt, wenn es um Karten geht, den Kasten `karten`. Dazu gehören zwei Listen:
@@ -96,7 +97,7 @@ Die Sterne werden in Moritz' Browser gespeichert (localStorage) und sind für di
 }
 ```
 
-- IDs: `welt-01` … `welt-10`, `wirt-01` … `wirt-10`, `fin-01` … `fin-10`, `krypto-01` … `krypto-05`, `verm-01` … `verm-05`, `koepfe-01` … `koepfe-05`, `muc-01` … `muc-05`, innerhalb der Rubrik nach Wichtigkeit geordnet.
+- IDs: `welt-01` … `welt-10`, `wirt-01` … `wirt-10`, `fin-01` … `fin-10`, `krypto-01` … `krypto-05`, `verm-01` … `verm-05`, `koepfe-01` … `koepfe-05`, `ki-01` … `ki-05`, `muc-01` … `muc-05`, innerhalb der Rubrik nach Wichtigkeit geordnet.
 - München gibt es seit der Ausgabe vom 3. November 2026. Zusätzliche Felder (alle Angaben aus den Quellen, sonst weglassen). Im München-Artikel:
 
 ```json
@@ -123,6 +124,7 @@ Ebenfalls auf oberster Ebene:
 ```
 
 `frueh: true` markiert Frühbucher-Angebote. `start` ist `JJJJ-MM-TT` oder `JJJJ-MM-TTTHH:MM` (Berliner Zeit), `art` ist `gewinnspiel` oder `rabatt`, `bis` ist optional (`JJJJ-MM-TT`). Die Seite sortiert beide Listen selbst und ist unter `#muenchen`, `#vorverkauf` und `#gewinnspiele` direkt erreichbar, die Aktionen unter `#aktionen`.
+- Die Rubrik KI gibt es seit der Ausgabe vom 5. November 2026.
 - Die drei neuen Rubriken gibt es seit der Ausgabe vom 4. November 2026. Ältere Ausgaben haben sie nicht, die Seite blendet sie dort aus.
 - Kurstafel (8 Werte): DAX, S&P 500, Nasdaq, Brent, Gold, Bitcoin, EUR/USD, Rendite 10-jähriger US-Anleihen. `richtung` ist `up`, `down` oder `flat`.
 - `tags`: 1 bis 4 kurze Themen-Schlagworte. Sie speisen das Leserbarometer, also einheitlich halten (z. B. immer „Krypto“, nicht mal „Kryptowährungen“).

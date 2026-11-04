@@ -16,7 +16,10 @@ NEU_AB = "2026-11-04"
 # Seit der Ausgabe vom 3. November 2026: München mit Vorverkaufskalender und Gewinnspielen
 RUBRIK_MUENCHEN = {"muenchen": 5}
 MUENCHEN_AB = "2026-11-03"
-ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN}
+# Seit der Ausgabe vom 5. November 2026: Künstliche Intelligenz
+RUBRIK_KI = {"ki": 5}
+KI_AB = "2026-11-05"
+ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN, **RUBRIK_KI}
 ISO_START = re.compile(r"\d{4}-\d{2}-\d{2}(T\d{2}:\d{2})?$")
 MAX_WOERTER = 500
 
@@ -67,6 +70,8 @@ def pruefe(pfad: Path) -> list[str]:
         RUBRIKEN.update(RUBRIKEN_NEU)
     if datum >= MUENCHEN_AB:
         RUBRIKEN.update(RUBRIK_MUENCHEN)
+    if datum >= KI_AB:
+        RUBRIKEN.update(RUBRIK_KI)
     zaehler = {r: 0 for r in ALLE_RUBRIKEN}
     for a in artikel:
         aid = a.get("id", "?")
