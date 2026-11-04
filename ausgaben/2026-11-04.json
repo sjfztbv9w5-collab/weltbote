@@ -2273,13 +2273,13 @@
   },
   {
    "kategorie": "Kino",
-   "titel": "Mathäser: Sneak für 5,99 €, Late Night für 6,99 €",
+   "titel": "Mathäser: Sneak und Late Night",
    "anbieter": "Mathäser Filmpalast",
-   "angebot": "Dienstags Sneak Preview für 5,99 €. Late-Night-Ticket ab 21.30 Uhr für 6,99 € (So–Do). Superticket: fünf 2D-Karten für 35 €.",
+   "angebot": "Di Sneak 5,99 €, Late Night So–Do ab 21.30 Uhr 6,99 €",
    "wann": "dauerhaft",
-   "hinweis": "Zuschläge für 3D, Dolby Cinema und Premium-Sitze kommen hinzu; Ermäßigungen sind nicht kombinierbar. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
    "frueh": false,
-   "url": "https://www.mathaeser.de/mm/preise"
+   "url": "https://www.mathaeser.de/mm/preise",
+   "regelmaessig": true
   },
   {
    "kategorie": "Museen",
@@ -2305,13 +2305,13 @@
   },
   {
    "kategorie": "Museen",
-   "titel": "1-Euro-Sonntag in Pinakotheken & Co.",
-   "anbieter": "Staatliche Museen (u. a. Alte Pinakothek, Pinakothek der Moderne, Brandhorst, Glyptothek, Nationalmuseum)",
-   "angebot": "Sonntags meist 1 € Eintritt in die Dauerausstellungen; unter 18 Jahren frei. Nächster Termin: 8. November.",
+   "titel": "1-Euro-Sonntag",
+   "anbieter": "Staatliche Museen, u. a. Pinakotheken",
+   "angebot": "1 € Eintritt in staatlichen Museen, unter 18 frei; nächster Termin 8. November",
    "wann": "jeden Sonntag",
-   "hinweis": "Sonderausstellungen sind oft ausgenommen; die Neue Pinakothek ist wegen Sanierung geschlossen.",
    "frueh": false,
-   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen",
+   "regelmaessig": true
   },
   {
    "kategorie": "Museen",
@@ -2337,13 +2337,12 @@
   },
   {
    "kategorie": "Sport",
-   "titel": "FC Bayern Basketball: Kategorie 4 ab 15 € für Teens-Club-Mitglieder",
+   "titel": "FC Bayern Basketball: Teens-Club-Preis",
    "anbieter": "FC Bayern München",
-   "angebot": "Mitglieder des Teens Club zahlen für alle Heimspiele 15 € (BMW Park) bzw. 18 € (SAP Garden), maximal zwei Karten pro Spiel.",
-   "wann": "alle Heimspiele",
-   "hinweis": "Nur 100 ermäßigte Karten pro Spiel; Aktionscode per Mail an den Teens Club anfordern. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "angebot": "Teens-Club-Mitglieder ab 15 € pro Heimspiel",
    "frueh": true,
-   "url": "https://fcbayern.com/de/fans/teens-club/teens-club-tickets/fcbb-tickets/ticketangebot-fc-bayern-basketball"
+   "url": "https://fcbayern.com/de/fans/teens-club/teens-club-tickets/fcbb-tickets/ticketangebot-fc-bayern-basketball",
+   "regelmaessig": true
   },
   {
    "kategorie": "Freizeit & Erlebnis",
@@ -2357,23 +2356,21 @@
   },
   {
    "kategorie": "Freizeit & Erlebnis",
-   "titel": "o2 Surftown MUC: Pakete bis 20 % günstiger",
+   "titel": "o2 Surftown MUC: Pakete",
    "anbieter": "o2 Surftown MUC (Hallbergmoos)",
-   "angebot": "Surf-Sessions ab 95 €, Coachings 199 €. Mit Paketen spart man laut Anbieter bis zu 20 % auf die nächsten Sessions; Gutscheine und Pakete gelten zwei Jahre.",
-   "wann": "Sessions etwa 8 Wochen im Voraus buchbar",
-   "hinweis": "Wer zu Wunschterminen surfen will, sollte rund zwei Monate vorher buchen. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "angebot": "Mit Paketen bis zu 20 % günstiger, rund 8 Wochen vorher buchen",
    "frueh": true,
-   "url": "https://surftown.de/en/presale"
+   "url": "https://surftown.de/en/presale",
+   "regelmaessig": true
   },
   {
    "kategorie": "Theater & Konzerte",
-   "titel": "Bis zu 20 % auf Theater, Konzert und Musical",
+   "titel": "Thea Kulturklub",
    "anbieter": "Thea Kulturklub (Theatergemeinde München e.V.)",
-   "angebot": "Ermäßigte Karten für Münchner Bühnen, im November etwa für „My Fair Lady“ im Gärtnerplatztheater oder das MKO im Prinzregententheater",
-   "wann": "laufend",
-   "hinweis": "Registrierung bzw. Mitgliedschaft nötig; eine Probeteilnahme wird angeboten. Konditionen vor dem Buchen prüfen. Aus der Vorausgabe übernommen, am 4.11. nicht erneut geprüft.",
+   "angebot": "Bis zu 20 % auf Theater, Konzert und Musical",
    "frueh": true,
-   "url": "https://www.thea.info/november"
+   "url": "https://www.thea.info/november",
+   "regelmaessig": true
   }
  ]
 }

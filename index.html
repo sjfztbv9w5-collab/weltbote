@@ -209,8 +209,8 @@ footer.colophon p { margin: 0; max-width: 80ch; }
 .vvk td { border-bottom: 1px dotted var(--faded); padding: 6px; vertical-align: top; overflow-wrap: anywhere; }
 .vvk td.wann { font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 600; }
 .vvk tr.vorbei td { color: var(--faded); }
-.vvk .bald { font-family: var(--f-type); font-size: 11px; color: var(--oxblood); display: block; font-weight: 400; }
-@media (max-width: 640px) { .vvk thead { display: none; } .vvk tr { display: block; border-bottom: 1px solid var(--rule); padding: 6px 0; } .vvk td { display: block; border: 0; padding: 1px 4px; } }
+.vvk .bald { font-family: var(--f-type); font-size: 11px; color: var(--oxblood); display: block; font-weight: 400; white-space: normal; }
+@media (max-width: 640px) { .vvk thead { display: none; } .vvk tr { display: block; border-bottom: 1px solid var(--rule); padding: 6px 0; } .vvk td { display: block; border: 0; padding: 1px 4px; } .vvk td.wann { white-space: normal; } }
 .gw-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
 .gw { border: 1px solid var(--rule); padding: 10px 12px; min-width: 0; }
 .gw .art { font-family: var(--f-type); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--oxblood); }
@@ -219,6 +219,16 @@ footer.colophon p { margin: 0; max-width: 80ch; }
 .gw .meta { font-family: var(--f-type); font-size: 12px; color: var(--ink-soft); }
 .gw .pruef { font-size: 13px; color: var(--ink-soft); border-top: 1px dotted var(--faded); padding-top: 5px; }
 .gw.abgelaufen { opacity: .55; }
+.muc-kurz { margin: 14px 0 4px; border-top: 3px double var(--rule); border-bottom: 1px solid var(--rule); padding: 8px 0 6px; }
+.muc-kurz h3 { font-family: var(--f-sc); font-weight: 400; letter-spacing: .06em; font-size: 16px; color: var(--oxblood); margin: 0 0 4px; text-align: center; }
+.muc-kurz ul, .regel { list-style: none; margin: 0; padding: 0; }
+.muc-kurz li { padding: 5px 0; border-bottom: 1px dotted var(--faded); font-size: 15px; line-height: 1.4; }
+.muc-kurz li:last-child { border-bottom: 0; }
+.muc-kurz b { font-family: var(--f-head); font-weight: 400; font-size: 17px; }
+.muc-kurz .q, .regel .q { font-family: var(--f-type); font-size: 11.5px; color: var(--ink-soft); white-space: nowrap; }
+.regel li { display: flex; flex-wrap: wrap; gap: 2px 8px; align-items: baseline; padding: 4px 0; border-bottom: 1px dotted var(--faded); font-size: 14.5px; }
+.regel li > * { min-width: 0; }
+.regel .kat { font-family: var(--f-type); font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--oxblood); }
 .warnung { font-size: 13.5px; color: var(--ink-soft); margin: 12px 0 0; border-top: 1px solid var(--rule); padding-top: 8px; }
 </style>
 </head>
@@ -280,7 +290,7 @@ const RUBRIKEN = {
 };
 
 let MEDIEN = {};
-let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "", VORVERKAUF = [], GEWINNSPIELE = [], AKTIONEN = [];
+let AUSGABE = null, ARTIKEL = [], FEUILLETON = [], KURSE = [], STAND = "", VORVERKAUF = [], GEWINNSPIELE = [], AKTIONEN = [], MUC_KURZ = [];
 
 /* ---------- Hilfen ---------- */
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -409,6 +419,18 @@ function fmtStart(s) {
   const tag = d.toLocaleDateString("de-DE", { weekday: "short", day: "numeric", month: "short", year: "numeric" });
   return s.length > 10 ? tag + ", " + d.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" }) + " Uhr" : tag;
 }
+function regelListe(liste, art) {
+  const ul = el("ul", "regel");
+  liste.forEach(x => {
+    const li = el("li");
+    li.append(el("span", "kat", x.kategorie || (x.art === "rabatt" ? "Rabatt" : art)), el("b", null, x.titel));
+    const info = [x.angebot || x.gewinn, x.wann, x.anbieter].filter(Boolean).join(" · ");
+    if (info) li.append(el("span", null, info));
+    if (x.url) { const q = el("span", "q"); q.append(link("Link", x.url)); li.append(q); }
+    ul.append(li);
+  });
+  return ul;
+}
 function renderMuenchenExtras(main) {
   const sp = el("p", "muc-sprung");
   [["vorverkauf", "Vorverkaufskalender"], ["aktionen", "Aktionen & Frühbucher"], ["gewinnspiele", "Gewinnspiele & Rabatte"]].forEach(([id, t], i) => {
@@ -419,6 +441,19 @@ function renderMuenchenExtras(main) {
     sp.append(l);
   });
   main.insertBefore(sp, main.children[1] || null);
+  if (MUC_KURZ.length) {
+    const kb = el("section", "muc-kurz"); kb.id = "muc-kurz";
+    kb.append(el("h3", null, "Kurz notiert"));
+    const ul = el("ul");
+    MUC_KURZ.forEach(s => {
+      const li = el("li"); li.append(el("b", null, s.titel));
+      if (s.satz) li.append(document.createTextNode(" " + s.satz));
+      if (s.url) { li.append(document.createTextNode(" ")); const q = el("span", "q"); q.append(link(s.quelle || "Quelle", s.url)); li.append(q); }
+      ul.append(li);
+    });
+    kb.append(ul);
+    main.insertBefore(kb, main.children[1] || null);
+  }
   const heute = heuteIso();
   if (VORVERKAUF.length) {
     const box = el("section", "muc-box"); box.id = "vorverkauf";
@@ -442,7 +477,7 @@ function renderMuenchenExtras(main) {
     const ab = el("section", "muc-box"); ab.id = "aktionen";
     ab.append(el("h2", null, "Aktionen & Frühbucher"), el("p", "sub", "Restaurants, Bars, Kinos, Läden, Sport, Freizeit, Theater und Museen: rechtzeitig buchen und sparen"));
     const gruppen = new Map();
-    AKTIONEN.forEach(x => { const k = x.kategorie || "Sonstiges"; if (!gruppen.has(k)) gruppen.set(k, []); gruppen.get(k).push(x); });
+    AKTIONEN.filter(x => !x.regelmaessig).forEach(x => { const k = x.kategorie || "Sonstiges"; if (!gruppen.has(k)) gruppen.set(k, []); gruppen.get(k).push(x); });
     gruppen.forEach((liste, kat) => {
       ab.append(el("h3", null, kat));
       const g = el("div", "gw-grid"); g.style.marginBottom = "14px";
@@ -458,14 +493,18 @@ function renderMuenchenExtras(main) {
       });
       ab.append(g);
     });
+    const regel = AKTIONEN.filter(x => x.regelmaessig);
+    if (regel.length) { ab.append(el("h3", null, "Regelmäßig")); ab.append(regelListe(regel, "Aktion")); }
     main.append(ab);
   }
   const gb = el("section", "muc-box"); gb.id = "gewinnspiele";
   gb.append(el("h2", null, "Gewinnspiele & Rabatte"), el("p", "sub", "Nur geprüfte Aktionen von Veranstaltern, Sponsoren und etablierten Medien, kostenlos und ohne Kaufzwang"));
-  if (!GEWINNSPIELE.length) gb.append(el("p", "empty", "Heute keine Aktion, die unseren Prüfkriterien genügt."));
+  const gwRegel = GEWINNSPIELE.filter(x => x.regelmaessig);
+  const gwNeu = GEWINNSPIELE.filter(x => !x.regelmaessig);
+  if (!gwNeu.length) gb.append(el("p", "empty", "Heute keine Aktion, die unseren Prüfkriterien genügt."));
   else {
     const g = el("div", "gw-grid");
-    [...GEWINNSPIELE].sort((a, b) => (a.bis || "9999").localeCompare(b.bis || "9999")).forEach(x => {
+    [...gwNeu].sort((a, b) => (a.bis || "9999").localeCompare(b.bis || "9999")).forEach(x => {
       const c = el("article", "gw" + (x.bis && x.bis < heute ? " abgelaufen" : ""));
       c.append(el("div", "art", x.art === "rabatt" ? "Rabatt" : "Gewinnspiel"), el("h4", null, x.titel));
       if (x.gewinn) c.append(el("p", null, x.gewinn));
@@ -478,6 +517,7 @@ function renderMuenchenExtras(main) {
     });
     gb.append(g);
   }
+  if (gwRegel.length) { gb.append(el("h3", null, "Regelmäßig")); gb.append(regelListe(gwRegel, "Rabatt")); }
   gb.append(el("p", "warnung", "Vorsicht vor Fälschungen: Seriöse Gewinnspiele verlangen nie Geld, Bankdaten, Kartennummern oder kostenpflichtige Anrufe und SMS. Gewinner werden nur über die offiziellen Kanäle des Anbieters benachrichtigt. Kopierte Profile in sozialen Netzwerken, die per Direktnachricht einen Gewinn melden, sind fast immer Betrug."));
   main.append(gb);
 }
@@ -573,7 +613,7 @@ async function ladeAusgabe(iso) {
   if (!res.ok) throw new Error("Ausgabe " + iso + " nicht gefunden");
   const d = await res.json();
   AUSGABE = d.datum; ARTIKEL = d.artikel || []; FEUILLETON = d.feuilleton || []; KURSE = d.kurse || []; STAND = d.kurse_stand || "";
-  VORVERKAUF = d.vorverkauf || []; GEWINNSPIELE = d.gewinnspiele || []; AKTIONEN = d.aktionen || [];
+  MUC_KURZ = d.muenchen_schlagzeilen || []; VORVERKAUF = d.vorverkauf || []; GEWINNSPIELE = d.gewinnspiele || []; AKTIONEN = d.aktionen || [];
   $("#datum").textContent = d.datumszeile || fmtDatum(d.datum);
   $("#schluss").textContent = d.redaktionsschluss ? "Redaktionsschluss " + d.redaktionsschluss : "";
   $("#nummer").textContent = "Jahrgang " + d.datum.slice(0, 4) + " · Nr. " + tagNr(d.datum);

@@ -16,6 +16,8 @@ NEU_AB = "2026-11-04"
 # Seit der Ausgabe vom 3. November 2026: München mit Vorverkaufskalender und Gewinnspielen
 RUBRIK_MUENCHEN = {"muenchen": 5}
 MUENCHEN_AB = "2026-11-03"
+# Seit der Ausgabe vom 5. November 2026: München-Schlagzeilen („Kurz notiert“)
+MUC_KURZ_AB = "2026-11-05"
 # Seit der Ausgabe vom 5. November 2026: Künstliche Intelligenz
 RUBRIK_KI = {"ki": 5}
 KI_AB = "2026-11-05"
@@ -163,6 +165,26 @@ def pruefe_muenchen(d: dict, artikel: list, datum: str) -> list[str]:
             fehler.append(f"vorverkauf {i}: 'veranstaltung' fehlt")
         if not _https(v.get("url")):
             fehler.append(f"vorverkauf {i}: 'url' (https) fehlt")
+    if datum >= MUC_KURZ_AB:
+        kurz = d.get("muenchen_schlagzeilen")
+        if not isinstance(kurz, list) or len(kurz) != 5:
+            fehler.append("'muenchen_schlagzeilen' braucht genau 5 Einträge")
+        else:
+            for i, s in enumerate(kurz, 1):
+                if not s.get("titel"):
+                    fehler.append(f"München-Schlagzeile {i}: 'titel' fehlt")
+                elif len(s["titel"]) > 110:
+                    fehler.append(f"München-Schlagzeile {i}: Titel zu lang (max. 110 Zeichen)")
+                if s.get("satz") and len(s["satz"].split()) > 30:
+                    fehler.append(f"München-Schlagzeile {i}: 'satz' zu lang (max. 30 Wörter)")
+                if not _https(s.get("url")):
+                    fehler.append(f"München-Schlagzeile {i}: 'url' (https) fehlt")
+    for liste in ("aktionen", "gewinnspiele"):
+        for x in d.get(liste, []) if isinstance(d.get(liste), list) else []:
+            if "regelmaessig" in x and not isinstance(x["regelmaessig"], bool):
+                fehler.append(f"{liste} {x.get('titel', '?')}: 'regelmaessig' muss true oder false sein")
+            if x.get("regelmaessig") and len(str(x.get("angebot") or x.get("gewinn") or "").split()) > 15:
+                fehler.append(f"{liste} {x.get('titel', '?')}: regelmäßiges Angebot in höchstens 15 Wörtern beschreiben")
     gw = d.get("gewinnspiele", [])
     if not isinstance(gw, list):
         return fehler + ["'gewinnspiele' muss eine Liste sein"]
