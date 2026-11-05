@@ -1,0 +1,2655 @@
+{
+ "datum": "2026-11-05",
+ "datumszeile": "Donnerstag, den 5. November 2026",
+ "redaktionsschluss": "6 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom 4.11.2026; Gold: Dezember-Future, Brent: Settlement Januar-Kontrakt; Bitcoin und EUR/USD am 5.11. gegen 4 Uhr MEZ",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 5. November 2026. Einzelne offene Senatsrennen der US-Zwischenwahlen waren bei Redaktionsschluss noch nicht entschieden. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "26.438",
+   "veraenderung": "+2,2 %",
+   "richtung": "up"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.689",
+   "veraenderung": "+1,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "25.737",
+   "veraenderung": "+1,4 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Brent",
+   "wert": "94,62 $",
+   "veraenderung": "−8,7 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Gold",
+   "wert": "4.073 $",
+   "veraenderung": "+3,4 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "≈ 80.400 $",
+   "veraenderung": "+3,4 %",
+   "richtung": "up"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,126",
+   "veraenderung": "+0,2 %",
+   "richtung": "up"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,88 %",
+   "veraenderung": "−0,07",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Wahlen",
+    "Trump"
+   ],
+   "kicker": "Vereinigte Staaten · Nach der Zwischenwahl",
+   "titel": "Trump gratuliert, droht mit dem Veto – Demokraten kündigen Untersuchungen an",
+   "deck": "Einen Tag nach der Wahl stehen 54 Senatssitze für die Demokraten fest, in Alaska und Mississippi entscheiden wenige hundert Stimmen.",
+   "text": [
+    "Am Tag nach der Niederlage seiner Partei hat sich US-Präsident Donald Trump versöhnlich und kampfbereit zugleich gezeigt. Im Sender Fox News sagte er, die Demokraten hätten „gute Arbeit geleistet“, er sei „ein wenig überrascht“ und habe mit einem besseren Ergebnis gerechnet. Ein Schlag gegen ihn persönlich sei die Wahl nicht gewesen. Als Gründe nannte er schwache Kandidaten und die hohen Benzinpreise infolge des Iran-Kriegs; der Krieg sei „ein Teil davon“. Zugleich verbreitete er das Bild einer roten Mütze mit der Aufschrift „VETO“: Die Demokraten seien „an der Macht, aber nicht wirklich an der Macht“. Vizepräsident JD Vance machte ebenfalls den Iran-Konflikt für die Verluste verantwortlich.",
+    "Nach Zählung von CBS News und AP kommen die Demokraten im Senat auf mindestens 54 der 100 Sitze, im Repräsentantenhaus liegen sie deutlich über der Mehrheitsmarke von 218. Offen sind noch zwei Senatsrennen. In Mississippi führte der Demokrat Scott Colom am Mittwochabend nach Angaben von Al Jazeera mit 1.138 Stimmen vor Amtsinhaberin Cindy Hyde-Smith, bei 96 Prozent ausgezählter Stimmen; die Bezirke müssen ihre Ergebnisse bis 13. November beglaubigen. In Alaska lag Mary Peltola 637 Stimmen vor Senator Dan Sullivan, knapp ein Viertel der Stimmen war noch nicht ausgezählt. Wegen der Präferenzwahl wird das Endergebnis dort erst am 18. November veröffentlicht.",
+    "Die künftige Mehrheit legte ihre Pläne offen. Der demokratische Senatsführer Chuck Schumer sprach von einer „Neuordnung der Senatskarte für eine Generation“ und kündigte an, Trump bei Rechtsbrüchen mit Untersuchungen, Klagen und „legislativem Stacheldraht“ zu begegnen. Hakeem Jeffries, der als künftiger Sprecher des Repräsentantenhauses der erste Schwarze in diesem Amt wäre, stellte ein 100-Tage-Programm gegen hohe Preise für Benzin und Lebensmittel sowie gegen Kürzungen bei Krankenversicherung und Medicaid in Aussicht. Die Demokraten wollen zudem Geschäfte der Trump-Familie und den Umgang mit den Epstein-Ermittlungen prüfen. „Nehmen Sie sich einen Anwalt“, sagte der Demokrat Robert Garcia aus dem Kontrollausschuss.",
+    "Bei den Republikanern beginnt die Suche nach Verantwortlichen. Trump griff den abgewählten texanischen Gouverneur Greg Abbott an, Sprecher Mike Johnson will laut CBS nicht für den Posten des Minderheitsführers kandidieren. Bis zum Zusammentritt des neuen Kongresses Anfang Januar droht im kommenden Monat ein Regierungsstillstand, falls kein Haushaltsgesetz zustande kommt."
+   ],
+   "quellen": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+    ],
+    [
+     "AP via NBC New York",
+     "https://www.nbcnewyork.com/news/politics/investigation-possible-impeachment-trump-democrat-won-congress-republican/6567693/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
+    ]
+   ],
+   "berichterstattung": [
+    "cbsnews.com",
+    "nbcnewyork.com",
+    "apnews.com",
+    "aljazeera.com",
+    "abcnews.com",
+    "foxnews.com",
+    "forbes.com",
+    "nbcnews.com",
+    "cnn.com",
+    "cnbc.com",
+    "npr.org",
+    "time.com",
+    "slate.com",
+    "yahoo.com",
+    "nbcchicago.com",
+    "nbcwashington.com",
+    "hngn.com",
+    "newsnationnow.com",
+    "justthenews.com",
+    "nytimes.com",
+    "reuters.com",
+    "bbc.co.uk",
+    "euronews.com",
+    "tagesspiegel.de",
+    "orf.at",
+    "wiwo.de",
+    "blick.ch",
+    "zdfheute.de"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "Nahost",
+    "USA"
+   ],
+   "kicker": "Nahost · Iran-Krieg",
+   "titel": "Trump sieht „keinen Grund“ für neue Schläge, Teheran rüstet zur „maximalen Abschreckung“",
+   "deck": "Der US-Präsident nennt die Lage gegenüber Iran „brillant“, Teherans Chefunterhändler deutet das Wahlergebnis als Absage an den Krieg.",
+   "text": [
+    "US-Präsident Donald Trump plant nach eigenen Worten vorerst keine neuen Angriffe auf Iran. Der „Financial Times“ sagte er, die Streitkräfte seien „bereit und geladen“, aber womöglich gebe es keinen Anlass dafür; Washington bekomme „anscheinend alles, was wir wollen“. Das sagte er auf die Frage nach Andeutungen von Israels Premier Benjamin Netanjahu, ein Angriff könne noch in dieser Woche folgen. Einen „richtigen Krieg“ sehe er nicht. Sorgen bereiteten ihm aber rund 1.000 Pfund angereichertes Uran, das zum Großteil unter Trümmern früherer Angriffe begraben sein soll; darüber wird indirekt verhandelt.",
+    "Teheran setzt auf Härte. Nach Berichten, die sich auf Axios stützen, wies Revolutionsführer Modschtaba Chamenei bei einem Treffen mit den obersten Militärs am 31. Oktober an, jeden neuen Angriff „sofort und wirksam“ und ohne geografische Grenzen zu beantworten. Die Zielliste sei auf amerikanische und israelische Einrichtungen in Reichweite ausgeweitet worden, die Produktion von Munition und Aufklärungsgerät habe sich vervielfacht.",
+    "Das Ergebnis der US-Zwischenwahl wertet Teheran als Signal. Parlamentspräsident und Chefunterhändler Mohammad Bagher Ghalibaf schrieb auf X, die Amerikaner hätten „Nein zum Krieg“ gesagt, und warnte vor einem „Albtraum“, falls Washington das ignoriere. Trump räumte ein, Iran sei „ein Teil“ der Niederlage gewesen, sagte dem „Wall Street Journal“ aber, er bereue den Krieg nicht.",
+    "Die Vermittler aus Katar, Pakistan und Saudi-Arabien erwarten binnen 36 Stunden Rückmeldungen zu einem neuen Vorschlag. Die Revolutionsgarden meldeten unterdessen vier brennende Tanker nach Minentreffern in der Straße von Hormus und zwei gestoppte Schiffe; unabhängig bestätigt ist das nicht. Libanons Premier Nawaf Salam warnte davor, sein Land in einen neuen Krieg hineinzuziehen."
+   ],
+   "quellen": [
+    [
+     "Anadolu via Express Tribune",
+     "https://tribune.com.pk/story/2638580/us-has-no-immediate-plans-to-strike-iran-trump"
+    ],
+    [
+     "CBS News via Yahoo",
+     "https://yahoo.com/news/politics/articles/trump-admits-iran-war-partly-084640367.html"
+    ],
+    [
+     "Outlook India",
+     "https://www.outlookindia.com/international/iran-military-response-plan-us-israel-attack"
+    ]
+   ],
+   "berichterstattung": [
+    "tribune.com.pk",
+    "cbsnews.com",
+    "yahoo.com",
+    "outlookindia.com",
+    "ft.com",
+    "jpost.com",
+    "israelnationalnews.com",
+    "newarab.com",
+    "iranintl.com",
+    "jfeed.com",
+    "aljazeera.com",
+    "latintimes.com",
+    "reuters.com",
+    "dawn.com",
+    "usnews.com",
+    "theprint.in",
+    "oilprice.com",
+    "investinglive.com",
+    "report.az",
+    "lbcgroup.tv",
+    "shafaq.com",
+    "euronews.com"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Indonesien",
+    "Asien"
+   ],
+   "kicker": "Indonesien · Abhöraffäre",
+   "titel": "Prabowo entlässt seinen Stabschef, 20.000 Soldaten in Jakarta",
+   "deck": "Der frühere Polizeichef Listyo Sigit Prabowo soll den Präsidenten abgehört haben, die Regierung spricht von Verrat.",
+   "text": [
+    "Indonesiens Präsident Prabowo Subianto hat am Mittwoch seinen Stabschef Listyo Sigit Prabowo entlassen, einen Tag nach dessen Festnahme. Der frühere Chef der Nationalpolizei, erst im Oktober ins Präsidialamt berufen, soll gemeinsam mit zwei weiteren hochrangigen Polizisten illegal Telefone abgehört haben, darunter die des Präsidenten und von Kabinettsmitgliedern. Nach Reuters-Angaben richtete sich die Überwachung seit Anfang 2025 auch gegen Journalisten, Politiker, Beamte und Geschäftsleute. Im vergangenen Monat sollen die Verdächtigen angeordnet haben, die Mitschnitte zu löschen.",
+    "Präsidialamtssprecher Prasetyo Hadi sprach von „abtrünnigen Einzelnen“ und einem Vorgehen, das „in Richtung Verrat“ gehe und die Sicherheit des Staatsoberhaupts gefährde. Das Motiv sei noch unklar, sagte Rechtsminister Yusril Ihza Mahendra. Für die Abhöraktion habe es keinerlei rechtliche Grundlage gegeben, erklärte der oberste Kriminalermittler Asep Safrudin.",
+    "Am selben Tag verlegte das Militär mehr als 20.000 Soldaten in die Hauptstadt. Ein Zusammenhang mit den Festnahmen wurde offiziell nicht hergestellt; ein Marinesprecher sprach von Stabilität und einer bevorstehenden Übung. Die Forscherin Sana Jaffrey von der Australian National University sieht darin mögliche Spannungen zwischen Armee und Listyo-treuen Polizeikreisen und warnt vor einer ungewollten Eskalation.",
+    "Listyo galt als Vertrauter von Ex-Präsident Joko Widodo, mit dem Prabowo zuletzt über Kreuz lag. Amnesty International forderte, die Zielpersonen offenzulegen. Der Präsident steht ohnehin unter Druck: Seine Zustimmungswerte sinken, Investoren sind verunsichert."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"
+    ],
+    [
+     "Reuters via TimesLIVE",
+     "https://www.timeslive.co.za/news/world/2026-11-04-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping/"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "timeslive.co.za",
+    "reuters.com",
+    "theprint.in",
+    "tribune.com.pk",
+    "omanobserver.om",
+    "usnews.com",
+    "morningstaronline.co.uk"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland",
+    "Korruption"
+   ],
+   "kicker": "Ukraine · Krieg und Korruption",
+   "titel": "Kiews Antikorruptionsbehörde nimmt den Sicherheitsapparat ins Visier",
+   "deck": "Während die Zahl der Toten nach dem Angriff auf ein Hilfszentrum steigt, ehrt Selenskyj Melania Trump für die Feuerpause in Oleschky.",
+   "text": [
+    "In der Ukraine weitet sich ein großer Betrugsfall auf die Spitzen von Sicherheits- und Strafverfolgungsbehörden aus. Das Nationale Antikorruptionsbüro geht nach Reuters-Angaben davon aus, dass hochrangige Beamte geholfen haben, ein umfangreiches Betrugssystem zu vertuschen. Der Geheimdienst SBU bestätigte Durchsuchungen bei eigenen Mitarbeitern. Der frühere Generalstaatsanwalt Ruslan Krawtschenko trat zurück.",
+    "Die Zahl der Toten nach dem russischen Angriff auf eine frühere Schule in Komyschuwacha, die als Ausgabestelle für Hilfsgüter diente, stieg nach Behördenangaben auf 37, mindestens 59 Menschen werden vermisst. Präsident Wolodymyr Selenskyj nannte den Angriff eine der größten Tötungen dieses Krieges. Die Leiterin der UN-Menschenrechtsmission, Danielle Bell, erklärte, Russland habe von der Hilfsausgabe gewusst oder nicht das Mindeste getan, um es herauszufinden. Russische Angriffe auf das Stromnetz verursachten zudem Ausfälle in mehreren Landesteilen.",
+    "Auf diplomatischer Ebene zeichnen sich Termine ab: US-Unterhändler sollten am Mittwoch in Brüssel mit Vertretern Europas, der Nato, der Ukraine und der Weltbank zusammenkommen. Für den 10. und 11. November sind in Abu Dhabi die ersten Dreiergespräche zwischen Kiew, Moskau und Washington seit Februar angesetzt. Bundeskanzler Friedrich Merz sieht nach eigenen Worten bisher keine Bereitschaft Russlands zu ernsthaften Verhandlungen.",
+    "Selenskyj verlieh Melania Trump den Fürstin-Olga-Orden erster Klasse für ihre Rolle bei der Waffenruhe und Evakuierung in Oleschky. Die First Lady empfing am Mittwoch russische und ukrainische Vertreter im Weißen Haus."
+   ],
+   "quellen": [
+    [
+     "Reuters",
+     "https://www.reuters.com/world/ukraines-anti-graft-police-target-senior-officials-major-fraud-probe-2026-11-04/"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/04/more-than-50-trapped-under-rubble-after-russian-strike-on-school-turned-aid-centre-zelensk"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "euronews.com",
+    "thehill.com",
+    "justsecurity.org",
+    "news.de"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Israel",
+    "Nahost",
+    "USA"
+   ],
+   "kicker": "Israel · Nach der Wahl",
+   "titel": "Herzog berät über die Regierungsbildung, Trump kündigt Ende der Militärhilfe an",
+   "deck": "Die Wahlkommission findet keinen Betrug, die Opposition sammelt sich hinter Eisenkot.",
+   "text": [
+    "Gut eine Woche nach der Parlamentswahl in Israel hat Staatspräsident Isaac Herzog die Gespräche mit den Parteien über die Regierungsbildung begonnen. Bis Donnerstagabend empfehlen die Fraktionen in Jerusalem, wer zuerst den Auftrag erhalten soll. Die Oppositionsführer stellten sich nach Berichten von Al Jazeera hinter den früheren Generalstabschef Gadi Eisenkot, um Premier Benjamin Netanjahu abzulösen. Die Wahlkommission erklärte am Mittwoch, sie habe bei der Abstimmung keinen Betrug festgestellt.",
+    "Für Aufsehen sorgte eine Ankündigung aus Washington. US-Präsident Donald Trump sagte nach einem Bericht der „New York Times“, der Großteil der amerikanischen Militärhilfe für Israel werde zum Jahresende auslaufen; darauf habe er sich mit Netanjahu verständigt. Israel werde amerikanische Waffen künftig selbst bezahlen.",
+    "Die regionale Lage bleibt angespannt. Im besetzten Westjordanland halfen nach Reuters-Angaben rund 30 frühere ranghohe israelische Militärs palästinensischen Bauern bei der Olivenernte, um gegen zunehmende Siedlergewalt zu protestieren; organisiert hatte das Generalmajor a. D. Eyal Ben-Reuven. Libanons Ministerpräsident Nawaf Salam warnte, sein Land dürfe nicht in einen neuen Krieg hineingezogen werden."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com",
+    "euronews.com",
+    "aljazeera.com",
+    "reuters.com",
+    "news.de",
+    "cbsnews.com",
+    "justsecurity.org"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Russland",
+    "Sport",
+    "Deutschland"
+   ],
+   "kicker": "Sport und Politik · Eishockey",
+   "titel": "Boykott gegen Russland: Deutschland stellt die Eishockey-WM 2027 infrage",
+   "deck": "Nach dem CAS-Urteil wollen sechs Nationen nicht gegen Russland antreten, Kanada sperrt russische Junioren.",
+   "text": [
+    "Der Internationale Sportgerichtshof CAS hat am 30. Oktober entschieden, dass der Eishockey-Weltverband IIHF russische Mannschaften aller Altersklassen wieder zulassen muss. Das kippt einen vierjährigen Ausschluss und gilt auch für die Weltmeisterschaft im Mai 2027 in Deutschland. Der Deutsche Eishockey-Bund reagierte scharf: Präsident Frank H. Lutz sagte, das Urteil verändere die Lage „grundlegend“, und warnte vor Folgen für Sicherheit, Politik und Wirtschaft des Gastgebers. Der Verband prüfe nun mit der IIHF die nächsten Schritte.",
+    "Finnland, Norwegen, Tschechien, Lettland, Dänemark und Schweden haben erklärt, nicht gegen Russland zu spielen; Österreich erwägt, sich anzuschließen. Finnlands Außenministerin Elina Valtonen will in der EU für Einschränkungen beim Zugang russischer Sportler zum Schengen-Raum werben. Tschechien verweist auf sein Visaverbot für Russen. Kanadas Premier Mark Carney schloss russische und belarussische Spieler von der Junioren-WM in Alberta aus, die Ende Dezember beginnt; Moskaus Botschafter nannte das bedauerlich.",
+    "Auch Sponsoren gehen auf Distanz: Der schwedische Büromöbelhersteller AJ Products, seit 1989 Partner der WM, und der finnische Reifenhersteller Nokian Tyres stellen ihr Engagement bei russischer Teilnahme infrage. Die EU-Kommission erklärte, Sport dürfe nicht für Propaganda genutzt werden. Der ukrainische Außenminister Andrij Sybiha warf dem CAS vor, „das Eis mit ukrainischem Blut zu beflecken“."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host"
+    ],
+    [
+     "Reuters",
+     "https://www.reuters.com/world/canada-will-not-let-russians-compete-ice-hockey-tournament-says-carney-2026-11-03/"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com",
+    "reuters.com",
+    "justsecurity.org"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Polen",
+    "Russland",
+    "EU"
+   ],
+   "kicker": "Polen · Verfassungskrise",
+   "titel": "Tusk sucht das Gespräch mit dem Präsidenten und sichert die Grenze zu Kaliningrad",
+   "deck": "Der Regierungschef startet eine „Sonderoperation“ gegen mögliche Sabotage, im Justizstreit sucht er Entspannung.",
+   "text": [
+    "Polens Ministerpräsident Donald Tusk hat an der Nordgrenze zu Russland eine „Sonderoperation“ gestartet. Nach Angaben der „New York Times“ reagiert die Regierung damit auf die Gefahr von Sabotage oder Grenzverletzungen aus der russischen Exklave Kaliningrad.",
+    "Zugleich bemüht sich Tusk um ein Treffen mit Präsident Karol Nawrocki, um die Spannungen im Streit um das Verfassungsgericht zu entschärfen, wie Euronews berichtet. Die frühere EU-Kommissarin Věra Jourová sagte, die Krise schwäche Polen in einer „sehr ungünstigen“ Zeit.",
+    "Polen bleibt zugleich Schauplatz europäischer Vorbereitungen für eine mögliche Nachkriegsordnung in der Ukraine: Großbritannien und Frankreich kündigten an, dass in diesem Monat rund 2.800 Soldaten aus zehn europäischen Ländern dort üben, um einen möglichen Einsatz in der Ukraine vorzubereiten."
+   ],
+   "quellen": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/04/polands-pm-seeks-meeting-with-president-to-ease-tensions-over-constitutional-court-crisis"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com",
+    "euronews.com",
+    "justsecurity.org"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Kolumbien",
+    "Venezuela",
+    "Lateinamerika"
+   ],
+   "kicker": "Lateinamerika · Bewaffnete Gruppen",
+   "titel": "Kolumbien beendet Petros „totalen Frieden“, Venezuela greift die ELN an",
+   "deck": "Bogotá setzt auf Härte gegen Rebellen, Caracas bombardiert mit US-Hilfe – und Washington verhandelt über Truppen im Land.",
+   "text": [
+    "Kolumbiens Kongress hat ein Gesetz von Präsident Abelardo de la Espriella verabschiedet, das die Politik des „totalen Friedens“ seines Vorgängers Gustavo Petro ablöst. Mitglieder bewaffneter Gruppen, die sich ergeben, dürfen danach weder öffentliche Ämter bekleiden noch an Friedensgesprächen teilnehmen.",
+    "Im Nachbarland Venezuela griff das Militär nach Angaben der „New York Times“ Stellungen der ELN-Guerilla im Bundesstaat Apure an und stützte sich dabei auf US-Geheimdienstinformationen und Drohnen. Mindestens 23 Menschen wurden getötet.",
+    "Parallel verhandelt das US-Außenministerium unter Leitung von Marco Rubio mit Caracas über ein Truppenstationierungsabkommen. Es könnte nach dem Bericht der Zeitung den Weg für eine langfristige amerikanische Militärpräsenz in Venezuela ebnen."
+   ],
+   "quellen": [
+    [
+     "Reuters",
+     "https://www.reuters.com/world/americas/colombias-congress-passes-bill-replacing-former-presidents-total-peace-approach-2026-11-04/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "nytimes.com",
+    "justsecurity.org"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Äthiopien",
+    "Sudan",
+    "Afrika"
+   ],
+   "kicker": "Horn von Afrika · Diplomatie",
+   "titel": "Äthiopien weist sechs sudanesische Diplomaten aus",
+   "deck": "Addis Abeba und Khartum werfen sich gegenseitig vor, bewaffnete Gruppen zu unterstützen.",
+   "text": [
+    "Äthiopien hat sechs sudanesische Diplomaten zum Verlassen des Landes aufgefordert. Nach Reuters-Angaben folgt der Schritt auf neue Vorwürfe, wonach Äthiopien die sudanesische Miliz RSF unterstütze, die gegen die sudanesische Armee kämpft. Beide Regierungen beschuldigen einander, bewaffnete Gruppen auf der jeweils anderen Seite der Grenze zu fördern. Unabhängig überprüfen lassen sich die gegenseitigen Anschuldigungen bislang nicht.",
+    "Die Ausweisung verschärft die Spannungen zwischen den Nachbarn am Horn von Afrika, die ohnehin unter humanitärem Druck stehen. Im Sudan wächst unter Vertriebenen nach Berichten von Al Jazeera die Angst vor einer Hungersnot, weil sich die Versorgungslage verschlechtert. Die Ausweisung ist eine der schärfsten diplomatischen Maßnahmen zwischen den beiden Nachbarländern, die eine lange gemeinsame Grenze teilen."
+   ],
+   "quellen": [
+    [
+     "Reuters",
+     "https://www.reuters.com/world/africa/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-support-rsf-2026-11-04/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "aljazeera.com",
+    "justsecurity.org"
+   ]
+  },
+  {
+   "rubrik": "welt",
+   "tags": [
+    "Nordkorea",
+    "China",
+    "Asien"
+   ],
+   "kicker": "Ostasien · Sicherheit",
+   "titel": "Nordkorea feuert Raketen ab, Peking warnt Manila",
+   "deck": "Pjöngjang sieht keinen Grund für neue Diplomatie mit Washington, Chinas Außenminister mahnt die Philippinen zur Vorsicht.",
+   "text": [
+    "Nordkorea hat mehrere Raketen in Richtung Meer abgefeuert. Der Generalstab in Seoul registrierte die Starts und erklärte, man sei bereit, auf Provokationen zu reagieren. Nur Stunden zuvor hatte Pjöngjang erklärt, es sehe keinen Grund, die Diplomatie mit den Vereinigten Staaten wieder aufzunehmen. Vorausgegangen waren Vorwürfe Washingtons, nordkoreanische Hacker steckten hinter einem jüngsten Kryptodiebstahl bei der Börse Binance.",
+    "Auch im Südchinesischen Meer bleibt die Lage gespannt. Chinas Außenminister Wang Yi warnte nach Angaben der Nachrichtenagentur AP die Philippinen in einem Gespräch mit dem dortigen Chefdiplomaten vor Einmischung und mahnte im Streit um das Seegebiet zur Vorsicht."
+   ],
+   "quellen": [
+    [
+     "Morning Star",
+     "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+    ],
+    [
+     "AP",
+     "https://apnews.com/article/wang-yi-lazaro-china-philippines-sea-d42769727206e2c5f58009c407e5287c"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "morningstaronline.co.uk",
+    "apnews.com",
+    "justsecurity.org"
+   ],
+   "id": "welt-10"
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Auto",
+    "China",
+    "Quartalszahlen",
+    "Dax"
+   ],
+   "kicker": "Deutschland · Autoindustrie",
+   "titel": "BMW kappt die Prognose zum zweiten Mal, die Börse atmet trotzdem auf",
+   "deck": "Der Einbruch in China drückt den Gewinn um fast ein Drittel, doch das Quartal fällt besser aus als befürchtet.",
+   "text": [
+    "BMW hat im dritten Quartal die Folgen der Absatzkrise in China deutlich zu spüren bekommen. Der Umsatz sank um knapp 6 Prozent auf 30,5 Milliarden Euro, das operative Ergebnis (Ebit) brach um fast 30 Prozent auf 1,59 Milliarden Euro ein. Unter dem Strich verdienten die Münchner 1,45 Milliarden Euro, knapp 15 Prozent weniger als vor einem Jahr. In China ging rund ein Viertel des Absatzes verloren, der Konzern nennt das Land als wichtigsten Grund für den Rückgang.",
+    "Die Rendite im Autogeschäft fiel um 1,8 Prozentpunkte auf 3,4 Prozent. Analysten hatten im Schnitt nur mit etwa 2,3 Prozent gerechnet. Für das Gesamtjahr senkte BMW die Margenprognose dennoch zum zweiten Mal in diesem Jahr, auf minus 0,5 bis plus 0,5 Prozent statt bisher 1 bis 3 Prozent. Grund sind vor allem höhere Kosten für den Umbau: Stellenabbau und Portfoliomaßnahmen belasten die Marge nun mit 2,5 Prozentpunkten. Bei den Auslieferungen rechnet BMW mit einem Rückgang um 5 bis 10 Prozent gegenüber den 2,46 Millionen Fahrzeugen des Vorjahres; die Ziele für den Vorsteuergewinn und den freien Mittelzufluss bleiben unverändert.",
+    "Das freiwillige Abfindungsprogramm, das Anfang Oktober startete, war wegen großen Andrangs schon nach rund drei Wochen geschlossen. Vorstandschef Milan Nedeljkovic kündigte an, beim Umbau „so weit, wie uns die Füße tragen“ zu gehen. Der Wechsel auf die Elektromodelle der „Neuen Klasse“ wird beschleunigt, ältere Batteriemodelle laufen früher aus. Finanzchef Walter Mertl nannte Geschwindigkeit einen „Erfolgsfaktor“ und sprach von einer Investition in künftige Margen.",
+    "Die Anleger reagierten erleichtert: Die Aktie stieg am Mittwochvormittag um 1,7 Prozent auf 58,80 Euro. Seit Jahresbeginn hat sie allerdings mehr als ein Drittel an Wert verloren. Über Dividende und Aktienrückkäufe will BMW im kommenden Jahr unter Berücksichtigung des Sparprogramms entscheiden."
+   ],
+   "quellen": [
+    [
+     "Ariva (dpa-AFX)",
+     "https://www.ariva.de/news/roundup-2-bmw-gewinn-sackt-in-china-krise-ab-aktie-steigt-12194336"
+    ],
+    [
+     "finanzen.ch",
+     "https://www.finanzen.ch/nachrichten/aktien/bmw-mit-umsatz-und-gewinnrueckgang-im-3-quartal-1036713170"
+    ]
+   ],
+   "berichterstattung": [
+    "ariva.de",
+    "finanzen.ch",
+    "ftd.de",
+    "wallstreet-online.de",
+    "ad-hoc-news.de",
+    "boerse-express.com"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Pharma",
+    "Abnehmmittel",
+    "Quartalszahlen"
+   ],
+   "kicker": "Dänemark · Pharma",
+   "titel": "Die Wegovy-Pille rettet Novo Nordisk das Jahr",
+   "deck": "Der Abnehmmittel-Hersteller hebt die Prognose zum dritten Mal und kündigt kräftige Preissenkungen in den USA an.",
+   "text": [
+    "Novo Nordisk hat im dritten Quartal deutlich besser abgeschnitten als erwartet. Der bereinigte Umsatz stieg auf 79,2 Milliarden dänische Kronen, nach knapp 75 Milliarden im Vorjahr. Analysten hatten laut Visible Alpha nur mit rund 73,4 Milliarden gerechnet. Das bereinigte operative Ergebnis wuchs zu konstanten Wechselkursen um 27 Prozent auf 31,7 Milliarden Kronen. Der Umsatz mit Mitteln gegen Fettleibigkeit legte um 22 Prozent auf 26,2 Milliarden Kronen zu.",
+    "Treiber war die Wegovy-Tablette: Sie brachte 5,39 Milliarden Kronen ein, 53 Prozent mehr als im Vorquartal und mehr als von Analysten erwartet. Für 2026 rechnet der dänische Konzern nun mit einer Entwicklung von Umsatz und bereinigtem operativem Gewinn zwischen minus 2 und plus 2 Prozent; zuvor war ein Rückgang um bis zu 6 Prozent oder bestenfalls Stillstand angepeilt. Es ist die dritte Anhebung in diesem Jahr. Den erwarteten freien Mittelzufluss setzte Novo auf 60 bis 70 Milliarden Kronen herauf.",
+    "Es gibt aber auch Schattenseiten. Wertberichtigungen von 8,7 Milliarden Kronen, unter anderem auf den Wirkstoffkandidaten Ziltivekimab und auf den Umbau des Produktionsnetzes, drückten den Nettogewinn auf 16,7 Milliarden Kronen nach rund 20 Milliarden im Vorjahr. Die Investmentbank Jefferies merkte an, dass etwa 2 Milliarden Kronen aus Preiseffekten das Ergebnis geschönt hätten. Zum 1. Januar 2027 will Novo zudem die US-Listenpreise von Wegovy um etwa 50 und von Ozempic um etwa 35 Prozent auf je 675 Dollar senken.",
+    "Finanzchef Karsten Munk Knudsen verlässt das Unternehmen Ende Dezember, Nachfolger wird Luigi La Corte vom Hautpflegekonzern Galderma. Die Aktie legte im Kopenhagener Handel zeitweise um 6,6 Prozent zu und lag zuletzt gut 4 Prozent im Plus."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://www.investing.com/news/earnings/novo-nordisk-raises-2026-outlook-as-q3-obesity-sales-jump-22-4997502"
+    ],
+    [
+     "wallstreet-online",
+     "https://www.wallstreet-online.de/nachricht/21634779-aktie-haussiert-novo-nordisk-gewinn-hammer-zahlenfeuerwerk-haken"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html"
+    ]
+   ],
+   "berichterstattung": [
+    "investing.com",
+    "cnbc.com",
+    "wallstreet-online.de",
+    "tipranks.com",
+    "benzinga.com",
+    "globalbankingandfinance.com",
+    "wikifolio.com",
+    "goldesel.de",
+    "aktien.news",
+    "trading-treff.de",
+    "boerse-global.de",
+    "aktiencheck.de",
+    "ad-hoc-news.de",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Chips",
+    "USA",
+    "Quartalszahlen"
+   ],
+   "kicker": "Vereinigte Staaten · Halbleiter",
+   "titel": "Qualcomm leidet unter dem Smartphone-Geschäft, Arm übertrifft die Erwartungen",
+   "deck": "Zwei Chipdesigner legen am Mittwochabend Zahlen vor, beide Aktien geben nachbörslich nach.",
+   "text": [
+    "Beim Chipkonzern Qualcomm bricht das Kerngeschäft mit Smartphone-Prozessoren weg. Im vierten Geschäftsquartal bis Ende September sank der Umsatz der Handysparte um 26 Prozent auf 5,14 Milliarden Dollar. Insgesamt setzte Qualcomm gut 10 Milliarden Dollar um, weniger als vor einem Jahr (11,27 Milliarden), aber mehr als Analysten erwartet hatten. Der bereinigte Gewinn je Aktie lag mit 2,17 Dollar knapp über der Prognose von 2,16 Dollar.",
+    "Die Autosparte wächst dagegen rasant: Ihr Umsatz stieg um 89 Prozent auf 1,99 Milliarden Dollar, das Geschäft mit vernetzten Geräten (IoT) um 4 Prozent auf 1,89 Milliarden. Das Lizenzgeschäft gab um 7 Prozent auf 1,3 Milliarden nach. Für das laufende Quartal stellt Qualcomm 10,4 bis 11,2 Milliarden Dollar Umsatz und 2,15 bis 2,35 Dollar Gewinn je Aktie in Aussicht; Analysten hatten beim Gewinn eher mit dem oberen Ende gerechnet. Zudem belasten steigende Kosten für Waferfertigung, Speicher und Material, die Qualcomm mit Preiserhöhungen ausgleichen will. Zwei Programme für kundenspezifische Rechenzentrumschips sollen im neuen Geschäftsjahr anlaufen. Die Aktie fiel nachbörslich um knapp 5 Prozent auf 164,74 Dollar.",
+    "Der britische Chiparchitekt Arm, dessen Designs in fast allen Smartphones stecken, setzte im Quartal bis Ende September 1,44 Milliarden Dollar um und übertraf damit die Erwartungen von 1,38 Milliarden. Der bereinigte Gewinn je Aktie lag mit 52 Cent über den erwarteten 47 Cent. Für das laufende Quartal stellt Arm 1,54 Milliarden Dollar Umsatz in Aussicht, plus oder minus 50 Millionen. Die Zuversicht für das Geschäft mit eigenen Rechenzentrumsprozessoren sei gestiegen. Trotzdem gab die Aktie nachbörslich um 1,8 Prozent nach."
+   ],
+   "quellen": [
+    [
+     "Goldesel",
+     "https://goldesel.de/aktien/news/qualcomm-aktie-q4-umsatz-schlagt-erwartungen-smartphone-schwache-belastet-ausblick"
+    ],
+    [
+     "IT Boltwise",
+     "https://www.it-boltwise.de/qualcomm-nach-quartalszahlen-umsatzrueckgang-und-schwaecherer-ausblick.html"
+    ],
+    [
+     "Seeking Alpha",
+     "https://seekingalpha.com/news/4664949-arm-holdings-slips-even-as-q2-results-guidance-top-estimates"
+    ]
+   ],
+   "berichterstattung": [
+    "goldesel.de",
+    "it-boltwise.de",
+    "seekingalpha.com",
+    "gurufocus.com"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Auto",
+    "Quartalszahlen",
+    "Dax"
+   ],
+   "kicker": "Deutschland · Zulieferer",
+   "titel": "Der neue Reifenkonzern Continental wird zuversichtlicher",
+   "deck": "Große Pneus für schwere Elektroautos treiben die Marge, die Aktie steigt um 6 Prozent.",
+   "text": [
+    "Continental hat nach einem starken dritten Quartal seine Gewinnprognose angehoben. Der Hannoveraner Konzern, der sich nach der Abspaltung der Autozuliefersparte und dem Verkauf von ContiTech auf Reifen konzentriert, erwartet für 2026 nun eine bereinigte Ebit-Marge von 13,4 bis 14,0 Prozent. Bisher lag die Spanne bei 12,0 bis 13,5 Prozent. Die Umsatzprognose wurde auf 13,5 bis 13,9 Milliarden Euro eingeengt.",
+    "Im dritten Quartal stieg das bereinigte operative Ergebnis um fast 7 Prozent auf 514 Millionen Euro, die Marge um einen Prozentpunkt auf 14,9 Prozent. Analysten hatten mit einer Marge auf Vorjahresniveau gerechnet. Der Umsatz fiel nominal um gut 11 Prozent auf 3,45 Milliarden Euro, bereinigt um Änderungen im Konzernkreis blieb er stabil. Unter dem Strich verdiente Continental 349 Millionen Euro nach einem Verlust von 756 Millionen Euro im Vorjahr, der auf Sondereffekte aus der Abspaltung zurückging.",
+    "„Große und leistungsfähige Reifen sind ein wesentlicher Treiber unseres Geschäfts“, sagte Finanzchef Roland Welzbacher. Schwerere Elektroautos brauchen größere Reifen, deren Anteil am Umsatz steigt. Gegenwind kommt von den Rohstoffen: Nach dem Anstieg der Ölpreise infolge des Kriegs mit Iran erwartet Welzbacher allein im vierten Quartal eine Belastung im mittleren zweistelligen Millionenbereich. Gegensteuern will Continental mit Verhandlungen, einer anderen Rohstoffmischung und höheren Preisen.",
+    "Der Verkauf der restlichen Kunststoffsparte ist vereinbart und soll um den Jahreswechsel abgeschlossen werden. Jefferies-Analyst Michael Aspinall wertete den Ausblick auf die Mittelzuflüsse positiv. Die Aktie stieg am Nachmittag um rund 6 Prozent auf 70,94 Euro."
+   ],
+   "quellen": [
+    [
+     "onvista (dpa-AFX)",
+     "https://www.onvista.de/news/2026/11-04-roundup-2-conti-hebt-nach-starkem-quartal-gewinnprognose-an-aktie-steigt-0-10-26572495"
+    ],
+    [
+     "Continental",
+     "https://www.continental.com/en/press/press-releases/results-nine-months-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "onvista.de",
+    "continental.com"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Gesundheit",
+    "Quartalszahlen",
+    "Dax"
+   ],
+   "kicker": "Deutschland · Gesundheit",
+   "titel": "Biosimilars treiben Fresenius, der Konzern hebt das Gewinnziel",
+   "deck": "Die Bad Homburger übertreffen die Erwartungen erneut, das Biopharma-Geschäft wächst um fast ein Drittel.",
+   "text": [
+    "Fresenius hat im dritten Quartal mehr verdient als erwartet und seine Gewinnprognose angehoben. Der Umsatz wuchs organisch um 5 Prozent auf 5,8 Milliarden Euro und lag damit im Rahmen der Erwartungen. Das operative Ergebnis vor Sondereinflüssen stieg währungsbereinigt um 10 Prozent auf 638 Millionen Euro, Analysten hatten mit 619 Millionen gerechnet. Die Marge verbesserte sich auf 11,0 Prozent nach 10,5 Prozent im Vorjahr, das Kernergebnis je Aktie auf 0,72 Euro nach 0,62 Euro.",
+    "Wachstumstreiber war die Tochter Fresenius Kabi. Ihr Biopharma-Geschäft mit Nachahmerversionen biotechnologischer Arzneimittel (Biosimilars) legte organisch um 29 Prozent auf 296 Millionen Euro zu, getragen vom Rheumamittel Tyenne und dem Osteoporose-Wirkstoff Denosumab in den USA. Eine Vereinbarung mit WuXi Biologics sichert Zugang zu bis zu 37 weiteren Biosimilar-Kandidaten. Das klassische Generika-Geschäft wuchs dagegen nur um 1 Prozent. Die Klinikkette Helios steigerte ihr Ergebnis um 19 Prozent auf 293 Millionen Euro, profitierte in Deutschland aber von einem Vergütungszuschlag, der Ende Oktober ausgelaufen ist.",
+    "Für das Gesamtjahr erwartet Fresenius nun ein währungsbereinigtes Wachstum des Kernergebnisses je Aktie in der oberen Hälfte der Spanne von 10 bis 15 Prozent; die Marge soll über 11,5 Prozent liegen. Vorstandschef Michael Sen sprach von einem weiteren „exzellenten Quartal“. Die Aktie stieg vorbörslich um bis zu 2,4 Prozent auf 49,80 Euro."
+   ],
+   "quellen": [
+    [
+     "finanzen.at",
+     "https://www.finanzen.at/nachrichten/aktien/fresenius-aktie-gefragt-gewinn-in-q3-hoeher-als-erwartet-1036711918"
+    ],
+    [
+     "EuropaWire (Fresenius)",
+     "https://news.europawire.eu/fresenius-increases-2026-core-eps-outlook-after-strong-q3-performance-and-growth-in-kabi-and-helios/eu-press-release/2026/11/04/14/23/14/186093/"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.at",
+    "finanzen.net",
+    "europawire.eu",
+    "goldesel.de",
+    "investing.com",
+    "onvista.de",
+    "aktiencheck.de",
+    "ad-hoc-news.de"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Welthandel",
+    "Zölle",
+    "Konjunktur"
+   ],
+   "kicker": "Vereinigte Staaten · Außenhandel",
+   "titel": "Rekordimporte: Amerikas Handelsdefizit bleibt trotz Zöllen bei 105 Milliarden Dollar",
+   "deck": "Die Einfuhren erreichen im September einen Höchstwert, getrieben von Computern und Arzneimitteln.",
+   "text": [
+    "Das amerikanische Handelsdefizit ist im September nur minimal gesunken. Es ging um 0,7 Prozent auf 105,0 Milliarden Dollar zurück, wie das Handelsministerium am Mittwoch mitteilte. Von Reuters befragte Ökonomen hatten mit 108 Milliarden Dollar gerechnet. Die Exporte stiegen um 1,9 Prozent auf 321,5 Milliarden Dollar, die Importe um 1,2 Prozent auf den Rekordwert von 426,6 Milliarden Dollar. Im Warenhandel allein betrug das Defizit 135,9 Milliarden Dollar, bei Dienstleistungen erzielten die USA einen Überschuss von 30,9 Milliarden.",
+    "Auffällig sind die Einfuhren von Computern, die um 7,6 Milliarden Dollar zulegten, sowie von Computerzubehör (plus 5,7 Milliarden) – ein Hinweis auf den anhaltenden Ausbau von Rechenzentren. Auch Arzneimittelimporte stiegen um 2,9 Milliarden Dollar. Der Handel mit Gold ging dagegen zurück. Gegenüber Taiwan wuchs das Defizit um 3,6 Milliarden auf 21,9 Milliarden Dollar, gegenüber der Europäischen Union um 3,2 Milliarden auf 14,2 Milliarden. Mit Mexiko lag es bei 28,7 Milliarden, mit China bei 17,9 Milliarden Dollar.",
+    "Seit Jahresbeginn ist das Defizit um 12,2 Prozent kleiner als im Vorjahreszeitraum, allerdings war das Jahr 2025 von Vorzieheffekten vor den Zollerhöhungen geprägt. Im Dreimonatsdurchschnitt stieg das Defizit zuletzt wieder um 11,3 Milliarden Dollar. Die Zollpolitik von Präsident Donald Trump hat die Lücke also kaum geschlossen.",
+    "Für deutsche Exporteure bleibt die Lage nach den Zwischenwahlen unsicher. „Der Kongress wechselt die Farbe, die Zuständigkeit bei der Handelspolitik bleibt im Weißen Haus“, sagte DIHK-Hauptgeschäftsführerin Helena Melnikov."
+   ],
+   "quellen": [
+    [
+     "Bureau of Economic Analysis",
+     "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026"
+    ],
+    [
+     "trend",
+     "https://www.trend.at/news/us-handelsdefizit-bleibt-trotz-trumps-zollpolitik-hoch"
+    ]
+   ],
+   "berichterstattung": [
+    "bea.gov",
+    "trend.at",
+    "haver.com",
+    "riotimesonline.com",
+    "mlex.com",
+    "it-boltwise.de"
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Eurozone",
+    "Konjunktur",
+    "Frankreich"
+   ],
+   "kicker": "Europa · Konjunktur",
+   "titel": "Europas Dienstleister verlieren Schwung, Frankreich rutscht ab",
+   "deck": "Der Einkaufsmanagerindex fällt stärker als erwartet, in Frankreich schrumpft der Sektor bereits.",
+   "text": [
+    "Die Stimmung bei den Dienstleistern im Euroraum hat sich im Oktober deutlich eingetrübt. Der Einkaufsmanagerindex des Datenanbieters S&P Global fiel um 1,6 Punkte auf 51,4 Zähler. Eine erste Schätzung hatte noch bei 51,7 gelegen, Volkswirte hatten mit deren Bestätigung gerechnet. Der Gesamtindex für Industrie und Dienstleister sank auf 51,7 Punkte von 53,1 im September. Beide Werte liegen noch über der Schwelle von 50, ab der Wachstum signalisiert wird.",
+    "Besonders schwach war Frankreich: Dort stürzte der Dienstleistungsindex auf 46,2 Punkte, nach 51,2 im Vormonat und deutlich unter der ersten Schätzung von 48,4. S&P Global nennt geopolitische Unsicherheit, hohe Energiepreise und die politische Unsicherheit vor der Präsidentenwahl im kommenden Jahr. Hinzu kamen gewaltsame Proteste in vielen Städten, bei denen zahlreiche Geschäfte beschädigt wurden. Deutschland hielt sich mit 52,5 Punkten besser als zunächst gemeldet, Italien stieg auf 52,0. Spanien liegt mit 57,2 Punkten weiter vorn, büßte aber ebenfalls ein.",
+    "Als Hauptgrund für die Eintrübung nennt S&P Global eine deutliche Abschwächung der Neuaufträge. Chefvolkswirt Chris Williamson sieht „besorgniserregende Anzeichen dafür, dass die jüngste Wachstumsphase an Schwung verlieren könnte“."
+   ],
+   "quellen": [
+    [
+     "Ariva (dpa-AFX)",
+     "https://www.ariva.de/news/roundup-dienstleister-stimmung-der-eurozone-truebt-sich-12194205"
+    ],
+    [
+     "finanzen.at (dpa-AFX)",
+     "https://www.finanzen.at/nachrichten/aktien/dpa-afx-ueberblick-konjunktur-vom-04-11-2026-17-00-uhr-1036715424"
+    ]
+   ],
+   "berichterstattung": [
+    "ariva.de",
+    "finanzen.at",
+    "onvista.de",
+    "trend.at",
+    "finanzmarktwelt.de",
+    "finanznachrichten.de",
+    "it-boltwise.de"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Gastronomie",
+    "Konsum",
+    "Quartalszahlen"
+   ],
+   "kicker": "Vereinigte Staaten · Gastronomie",
+   "titel": "McDonald's spürt die knappen Kassen der Geringverdiener",
+   "deck": "Erstmals seit Anfang 2025 sinken die vergleichbaren Umsätze in den USA, die Aktie steigt trotzdem.",
+   "text": [
+    "Die hohen Lebenshaltungskosten in den USA hinterlassen Spuren bei McDonald's. Im dritten Quartal sanken die Umsätze der amerikanischen Restaurants, die mindestens ein Jahr geöffnet sind, um 0,2 Prozent. Es ist der erste Rückgang seit Anfang 2025. Analysten hatten allerdings mit einem Minus von 0,5 Prozent gerechnet. Weltweit stiegen die vergleichbaren Umsätze, mit starken Geschäften in Deutschland und Australien und einer Schwäche in Frankreich, wo seit September Proteste das Geschäft belasten.",
+    "Der Konzernumsatz wuchs um 1 Prozent auf 7,16 Milliarden Dollar und verfehlte damit die Erwartungen von 7,28 Milliarden. Der Nettogewinn legte um 9 Prozent auf 2,49 Milliarden Dollar zu, bereinigt verdiente McDonald's 3,57 Dollar je Aktie und damit mehr als die erwarteten 3,38 Dollar. Die Aktie stieg am Mittwochvormittag um mehr als 5 Prozent.",
+    "Seit gut zwei Jahren versucht der Konzern, Kunden mit geringem Einkommen mit Sparangeboten zurückzugewinnen, zuletzt mit einem überarbeiteten „McValue“-Menü mit zehn Produkten für höchstens 3 Dollar. Nun testet McDonald's in 1.900 US-Restaurants acht Wochen lang frei kombinierbare Menüs zum Festpreis, Anfang kommenden Jahres sollen neue Spar-Bundles folgen. „Man braucht gute Einstiegsangebote, besonders für Kunden mit geringem Einkommen“, sagte Vorstandschef Chris Kempczinski. Die Konkurrenz ist hart: In der gesamten amerikanischen Schnellgastronomie ging die Kundenfrequenz im dritten Quartal laut dem Beratungsunternehmen Revenue Management Solutions um 2,6 Prozent zurück."
+   ],
+   "quellen": [
+    [
+     "AP (via WFSB)",
+     "https://www.wfsb.com/2026/11/04/mcdonalds-us-sales-fall-more-customers-struggle-with-high-cost-living/"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html"
+    ]
+   ],
+   "berichterstattung": [
+    "wfsb.com",
+    "cnbc.com",
+    "finance.yahoo.com",
+    "kucoin.com",
+    "biggo.com",
+    "mixvale.com.br"
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Mobilität",
+    "Quartalszahlen"
+   ],
+   "kicker": "Vereinigte Staaten · Plattformen",
+   "titel": "Uber wächst bei Essenslieferungen kräftig, Fahrdienst-Umsatz schrumpft",
+   "deck": "Die Buchungen steigen um ein Fünftel, eine Neubewertung von Beteiligungen drückt den Nettogewinn.",
+   "text": [
+    "Der Fahrdienstvermittler Uber hat im dritten Quartal Buchungen im Wert von 59,8 Milliarden Dollar abgewickelt, 20 Prozent mehr als vor einem Jahr. Die Zahl der Fahrten und Lieferungen stieg um 16 Prozent auf 4,06 Milliarden. Der Umsatz legte um knapp 10 Prozent auf 14,8 Milliarden Dollar zu und lag damit leicht über den Erwartungen.",
+    "Besonders dynamisch entwickelte sich das Liefergeschäft, dessen Buchungen um 22 Prozent auf 28,5 Milliarden Dollar wuchsen. Im Fahrdienst stiegen die Buchungen um 18 Prozent auf 29,5 Milliarden Dollar, der dort verbuchte Umsatz sank jedoch um 2 Prozent auf 7,5 Milliarden. Im Ausland hinkte die Zahl der Fahrer der Nachfrage hinterher; das Management sprach von einer ermutigenden Besserung im Oktober. Die Zahl der monatlich aktiven Nutzer erreichte 215 Millionen, das Abo Uber One zählt rund 55 Millionen Mitglieder.",
+    "Bereinigt verdiente Uber 0,88 Dollar je Aktie und damit knapp mehr als erwartet. Unter dem Strich blieben aber nur 512 Millionen Dollar Gewinn nach 6,63 Milliarden im Vorjahr, belastet durch einen Verlust von 476 Millionen Dollar aus der Neubewertung von Beteiligungen. Für das vierte Quartal stellt Uber Buchungen von 63,25 bis 65,25 Milliarden Dollar und ein bereinigtes operatives Ergebnis (Ebitda) von 3,13 bis 3,23 Milliarden Dollar in Aussicht. Offen bleiben Zeitplan und Wirtschaftlichkeit des Geschäfts mit selbstfahrenden Autos, für das Uber auf Finanzierung durch Dritte setzt. Die Aktie stieg am Mittwoch zeitweise um gut 7 Prozent auf 71,51 Dollar, liegt aber noch rund ein Viertel unter ihrem 52-Wochen-Hoch."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance (Zacks)",
+     "https://finance.yahoo.com/markets/stocks/articles/uber-q3-earnings-miss-estimates-180600289.html"
+    ],
+    [
+     "Investing.com",
+     "https://www.investing.com/news/stock-market-news/uber-earnings-analysis-questions-answered-and-next-catalysts-93CH-5000839"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "investing.com",
+    "tradersagency.com",
+    "247wallst.com",
+    "financialcontent.com"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Immobilien",
+    "Quartalszahlen",
+    "Dax"
+   ],
+   "kicker": "Deutschland · Immobilien",
+   "titel": "Vonovia: Mieten steigen, Zinsen fressen den Gewinn",
+   "deck": "Deutschlands größter Wohnungskonzern verdient operativ mehr, unter dem Strich aber weniger.",
+   "text": [
+    "Beim Wohnungskonzern Vonovia zehren die höheren Finanzierungskosten das Wachstum im Vermietungsgeschäft auf. In den ersten neun Monaten stieg das bereinigte operative Ergebnis (Ebitda) um 3,3 Prozent auf 2,19 Milliarden Euro. Das bereinigte Ergebnis vor Steuern sank dagegen um 3,5 Prozent auf 1,41 Milliarden Euro, das Finanzergebnis verschlechterte sich auf minus 637 Millionen Euro nach minus 546 Millionen im Vorjahr. Je Aktie blieben den Aktionären bereinigt 1,32 Euro, knapp 9 Prozent weniger.",
+    "Das Kerngeschäft läuft stabil: Die Mieten stiegen organisch um 3,8 Prozent, der Leerstand liegt bei 2,3 Prozent, und 99,6 Prozent der Mieten gingen ein. Kräftig wuchs das Geschäft mit Handwerker- und Energiedienstleistungen, dessen Ergebnis um 31 Prozent auf 197 Millionen Euro zulegte. Der operative freie Mittelzufluss brach dagegen um 34 Prozent auf 933 Millionen Euro ein. Finanzchef Philip Grosse betonte, der Erhalt der Kreditbewertung habe oberste Priorität; der Verschuldungsgrad liegt bei 46,1 Prozent und damit über dem Ziel von etwa 40 Prozent für 2028.",
+    "Ihre Ziele hatte Vonovia bereits Ende Oktober zurückgenommen. Für 2026 erwartet der Konzern nun ein bereinigtes Ebitda in der unteren Hälfte der Spanne von 2,95 bis 3,05 Milliarden Euro und ein Vorsteuerergebnis am unteren Ende von 1,9 bis 2,0 Milliarden. Die Investitionen sollen rund 1,3 Milliarden Euro betragen. Für 2027 rechnet Vonovia mit einem leichten Ebitda-Anstieg bei stagnierendem Ergebnis. Vorstandschef Luka Mucic nannte das Kerngeschäft robust. Die Aktie legte am Mittwochmittag um knapp 4 Prozent auf 16,92 Euro zu."
+   ],
+   "quellen": [
+    [
+     "ad-hoc-news",
+     "https://www.ad-hoc-news.de/boerse/news/corporate-news/vonovia-aktie-mieten-wachsen-finanzierungskosten-bremsen-ergebnis/70455850"
+    ],
+    [
+     "Investing.com",
+     "https://de.investing.com/news/transcripts/earnings-call-vonovia-verfehlt-umsatzerwartung-im-dritten-quartal-2026--aktie-unter-druck-93CH-3746567"
+    ],
+    [
+     "Ariva (EQS-Adhoc)",
+     "https://www.ariva.de/news/eqs-adhoc-vonovia-praezisiert-prognose-2026-und-passt-12185698"
+    ]
+   ],
+   "berichterstattung": [
+    "ad-hoc-news.de",
+    "investing.com",
+    "ariva.de",
+    "finanznachrichten.de",
+    "aktiencheck.de",
+    "kapitalmarktexperten.de"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "USA",
+    "Wahlen"
+   ],
+   "kicker": "USA · Wall Street",
+   "titel": "Dow springt um 1.569 Punkte: Die Wall Street feiert das Ende der Alleinherrschaft",
+   "deck": "Nach dem Sieg der Demokraten bei den Zwischenwahlen erlebte der S&P 500 seinen besten Tag seit drei Monaten, nur Chipwerte hielten nicht mit.",
+   "text": [
+    "Die New Yorker Börsen haben am Mittwoch mit einer breiten Rally auf den Ausgang der US-Zwischenwahlen reagiert. Der Dow Jones Industrial gewann 1.569,40 Punkte oder 3,0 Prozent auf 53.356,12 Punkte. Der S&P 500 stieg um 119,70 Punkte oder 1,6 Prozent auf 7.688,62 Punkte, laut AP sein bester Tag seit drei Monaten. Der Nasdaq Composite legte um 1,4 Prozent auf 25.736,51 Punkte zu, der Nebenwerteindex Russell 2000 um 1,6 Prozent auf 2.856,95 Punkte. Der Volatilitätsindex VIX fiel um rund 20 Prozent auf 16,61.",
+    "Dass die Republikaner von Präsident Donald Trump die alleinige Kontrolle über Washington verloren haben, werteten viele Anleger als Bremse für extreme politische Weichenstellungen. Eine geteilte Regierung solle Risikoaufschläge senken, schrieb George Saravelos von der Deutschen Bank. Brian Jacobsen von Annex Wealth Management mahnte dagegen, für Aktien zählten Gewinne und Zinsen mehr als die Mehrheiten im Kongress: „Earnings trump elections.“ Rückenwind kam zudem vom Ölpreis, der um fast neun Prozent einbrach und die Anleiherenditen drückte.",
+    "Auffällig war die Breite des Anstiegs. Die Konsumwerte gewannen mehr als vier Prozent, Finanz-, Kommunikations- und Gesundheitswerte jeweils über drei Prozent. Der Technologiesektor trat dagegen auf der Stelle: Nvidia verlor 3,1 Prozent und bremste den S&P 500 stärker als jeder andere Wert, der Nasdaq 100 stieg nur um 0,9 Prozent. Anleger fürchten, ein demokratisch geführter Kongress könne die Künstliche Intelligenz stärker regulieren und den Bau von Rechenzentren verlangsamen. Energiewerte fielen mit dem Ölpreis um 4,7 Prozent.",
+    "Am Donnerstagmorgen deuteten die Terminkontrakte auf einen ruhigen Start hin; der S&P-500-Future notierte in Asien bei rund 7.705 Punkten. Im Blick stehen nun die Zinsentscheidung der Bank of England am Mittag und der US-Arbeitsmarktbericht am Freitag."
+   ],
+   "quellen": [
+    [
+     "AP via Boston.com",
+     "https://www.boston.com/news/business/2026/11/04/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms/"
+    ],
+    [
+     "Capp Notes (Closing Look)",
+     "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/stocks/articles/dow-jumps-1-000-points-143349848.html"
+    ]
+   ],
+   "berichterstattung": [
+    "boston.com",
+    "cappnotes.substack.com",
+    "finance.yahoo.com",
+    "cnbc.com",
+    "cnn.com",
+    "abcnews.com",
+    "forbes.com",
+    "thehill.com",
+    "wtop.com",
+    "krmg.com",
+    "lanacion.com.ar",
+    "ksl.com",
+    "abc7ny.com",
+    "gulfnews.com",
+    "variety.com",
+    "news.wttw.com",
+    "spectrumlocalnews.com",
+    "wgntv.com",
+    "aol.com",
+    "mymotherlode.com",
+    "investinglive.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Dax",
+    "Wahlen"
+   ],
+   "kicker": "Deutschland · Börse Frankfurt",
+   "titel": "Dax springt über 26.000 Punkte und nähert sich dem Rekord",
+   "deck": "Der deutsche Leitindex gewann nach den US-Zwischenwahlen 2,2 Prozent, Heidelberg Materials führte die Gewinner an, Infineon und Siemens Energy brachen ein.",
+   "text": [
+    "Der Dax hat am Mittwoch kräftig zugelegt. Der Leitindex schloss 2,22 Prozent höher bei 26.437,67 Punkten, nachdem er am Vortag bei 25.864,62 Punkten aus dem Handel gegangen war. Im Verlauf stieg er bis auf fast 26.542 Punkte und lag damit nur noch rund 78 Punkte unter seinem Rekord von Ende August. Der MDax der mittelgroßen Werte gewann 1,41 Prozent auf 31.178,27 Punkte, der Euro Stoxx 50 legte um fast zwei Prozent auf 6.265,71 Punkte zu und durchbrach laut dpa-AFX einen seit August laufenden Abwärtstrend.",
+    "Auslöser war der Sieg der Demokraten bei den US-Zwischenwahlen. Die Mehrheiten in Repräsentantenhaus und Senat sprächen dafür, dass Trumps Politik „nicht grenzenlos durchsetzbar“ sei, sagte Joachim Schallmayer von der Dekabank. Hoffnungen auf eine mildere Zollpolitik hoben die Autowerte, dazu kamen der fallende Ölpreis und gut aufgenommene Quartalszahlen. Steve Chiavarone von Federated Hermes rechnet allerdings vorerst weiter mit starken Schwankungen.",
+    "An der Dax-Spitze stiegen Heidelberg Materials um 9,6 Prozent auf den höchsten Stand seit Juli, nachdem der Baustoffkonzern seine Jahresziele bestätigt hatte. Continental gewann 5,2 Prozent nach einer angehobenen Renditeprognose, BMW trotz einer erneuten Gewinnwarnung 5,5 Prozent. Scout24 legte um knapp 6,7 Prozent zu. Aus dem Nebenwertebereich profitierten Nordex und SMA Solar von Hoffnungen auf mehr Rückenwind für erneuerbare Energien.",
+    "Auf der Verliererseite standen Werte, die zuletzt vom Boom der Künstlichen Intelligenz profitiert hatten. Infineon, Hochtief und Siemens Energy verloren bis zu acht Prozent. Händler verwiesen auf die Sorge, dass ein demokratisch kontrollierter Kongress die Branche strenger regulieren und den Ausbau von Rechenzentren bremsen könnte."
+   ],
+   "quellen": [
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-dax-naehert-sich-nach-us-zwischenwahlen-rekord-16037334"
+    ],
+    [
+     "ad-hoc-news",
+     "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-4-november-2-22-prozent-hoeher-bei-26-437-67-punkten/70458949"
+    ],
+    [
+     "Handelsblatt",
+     "https://handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-ueberwindet-26.000-punkte-marke-und-naehert-sich-rekord/100267175.html"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.net",
+    "ad-hoc-news.de",
+    "handelsblatt.com",
+    "boerse.de",
+    "finanzen.ch",
+    "finanznachrichten.de",
+    "ariva.de",
+    "boersen-zeitung.de",
+    "cash.ch",
+    "onvista.de",
+    "investing.com",
+    "bloomberg.com",
+    "cmcmarkets.com",
+    "tradingeconomics.com",
+    "ms-aktuell.de"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Asien",
+    "Chips"
+   ],
+   "kicker": "Asien · Börsen",
+   "titel": "Kospi stürzt ab, Hongkong und Sydney steigen: Asien teilt sich nach der US-Wahl",
+   "deck": "In Seoul musste der Programmhandel unterbrochen werden, weil Anleger Chipwerte abstießen; anderswo überwog die Erleichterung über den fallenden Ölpreis.",
+   "text": [
+    "Die asiatischen Börsen haben am Donnerstag uneinheitlich auf die US-Zwischenwahlen reagiert. Besonders hart traf es Südkorea: Der Kospi eröffnete 1,82 Prozent tiefer bei 5.580,09 Punkten und rutschte bis 10.16 Uhr Ortszeit um 4,67 Prozent auf 5.418,15 Punkte ab. Die Börse setzte daraufhin den Programmhandel für fünf Minuten aus, weil der Future auf den Kospi 200 um mindestens fünf Prozent gefallen war. Am späten Vormittag lag der Index noch 3,5 Prozent im Minus bei 5.484,38 Punkten.",
+    "Auslöser war die Sorge, dass ein demokratisch geführter US-Kongress den Stromverbrauch von KI-Rechenzentren schärfer regulieren und damit die Investitionen großer US-Konzerne bremsen könnte. Schon am Vorabend hatte der Philadelphia-Halbleiterindex 3,13 Prozent verloren. Samsung Electronics gaben laut AP um 5,7 Prozent nach, SK Hynix um 7,4 Prozent. Ausländische Investoren verkauften nach Handelsbeginn per saldo Aktien für 78,1 Milliarden Won. Gefragt waren dagegen Autowerte wie Hyundai Motor und Kia, Banken sowie Biotech-Titel, die von niedrigeren Ölpreisen, Zinsen und einem schwächeren Dollar profitieren dürften.",
+    "In Tokio litten ebenfalls die Chipwerte: Advantest brachen um 9,4 Prozent ein, Tokyo Electron um 7,7 Prozent, Softbank Group um 5,3 Prozent. Der Nikkei 225 notierte am Vormittag 0,5 Prozent tiefer bei 61.914,53 Punkten, der breiter gefasste Topix lag dagegen im Plus. Taiwans Taiex verlor 1,6 Prozent.",
+    "Kräftig aufwärts ging es dagegen in Hongkong, wo der Hang Seng um 2,8 Prozent auf 24.597,59 Punkte stieg, und in Australien: Der S&P/ASX 200 gewann 1,9 Prozent auf 9.003,40 Punkte und übersprang damit die Marke von 9.000 Punkten."
+   ],
+   "quellen": [
+    [
+     "AP via WSLS",
+     "https://www.wsls.com/business/2026/11/05/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/"
+    ],
+    [
+     "Korea JoongAng Daily",
+     "https://www.koreajoongangdaily.com/business/kospi-sidecar-triggered-as-ai-jitters-hit/12957018"
+    ],
+    [
+     "Seoul Economic Daily",
+     "https://en.sedaily.com/finance/2026/11/05/us-blue-wave-sinks-chips-lifts-autos-banks-and-biotech"
+    ]
+   ],
+   "berichterstattung": [
+    "wsls.com",
+    "clickorlando.com",
+    "usnews.com",
+    "wral.com",
+    "abcnews.com",
+    "koreajoongangdaily.com",
+    "en.sedaily.com",
+    "asiae.co.kr",
+    "news.sbs.co.kr",
+    "investing.com",
+    "business-standard.com",
+    "tradingkey.com",
+    "businesstoday.com.my",
+    "fourweekmba.com",
+    "investinglive.com"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Rohstoffe",
+    "Iran"
+   ],
+   "kicker": "Rohstoffe · Öl",
+   "titel": "Brent bricht um fast neun Prozent ein: Der Markt preist ein Kriegsende ein",
+   "deck": "Nachdem das Weiße Haus die Wahlniederlage mit dem Iran-Krieg in Verbindung brachte, fiel der Ölpreis erstmals seit Anfang Oktober unter 100 Dollar.",
+   "text": [
+    "Der Ölpreis hat am Mittwoch einen der heftigsten Tagesverluste des Jahres erlitten. Die Nordseesorte Brent zur Lieferung im Januar schloss 8,98 Dollar oder 8,67 Prozent tiefer bei 94,62 Dollar je Barrel. Die US-Sorte WTI verbilligte sich um 7,97 Dollar oder 8,29 Prozent auf 88,12 Dollar. Brent fiel damit erstmals seit Anfang Oktober unter 100 Dollar und zeitweise auf den tiefsten Stand seit dem 4. September; noch am Freitag hatte der Preis bei fast 118 Dollar gelegen.",
+    "Händler setzten nach den US-Zwischenwahlen auf ein baldiges Ende des Iran-Kriegs. Vizepräsident JD Vance schrieb auf X, der Krieg sei der Grund für die Niederlage der Republikaner, und jede ehrliche Debatte über den weiteren Weg müsse dort beginnen. Präsident Trump nannte im Sender Fox News „den Benzinpreis“ als Ursache und sagte der Financial Times, Washington plane keine unmittelbaren Angriffe auf Iran. Ein Bericht des katarischen Senders Al-Jadeed über Fortschritte in den Verhandlungen wurde von iranischer Seite zwar rasch dementiert, der Preis erholte sich daraufhin nur leicht.",
+    "Die Fundamentaldaten traten in den Hintergrund. Die US-Rohöllagerbestände sanken in der Woche bis 30. Oktober um 900.000 Barrel auf 409,8 Millionen Barrel. Gleichzeitig stiegen die Ausfuhren aus der Golfregion zuletzt wieder; laut Vortexa lagen sie im Oktober allerdings mit 17,1 Millionen Barrel pro Tag noch bei rund drei Vierteln des Vorkriegsniveaus. JPMorgan schätzt, dass der Weltmarkt im Oktober bereits wieder einen Überschuss von etwa 1,4 Millionen Barrel täglich aufwies.",
+    "Am Donnerstagmorgen gab Brent in Asien um weitere 0,8 Prozent auf 93,91 Dollar nach. Analysten warnen jedoch vor voreiligen Schlüssen: Eine Eskalation im Iran könne einer Lösung durchaus vorausgehen, sagte Carl Larry von Enverus."
+   ],
+   "quellen": [
+    [
+     "OilPrice.com",
+     "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+    ],
+    [
+     "BigGo Finance",
+     "https://finance.biggo.com/news/a1e83c14-22db-401d-a458-ff879750169e"
+    ],
+    [
+     "XTB",
+     "https://www.xtb.com/int/market-analysis/news-and-research/oil-suffers-sharpest-fall-since-april-9"
+    ]
+   ],
+   "berichterstattung": [
+    "oilprice.com",
+    "finance.biggo.com",
+    "xtb.com",
+    "nbcnews.com",
+    "ttnews.com",
+    "staradvertiser.com",
+    "lufkindailynews.com",
+    "centraloregondaily.com",
+    "ynetnews.com",
+    "tribune.com.pk",
+    "sundayguardianlive.com",
+    "english.gujaratsamachar.com",
+    "it-boltwise.de",
+    "fortune.com",
+    "globaloilshock.com",
+    "boston.com",
+    "wsls.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Rohstoffe"
+   ],
+   "kicker": "Rohstoffe · Edelmetalle",
+   "titel": "Gold springt zurück über 4.000 Dollar, Silber gewinnt fünf Prozent",
+   "deck": "Fallende Renditen und ein schwächerer Dollar bescherten dem Edelmetall den größten Tagesgewinn seit August; in Asien ging es weiter aufwärts.",
+   "text": [
+    "Der Goldpreis hat sich nach den US-Zwischenwahlen kräftig erholt. Der Terminkontrakt zur Lieferung im Dezember schloss am Mittwoch an der Comex um 132,60 Dollar oder 3,37 Prozent höher bei 4.073 Dollar je Feinunze und überschritt im Verlauf kurz die Marke von 4.100 Dollar. Der Kassapreis steuerte nach Reuters-Angaben auf den größten Tagesgewinn seit dem 19. August zu. Noch tags zuvor hatte Gold unter 4.000 Dollar gelegen.",
+    "Silber zog noch stärker an: Der Dezember-Kontrakt stieg um 5,08 Prozent auf 52,282 Dollar je Unze. Auch Platin und Palladium legten deutlich zu. In Asien setzte sich die Bewegung am Donnerstag fort; Gold kostete am frühen Morgen europäischer Zeit im Kassahandel 4.132,36 Dollar, ein Plus von weiteren 1,8 Prozent.",
+    "Getragen wurde der Anstieg von fallenden Anleiherenditen und einem schwächeren Dollar, beides Folgen des Wahlausgangs und des Ölpreisverfalls. Gold wirft keine Zinsen ab und profitiert deshalb, wenn die Renditen sinken; ein schwächerer Dollar verbilligt das Metall zudem für Käufer außerhalb der USA. Auch ein schwächer als erwartet ausgefallener Einkaufsmanagerindex für den US-Dienstleistungssektor stützte den Preis. Dem stehen allerdings die Zinserwartungen entgegen: An den Terminmärkten gilt eine weitere Zinserhöhung der Fed im Dezember als wahrscheinlich.",
+    "Die Analysten der Citi sehen Gold in drei Monaten bei 4.500 Dollar und in sechs bis zwölf Monaten bei 5.000 Dollar. Die australische Bank ANZ gab dagegen zu bedenken, dass eine gebremste Ausweitung der US-Staatsausgaben einen der wichtigsten Treiber der Goldrally schwächen könnte. Trotz der Erholung liegt der Preis nach Angaben von Investing.com noch mehr als 20 Prozent unter dem Niveau vor Beginn des Konflikts zwischen den USA und Iran Ende Februar."
+   ],
+   "quellen": [
+    [
+     "Kitco (Reuters)",
+     "https://www.kitco.com/news/off-the-wire/2026-11-04/gold-gains-3-dollar-slides-after-democratic-midterm-gains"
+    ],
+    [
+     "Investing.com",
+     "https://de.investing.com/news/commodities-news/gold-setzt-rally-uber-4100-dollar-fort-schwacherer-dollar-und-fallende-usrenditen-nach-wahlen-stutzen-3748139"
+    ],
+    [
+     "BigGo Finance",
+     "https://finance.biggo.com/news/a1e83c14-22db-401d-a458-ff879750169e"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "investing.com",
+    "finance.biggo.com",
+    "finanzen.net",
+    "bloomberg.com",
+    "finance.yahoo.com",
+    "tradingview.com",
+    "trading-treff.de",
+    "finanztrends.de",
+    "fxstreet.de.com",
+    "riotimesonline.com",
+    "coinpaper.com",
+    "kucoin.com",
+    "investinglive.com"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Zinsen",
+    "Notenbanken",
+    "Europa"
+   ],
+   "kicker": "Europa · Notenbanken",
+   "titel": "Stockholm erhöht, Oslo und London folgen heute: Europas Zinswende nimmt Fahrt auf",
+   "deck": "Die Riksbank hob den Leitzins erstmals seit 2023 an; am Donnerstag entscheiden Norges Bank und Bank of England.",
+   "text": [
+    "Die schwedische Reichsbank hat am Mittwoch ihren Leitzins um 0,25 Prozentpunkte auf 2,0 Prozent angehoben, die erste Erhöhung seit 2023. Der Schritt war von Analysten weitgehend erwartet worden. Notenbankchef Erik Thedéen bezeichnete ihn als Normalisierung und nicht als Notmaßnahme: Die Wirtschaft laufe gut, zugleich trieben höhere Energie- und Rohstoffkosten die Preise. Man nehme „den Fuß vom Gaspedal“. Die Riksbank stellt für das kommende Jahr weitere Erhöhungen in Aussicht; Banken wie SEB und Nordea rechnen mit einem weiteren Schritt Anfang 2027.",
+    "Am Donnerstag um 10 Uhr folgt die norwegische Norges Bank. Sie hatte ihren Leitzins im September auf 4,5 Prozent erhöht und erklärt, er müsse vermutlich eine Zeit lang auf erhöhtem Niveau bleiben; weitere Schritte seien möglich, falls die Inflationsaussichten es erforderten. Gouverneurin Ida Wolden Bache erläutert die Entscheidung um 10.30 Uhr.",
+    "Mit Spannung erwartet wird vor allem die Bank of England, die um 13 Uhr deutscher Zeit entscheidet. Erwartet wird eine Anhebung um 0,25 Prozentpunkte auf 4,0 Prozent, die erste seit August 2023. Im September hatten bereits drei der neun Mitglieder des geldpolitischen Ausschusses für einen solchen Schritt gestimmt. Die britische Inflation war im September auf 3,5 Prozent gestiegen, vor allem wegen der Treibstoffpreise. Goldman Sachs erwartet ein Votum von 7:2. Der neue Inflationsbericht dürfte einen Höhepunkt der Teuerung von über vier Prozent im ersten Halbjahr 2027 zeigen.",
+    "Die Geldmärkte preisen für Großbritannien über das kommende Jahr mehrere weitere Erhöhungen ein, was viele Ökonomen für übertrieben halten. Ihr Basisszenario ist ein weiterer Schritt auf 4,25 Prozent, möglicherweise im Februar."
+   ],
+   "quellen": [
+    [
+     "Daily Northern",
+     "https://www.dailynorthern.com/37589/riksbank-chief-says-rate-rise-is-no-panic-measure/"
+    ],
+    [
+     "investingLive",
+     "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/"
+    ],
+    [
+     "Norges Bank",
+     "https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate/"
+    ]
+   ],
+   "berichterstattung": [
+    "dailynorthern.com",
+    "investinglive.com",
+    "norges-bank.no",
+    "riksbank.se",
+    "bloomberg.com",
+    "newsquawk.com",
+    "live.euronext.com",
+    "aol.com",
+    "nst.com.my",
+    "beaveronline.co.uk",
+    "tiomarkets.com",
+    "finchiefs.com",
+    "newsy-today.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Zinsen",
+    "EZB",
+    "Inflation"
+   ],
+   "kicker": "Eurozone · Geldpolitik",
+   "titel": "Inflation bei 4,0 Prozent: An der EZB-Zinserhöhung im Dezember zweifelt kaum noch jemand",
+   "deck": "Die Teuerung im Euroraum erreichte im Oktober den höchsten Stand seit 2023, getrieben von Energie; Deutschland liegt dank Steuersenkung darunter.",
+   "text": [
+    "Die Inflation im Euroraum ist im Oktober auf 4,0 Prozent gestiegen, nach 3,8 Prozent im September. Das geht aus der Schnellschätzung von Eurostat vom Mittwoch hervor; es ist der höchste Stand seit September 2023. Haupttreiber war erneut die Energie, deren Preise um 20,8 Prozent über dem Vorjahr lagen. Die Kerninflation ohne Energie und Lebensmittel verharrte dagegen bei 2,5 Prozent, die Teuerung bei Dienstleistungen stieg leicht auf 3,3 Prozent.",
+    "Zwischen den Ländern klafft die Entwicklung weit auseinander. Am höchsten war die Rate in Litauen mit 6,1 Prozent, Italien sprang von 4,2 auf 5,6 Prozent. Deutschland gehört mit 2,8 Prozent zu den Ländern mit der niedrigsten Teuerung; hier dämpfte die seit 1. Oktober geltende Senkung der Treibstoffsteuer den Preisauftrieb.",
+    "Für die Europäische Zentralbank erhöhen die Zahlen den Handlungsdruck. Bundesbankpräsident Joachim Nagel nannte eine Zinserhöhung im Dezember „sehr wahrscheinlich notwendig“. Eine Erhöhung dürfte „weiter ganz oben auf der To-do-Liste der EZB stehen“, sagte Alexander Krüger von der Bethmann Bank. Carsten Brzeski von ING verwies dagegen darauf, dass die stabile Kernrate nur auf begrenzte Folgewirkungen der Energiepreise hindeute. Die nächste Sitzung ist am 17. Dezember; ein dritter Zinsschritt könnte den Einlagensatz auf 2,75 Prozent heben.",
+    "Am Geldmarkt stieg die Wahrscheinlichkeit einer Erhöhung im Dezember auf rund 72 Prozent, für 2027 ist mindestens ein weiterer Schritt eingepreist. Die Rendite zehnjähriger Bundesanleihen zog um 1,5 Basispunkte auf 3,33 Prozent an."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most"
+    ],
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/konjunktur-politik/kaum-noch-zweifel-an-ezb-zinserhoehung-im-dezember"
+    ],
+    [
+     "Deutsche Wirtschafts Nachrichten",
+     "https://deutsche-wirtschafts-nachrichten.de/723110/wie-reagiert-die-ezb-inflationsrate-in-eurozone-steigt-im-oktober-auf-40-prozent"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com",
+    "boersen-zeitung.de",
+    "deutsche-wirtschafts-nachrichten.de",
+    "fuw.ch",
+    "finance.yahoo.com",
+    "rallies.ai",
+    "it-boltwise.de",
+    "news.jkn.co.kr",
+    "headtopics.com",
+    "fxstreet.de.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "Zinsen",
+    "USA"
+   ],
+   "kicker": "USA · Anleihen und Fed",
+   "titel": "Treasuries ziehen an, doch der Markt rechnet weiter mit einer Fed-Erhöhung",
+   "deck": "Die zehnjährige Rendite fiel auf 4,88 Prozent; die Wahrscheinlichkeit eines Zinsschritts im Dezember bleibt bei rund drei Vierteln.",
+   "text": [
+    "US-Staatsanleihen haben am Mittwoch zugelegt, die Renditen gaben entsprechend nach. Die Rendite der zehnjährigen Treasury fiel nach AP-Angaben auf 4,88 Prozent, nach 4,95 Prozent am späten Dienstag. Die zweijährige Rendite sank um rund drei Basispunkte auf 4,58 Prozent, die dreißigjährige um etwa vier Basispunkte auf 5,28 Prozent. Am frühen Donnerstag lag die Zehnjährige laut Trading Economics bei rund 4,85 Prozent.",
+    "Als Gründe nannten Marktbeobachter den Ölpreisverfall, der die Inflationssorgen dämpfte, und das Ergebnis der Zwischenwahlen: Mit einem geteilten Kongress gelten weitere schuldenfinanzierte Steuersenkungen und Ausgabenprogramme als weniger wahrscheinlich. Hinzu kam ein etwas schwächerer Dienstleistungssektor. Der Einkaufsmanagerindex des Instituts ISM sank im Oktober auf 54,5 Punkte von 54,9; der Teilindex für neue Aufträge fiel von 59,8 auf 55,9. Der Preisindex blieb mit 73,0 Punkten allerdings hoch.",
+    "An den Zinserwartungen änderte der Wahlausgang wenig. Laut dem FedWatch-Tool der CME lag die Wahrscheinlichkeit einer Erhöhung um 0,25 Prozentpunkte im Dezember im Tagesverlauf zwischen knapp 77 und 82 Prozent. Die Notenbank unter ihrem Vorsitzenden Kevin Warsh hatte die Zinsen im September erstmals seit drei Jahren erhöht und ihr Zielband Ende Oktober bei 3,75 bis 4,0 Prozent belassen. Die Inflation lag im September bei 3,7 Prozent.",
+    "Wichtigster Termin für den Anleihemarkt ist der Arbeitsmarktbericht am Freitag. Im September hatte die US-Wirtschaft nur 29.000 Stellen geschaffen."
+   ],
+   "quellen": [
+    [
+     "AP via Boston.com",
+     "https://www.boston.com/news/business/2026/11/04/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms/"
+    ],
+    [
+     "ISM via PR Newswire",
+     "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228"
+    ]
+   ],
+   "berichterstattung": [
+    "boston.com",
+    "prnewswire.com",
+    "abcnews.com",
+    "cnbc.com",
+    "cappnotes.substack.com",
+    "tradingeconomics.com",
+    "tokenpost.com",
+    "invezz.com",
+    "multibagg.ai",
+    "kitco.com",
+    "morningstar.com",
+    "kucoin.com",
+    "noradarealestate.com"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Devisen",
+    "Dollar",
+    "Euro"
+   ],
+   "kicker": "Devisen · Dollar",
+   "titel": "Dollar auf Monatstief, Euro steigt Richtung 1,13",
+   "deck": "Wahlausgang, fallende Renditen und hohe Inflation im Euroraum schwächen den Greenback; das Pfund wartet auf die Bank of England.",
+   "text": [
+    "Der Dollar hat nach den US-Zwischenwahlen weiter an Boden verloren. Der Dollar-Index, der die US-Währung mit sechs wichtigen Währungen vergleicht, fiel am Mittwoch auf ein Monatstief und schloss 0,34 Prozent tiefer bei 101,53 Punkten. In Asien rutschte er am Donnerstagmorgen weiter auf rund 101,3 Punkte. Der Euro stieg laut AP auf 1,1256 Dollar von 1,1228 Dollar am Vorabend und kletterte bis zum frühen Morgen europäischer Zeit auf rund 1,1263 Dollar.",
+    "Neben dem Wahlausgang und den fallenden Anleiherenditen stützte die Gemeinschaftswährung die Inflation im Euroraum von 4,0 Prozent, die die Erwartung einer EZB-Zinserhöhung im Dezember festigte. Die „Blaue Welle“ habe den Anstieg des Dollar gebremst, sagte George Vessey vom Zahlungsdienstleister Convera. Carol Kong von der Commonwealth Bank of Australia nannte eine Eskalation im Nahen Osten als Risiko, das den Ölpreis und damit auch den Dollar wieder stützen könne.",
+    "Der Yen legte leicht zu, ein Dollar kostete am Donnerstag 157,96 Yen nach 158,41 Yen. Das Pfund hatte bereits am Mittwoch mit 1,3485 Dollar den höchsten Stand seit sieben Wochen erreicht; heute steht die erwartete Zinserhöhung der Bank of England an. Der australische Dollar notierte bei rund 0,70 US-Dollar.",
+    "In China bremst die Notenbank dagegen weiter den Höhenflug des Yuan. Sie setzte den Referenzkurs am Donnerstag bei 6,7156 Yuan je Dollar fest und damit deutlich schwächer als die Schätzung von 6,6783 Yuan. Bereits am Dienstag hatte sie die Mindestreserve für Fremdwährungseinlagen erhöht."
+   ],
+   "quellen": [
+    [
+     "Reuters via Euronext",
+     "https://live.euronext.com/en/financial-news/dollar-slips-democratic-victories-us-midterms-stoke-ai-jitters"
+    ],
+    [
+     "AP via WSLS",
+     "https://www.wsls.com/business/2026/11/05/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/"
+    ],
+    [
+     "investingLive",
+     "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/"
+    ]
+   ],
+   "berichterstattung": [
+    "live.euronext.com",
+    "wsls.com",
+    "investinglive.com",
+    "finance.yahoo.com",
+    "euronews.com",
+    "cnbc.com",
+    "cappnotes.substack.com",
+    "investing.com",
+    "multibagg.ai",
+    "ebc.com",
+    "vantagemarkets.com",
+    "exchangerates.org.uk",
+    "babypips.com",
+    "fxstreet.de.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "USA",
+    "Wahlen"
+   ],
+   "kicker": "Märkte · Branchen",
+   "titel": "Krankenhäuser und Discounter vorn, Rüstung und Öl hinten: Die Börse sortiert nach der Wahl um",
+   "deck": "Anleger setzten am Mittwoch gezielt auf Profiteure einer demokratischen Kongressmehrheit und trennten sich von Werten, die mit dem Kurs der Regierung verbunden sind.",
+   "text": [
+    "Hinter dem Kursfeuerwerk an der Wall Street stand eine deutliche Umschichtung zwischen den Branchen. Zu den größten Gewinnern gehörten Krankenhausbetreiber und Einzelhändler mit einkommensschwacher Kundschaft: HCA Healthcare stiegen um 10,3 Prozent, Dollar Tree um 9,6 Prozent. Anleger hoffen, dass ein demokratisch geführter Kongress Kürzungen bei der staatlichen Gesundheitsversorgung und der Lebensmittelhilfe zurücknimmt. Auch Solar- und Windwerte wie First Solar mit plus 4,6 Prozent und Enphase Energy mit plus 3,7 Prozent profitierten von der Aussicht auf mehr staatliche Förderung.",
+    "Unter Druck gerieten dagegen die Rüstungskonzerne, weil der Druck auf ein Ende des Iran-Kriegs wachsen dürfte. Lockheed Martin verloren 6,9 Prozent, Northrop Grumman 4,5 Prozent und General Dynamics 2,6 Prozent. Mit dem Ölpreis fielen ExxonMobil um 4,6 Prozent und ConocoPhillips um 5,2 Prozent; der Energiesektor im S&P 500 büßte insgesamt 4,7 Prozent ein. Die Aktie von Trump Media & Technology brach um 24,5 Prozent auf 4,49 Dollar ein, Tesla gab 3,3 Prozent nach, SpaceX 3,8 Prozent.",
+    "Gespalten zeigte sich der Technologiesektor. Der Rechenzentrumsbetreiber CoreWeave verlor 9,9 Prozent und Nvidia 3,1 Prozent, weil Anleger mit strengeren Regeln für Künstliche Intelligenz und langsamerem Ausbau von Rechenzentren rechnen. Alphabet stieg dagegen um 3,2 Prozent; Unternehmen, die selbst viel Geld in KI-Chips stecken, hielten sich nach Angaben von AP besser.",
+    "Das Muster setzte sich in Europa und Asien fort. In Frankfurt verloren Infineon, Hochtief und Siemens Energy bis zu acht Prozent, während Nordex und SMA Solar zulegten. In Seoul gaben Chipwerte deutlich nach, Autohersteller, Banken und Biotech-Unternehmen gewannen dagegen."
+   ],
+   "quellen": [
+    [
+     "AP via Boston.com",
+     "https://www.boston.com/news/business/2026/11/04/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms/"
+    ],
+    [
+     "Capp Notes (Closing Look)",
+     "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"
+    ],
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-dax-naehert-sich-nach-us-zwischenwahlen-rekord-16037334"
+    ]
+   ],
+   "berichterstattung": [
+    "boston.com",
+    "cappnotes.substack.com",
+    "finanzen.net",
+    "wsls.com",
+    "en.sedaily.com",
+    "heygotrade.com",
+    "xtb.com",
+    "cnn.com",
+    "abcnews.com"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "USA",
+    "Regulierung"
+   ],
+   "kicker": "Markt · Nach den Midterms",
+   "titel": "Bitcoin springt zurück über 80.000 Dollar, Ether führt die Erholung an",
+   "deck": "Der Markt hatte die demokratische Mehrheit offenbar weitgehend eingepreist. In Washington muss die Branche nun ihre Strategie neu ordnen.",
+   "text": [
+    "Nach dem nächtlichen Ausverkauf hat sich der Kryptomarkt am Mittwoch kräftig erholt. Bitcoin war im asiatischen Handel bis auf rund 75.700 Dollar gefallen und stieg im Tagesverlauf bis auf gut 81.000 Dollar. Am frühen Abend notierte die älteste Kryptowährung nach Daten, die The Motley Fool auswertete, bei rund 80.150 Dollar, ein Plus von 3,6 Prozent. Ether legte um 6,6 Prozent auf etwa 2.420 Dollar zu und erreichte damit ein Zwei-Wochen-Hoch, Solana gewann gut 2 Prozent auf rund 95 Dollar. Die Kursverläufe von Bitcoin, Ether und den Nasdaq-Terminkontrakten zeigten eine V-förmige Erholung von den Tiefs der Nacht; Coindesk wertete das als Zeichen, dass der Sieg der Demokraten weitgehend eingepreist war.",
+    "Für eine nachhaltige Erholung gelten zwei Marken als entscheidend: die Rückkehr stetiger Zuflüsse in die Spot-ETFs, aus denen in der Schwächephase zuvor mehr als eine Milliarde Dollar abgeflossen war, und ein klarer Ausbruch über 82.000 Dollar. Die Analysten von Tagus Capital sehen Altcoins und DeFi stärker vom regulatorischen Risiko betroffen als Bitcoin, dem sein Status als Rohstoff und der ETF-Zugang einen festeren Boden gäben.",
+    "Politisch sortiert sich die Branche neu. Nach Zählung der Lobbygruppe Stand With Crypto wurden 19 kryptofreundliche Senatoren und 226 entsprechende Abgeordnete gewählt. Coinbase-Lobbyistin Kara Calvert betonte, Krypto sei „zu 100 Prozent überparteilich“, räumte aber Gegenwind für Gesetze im kommenden Jahr ein. Innerhalb der Branche gibt es laut The Block Kritik an den Ausgaben des Super-PACs Fairshake, das 154,5 Millionen Dollar in Vorwahlen und Hauptwahl gesteckt hatte. Demokratische Abgeordnete erwägen Berichten zufolge Änderungen am festgefahrenen CLARITY Act, etwa mehr Befugnisse für die SEC, stärkeren Anlegerschutz und Beschränkungen für Kryptogeschäfte von Amtsträgern. Erwartet werden zudem Untersuchungen zu den Kryptofirmen der Trump-Familie, darunter World Liberty Financial."
+   ],
+   "quellen": [
+    [
+     "The Motley Fool",
+     "https://www.fool.com/coverage/stock-market-today/2026/11/04/crypto-market-today-nov-4-bitcoin-stages-sharp-recovery-as-wall-street-rallies-and-regulatory-hopes-return/"
+    ],
+    [
+     "Coindesk",
+     "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress"
+    ],
+    [
+     "The Block",
+     "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362"
+    ]
+   ],
+   "berichterstattung": [
+    "fool.com",
+    "coindesk.com",
+    "theblock.co",
+    "bloomberg.com",
+    "kucoin.com",
+    "nexo.com"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Hacks",
+    "Frankreich",
+    "Stablecoins"
+   ],
+   "kicker": "Sicherheit · Bankenhack",
+   "titel": "Französische Bank Arkéa bestätigt Angriff, Ermittler beziffert Schaden auf 133 Millionen Dollar",
+   "deck": "Die Täter zogen über Börsenkonten USDC und USDT ab und wuschen einen Teil über Monero. ZachXBT wirft der Bank vor, zu spät Alarm geschlagen zu haben.",
+   "text": [
+    "Die französische Genossenschaftsbank Crédit Mutuel Arkéa hat am Mittwoch einen Cyberangriff bestätigt, bei dem betrügerische Transaktionen ausgeführt wurden. Der Vorfall sei unter Kontrolle, für die Kunden habe er keine finanziellen Folgen, teilte das Institut aus der Bretagne mit. Die zuständigen Aufsichtsbehörden seien informiert, einige Transaktionen vorsorglich ausgesetzt worden. Eine Schadenssumme nannte die Bank nicht.",
+    "Öffentlich gemacht hatte den Fall der On-Chain-Ermittler ZachXBT. Er hatte zunächst am Montag von einer ungenannten EU-Einrichtung berichtet, die über mehrere Konten bei zentralen Kryptobörsen mehr als 106 Millionen Dollar verloren habe; die Mittel seien als USDC und USDT abgezogen worden. Nach weiteren Abflüssen von rund 27 Millionen Dollar, teils noch nach seiner ersten Meldung, erhöhte er die Summe auf über 133 Millionen Dollar und nannte am Dienstagabend Arkéa als Opfer. Der Angriff habe sich über mehrere Tage erstreckt, unter Einbeziehung möglicher OTC-Geschäfte könne der Schaden höher liegen. Unabhängig überprüfen ließen sich die Zahlen bislang nicht.",
+    "Laut ZachXBT tauschte der Angreifer USDC in Ether, schleuste Mittel über Sofort-Tauschdienste wie WellWallet und Kyrrex, wechselte über Wagyu in die anonymisierende Kryptowährung Monero (XMR) und verteilte Beträge per Bridge auf mehrere Blockchains. Mit „hoher Sicherheit“ habe die nordkoreanische Lazarus-Gruppe nichts damit zu tun. Der Ermittler wirft der Bank vor, durch zu späte Meldung an europäische Strafverfolger die Wäsche von mehr als 30 Millionen Dollar ermöglicht zu haben, die sonst hätten eingefroren werden können.",
+    "Der Fall dürfte auch die Aufsicht beschäftigen: Nach der EU-Verordnung DORA müssen Banken einen schweren IKT-Vorfall binnen vier Stunden nach dessen Einstufung erstmals melden, in Frankreich an die ACPR, die ihn bei den größten Bankengruppen an die EZB weiterleitet. Arkéa betreut nach Angaben von The Block mehr als 5,6 Millionen Kunden."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+    ],
+    [
+     "Ledger Insights",
+     "https://www.ledgerinsights.com/credit-mutuel-arkea-confirms-it-was-the-target-of-suspected-133m-crypto-theft/"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/europe/french-bank-arkea-confirms-cyberattack-after-reported-133m-crypto-theft/4111390"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "ledgerinsights.com",
+    "aa.com.tr",
+    "coindesk.com",
+    "finextra.com",
+    "news.bitcoin.com",
+    "brusselssignal.eu",
+    "coin-turk.com",
+    "egyptian-gazette.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Stablecoins",
+    "Quartalszahlen"
+   ],
+   "kicker": "Stablecoins · Circle",
+   "titel": "Circle übertrifft die Erwartungen, doch die Zinserträge schrumpfen",
+   "deck": "Der USDC-Emittent verdient dank eines Token-Vorverkaufs mehr als gedacht, streicht aber fünf Prozent der Stellen. Der Marktanteil sinkt auf 27 Prozent.",
+   "text": [
+    "Circle hat im dritten Quartal mehr verdient als von Analysten erwartet. Umsatz und Reserveerträge stiegen laut der am Mittwoch vorgelegten Bilanz um 17 Prozent auf 865 Millionen Dollar, der Gewinn aus fortgeführten Geschäften um 5 Prozent auf 226 Millionen Dollar. Das bereinigte Ergebnis je Aktie lag bei 84 Cent und damit deutlich über den Prognosen, das bereinigte Ebitda kletterte um 85 Prozent auf 317 Millionen Dollar.",
+    "Der Sprung hat allerdings einen Sondereffekt: Von den 207 Millionen Dollar an sonstigen Erlösen stammen 182 Millionen aus dem privaten Vorverkauf des ARC-Tokens, des nativen Tokens von Circles eigener Blockchain Arc. Insgesamt brachte der Presale 242,2 Millionen Dollar zu 0,30 Dollar je Token ein, was einer voll verwässerten Bewertung von drei Milliarden Dollar entspricht. Das Arc-Mainnet ist seit 16. September öffentlich; 2027 soll das Netz von Proof of Authority, bei dem zugelassene Validatoren Blöcke bestätigen, auf Proof of Stake umgestellt werden. Das Kerngeschäft schwächelt dagegen: Die Reserveerträge sanken um 8 Prozent auf 658 Millionen Dollar, weil die Verzinsung der Reserven um 61 Basispunkte zurückging.",
+    "Beim Stablecoin selbst zeigt sich ein gemischtes Bild. Der durchschnittliche USDC-Umlauf lag mit 73,3 Milliarden Dollar 8 Prozent über dem Vorjahr, zum Quartalsende war er mit 73,9 Milliarden Dollar unverändert. Das On-Chain-Transaktionsvolumen wuchs um 49 Prozent auf 13,9 Billionen Dollar. Circles Anteil am Stablecoin-Markt fiel laut The Block auf 27 Prozent.",
+    "Zugleich baut Circle rund 5 Prozent der Belegschaft ab und verbucht dafür 9,1 Millionen Dollar an Restrukturierungskosten. Die Jahresprognose für sonstige Erlöse (310 bis 330 Millionen Dollar) und bereinigte Betriebskosten (570 bis 585 Millionen Dollar) bestätigte das Unternehmen. Die Aktie reagierte vorbörslich uneinheitlich."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671"
+    ],
+    [
+     "Coindesk",
+     "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume"
+    ],
+    [
+     "Investing.com",
+     "https://www.investing.com/news/earnings/circle-shares-rise-3-on-strong-third-quarter-earnings-beat-93CH-4998500"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "coindesk.com",
+    "investing.com",
+    "gurufocus.com",
+    "crypto.news",
+    "cryptotimes.io",
+    "chartmill.com",
+    "tradersunion.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Derivate",
+    "USA",
+    "Regulierung"
+   ],
+   "kicker": "Regulierung · Derivate",
+   "titel": "Perpetuals auf US-Aktien: Cboe und Citadel ziehen gegen die CFTC vor Gericht",
+   "deck": "Die Terminmarktaufsicht erlaubt das aus dem Kryptohandel bekannte Produkt erstmals für Einzelaktien. Stunden später folgte die Klage.",
+   "text": [
+    "Die US-Terminmarktaufsicht CFTC hat den Weg für Perpetual Futures auf einzelne US-Aktien frei gemacht – und sich damit umgehend eine Klage eingehandelt. Perpetuals sind Terminkontrakte ohne Verfallsdatum, deren Preis über regelmäßige Ausgleichszahlungen zwischen Long- und Short-Seite, die Funding Rate, nahe am Basiswert gehalten wird. Im Kryptohandel sind sie das wichtigste Derivat. CFTC-Chef Michael Selig erklärte, zugelassene US-Börsen könnten solche Kontrakte nun anbieten; die Entscheidung baue auf der früheren Zulassung von Bitcoin-Perpetuals an einem inländischen Handelsplatz auf und gebe Händlern Zugang zu Produkten, die im Ausland verbreitet seien. Die Kontrakte gelten nach Regel 40.3 der Kommission als genehmigt.",
+    "Nur Stunden später reichte die Capital Markets Alliance, unterstützt von Cboe, Citadel Securities und der Healthy Markets Association, am 3. November Klage vor einem Bundesgericht in New York ein. Die Kläger halten die Produkte für wertpapierbasierte Swaps, die unter die Aufsicht der SEC fielen und Privatanlegern per Gesetz nicht angeboten werden dürften. Zudem habe die CFTC gegen das Verwaltungsverfahrensgesetz verstoßen, weil sie ihre Entscheidung nicht ausreichend begründet und Anlegerrisiken nicht geprüft habe. Cboe-Chef Craig Donohue sprach von einer Frage des Anlegerschutzes und der Rechtsstaatlichkeit. Ein CFTC-Sprecher nannte die Klage „beunruhigend“, die SEC äußerte sich nicht.",
+    "Für die Kryptobranche steht viel auf dem Spiel. Kalshi, Coinbase Derivatives und Bitnomial haben bereits Anträge für aktienbezogene Perpetuals eingereicht, Coinbase etwa für bar abgerechnete Kontrakte auf Einzelaktien und ETFs. Die NYSE-Mutter ICE hatte am 29. Oktober angekündigt, mit Trade.xyz regulierte Perpetual-Märkte auf Basis der Hyperliquid-Technik aufzubauen; dafür fehlen noch Genehmigungen. Die CME hatte bereits im Juni gegen die Behandlung von Krypto-Perpetuals durch die CFTC geklagt."
+   ],
+   "quellen": [
+    [
+     "Parameter",
+     "https://parameter.io/cboe-and-citadel-challenge-cftcs-single-stock-perpetual-futures-approval-in-federal-court/"
+    ],
+    [
+     "Crypto.news",
+     "https://crypto.news/cboe-citadel-sue-cftc-stock-perpetual-futures/"
+    ],
+    [
+     "Crypto Briefing",
+     "https://cryptobriefing.com/cboe-citadel-lawsuit-cftc/"
+    ]
+   ],
+   "berichterstattung": [
+    "parameter.io",
+    "crypto.news",
+    "cryptobriefing.com",
+    "coincodex.com",
+    "blockonomi.com",
+    "bitbase.com",
+    "kucoin.com",
+    "tradersunion.com",
+    "yournews.com"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Mining",
+    "Rechenzentren",
+    "Texas"
+   ],
+   "kicker": "Mining · Analysten",
+   "titel": "Bernstein kappt Kursziele für Bitcoin-Miner um bis zu 54 Prozent",
+   "deck": "Die neue Gouverneurin von Texas will Rechenzentren vorerst stoppen. Für Miner, die auf KI-Hosting umsatteln, liegt dort mehr als die Hälfte ihrer Kapazität.",
+   "text": [
+    "Der Wahlausgang in Texas trifft die börsennotierten Bitcoin-Miner hart. Die Demokratin Gina Hinojosa, die Amtsinhaber Greg Abbott geschlagen hat, will neue Genehmigungen für Rechenzentren aussetzen, bis Regeln die Bewohner vor höheren Strom- und Wasserkosten schützen. Für viele Miner ist das ein Problem, weil sie ihre Standorte und Netzanschlüsse zunehmend an KI-Kunden vermieten. Nach Rechnung von Bernstein liegt mehr als die Hälfte der Stromkapazität, die die von ihr beobachteten Miner besitzen oder planen, in Texas.",
+    "Die Analysten senkten daraufhin ihre Kursziele für sieben Unternehmen um 35 bis 54 Prozent: Cipher Mining von 23 auf 15 Dollar, IREN von 100 auf 55 Dollar, TeraWulf von 36 auf 20 Dollar, Core Scientific von 32 auf 19 Dollar, Riot von 35 auf 18 Dollar, MARA von 17 auf 10 Dollar und CleanSpark von 24 auf 11 Dollar. KI-Colocation bewertet Bernstein nun mit dem Zwölffachen des operativen Ergebnisses (Ebitda), angesetzt auf die Schätzung für 2030. Morgan Stanley sieht Cipher, MARA und Galaxy Digital stärker der Unsicherheit in Texas ausgesetzt, TeraWulf, Hut 8 und Applied Digital dagegen besser aufgestellt.",
+    "Wie lange ein Stopp dauern würde, ist offen. Goldman Sachs schätzt, dass in Bundesstaaten, die die Regeln für Rechenzentren verschärfen dürften, rund 45 Prozent der geplanten US-Kapazität liegen, Texas macht etwa ein Viertel davon aus. Die Ökonomen der Bank rechnen allerdings nur mit vorübergehenden Pausen in Texas, Georgia und Michigan. Bernstein hatte in einer früheren Analyse zudem argumentiert, dass bereits genehmigte Mining-Standorte durch eine strengere Prüfung neuer Projekte an Wert gewinnen könnten."
+   ],
+   "quellen": [
+    [
+     "Coindesk",
+     "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/crypto/articles/bernstein-cuts-price-targets-seven-194100014.html"
+    ],
+    [
+     "Coinmarketcap",
+     "https://coinmarketcap.com/academy/article/texas-data-center-audit-could-lift-value-of-approved-bitcoin-mining-sites-bernstein-says"
+    ]
+   ],
+   "berichterstattung": [
+    "coindesk.com",
+    "finance.yahoo.com",
+    "cnbc.com",
+    "kucoin.com",
+    "thestar.com.my",
+    "stocktitan.net",
+    "fool.com"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Cybersicherheit",
+    "OpenAI",
+    "Open Source"
+   ],
+   "kicker": "Sicherheit · Forschung",
+   "titel": "OpenAI-Agenten finden 948 Wege zu Root-Rechten im Linux-Kernel",
+   "deck": "Ein noch unveröffentlichtes Cybermodell hat in einem Lauf für 1,2 Millionen Dollar Hunderte ausnutzbare Lücken samt Patchvorschlägen erzeugt. Die Angaben stammen von OpenAI selbst.",
+   "text": [
+    "OpenAI hat am Mittwoch die Ergebnisse eines groß angelegten Sicherheitstests am Linux-Kernel veröffentlicht. Eine Kette von KI-Agenten, angetrieben von einem noch nicht verfügbaren „kommenden Cybermodell“, durchsuchte Mitte Oktober den aktuellen Entwicklungsstand des Kernels nach Lücken, über die ein gewöhnlicher Nutzer Administratorrechte („Root“) erlangen kann. Solche Local Privilege Escalations gelten als besonders wertvoll für Angreifer, die bereits auf einem System sind.",
+    "Das Verfahren lief in fünf Stufen: Suche, Validierung, Einschätzung der Ausnutzbarkeit, Patch-Erstellung und menschliche Prüfung. Späher-Agenten wählten 5.034 Ziele aus, die für Nutzer mit geringen Rechten erreichbar sind, rund 7 Prozent des Kernel-Codes. Von 2.308 Verdachtsfällen ließen sich 1.724 in einer isolierten virtuellen Maschine reproduzieren; am Ende standen nach OpenAI-Angaben 948 verschiedene Schwachstellen mit funktionierenden Exploits und ebenso vielen Patchvorschlägen. Die API-Kosten bezifferte das Unternehmen auf 1.213.430 Dollar, rund 1.280 Dollar je Lücke. Den Gegenwert nach üblichen Prämien von Hacker-Wettbewerben schätzt OpenAI auf 18,9 bis 66,3 Millionen Dollar – eine eigene Rechnung, die nicht unabhängig geprüft ist.",
+    "Die Zahl 948 beschreibt bestätigte Exploits mit Patchentwürfen, nicht bereits ausgelieferte Korrekturen. Bis zum Ende der Auswertung waren 61 Lücken im Hauptzweig behoben, für 43 lagen Patches in Vorbereitung. OpenAI meldet die Funde nach Absprache mit der Kernel-Gemeinschaft gestaffelt, beginnend mit den kritischsten, gemeinsam mit Partnern des Programms „Patch the Planet“. Details zu mindestens zehn bislang unbekannten Angriffstechniken hält das Unternehmen aus Sicherheitsgründen zurück. Fachleute weisen darauf hin, dass dieselbe Fähigkeit auch Angreifern den Weg von einer Code-Änderung zum fertigen Exploit verkürzen kann; umso wichtiger seien menschliche Prüfung und die Kontrolle der Maintainer über die Patches. Für den Testlauf hatte OpenAI zudem eine Schutzfunktion des Kernels deaktiviert, die mit der Testumgebung nicht kompatibel war."
+   ],
+   "quellen": [
+    [
+     "OpenAI",
+     "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+    ],
+    [
+     "PBX Science",
+     "https://pbxscience.com/openais-ai-pipeline-validates-948-linux-root-access-exploits-in-one-1-21-million-run/"
+    ],
+    [
+     "Runtime Wire",
+     "https://runtimewire.com/article/openai-agents-948-linux-kernel-flaws"
+    ]
+   ],
+   "berichterstattung": [
+    "openai.com",
+    "pbxscience.com",
+    "runtimewire.com",
+    "hyper.ai",
+    "dev.to",
+    "daily.dev",
+    "ai-tldr.dev"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Urheberrecht",
+    "EU",
+    "Google"
+   ],
+   "kicker": "Recht · Urheberrecht",
+   "titel": "EuGH-Gutachter: Chatbot-Antworten können Presseverlage verletzen",
+   "deck": "Generalanwalt Szpunar trennt im ersten KI-Fall vor dem Gerichtshof zwischen Training und Ausgabe. Für das Training sieht er wenig Probleme, für Antworten mit Webzugriff schon.",
+   "text": [
+    "Im ersten Verfahren zu generativer KI vor dem Europäischen Gerichtshof hat Generalanwalt Maciej Szpunar am Dienstag seine Schlussanträge vorgelegt. Geklagt hat der ungarische Nachrichtenportalbetreiber Like Company gegen Google Ireland. Er wirft dem Konzern vor, seine Artikel zum Training der Gemini-Modelle genutzt und sie im Chatbot wiedergegeben zu haben. Das Regionalgericht Budapest legte dem EuGH im März 2025 vier Fragen vor (Rechtssache C-250/25); es geht um das Leistungsschutzrecht für Presseverleger aus Artikel 15 der EU-Urheberrechtsrichtlinie.",
+    "Die beiden Fragen zum Training hält Szpunar für unzulässig: Es sei nicht belegt, dass die Artikel des Klägers überhaupt zum Training verwendet wurden, und Training sei keine „Online-Nutzung“ im Sinne des Presseverlegerrechts. Hilfsweise führt er aus, Training sei in der Regel vom Text-und-Data-Mining-Ausnahmetatbestand gedeckt, wenn dessen Bedingungen erfüllt sind. Text und Data Mining meint das automatisierte Auswerten großer Textmengen; Rechteinhaber können dem widersprechen.",
+    "Anders bei Antworten, für die der Chatbot live eine Webseite abruft (Retrieval-augmented Generation). Das könne eine Online-Nutzung sein, die nicht unter die Mining-Ausnahme fällt. Eine Verletzung liege laut Gutachten in zwei Fällen nahe: wenn der Zugriff unrechtmäßig erfolgt, etwa durch Umgehen einer Bezahlschranke oder einer Scraping-Sperre, oder wenn die Antwort den Ausdruck des Artikels so erkennbar übernimmt, dass Leser das Original nicht mehr aufrufen müssen. Wer nur dieselben Fakten in eigenen Worten wiedergibt, verletzt das Recht dagegen nicht, selbst wenn Leser abwandern. Haften könne der Anbieter, wenn solche Nutzungen in seinem Geschäftsmodell angelegt sind oder er keine zumutbaren Gegenmaßnahmen trifft.",
+    "Das Gutachten ist nicht bindend, folgt der Gerichtshof aber häufig. Im konkreten Beispiel sieht Szpunar die Schwelle vorläufig nicht erreicht; entscheiden muss am Ende das Budapester Gericht. Zwei weitere ungarische Vorlagen warten auf das Urteil."
+   ],
+   "quellen": [
+    [
+     "Agence Europe",
+     "https://agenceurope.eu/en/bulletin/article/13974/18/cjeu-advocate-general-says-chatbots-can-infringe-press-publishers-rights"
+    ],
+    [
+     "Quentir",
+     "https://www.quentir.ai/blog/2026/like-company-v-google-c-250-25-szpunar-ai-chatbot-retrieval-press-publishers-right-3-november-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "agenceurope.eu",
+    "quentir.ai",
+    "ieu-monitoring.com",
+    "datastudios.org",
+    "ceadigilaw.org",
+    "fourweekmba.com",
+    "tech-insider.org",
+    "explainx.ai",
+    "daily.dev"
+   ]
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "China",
+    "Open Source",
+    "Sprachmodelle"
+   ],
+   "kicker": "Modelle · China",
+   "titel": "Tencent bringt Hy4 mit 770 Milliarden Parametern und Computersteuerung",
+   "deck": "Die Vollversion des Sprachmodells kann nun Bilder verstehen und Software bedienen. In Tencents eigenen Tests liegt es vorn mit dabei, aber nirgends an der Spitze.",
+   "text": [
+    "Der chinesische Internetkonzern Tencent hat am Mittwoch die Vollversion seines Sprachmodells Hy4 veröffentlicht. Es umfasst 770 Milliarden Parameter und ist als Mixture of Experts aufgebaut: Pro Anfrage wird nur ein Teil des Netzes aktiviert, laut der Vorabversion rund 49 Milliarden Parameter, was den Betrieb günstiger macht. Das Kontextfenster, also die Textmenge, die das Modell auf einmal verarbeiten kann, umfasst eine Million Token.",
+    "Neu gegenüber der im August erschienenen Vorschau sind Bildverständnis und „Computer Use“: Hy4 soll Screenshots, Diagramme und Grafiken lesen sowie Programme über die Kommandozeile und grafische Oberflächen bedienen können. Laut einem Bericht von Emergent ist das Sehen direkt im Kernmodell angelegt und nicht über einen separaten Bild-Encoder angeflanscht.",
+    "Die Benchmark-Werte stammen aus Tencents eigenen Tests, bei denen Konkurrenzmodelle unter Tencents Einstellungen nachgemessen wurden; unabhängige Prüfungen gibt es noch nicht. Danach belegt Hy4 in keinem der zwölf Tests Platz eins. Am besten schneidet es mit Rang zwei unter sieben Modellen im E-Bench 2.0 ab, auf Terminal Bench 4.0, einem Test für Agenten in der Kommandozeile, erreicht es 44,4 Punkte und Rang vier. Im Vergleich mit dem chinesischen Konkurrenten Kimi K3.1 Pro gewinnt es nach einer Auswertung von Explainx sechs von zwölf Tests.",
+    "Hy4 wird als Open-Weights-Modell vermarktet, das Unternehmen auf eigenen Servern betreiben können; die Gewichte der Vorabversion stehen unter Apache-2.0-Lizenz bei Hugging Face, für die Endfassung sind sie laut Explainx angekündigt, aber noch nicht veröffentlicht. Über die Schnittstelle kostet Hy4 6 Yuan je Million Eingabe- und 18 Yuan je Million Ausgabetoken, bis Jahresende gibt Tencent 50 Prozent Rabatt. Erhältlich ist es unter anderem über Tencent Cloud, die eigenen Assistenten und Plattformen wie OpenRouter."
+   ],
+   "quellen": [
+    [
+     "Emergent",
+     "https://emergent.sh/news/tencent-hy4-launch-770b-vision-model-computer"
+    ],
+    [
+     "Explainx",
+     "https://explainx.ai/blog/tencent-hy4-official-release-770b-vision-computer-use-terminal-bench-44-4-weights-planned-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "emergent.sh",
+    "explainx.ai",
+    "superpowerdaily.com",
+    "developersdigest.tech",
+    "af.net",
+    "aitoolsreview.co.uk",
+    "shattered.io",
+    "aiinsiders.net"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Finanzierung",
+    "Pharma",
+    "Alphabet"
+   ],
+   "kicker": "Geschäft · Finanzierung",
+   "titel": "Isomorphic Labs verhandelt über fünf Milliarden Dollar",
+   "deck": "Die Alphabet-Tochter für KI-Wirkstoffdesign könnte mit rund 50 Milliarden Dollar bewertet werden – ohne bisher einen eigenen Wirkstoff am Menschen getestet zu haben.",
+   "text": [
+    "Isomorphic Labs, die aus Google DeepMind hervorgegangene Firma für KI-gestützte Medikamentenentwicklung, verhandelt nach einem Bericht von Bloomberg über eine Finanzierungsrunde von rund fünf Milliarden Dollar. Die Bewertung läge bei etwa 50 Milliarden Dollar. Die Gespräche befinden sich in einem frühen Stadium, Investoren wurden nicht genannt, Einzelheiten können sich noch ändern. Bereits im Oktober hatte Bloomberg von Gesprächen mit einer Zielbewertung von 40 bis 50 Milliarden Dollar berichtet, damals ohne Angabe zur Höhe der Runde.",
+    "Der Sprung wäre beträchtlich: Erst im Frühjahr hatte das Unternehmen 2,1 Milliarden Dollar eingesammelt, unter anderem von Alphabet, Thrive Capital und dem britischen Sovereign AI Fund. Isomorphic wird von DeepMind-Chef Demis Hassabis geführt und baut auf AlphaFold auf, dem Modell zur Vorhersage von Proteinstrukturen, für das 2024 der Chemie-Nobelpreis vergeben wurde. Die eigene Plattform IsoDDE soll nach Firmenangaben Wechselwirkungen zwischen Proteinen und Wirkstoffmolekülen etwa doppelt so genau vorhersagen wie AlphaFold – eine Herstellerangabe.",
+    "Kommerziell arbeitet Isomorphic mit Eli Lilly und Novartis zusammen, mit denen 2024 Vereinbarungen im Umfang von zusammen fast drei Milliarden Dollar geschlossen wurden, seit Januar zudem mit Johnson & Johnson; im Mittelpunkt stehen kleine Moleküle gegen Krebs und Immunerkrankungen. Eigene Wirkstoffkandidaten hat das Unternehmen laut Bloomberg noch nicht am Menschen erprobt."
+   ],
+   "quellen": [
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/isomorphic-labs-in-talks-for-5b-round-at-50b-valuation"
+    ],
+    [
+     "SiliconANGLE",
+     "https://siliconangle.com/2026/10/08/alphabet-spinoff-isomorphic-labs-reportedly-raising-funding-at-up-to-50b-valuation/"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "aiweekly.co",
+    "phemex.com",
+    "kucoin.com",
+    "fourweekmba.com",
+    "panews.io",
+    "chaincatcher.com",
+    "rallies.ai"
+   ]
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "OpenAI",
+    "Bildgenerierung"
+   ],
+   "kicker": "Produkte · Bildgenerierung",
+   "titel": "ChatGPT Images 2.6 erzeugt animierte GIFs, zwei neue Bildmodelle für Entwickler",
+   "deck": "OpenAI verspricht halbierte Wartezeiten. Die Nutzung der Bildfunktion ist nach Firmenangaben auf mehr als vier Milliarden Bilder pro Woche gestiegen.",
+   "text": [
+    "OpenAI hat am Mittwoch die Version 2.6 seiner Bildgenerierung in ChatGPT veröffentlicht. Sie steht allen Nutzern von ChatGPT und dem Programmierwerkzeug Codex im Browser, auf dem Desktop und mobil zur Verfügung. Wichtigste Neuerung ist die direkte Erzeugung animierter GIFs aus einer Texteingabe oder einem Bild; Geschwindigkeit und einzelne Bilder der Animation lassen sich nachträglich bearbeiten. Hinzu kommen wiederverwendbare Referenzbilder: Einmal gespeicherte Personen, Haustiere oder Figuren bleiben verfügbar, ohne dass sie erneut hochgeladen werden müssen.",
+    "Für Entwickler bringt OpenAI zwei neue Modelle in die Programmierschnittstelle. GPT-Image-2.6 Flare ist auf Tempo ausgelegt und erzeugt Bilder nach Firmenangaben in teils nur sechs Sekunden. GPT-Image-2.6 Sunburst zielt auf Qualität und gleichbleibende Ergebnisse über mehrere Bearbeitungsschritte, unterstützt Markierungen im Bild und kann Vektorgrafiken im SVG-Format ausgeben, die sich verlustfrei skalieren lassen. Insgesamt soll die Bilderzeugung 50 Prozent schneller sein; für welche Anwendungen das genau gilt, ließ OpenAI offen. Preise für die beiden API-Modelle wurden nicht genannt.",
+    "Nach eigenen Angaben erzeugen Nutzer über ChatGPT und die Schnittstelle inzwischen mehr als vier Milliarden Bilder pro Woche, nach drei Milliarden im September. Die Funktion für wiederkehrende Personen dürfte auch die Debatte über Missbrauch neu beleben: Gerade im US-Wahlkampf hatten Forscher fast 300 KI-erzeugte oder KI-bearbeitete politische Werbespots mit Ausgaben von mehr als 187 Millionen Dollar gezählt, bei uneinheitlichen Kennzeichnungsregeln der Bundesstaaten."
+   ],
+   "quellen": [
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/openai-ships-chatgpt-images-26-with-gifs-and-faster-api-models"
+    ],
+    [
+     "The Neuron",
+     "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "aiweekly.co",
+    "theneuron.ai"
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Quartalszahlen",
+    "USA"
+   ],
+   "kicker": "Privatmärkte · Quartalszahlen",
+   "titel": "Hamilton Lane wächst mit Spezialfonds und Evergreen-Produkten",
+   "deck": "Der Privatmarkt-Spezialist steigert die Gebührengewinne um ein Drittel und hebt die Dividende an, beim Umsatz bleibt er unter den Erwartungen.",
+   "text": [
+    "Der amerikanische Privatmarkt-Investor Hamilton Lane hat am Dienstag Zahlen für das zweite Quartal seines Geschäftsjahres 2027 vorgelegt, das Ende September endete. Die Gruppe verwaltet und berät inzwischen Vermögen von rund 1,08 Billionen Dollar. Davon entfallen etwa 151 Milliarden Dollar auf selbst verwaltete Mittel und 929 Milliarden Dollar auf beratene Vermögen. Das gebührenpflichtige Vermögen stieg um 12 Prozent auf 86 Milliarden Dollar.",
+    "In den ersten sechs Monaten des Geschäftsjahres erhöhte sich der Umsatz um 31 Prozent auf 480 Millionen Dollar. Die Gebührengewinne (Fee Related Earnings), also das Ergebnis aus wiederkehrenden Verwaltungsgebühren, legten um 34 Prozent auf 215 Millionen Dollar zu, die entsprechende Marge kletterte auf 52 Prozent. Beim Gewinn je Aktie übertraf das Unternehmen die Schätzungen der Analysten, der Umsatz blieb dagegen hinter den Erwartungen zurück.",
+    "Wachstumstreiber sind die Spezialfonds, vor allem für Secondaries, also den Handel mit bestehenden Fondsanteilen, sowie für Venture Capital, Kredite und Impact-Investments. Sie machen mit 44 Milliarden Dollar inzwischen gut die Hälfte des gebührenpflichtigen Vermögens aus. Die Evergreen-Produkte, offene Fonds, die sich vor allem an vermögende Privatanleger richten, kommen auf knapp 21 Milliarden Dollar und verzeichneten im Quartal Nettozuflüsse von rund 800 Millionen Dollar.",
+    "Die Quartalsdividende steigt auf 0,60 Dollar je Aktie, aufs Jahr gerechnet 2,40 Dollar und damit 11 Prozent mehr. Zudem kündigte Hamilton Lane eine Partnerschaft mit dem Datenanbieter FactSet für eine gemeinsame Analyse-Lösung an. Das Management erwartet die Gebührenmarge langfristig im niedrigen 50-Prozent-Bereich, warnte aber vor Schwankungen von Quartal zu Quartal."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://www.investing.com/news/company-news/hamilton-lane-q2-fy27-slides-assets-hit-11t-fre-margin-expands-93CH-4996102"
+    ],
+    [
+     "Hamilton Lane (Investor Relations)",
+     "https://shareholders.hamiltonlane.com/2026-10-06-Hamilton-Lane-Incorporated-to-Announce-Second-Quarter-Fiscal-2027-Results-on-November-3,-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "investing.com",
+    "stockhouse.com",
+    "benzinga.com",
+    "gurufocus.com"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Family Offices",
+    "Schweiz",
+    "Asset Management"
+   ],
+   "kicker": "Schweiz · Asset Management",
+   "titel": "DWS macht die Schweiz zur Zentrale für ihr Family-Office-Geschäft",
+   "deck": "Mit dem Start der neuen Dachmarke „Deutsche Asset Management“ steuert der Schweiz-Chef der Fondsgesellschaft die Betreuung von Family Offices weltweit.",
+   "text": [
+    "Die Frankfurter Fondsgesellschaft DWS baut ihr Geschäft mit Family Offices von der Schweiz aus auf. Sven Württemberger, Chef der DWS Schweiz, übernimmt zusätzlich zu seiner Verantwortung für das institutionelle Geschäft in Europa außerhalb Deutschlands die weltweite Koordination dieses Kundensegments. Das sagte er in einem am Mittwoch veröffentlichten Interview mit finews.ch. Die Schweiz gilt als einer der wichtigsten Family-Office-Standorte Europas, die Erfahrungen dort sollen international übertragen werden.",
+    "Als Treiber nennt Württemberger den Generationenwechsel in vermögenden Familien und geopolitisch bedingte Verschiebungen der Kapitalströme. Viele Family Offices verstünden sich zunehmend als professionelle Vermögensverwalter, ihre Anforderungen glichen sich denen institutioneller Investoren an. Die DWS ordnet Family Offices deshalb dem institutionellen Vertrieb zu, gemeinsam mit Pensionskassen, Versicherungen, Stiftungen und Staatsfonds.",
+    "Der Schritt fällt mit dem Wechsel der Dachmarke zusammen: Seit Anfang November tritt die Gruppe schrittweise als „Deutsche Asset Management“ auf, bis März 2027 soll die Umstellung abgeschlossen sein. Die Produktmarken DWS, Xtrackers und RREEF bleiben mit dem Zusatz „by Deutsche Asset Management“ bestehen. Ergänzt wird das Angebot durch die angekündigte Übernahme des Zuger Immobilienverwalters Peakside Capital Advisors, der auf Value-Add-Strategien im deutschen Immobilienmarkt spezialisiert ist und Schweizer Pensionskassen und Family Offices zusätzliche Anlagemöglichkeiten bieten soll."
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/news/finanzplatz/74284-dws-deutsche-asset-management-schweiz-family-offices-sven-wuerttemberger"
+    ],
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/banken-finanzen/dws-tauft-sich-um-in-deutsche-asset-management"
+    ],
+    [
+     "Fundresearch",
+     "https://www.fundresearch.de/asset-manager/dws-wird-zu-deutsche-asset-management.php"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch",
+    "boersen-zeitung.de",
+    "fundresearch.de",
+    "dasinvestment.com",
+    "hubbis.com",
+    "wealthbriefing.com"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Family Offices",
+    "Studien",
+    "Asien"
+   ],
+   "kicker": "Studie · Family Offices",
+   "titel": "Gründer lassen nicht los: Asiens Family Offices verschleppen die Nachfolge",
+   "deck": "Laut einer Umfrage der Bank DBS hat mehr als die Hälfte der Familien keine klare Eigentümerstruktur, kaum ein Haus hat einen Notfallplan.",
+   "text": [
+    "Die Übergabe großer Familienvermögen an die nächste Generation stockt, weil viele Gründer die Kontrolle nicht abgeben wollen. Zu diesem Ergebnis kommt der „Asian Family Office Almanac 2026“ der singapurischen Bank DBS, der Ende Oktober erschienen ist. Ihm liegen zwei Umfragen unter mehr als 200 Family Offices in Asien, Europa und dem Nahen Osten zugrunde. 33 Prozent nennen die Zurückhaltung der Gründer als Grund für verzögerte Übertragungen, obwohl 79 Prozent wollen, dass ihr Vermögen mindestens zwei Generationen überdauert.",
+    "43 Prozent haben die Erben bisher nicht in die Planung einbezogen, nur ein Prozent überlässt ihnen die Führung. Lediglich 4 Prozent rechnen innerhalb von drei Jahren mit einer bedeutenden Übertragung, 29 Prozent erst in mehr als sieben Jahren, 15 Prozent erst nach einem Ereignis wie dem Tod des Gründers. 54 Prozent halten wesentliche Vermögenswerte auf persönlichen Namen, nur 20 Prozent nutzen professionell verwaltete Trusts, und 55 Prozent sind unsicher, welche Struktur sie künftig wählen sollen.",
+    "Auch beim Risikomanagement sieht DBS Lücken: Mehr als 85 Prozent haben keinen formalen Plan für die Fortführung der Geschäfte, 38 Prozent haben sich nicht um Cyberrisiken gekümmert. Bei Künstlicher Intelligenz ist das Interesse groß, 60 Prozent wollen den Umgang damit lernen, doch 47 Prozent setzen noch keine digitalen Analysewerkzeuge ein. Family Offices müssten über die unmittelbaren Pflichten hinausblicken und Schwächen bei der Nachfolge erkennen, mahnt Lee Woon Shiu, bei DBS für Vermögensplanung zuständig."
+   ],
+   "quellen": [
+    [
+     "Fintech News Singapore",
+     "https://fintechnews.sg/140152/wealthtech/family-wealth-succession-dbs"
+    ],
+    [
+     "Fund Selector Asia",
+     "https://fundselectorasia.com/asian-family-offices-struggle-with-succession-planning-dbs-report"
+    ]
+   ],
+   "berichterstattung": [
+    "fintechnews.sg",
+    "fundselectorasia.com"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögensverwalter",
+    "Schweiz",
+    "Übernahmen"
+   ],
+   "kicker": "Schweiz · Vermögensverwaltung",
+   "titel": "Tareno will in Zürich zukaufen",
+   "deck": "Der Basler Vermögensverwalter hat seit Jahresbeginn 600 Millionen Franken an Kundengeldern hinzugewonnen und sieht Akquisitionen als dritten Wachstumspfeiler.",
+   "text": [
+    "Der Basler Vermögensverwalter Tareno sucht nach Übernahmezielen im Raum Zürich. Akquisitionen seien neben organischem Wachstum und der Gewinnung neuer Kundenberater der dritte Pfeiler der Strategie, sagte Firmenchefin Sybille Wyss in einem am Mittwoch veröffentlichten Interview mit finews.ch. Ein Abschluss stehe derzeit allerdings nicht unmittelbar bevor. Die Konsolidierung unter den unabhängigen Schweizer Vermögensverwaltern hält damit an.",
+    "Die verwalteten Kundenvermögen stiegen seit Jahresbeginn von 3,3 auf 3,9 Milliarden Franken, zum größten Teil durch Neugeld. Als nächste Marken peilt das Haus 4 und dann 5 Milliarden Franken an. Tareno betreut vermögende Privatpersonen, Familien und Stiftungen ab einer Million Franken und zunehmend auch Pensionskassen. Vermögensverwaltung und Asset Management stehen im Verhältnis von etwa 80 zu 20, zum Jahresende soll ein Fonds mit einer taktischen Aktienstrategie hinzukommen.",
+    "Tareno verzichtet auf Retrozessionen, also Vertriebsprovisionen der Produktanbieter, und will daran festhalten. Kryptowerte machen 2 bis 3 Prozent der Allokation aus. Wyss führt das Haus seit 2020 und ist seit 2022 Teilhaberin, begonnen hatte sie 2004 als Assistentin im Sekretariat. Ihr Vorgänger bleibt als Kundenberater, Mehrheitseigentümer und Verwaltungsratspräsident an Bord. Die Kundenbeziehungen sollen bewusst auf mehrere Schultern verteilt werden, um die Nachfolge abzusichern."
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/news/finanzplatz/74316-interview-sybille-wyss-tareno-vermoegensverwalter-akquistionen-assets-under-management-tareno-fonds"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Wealth Management",
+    "USA",
+    "Private Equity"
+   ],
+   "kicker": "USA · Vermögensberatung",
+   "titel": "Ex-UBS-Team gründet eigene Vermögensberatung mit 3,6 Milliarden Dollar",
+   "deck": "Berater aus Fort Worth verlassen die Schweizer Großbank, der Minderheitsinvestor Elevation Point steigt ein.",
+   "text": [
+    "Die Abwanderung von Beraterteams aus den großen Häusern in die Unabhängigkeit geht in den USA weiter. Ein bisher bei UBS tätiges Team aus Fort Worth in Texas hat die Vermögensberatung Cleros Wealth Partners gegründet, die Kundengelder von 3,61 Milliarden Dollar betreut. Das berichtete das Fachportal WealthManagement.com am Mittwoch. Gründer sind Kyle Kight, Alex Armstrong und Jamie Packer, die bei UBS als Thompson, Kight, Armstrong & Packer firmierten; zum Team gehören elf Personen.",
+    "Zu den Kunden zählen vermögende Familien, Stiftungen und Endowments, viele mit Bezug zu Fort Worth und dem Tarrant County. Verwahrstelle ist Goldman Sachs Custody Solutions. Packer begründete den Schritt mit größerer Flexibilität: Als unabhängige Firma könne man auf die Bedürfnisse der Kunden eingehen, statt mit einer begrenzten, vorab ausgewählten Produktpalette zu arbeiten. Die Wurzeln der Praxis reichen 50 Jahre zurück, bis zu einem Berater, der in den 1970er-Jahren bei Merrill Lynch begann.",
+    "Eine Minderheitsbeteiligung übernimmt Elevation Point, das 2024 vom früheren Sanctuary-Wealth-Chef Jim Dickson gegründet wurde und sich auf abwandernde Beraterteams spezialisiert hat. Die Firma hat nach eigenen Angaben Geschäfte mit Beratern abgeschlossen, die zusammen 18 Milliarden Dollar verwalten, und zuletzt bereits ein weiteres früheres UBS-Team unterstützt. Dickson will binnen zwei Jahren 50 Milliarden Dollar erreichen und dafür weiteres Kapital einsammeln."
+   ],
+   "quellen": [
+    [
+     "WealthManagement.com",
+     "https://www.wealthmanagement.com/ria-news/ubs-advisors-launch-cleros-wealth-partners"
+    ]
+   ],
+   "berichterstattung": [
+    "wealthmanagement.com"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Spanien",
+    "Bahn"
+   ],
+   "kicker": "Köpfe · Politik",
+   "titel": "Óscar Puente: Der Verkehrsminister geht – und verlässt die Politik",
+   "deck": "Nach zwei schweren Zugunglücken in einem Jahr zieht der spanische Sozialist die Konsequenz, die er wenige Tage zuvor noch abgelehnt hatte.",
+   "text": [
+    "Óscar Puente, Verkehrsminister in der Regierung von Pedro Sánchez, hat am Dienstagabend seinen Rücktritt erklärt. Vor dem Ständigen Ausschuss des spanischen Parlaments sagte der Sozialist, ein Verkehrsminister könne nach zwei so schweren Unglücken in weniger als einem Jahr nicht im Amt bleiben. Der Schritt sei „gut für das Land und für die Demokratie“.",
+    "Damit vollzog Puente eine Kehrtwende. Noch am 30. Oktober hatte er erklärt, Verantwortung übernehme er, indem er weitermache, und noch am Dienstagmorgen hieß es aus Regierungskreisen, er bleibe. Nun sagte er, den Entschluss habe er schon kurz nach dem Zusammenstoß bei Urda am 28. Oktober mit 69 Toten gefasst, aber erst die Notfallmaßnahmen abschließen wollen. Im Januar waren bei Adamuz auf derselben Strecke Madrid–Sevilla 46 Menschen gestorben.",
+    "Puente zieht sich ganz aus der Politik zurück: Er verzichtet auf die Spitzenkandidatur der PSOE in Valladolid bei der Parlamentswahl am 29. November. Bis zuletzt verteidigte er das Sicherungssystem LZB, nannte die Entscheidungen der Fahrdienstleitung aber „unerklärlich“ und kündigte neue Sicherheitstechnik an.",
+    "Sánchez würdigte auf X, Puente sei aus Respekt vor den Opfern beiseitegetreten. Die Volkspartei PP begrüßte den Rücktritt, er komme aber „116 Tote zu spät“. Ein Nachfolger war zunächst nicht benannt."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
+    ],
+    [
+     "AP via ABC Australia",
+     "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438"
+    ],
+    [
+     "Latin Times",
+     "https://www.latintimes.com/spain-transport-minister-resigns-urda-train-crash-600905"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com",
+    "abc.net.au",
+    "apnews.com",
+    "latintimes.com",
+    "bbc.co.uk",
+    "eldiario.es",
+    "articulo14.es",
+    "diariodeavisos.elespanol.com",
+    "yahoo.com"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Kultur",
+    "Literatur"
+   ],
+   "kicker": "Köpfe · Kultur",
+   "titel": "Janosch: Der Vater der Tigerente ist tot",
+   "deck": "Der Autor und Illustrator ist im Alter von 95 Jahren auf Teneriffa gestorben.",
+   "text": [
+    "Janosch ist tot. Der Schriftsteller, Illustrator und Geschichtenerzähler starb im Alter von 95 Jahren auf Teneriffa, wie das ZDF am Mittwochabend in seiner Nachrichtensendung „heute“ um 19 Uhr meldete. Den genauen Todestag nannte der Sender zunächst nicht.",
+    "Bekannt wurde Janosch mit seinen Figuren, allen voran der gestreiften Tigerente, dem kleinen Bären und dem kleinen Tiger, die das ZDF in seinem Nachruf in den Mittelpunkt stellte.",
+    "Janosch arbeitete nicht nur als Erzähler, sondern auch als Maler. Ein Foto vom 25. September 2010, mit dem der Sender an ihn erinnerte, zeigt ihn vor seinem Bild „Der Tiger mit grüner Nase“ aus dem Jahr 2005."
+   ],
+   "quellen": [
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/video/heute-nachrichten/illustrator-janosch-verstorben-video-100.html"
+    ],
+    [
+     "ZDF heute, Sendung vom 4. November 2026",
+     "https://www.zdfheute.de/video/heute-nachrichten/heute-19-uhr-vom-04-november-2026-100.html"
+    ]
+   ],
+   "berichterstattung": [
+    "zdfheute.de"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Personalien",
+    "Schweiz",
+    "Privatbanken"
+   ],
+   "kicker": "Köpfe · Privatbank",
+   "titel": "Francesco Andreazzi: Der Bäckerssohn führt LGT im Tessin",
+   "deck": "Der frühere UBS- und Credit-Suisse-Banker leitet seit dem 1. November die Niederlassung der Liechtensteiner Fürstenbank in Lugano.",
+   "text": [
+    "Francesco Andreazzi hat am 1. November die Leitung der LGT Bank in Lugano und der Region Tessin übernommen. In einem Interview mit finews.ch erzählte er, seine ersten Lektionen im Umgang mit Kunden habe er in der Bäckerei seines Vaters im Bleniotal gelernt. „Mein Herz ist immer im Tessin geblieben“, sagt der Tessiner, der seine Bankkarriere 2004 in Lugano begann.",
+    "Mehr als zehn Jahre führte er Kundenteams im Tessin, zunächst bei der UBS, dann bei der Credit Suisse als Leiter der Vermögensverwaltung für das Südtessin. Zuletzt arbeitete er für die UBS in Zürich an der Integration des Schweizer Vermögensverwaltungsgeschäfts der Credit Suisse. Bei LGT will er die Bekanntheit der Bank im Kanton steigern und vor allem Unternehmer und Familien gewinnen. Die Eigentümerschaft der Liechtensteiner Fürstenfamilie ermögliche ein Denken in Generationen. Unternehmern rät er, Banken bei Nachfolge- und Verkaufsfragen früh einzubinden: „Ein guter Banker im Tessin muss sowohl die Täler als auch den Finanzplatz verstehen.“"
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/news/banken/74260-lgt-francesco-andreazzi-lugano-tessin-private-banking-kundenberatung-unternehmerfamilien"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Personalien",
+    "Schweiz",
+    "Immobilien"
+   ],
+   "kicker": "Köpfe · Privatmärkte",
+   "titel": "Alexander Lukesch: Von London nach Genf zu Pictet",
+   "deck": "Der Immobilienspezialist übernimmt bei Pictet Alternative Advisors das Multi-Manager-Geschäft mit Immobilien.",
+   "text": [
+    "Alexander Lukesch wechselt zu Pictet Alternative Advisors, der Sparte für alternative Anlagen der Genfer Pictet-Gruppe. Dort leitet er künftig das Multi-Manager-Geschäft mit Immobilien, also Investments über Fonds und Partnerschaften mit anderen Verwaltern. Das meldete finews.ch am Mittwoch. Lukesch arbeitet von Genf aus und berichtet an Zsolt Kohalmi, stellvertretender Chef von Pictet Alternative Advisors und weltweit für Immobilien zuständig, der den Neuzugang „eine ausgezeichnete Ergänzung für unser Team“ nannte.",
+    "Lukesch bringt mehr als 20 Jahre Erfahrung mit Immobilieninvestments mit, unter anderem mit Secondaries, Partner-Buyouts, strukturiertem Eigenkapital und Rekapitalisierungen. Zuletzt war er bei Madison International Realty in London Managing Director, Leiter des Europageschäfts und stellvertretender Chief Investment Officer. Seit 2012 war er an Transaktionen von zusammen mehr als 1,7 Milliarden Dollar beteiligt. Sein Vorgänger Laurent Gabert übernimmt die neu geschaffene Rolle des Leiters Investor Relations für Multi-Alternatives."
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/news/finanzplatz/74321-pictet-alternative-advisorsalexander-lukesch-multi-manager-real-estate"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Personalien",
+    "Schweiz",
+    "Karriere"
+   ],
+   "kicker": "Köpfe · Unternehmerin",
+   "titel": "Daniela Haze Stöckli: „Warte nicht, bis du dich bereit fühlst“",
+   "deck": "Die frühere Credit-Suisse-Bankerin berät heute Spitzenmanager und hat drei eigene Firmen aufgebaut.",
+   "text": [
+    "Daniela Haze Stöckli ist stolz darauf, drei eigene Unternehmen gegründet zu haben. Das erzählte die Mitinhaberin der Zürcher Beratungsfirma Beyond Success, die Führungskräfte bei Karriere, Führungsentwicklung und Nachfolgeplanung begleitet, in der Interviewreihe „Backstage“ von finews.ch. Die promovierte Bankfachfrau arbeitete zuvor bei Accenture und der Credit Suisse und gehörte von 2018 bis 2021 der Geschäftsleitung des Schweizerischen Versicherungsverbands an.",
+    "Am meisten überrasche sie, wie offen Konzernchefs im Sparring seien, bis hin zur Frage, wer sie ohne ihren Titel seien. Mit dem Format Connect2Empower bringt sie zudem Führungskräfte mit und ohne Managementfunktion zusammen. Ihrem jüngeren Ich würde sie raten: „Warte nicht, bis du dich bereit fühlst.“ Privat setzt sie auf Reiten zum Abschalten und hat das Weintrinken aufgegeben. Ihre beste Geldanlage seien Immobilienkäufe gewesen, persönlich aber ihre Familie."
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/themen/high-end/74298-daniela-haze-stoeckli-ich-bin-stolz-dass-ich-drei-eigene-unternehmen-gegruendet-habe"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "Königsplatz · Open Air 2027",
+   "titel": "Anyma bringt „ÆDEN“ auf den Königsplatz: Allgemeiner Verkauf startet heute um 17 Uhr",
+   "deck": "Der italienisch-amerikanische Elektro-Star zeigt seine Bühnenshow im Juni 2027 erstmals in Deutschland; reguläre Karten kosten ab 50 Euro.",
+   "text": [
+    "Der Königsplatz bekommt für den Sommer 2027 einen Abend für die elektronische Musik: Anyma, hinter dem sich der italienisch-amerikanische DJ und Produzent Matteo Milleri verbirgt, gastiert am Samstag, 19. Juni 2027, mit „Anyma presents ÆDEN“ unter freiem Himmel. Nach Angaben des Fachmagazins DJ Mag ist es die Deutschlandpremiere der Show; präsentiert wird der Abend von Alyve. Die Abendzeitung zählt das Konzert zu den kommerziellen Veranstaltungen, die im kommenden Sommer auf dem Platz stattfinden.",
+    "Der Kartenverkauf läuft in zwei Stufen. Seit dem 28. Oktober um 17 Uhr konnten sich Fans über die offizielle Tourseite anyma.com/tour registrieren; die Registrierten hatten am Mittwoch, 4. November, ab 17 Uhr Zugang zu einem exklusiven Presale. Der allgemeine Verkauf beginnt an diesem Donnerstag, 5. November, ebenfalls um 17 Uhr.",
+    "Reguläre Tickets gibt es nach Angaben beider Quellen ab 50 Euro, VIP-Karten ab 105 Euro, jeweils zuzüglich Vorverkaufsgebühren. Welcher Ticketanbieter den Verkauf abwickelt, nennen weder die Abendzeitung noch DJ Mag; beide verweisen auf die offizielle Tourseite des Künstlers. Wer kaufen will, sollte daher den Link dort nutzen und nicht auf Angebote von Zweitmärkten ausweichen.",
+    "Anyma gehört zu den gefragtesten Namen der Elektroszene; die Abendzeitung überschrieb ihre Ankündigung mit „Erst Las Vegas, dann München“. Angaben zur Kapazität des Open Airs gibt es bislang nicht."
+   ],
+   "karten": {
+    "vorverkauf": "Presale (nach Registrierung) Mi, 4.11.2026, 17 Uhr · allgemein Do, 5.11.2026, 17 Uhr",
+    "termin": "Sa, 19.6.2027",
+    "ort": "Königsplatz",
+    "preise": "ab 50 €, VIP ab 105 € (zzgl. VVK-Gebühren)",
+    "stelle": "über die offizielle Tourseite anyma.com/tour",
+    "link": "https://www.djmag.de/einzelnews/anyma-muenchen-koenigsplatz-aeden-2027"
+   },
+   "quellen": [
+    [
+     "Abendzeitung München",
+     "https://www.abendzeitung-muenchen.de/kultur/musik/erst-las-vegas-dann-muenchen-elektro-star-kuendigt-konzert-auf-dem-koenigsplatz-an-art-1169066"
+    ],
+    [
+     "DJ Mag",
+     "https://www.djmag.de/einzelnews/anyma-muenchen-koenigsplatz-aeden-2027"
+    ]
+   ],
+   "berichterstattung": [
+    "abendzeitung-muenchen.de",
+    "djmag.de"
+   ]
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "Olympiahalle · Vorverkauf",
+   "titel": "Till Lindemann kommt 2027 in die Olympiahalle: Freier Vorverkauf ab 11. November",
+   "deck": "Nach dem exklusiven Presale bei Myticket nennt der Olympiapark den kommenden Mittwoch, 16 Uhr, als Start des allgemeinen Verkaufs.",
+   "text": [
+    "Der Rammstein-Sänger Till Lindemann geht 2027 mit seinem Soloprojekt auf Welttournee und macht am Montag, 15. November 2027, in der Münchner Olympiahalle Station. Einlass ist nach Angaben des Musikmagazins Pressure um 18.30 Uhr, Beginn um 20 Uhr. In Deutschland, Österreich und der Schweiz umfasst die „World Tour 2027“ zwölf Konzerte zwischen dem 12. Oktober und dem 7. Dezember 2027; das nächstgelegene Konzert davor findet am 13. November in Nürnberg statt, danach folgt am 17. November die Wiener Stadthalle.",
+    "Wer schnell sein wollte, hatte bereits Gelegenheit: Seit dem 28. Oktober um 16 Uhr läuft ein exklusiver Presale beim Anbieter Myticket für alle zwölf Termine im deutschsprachigen Raum. Für die Olympiahalle nennt der Olympiapark laut Pressure Mittwoch, 11. November 2026, 16 Uhr, als Start des allgemeinen Vorverkaufs. Welche weiteren Verkaufsstellen dann hinzukommen, ist nicht bekannt.",
+    "Preise sind in den Quellen nicht genannt. Wichtig für die Planung: Die Konzerte sind nach Angaben der österreichischen Nachrichtenseite News.at erst ab 18 Jahren zugänglich. Die gesamte Tour umfasst demnach mehr als 50 Shows, davon 33 in 22 europäischen Ländern; im Frühjahr 2027 spielt Lindemann zunächst auf anderen Kontinenten.",
+    "Vorgruppen sind noch nicht angekündigt. Lindemanns jüngstes Album „Zunge“ war im November 2023 erschienen und wurde später als „Zunge 2025“ mit Bonustiteln neu aufgelegt."
+   ],
+   "karten": {
+    "vorverkauf": "Presale Myticket seit 28.10.2026, 16 Uhr · allgemein Mi, 11.11.2026, 16 Uhr (laut Olympiapark)",
+    "termin": "Mo, 15.11.2027, 20 Uhr (Einlass 18.30 Uhr)",
+    "ort": "Olympiahalle",
+    "stelle": "Myticket (Presale)",
+    "link": "https://www.pressure-magazine.de/news/till-lindemann-tour-2027-termine-tickets-280649/"
+   },
+   "quellen": [
+    [
+     "Pressure Magazine",
+     "https://www.pressure-magazine.de/news/till-lindemann-tour-2027-termine-tickets-280649/"
+    ],
+    [
+     "News.at",
+     "https://www.news.at/news/till-lindemann-kundigt-neue-welttournee-an"
+    ]
+   ],
+   "berichterstattung": [
+    "pressure-magazine.de",
+    "news.at",
+    "tips.at",
+    "ms-aktuell.de",
+    "bluewin.ch",
+    "sortiraparis.com",
+    "metalinjection.net"
+   ]
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Tollwood",
+    "Vorverkauf"
+   ],
+   "kicker": "Tollwood · Winterfestival 2026",
+   "titel": "Tollwood-Winter: Habeck-Abend ausverkauft, Zirkus im Grand Chapiteau ab 38 Euro",
+   "deck": "Vom 24. November an ist die Theresienwiese wieder Festivalgelände; der Eintritt ist frei, für Shows und Gesprächsabende braucht man Karten.",
+   "text": [
+    "In knapp drei Wochen öffnet das Tollwood-Winterfestival: Vom 24. November bis 23. Dezember 2026 bespielt es die Theresienwiese mit 416 Veranstaltungen, rund 90 Prozent davon bei freiem Eintritt. Auch das Festivalgelände selbst ist frei zugänglich. Karten braucht man vor allem für die drei Produktionen im Grand Chapiteau, die unter dem Motto „Made to move YOU“ stehen.",
+    "Den Auftakt macht die australische Truppe Gravity & Other Myths mit „Ten Thousand Hours“ vom 25. bis 29. November, es folgen „Triptych“ von Lewis Major Projects (2. bis 9. Dezember) und „Mad in Finland“ des Galapiat Cirque (12. bis 20. Dezember). Karten kosten ab 38 Euro, ermäßigt 28 Euro, für Kinder ab 18,50 Euro; Social Tickets gibt es für 19 Euro. Wer alle drei Shows sehen will, spart mit dem Trilogieticket 25 Prozent und bekommt pro Vorstellung einen Aperitif. Verkauft wird über die Tollwood-Tickethotline 089 38 38 50 0 und München Ticket; jede Karte gilt am Veranstaltungstag als MVV-Ticket für Hin- und Rückfahrt.",
+    "Schon jetzt vergriffen ist einer der vier Gesprächsabende der Reihe „All in fürs Klima“: Der Auftritt von Robert Habeck am 21. Dezember ist ausverkauft. Für Luisa Neubauer (30. November), „Planet Meer – Terra X live“ mit Uli Kunz (7. Dezember) sowie Sven Plöger und Uta Eser (14. Dezember) kosten Karten 15 Euro, ermäßigt 10 Euro. Die Abende beginnen montags um 20 Uhr und werden auf Bayern 2 übertragen.",
+    "Unklar ist, ob es in diesem Winter wieder eine Silvesterfeier gibt: Die Veranstaltungsseite von muenchen.de nennt Karten für den Tanz mit Live-Bands und DJs zu 38,50 Euro, ermäßigt 33 Euro, die Fragen-und-Antworten-Seite des Festivals schreibt dagegen, diesmal finde keine statt. Wer plant, sollte vor dem Kauf bei Tollwood nachfragen."
+   ],
+   "karten": {
+    "vorverkauf": "Verkauf läuft",
+    "termin": "24.11.–23.12.2026; Shows im Grand Chapiteau 25.11.–20.12.",
+    "ort": "Theresienwiese, Tollwood-Winterfestival",
+    "preise": "Shows ab 38 € (erm. 28 €, Kinder ab 18,50 €, Social Ticket 19 €); Gesprächsabende 15 € (erm. 10 €); Habeck am 21.12. ausverkauft",
+    "stelle": "Tollwood-Tickethotline 089 38 38 50 0, München Ticket",
+    "link": "https://aktuell.ganz-muenchen.de/artistik-tanz-und-klimapoker-tollwood-winterfestival-2026-bewegt-muenchen/15975/"
+   },
+   "quellen": [
+    [
+     "Ganz München",
+     "https://aktuell.ganz-muenchen.de/artistik-tanz-und-klimapoker-tollwood-winterfestival-2026-bewegt-muenchen/15975/"
+    ],
+    [
+     "IN München",
+     "https://www.in-muenchen.de/locations/tollwood-winter.html"
+    ]
+   ],
+   "berichterstattung": [
+    "ganz-muenchen.de",
+    "in-muenchen.de",
+    "muc-blog.com",
+    "muenchen.travel"
+   ]
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte"
+   ],
+   "kicker": "Konzerte · Olympiahalle und Zenith",
+   "titel": "Bob Dylan nur ohne Handy, Papa Roach ausverkauft: Münchens dichte Konzerttage",
+   "deck": "Bis Mitte November jagt in Olympiahalle und Zenith ein großer Abend den nächsten; für einige gibt es keine regulären Karten mehr.",
+   "text": [
+    "Münchens große Hallen stehen vor vollen Wochen. Laut der Konzertübersicht des Portals Festivalisten spielen am Sonntag, 8. November, Amon Amarth im Zenith, am Dienstag, 10. November, Nico Santos in der Olympiahalle und am Mittwoch, 11. November, Good Charlotte im Zenith. Am Freitag, 13. November, kommt es zum Doppel: Papa Roach in der Olympiahalle und die Rapperin Ikkimel im Zenith, beide Abende sind als ausverkauft markiert.",
+    "Besonders gefragt ist der Sonntag, 15. November: Bob Dylan tritt um 20 Uhr in der Olympiahalle auf. Wer hingeht, muss sich auf ein handyfreies Konzert einstellen. Nach Angaben des Stadtmagazins IN München werden die Telefone am Einlass von Mitarbeitern der Firma Yondr in Taschen verschlossen, die man den ganzen Abend bei sich behält; Kameras und Smartphones sind nicht erlaubt. Für Notfälle gibt es markierte Bereiche in der Eingangshalle, in denen sich das Telefon entsperren lässt. Ausgenommen sind nur Menschen, die für eine medizinische Behandlung auf ihr Handy angewiesen sind. Bars und Merchandising-Stände arbeiten womöglich bargeldlos.",
+    "Karten für Dylan verkaufen München Ticket und Eventim; daneben gibt es VIP- und Upgrade-Pakete mit Parkplatz nahe der Halle, Essen und Getränken ab anderthalb Stunden vor Beginn sowie separatem Eingang und eigener Garderobe. Preise und Restkontingente nennt das Magazin nicht. Am selben Tag findet in der Allianz Arena das NFL-Spiel statt, entsprechend voll dürfte es im Nahverkehr werden.",
+    "Tags darauf, am Montag, 16. November, spielen Tokio Hotel in der Olympiahalle, wo die Band ihre Arena-Tour fortsetzt."
+   ],
+   "karten": {
+    "vorverkauf": "Verkauf läuft (Bob Dylan); Papa Roach und Ikkimel ausverkauft",
+    "termin": "Bob Dylan: So, 15.11.2026, 20 Uhr",
+    "ort": "Olympiahalle",
+    "preise": "Preise nennt die Quelle nicht",
+    "stelle": "München Ticket, Eventim",
+    "link": "https://www.in-muenchen.de/events/bob-dylan.html"
+   },
+   "quellen": [
+    [
+     "IN München",
+     "https://www.in-muenchen.de/events/bob-dylan.html"
+    ],
+    [
+     "Festivalisten",
+     "https://festivalisten.de/tourdaten/muenchen/"
+    ]
+   ],
+   "berichterstattung": [
+    "in-muenchen.de",
+    "festivalisten.de"
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "NFL",
+    "Sport"
+   ],
+   "kicker": "NFL · Munich Game",
+   "titel": "Patriots gegen Lions: Ausverkauft, U6 unterbrochen – was Fans zum Spieltag wissen müssen",
+   "deck": "Am 15. November steigt in der Allianz Arena das dritte Munich Game; reguläre Karten gibt es nicht mehr, vor überteuertem Weiterverkauf wird gewarnt.",
+   "text": [
+    "In zehn Tagen ist die Allianz Arena wieder Football-Stadion: Am Sonntag, 15. November 2026, empfangen die Detroit Lions als nominelles Heimteam die New England Patriots, Kickoff ist um 15.30 Uhr. Es ist das Spiel der zehnten Woche der NFL-Saison und nach Angaben von DAZN das dritte Munich Game. Das Spiel ist ausverkauft. Der Verkauf hatte am 10. Juli begonnen, die Preise lagen laut dem städtischen Portal muenchen.de zwischen 83,59 und 413,75 Euro inklusive Gebühren.",
+    "Reguläre Karten gibt es derzeit keine. Die Stadt verweist für Ticket-Neuigkeiten und autorisierte Reisepartner auf nfl.com/Munich und rät von privatem Weiterverkauf zu überhöhten Preisen ab. Die Liga storniert zudem Käufe, die gegen ihre Regeln verstoßen, etwa über Zweitkonten.",
+    "Für die Anreise empfiehlt muenchen.de die U6 bis Fröttmaning, von dort sind es rund zehn Minuten zu Fuß über die Esplanade. Wer aus dem Süden kommt, muss umplanen: Am Spieltag ist die U6 zwischen Implerstraße und Goetheplatz unterbrochen, es fahren ein Pendelzug und Ersatzbusse; ab Marienplatz erreicht man Fröttmaning ohne Umstieg. Mit dem Auto stehen die Parkhäuser P2 (ab 10 Uhr) und P3 (ab 9 Uhr) für 20 Euro bereit, P1 und P0 nur mit Sondergenehmigung. Für Motorräder, Fahrzeuge über zwei Meter Höhe sowie Wohnmobile gibt es keine Plätze.",
+    "Im Stadion singt laut DAZN LaBrassBanda die deutsche Hymne, Drew Baldridge die amerikanische, in der Halbzeit spielen Cage The Elephant. Übertragen wird das Spiel bei RTL, Sky und im NFL Game Pass."
+   ],
+   "karten": {
+    "vorverkauf": "ausverkauft",
+    "termin": "So, 15.11.2026, 15.30 Uhr",
+    "ort": "Allianz Arena",
+    "preise": "83,59 bis 413,75 € inkl. Gebühren; ausverkauft",
+    "stelle": "NFL (nfl.com/Munich)",
+    "link": "https://www.muenchen.de/veranstaltungen/sport/nfl-muenchen-2026"
+   },
+   "quellen": [
+    [
+     "muenchen.de",
+     "https://www.muenchen.de/veranstaltungen/sport/nfl-muenchen-2026"
+    ],
+    [
+     "DAZN",
+     "https://www.dazn.com/de-DE/news/american-football/nfl-muenchen-2026-programm-spiel/10ho5t8jtoc111nkx5uhosoqj"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de",
+    "dazn.com",
+    "muenchen.travel",
+    "footballerei.de",
+    "amfoo.de",
+    "insiderhuddle.com",
+    "nfl.com"
+   ]
+  }
+ ],
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Razzia im Versorgungskammer-Skandal: Ermittler durchsuchen Deutsche Finance in München",
+   "satz": "Mehr als 50 Beamte durchsuchten die Zentrale an der Hansastraße; die Versorgungskammer rechnet mit Verlusten von bis zu 853 Millionen Euro.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/bayern/grosse-razzia-im-versorgungskammer-skandal-in-zentrale-von-muenchner-finanzhaus-art-1170818"
+  },
+  {
+   "titel": "Goldketten-Diebe beim Don-Toliver-Konzert in der Olympiahalle",
+   "satz": "Zwei Konzertbesuchern wurden im Gedränge Goldketten entrissen, ein 26-Jähriger wurde dabei leicht am Hals verletzt.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/goldraub-waehrend-konzert-in-der-muenchner-olympiahalle-art-1170768"
+  },
+  {
+   "titel": "Sparkurs: Stadt stoppt Gewerbehof in Freiham, CSU warnt vor Schaden für Kleinbetriebe",
+   "satz": "Nur der Gewerbehof am Ostbahnhof soll weiterverfolgt werden; die CSU fürchtet Einbußen bei der Gewerbesteuer.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/saegen-den-ast-auf-dem-wir-sitzen-csu-fraktionschef-schockiert-ueber-sparplaene-art-1170594"
+  },
+  {
+   "titel": "Autonomer MVG-Bus auf der Linie 178: Münchner können sich für Testfahrten anmelden",
+   "satz": "Der Bus pendelt zwischen Kieferngarten und Petuelring, noch mit Fahrer an Bord; rund 2.000 Interessierte haben sich bereits registriert.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/muenchner-koennen-testfahrt-machen-autonomer-bus-der-mvg-startet-art-1170569"
+  },
+  {
+   "titel": "Christbaum am Marienplatz steht, Christkindlmarkt öffnet am 20. November",
+   "satz": "Die Berufsfeuerwehr stellte den Baum aus Sauerlach auf; Oberbürgermeister Dominik Krause eröffnet den Markt, der bis 24. Dezember, 14 Uhr, dauert.",
+   "quelle": "muenchen.de",
+   "url": "https://stadt.muenchen.de/dam/Home/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/presse/pm/PR-Meldungen-ChM/01_Auf-Abbau_Christkindlmarkt_2026.pdf"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-05T10:00",
+   "veranstaltung": "Xavier Naidoo",
+   "termin": "23.2.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/xavier-naidoo-geht-2027-auf-arena-tour",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-05T10:00",
+   "veranstaltung": "Let's Dance – Die Live-Tour 2027",
+   "termin": "6./7.11.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/lets-dance-die-live-tour-kommt-2027-zurueck",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-05T12:00",
+   "veranstaltung": "Meshuggah",
+   "termin": "16.10.2027",
+   "ort": "Zenith",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/meshuggah-kuendigen-jubilaeumstour-the-forty-year-anomaly-fuer-2027-an",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-05T17:00",
+   "veranstaltung": "Anyma presents ÆDEN",
+   "termin": "19.6.2027",
+   "ort": "Königsplatz",
+   "stelle": "über anyma.com/tour",
+   "url": "https://www.djmag.de/einzelnews/anyma-muenchen-koenigsplatz-aeden-2027",
+   "hinweis": "Verkaufsstart (Presale lief am 4.11., 17 Uhr)"
+  },
+  {
+   "start": "2026-11-06T09:00",
+   "veranstaltung": "The Teskey Brothers",
+   "termin": "27.9.2027",
+   "ort": "Circus-Krone-Bau",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/the-teskey-brothers-kommen-2027-mit-neuer-musik-zurueck-vier-deutschland-shows-im-september-bestaetigt",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Queens of the Stone Age",
+   "termin": "Juni 2027 (20.6. oder 28.6.)",
+   "ort": "Tollwood-Sommerfestival",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/queens-of-the-stone-age-kommen-2027-mit-ihrer-perfecth-world-tour-nach-deutschland",
+   "hinweis": "Verkaufsstart; Datum in der Quelle widersprüchlich"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Der W (Stephan Weidner)",
+   "termin": "30.9.2027",
+   "ort": "Kesselhaus",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/der-w-kuendigt-15-deutschland-konzerte-fuer-herbst-2027-an",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-11T16:00",
+   "veranstaltung": "Till Lindemann – World Tour 2027",
+   "termin": "15.11.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Olympiapark (Angabe laut Pressure); Presale bei Myticket seit 28.10.",
+   "url": "https://www.pressure-magazine.de/news/till-lindemann-tour-2027-termine-tickets-280649/",
+   "hinweis": "Verkaufsstart (allgemeiner Vorverkauf)"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Le Méridien: Weihnachtsmenü im IRMI und privater Weihnachtsmarkt",
+   "anbieter": "Le Méridien München",
+   "angebot": "Bayerisches Weihnachtsmenü im Restaurant IRMI vom 16. November bis 25. Dezember; dazu ein privater Weihnachtsmarkt im Innenhof mit zwei Hütten für Weihnachtsfeiern von 20 bis 150 Gästen. Weihnachtsbrunch am 25. und 26.12.",
+   "wann": "16.11.–25.12.2026",
+   "buchen_bis": "2026-12-25",
+   "hinweis": "Keine Preise und kein Frühbucherrabatt auf der Seite; Reservierung über die IRMI-Website bzw. OpenTable, Gruppenmarkt per PDF/Telefon anfragen.",
+   "frueh": true,
+   "url": "https://www.marriott.com/de/hotels/mucmd-le-meridien-munich/experiences/holidays/"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Leonardo Royal: „Hüttenzauber“ für Weihnachtsfeiern",
+   "anbieter": "Leonardo Royal Hotel Munich",
+   "angebot": "Exklusiv gemietete Almhütte im Hotelgarten (bis 180 Gäste) mit Hüttenmenü, dreistündigem Getränkepaket und Eisstockbahn samt Ausrüstung für 109 € pro Person.",
+   "wann": "November 2026 bis Januar 2027",
+   "hinweis": "Buchungsbasis 80 Personen; kleinere Gruppen nur an ausgewählten Terminen auf Anfrage. Kein Frühbucherrabatt genannt.",
+   "frueh": true,
+   "url": "https://static.leonardo-hotels.com/image/2f0b06a4281f782249d1283aa5fa3f45_Leonardo%20Royal%20Munich_H%C3%BCttenzauber%202026_RGB_14_8%20x%2014_8.pdf"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Seehaus: Weihnachtsente zum Abholen vorbestellen",
+   "anbieter": "Seehaus im Englischen Garten",
+   "angebot": "Ganze Ente für 59 €, Abholung am 25., 26. oder 27. Dezember 2026 zwischen 9 und 11 Uhr.",
+   "wann": "Abholung 25.–27.12.2026",
+   "buchen_bis": "2026-12-19",
+   "hinweis": "Bestellung per E-Mail bis 19.12., 20 Uhr; höchstens 30 Bestellungen pro Tag. Angaben laut IN München (Stand 27.10.); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/gastro/weihnachten-silvester-gans-fuer-zuhause-liefern-abholen.html"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Käfer: Festtagsessen ab 10. November bestellbar",
+   "anbieter": "Feinkost Käfer (Stammhaus)",
+   "angebot": "Weihnachts- und Silvesteressen zum Abholen oder Liefern am 23., 24. und 31. Dezember; der Online-Einkaufszettel öffnet am 10. November. Preise 2026 noch offen (2025: ganze Hafermast-Gans mit Beilagen 264 €).",
+   "wann": "Bestellung 10.11.–19.12.2026",
+   "buchen_bis": "2026-12-19",
+   "hinweis": "Angaben laut IN München (Stand 27.10.); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/gastro/weihnachten-silvester-gans-fuer-zuhause-liefern-abholen.html"
+  },
+  {
+   "kategorie": "Kino",
+   "titel": "Mathäser: Sneak und Late Night",
+   "anbieter": "Mathäser Filmpalast",
+   "angebot": "Di Sneak 5,99 €, Late Night So–Do ab 21.30 Uhr 6,99 €",
+   "wann": "dauerhaft",
+   "frueh": false,
+   "url": "https://www.mathaeser.de/mm/preise",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Lenbachhaus „extra+“: heute Abend gratis",
+   "anbieter": "Lenbachhaus",
+   "angebot": "Heute, am ersten Donnerstag im Monat, freier Eintritt von 18 bis 22 Uhr. Der Kunstbau bleibt 2026 geschlossen.",
+   "wann": "heute, Do, 5.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-05",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Villa Stuck „Friday Late“ morgen",
+   "anbieter": "Museum Villa Stuck",
+   "angebot": "Am ersten Freitag im Monat sind Eintritt und Abendprogramm von 18 bis 22 Uhr kostenlos, diesmal morgen, am 6. November.",
+   "wann": "Fr, 6.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-06",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "1-Euro-Sonntag",
+   "anbieter": "Staatliche Museen, u. a. Pinakotheken",
+   "angebot": "1 € Eintritt in staatlichen Museen, unter 18 frei; nächster Termin 8. November",
+   "wann": "jeden Sonntag",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Haus der Kunst „Open Haus“",
+   "anbieter": "Haus der Kunst",
+   "angebot": "Am letzten Freitag im Monat freier Eintritt von 16 bis 22 Uhr, im November am 27.",
+   "wann": "Fr, 27.11.2026, 16–22 Uhr",
+   "buchen_bis": "2026-11-27",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Lodenfrey: Habsburg-Pop-up und Canada-Goose-Tage",
+   "anbieter": "Lodenfrey",
+   "angebot": "Habsburg-Pop-up im 3. Stock vom 9. bis 29.11., am 20. und 21.11. Geschenk ab 1.000 € Einkauf. Canada Goose: kostenlose personalisierte Gepäckanhänger vom 17.11. bis 5.12. (Do–Sa, 16–19 Uhr). Luisa-Cerano-Event am 14.11. ab 10 Uhr.",
+   "wann": "9.11.–5.12.2026",
+   "buchen_bis": "2026-12-05",
+   "hinweis": "10 % auf die erste Online-Bestellung bei Newsletter-Anmeldung. Seit dem 3.11. nicht erneut geprüft, am 5.11. nicht abrufbar.",
+   "frueh": false,
+   "url": "https://www.lodenfrey.com/Events/"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Teens-Club-Preis",
+   "anbieter": "FC Bayern München",
+   "angebot": "Teens-Club-Mitglieder ab 15 € pro Heimspiel",
+   "frueh": true,
+   "url": "https://fcbayern.com/de/fans/teens-club/teens-club-tickets/fcbb-tickets/ticketangebot-fc-bayern-basketball",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Weihnachtsfeiern in der Surfhalle",
+   "anbieter": "o2 Surftown MUC (Hallbergmoos)",
+   "angebot": "Weihnachtsfeiern für Firmen und Gruppen: festliches Menü, Eisstockschießen oder Christbaumkugeln bemalen jeweils ab 69 €, Team Challenges & Casino Night ab 99 €, Winterhütten ab 1.500 €, Surf-Show 2.500 €; Shuttle ab München oder Flughafen.",
+   "wann": "Weihnachtssaison, auf Anfrage",
+   "hinweis": "Die Preisliste nennt kein Jahr und keine Termine; Anfrage per Mail an events@surftown.de, Konditionen vorab bestätigen lassen. Am 5.11. nicht erneut abrufbar.",
+   "frueh": true,
+   "url": "https://surftown.de/media/site/88d5a08377-1759239717/weihnachts-send-out-1.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Pakete",
+   "anbieter": "o2 Surftown MUC",
+   "angebot": "Mit Paketen bis zu 20 % günstiger, rund 8 Wochen vorher buchen",
+   "frueh": true,
+   "url": "https://surftown.de/en/presale",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Tollwood Winterfestival: Shows im Grand Chapiteau",
+   "anbieter": "Tollwood",
+   "angebot": "Gelände und über 90 Prozent der Kulturveranstaltungen auf der Theresienwiese sind frei; kostenpflichtig mit nummerierten Plätzen sind die Zeltshows „Ten Thousand Hours“ (25.–29.11.), „Triptych“ (2.–9.12.) und „Mad in Finland“ (12.–20.12., nicht am 14.12.). Das Ticket gilt am Veranstaltungstag als MVV-Fahrkarte.",
+   "wann": "Festival 24.11.–23.12.2026",
+   "buchen_bis": "2026-11-25",
+   "hinweis": "Preise nicht gefunden; offizielle Verkaufsstellen sind Tollwood-Hotline, München Ticket und Eventim (Tollwood warnt vor Zweitmärkten). Die Silvesterparty am 31.12. nennt muenchen.de, die Tollwood-FAQ dagegen schreibt, es gebe diesen Winter keine – vor dem Kauf klären. Kein Frühbucherrabatt bekannt.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/tollwood-winterfestival-2026"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Thea Kulturklub",
+   "anbieter": "Thea Kulturklub",
+   "angebot": "Bis zu 20 % auf Theater, Konzert und Musical",
+   "frueh": true,
+   "url": "https://www.thea.info/november",
+   "regelmaessig": true
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "Negah Amiri: „Schön laut“ im Schlachthof – nur noch heute",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 11.11.",
+   "bis": "2026-11-05",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/negah-amiri-schoen-laut-11-november-schlachthof.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Nico Santos in der Olympiahalle – nur noch heute",
+   "anbieter": "Hallo München",
+   "gewinn": "2 × 2 Karten für Di, 10.11., 19.30 Uhr",
+   "bis": "2026-11-05",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Santos“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss heute, 12 Uhr.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/nico-santos-kommt-mit-seiner-pov-arena-tour-2026-nach-muenchen-wir-verlosen-tickets-94561855.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Beatrice Egli im BMW Park – nur noch heute",
+   "anbieter": "Hallo München",
+   "gewinn": "3 × 2 Karten für Fr, 13.11., 19 Uhr",
+   "bis": "2026-11-05",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Egli“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss heute, 12 Uhr.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/beatrice-egli-kommt-mit-ihrer-tanzen-lachen-leben-tour-2026-nach-muenchen-wir-verlosen-tickets-94525141.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Martin Frank: „Grüße aus Allegro Süd“ im Circus Krone – nur noch heute",
+   "anbieter": "Hallo München",
+   "gewinn": "2 × 2 Karten für Di, 11.5.2027, 20 Uhr",
+   "bis": "2026-11-05",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Martin“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss heute, 12 Uhr.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/martin-frank-kommt-mit-seiner-show-gruesse-aus-allegro-sued-nach-muenchen-wir-verlosen-tickets-94552068.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Jan Becker: „Hypnotize the World“ in der Alten Kongresshalle",
+   "anbieter": "Hallo München",
+   "gewinn": "3 × 2 Karten für Di, 8.12., 20 Uhr",
+   "bis": "2026-11-08",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Becker“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig).",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/gewinnspiel-hypnotiseur-jan-becker-mit-seiner-neuen-show-hypnotize-the-world-94554638.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "BAP: „Fünfzig Jahre – Die Zielgerade“ in der Olympiahalle",
+   "anbieter": "Hallo München",
+   "gewinn": "2 × 2 Karten für Do, 3.12., 19.30 Uhr",
+   "bis": "2026-11-10",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „BAP“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss 10.11., 12 Uhr.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/bap-mit-ihrer-tour-fuenfzig-jahre-die-zielgerade-in-muenchen-wir-verlosen-tickets-94561881.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Pogues im Kesselhaus",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 20.11.",
+   "bis": "2026-11-12",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-pogues-20-november-kesselhaus.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Scratch in der Backstage Halle",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 23.11.",
+   "bis": "2026-11-16",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-scratch-23-november-backstage.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Access to Dance: „Mercury Rising“ im Schwere Reiter",
+   "anbieter": "IN München",
+   "gewinn": "2 × 2 Karten für den 22.11.",
+   "bis": "2026-11-18",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten; in der Übersicht als Anzeige gekennzeichnet",
+   "url": "https://www.in-muenchen.de/verlosungen/access-to-dance-22-november-im-schwere-reiter.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Musical „Romeo & Julia – Liebe ist alles“ im Deutschen Theater",
+   "anbieter": "Hallo München",
+   "gewinn": "1 × 2 Karten für Fr, 20.11., 19.30 Uhr",
+   "bis": "2026-11-18",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Julia“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss 18.11., 12 Uhr. Steht unter „Gewinnspiele unserer Partner“.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/muenchen/das-musical-ueber-das-ganz-deutschland-spricht-romeojulia-liebe-ist-alles-erstmals-in-muenchen-94573510.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Rat Pack – Swingin' At The Sands im Prinzregententheater",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 4.1.2027",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/rat-pack-swingin-at-the-sands-4-januar-prinzregententheater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Gregory Porter & Orchestra in der Isarphilharmonie",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 15.12. („Spirit of Christmas“)",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/gregory-porter-and-orchestra-15-dezember-isarphilharmonie.html"
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Spielen",
+   "zitat": "„Der Mensch spielt nur, wo er in voller Bedeutung des Worts Mensch ist, und er ist nur da ganz Mensch, wo er spielt.“",
+   "urheber": "Friedrich Schiller, Über die ästhetische Erziehung des Menschen, 15. Brief (1795)",
+   "text": "An dem Tag, an dem Deutschland Abschied von Janosch nimmt, der Generationen mit Tigerente, kleinem Bär und kleinem Tiger beschenkt hat, erinnert Schiller daran, dass das Spiel keine Nebensache ist, sondern der Ort, an dem der Mensch frei wird."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Diversifiziert",
+   "text": "Der Vermögensberater strahlt: „Gestern sind Dax, Gold und Euro gestiegen, nur das Öl ist gefallen.“ Fragt der Kunde: „Und mein Depot?“ Der Berater räuspert sich: „Ihr Depot hat sich ganz bewusst für das Öl entschieden.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Weißwurstfrühstück",
+   "text": "Am Stehtisch auf dem Viktualienmarkt kosten eine Weißwurst und eine Breze zusammen 3,20 Euro. Die Weißwurst kostet 2,80 Euro mehr als die Breze. Was kostet die Breze? (Erst nachdenken, dann rechnen: Die schnelle Antwort ist falsch.)",
+   "loesung": "20 Cent. Die Weißwurst kostet dann 3,00 Euro, also 2,80 Euro mehr als die Breze, und beide zusammen 3,20 Euro. Die naheliegende Antwort 40 Cent stimmt nicht: Dann käme die Weißwurst auf 3,20 Euro und beides zusammen auf 3,60 Euro."
+  }
+ ]
+}
