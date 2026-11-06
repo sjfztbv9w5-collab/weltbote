@@ -254,6 +254,7 @@ footer.colophon p { margin: 0; max-width: 80ch; }
       <a href="#ki">KI</a>
       <a href="#vermoegen">Vermögen</a>
       <a href="#koepfe">Köpfe</a>
+      <a href="#gut">Gute Nachrichten</a>
       <a href="#muenchen">München</a>
       <a href="#feuilleton">Feuilleton</a>
     </nav>
@@ -285,6 +286,7 @@ const RUBRIKEN = {
   ki: { titel: "Künstliche Intelligenz", unter: "Neue Modelle und Funktionen, Technik, Geschäftsmodelle, Regulierung und Sicherheit" },
   vermoegen: { titel: "Vermögen & Beteiligungen", unter: "Wealth Management, Family Offices und Private Equity" },
   koepfe: { titel: "Köpfe des Tages", unter: "Wer gerade was bewegt: Entscheider, Gründer, Politiker und Prominente" },
+  gut: { titel: "Gute Nachrichten", unter: "Zehn Lichtblicke aus aller Welt: Fortschritt, Heilung, Rettung und Mitmenschlichkeit" },
   muenchen: { titel: "München", unter: "Konzerte, Kultur, Feste und Fußball: wann der Vorverkauf startet und wo es Karten gibt" },
   feuilleton: { titel: "Feuilleton", unter: "Für die Mußestunde nach dem Börsenschluss" }
 };
@@ -585,7 +587,7 @@ function renderBarometer() {
     all.forEach(r => keyFn(r).forEach(k => { const g = m.get(k) || { sum: 0, n: 0 }; g.sum += r.stars; g.n++; m.set(k, g); }));
     return [...m.entries()].map(([k, g]) => ({ k, avg: g.sum / g.n, n: g.n })).sort((a, b) => b.avg - a.avg || b.n - a.n);
   };
-  const names = { welt: "Weltgeschehen", wirtschaft: "Wirtschaft", finanzen: "Finanzen", krypto: "Krypto", ki: "KI", vermoegen: "Vermögen", koepfe: "Köpfe", muenchen: "München", feuilleton: "Feuilleton" };
+  const names = { welt: "Weltgeschehen", wirtschaft: "Wirtschaft", finanzen: "Finanzen", krypto: "Krypto", ki: "KI", vermoegen: "Vermögen", koepfe: "Köpfe", gut: "Gute Nachrichten", muenchen: "München", feuilleton: "Feuilleton" };
   const block = (title, rows, max) => {
     const col = el("div"); col.append(el("h4", null, title));
     rows.slice(0, max).forEach(r => {
@@ -597,7 +599,7 @@ function renderBarometer() {
     });
     return col;
   };
-  box.append(block("Nach Rubrik", group(r => [r.rubrik]), 7), block("Lieblingsthemen", group(r => r.tags || []), 6));
+  box.append(block("Nach Rubrik", group(r => [r.rubrik]), 10), block("Lieblingsthemen", group(r => r.tags || []), 6));
   const top = [...all].sort((a, b) => b.stars - a.stars || (b.ratedAt || "").localeCompare(a.ratedAt || "")).slice(0, 5);
   const col = el("div"); col.append(el("h4", null, "Bestbewertet (" + all.length + " Urteile)"));
   top.forEach(r => { const row = el("div", "baro-row"); row.style.gridTemplateColumns = "minmax(0,1fr) auto"; row.append(el("span", null, r.titel), el("span", null, "★".repeat(r.stars))); col.append(row); });

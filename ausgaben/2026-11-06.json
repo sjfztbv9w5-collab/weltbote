@@ -1785,6 +1785,339 @@
    ]
   },
   {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Natur",
+    "Schottland"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "Nach 500 Jahren schwimmen wieder Biber im Einzugsgebiet von Loch Ness",
+   "deck": "Eine sechsköpfige Biberfamilie ist in den schottischen Highlands ausgewildert worden – der Auftakt eines Projekts mit mindestens 15 Familien.",
+   "text": [
+    "Am 4. November hat die Naturschutzorganisation Trees for Life eine Biberfamilie aus sechs Tieren in einem kleinen See auf ihrem Renaturierungsgut Dundreggan in Glenmoriston freigelassen. Das Gelände liegt im Einzugsgebiet von Loch Ness. Dort wurden Biber vor rund 500 Jahren zum letzten Mal in Schottland nachgewiesen, bevor die Jagd sie ausrottete. Die Tiere stammen aus einem anderen Teil Schottlands und wurden vorher im Zoo Five Sisters tierärztlich untersucht.",
+    "Die Freilassung ist der erste Schritt des Ness Beaver Project, das Trees for Life gemeinsam mit dem Beaver Trust betreibt. Innerhalb von drei Jahren sollen mindestens 15 Biberfamilien an Seen, Weihern und Flüssen rund um Loch Ness eine neue Heimat finden. Die staatliche Naturschutzbehörde NatureScot hatte die Genehmigung am 30. Oktober erteilt, nachdem der Antrag im Sommer eingereicht und mit Anwohnern besprochen worden war.",
+    "Biber gelten als Baumeister der Landschaft: Ihre Dämme halten Wasser zurück, schaffen Feuchtgebiete und damit Lebensraum für Insekten, Amphibien, Fische und Vögel. Schottland hat die Art in den vergangenen Jahren an mehreren Orten wieder angesiedelt. Das Projekt wird unter anderem vom European Wildlife Comeback Fund von Rewilding Europe und von Rewilding Britain mitfinanziert. Die Beteiligten sprechen von einem Wendepunkt für die Rückkehr der Art in den Highlands."
+   ],
+   "quellen": [
+    [
+     "Inside Ecology",
+     "https://insideecology.com/2026/11/06/historic-return-of-beavers-to-waters-around-loch-ness/"
+    ],
+    [
+     "Irish News",
+     "https://www.irishnews.com/news/uk/beavers-released-into-highlands-in-moment-of-wildlife-history-534T6RYELNITHK4P36TYTAYRJQ"
+    ]
+   ],
+   "berichterstattung": [
+    "insideecology.com",
+    "irishnews.com",
+    "scottishdailyexpress.co.uk"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Natur",
+    "Meere",
+    "Wissenschaft"
+   ],
+   "kicker": "Gute Nachrichten · Meere",
+   "titel": "Blauwale im Südpolarmeer erholen sich: zehnmal so viele wie am Tiefpunkt",
+   "deck": "Eine neue Studie schätzt den Bestand der Antarktischen Blauwale auf gut 4.000 Tiere – mit einem Wachstum von etwa 4,5 Prozent im Jahr.",
+   "text": [
+    "Fünfzig Jahre nach dem Ende der Jagd kehren die größten Tiere der Erde langsam zurück. Forscher um Zoe Rand von der University of Washington schätzen den Bestand der Antarktischen Blauwale auf 4.018 Tiere. Nach dem letzten gemeldeten Fang im Jahr 1973 waren es nur noch rund 418. Die Studie erschien am 5. November in der Fachzeitschrift Endangered Species Research; beteiligt waren auch Wissenschaftler der US-Wetter- und Ozeanbehörde NOAA, aus Australien, Japan und Südafrika.",
+    "Für ihre Schätzung kombinierten die Forscher historische Fangbücher der Walfänger, Zählungen auf Schiffsexpeditionen und Fotos, mit denen sich einzelne Wale wiedererkennen lassen. Das Ergebnis: Der Bestand wächst um etwa 4,5 Prozent im Jahr. Das entspricht dem, was die Biologie der Tiere erwarten lässt, denn Blauwale werden alt und bekommen nur alle zwei bis drei Jahre ein Kalb.",
+    "Bis zur vollen Erholung ist der Weg noch weit. Vor der industriellen Jagd lebten im Südpolarmeer nach dem Modell rund 200.000 Blauwale, der heutige Bestand entspricht knapp zwei Prozent davon. Die Art gilt weiter als vom Aussterben bedroht, und die Forscher mahnen, die Tiere weiter zu beobachten. Dass sich eine um 99,8 Prozent dezimierte Population überhaupt so deutlich erholt, werten sie als Erfolg des internationalen Schutzes."
+   ],
+   "quellen": [
+    [
+     "University of Washington",
+     "https://www.washington.edu/news/2026/11/05/as-antarctic-blue-whales-advance-along-the-road-to-recovery-continued-oversight-is-key/"
+    ],
+    [
+     "Environment Coastal & Offshore",
+     "https://ecomagazine.com/news/research/antarctic-blue-whales-show-signs-of-recovery-after-50-years-of-protection"
+    ]
+   ],
+   "berichterstattung": [
+    "washington.edu",
+    "ecomagazine.com",
+    "eurekalert.org",
+    "phys.org"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "Krebs",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Erstes neues Mittel gegen fortgeschrittenen Kopf-Hals-Krebs seit zehn Jahren",
+   "deck": "Die US-Arzneimittelbehörde FDA hat eine Antikörper-Therapie beschleunigt zugelassen, bei der mehr als doppelt so viele Patienten ansprechen wie bisher.",
+   "text": [
+    "Für Menschen mit wiederkehrendem oder gestreutem Plattenepithelkarzinom im Kopf-Hals-Bereich gibt es eine neue Behandlungsmöglichkeit. Die FDA hat am 5. November Rybrevant Faspro von Johnson & Johnson beschleunigt zugelassen, eine Kombination des Antikörpers Amivantamab mit dem Enzym Hyaluronidase, die unter die Haut gespritzt wird. Sie ist für Erwachsene gedacht, deren Krebs nach Platin-Chemotherapie und Immuntherapie weiter fortschreitet. Nach Angaben der Behörde ist es die erste Zulassung für diese Patientengruppe seit zehn Jahren.",
+    "Grundlage ist eine Studie mit 102 Patienten. Bei 42 Prozent schrumpften die Tumoren, mehr als die Hälfte dieser Patienten sprach mindestens sechs Monate lang an. Mit den bisher zugelassenen Mitteln liegt die Ansprechrate nach FDA-Angaben bei höchstens etwa 20 Prozent. Ausgenommen sind HPV-bedingte Tumoren im Rachen.",
+    "Eine beschleunigte Zulassung bedeutet, dass die FDA noch Bestätigungsstudien verlangt, die einen Nutzen etwa beim Überleben belegen sollen. Zu den bekannten Nebenwirkungen zählen Überempfindlichkeitsreaktionen, Hautprobleme und Entzündungen der Lunge. Für eine Patientengruppe mit bislang sehr wenigen Optionen ist die Entscheidung dennoch ein spürbarer Fortschritt."
+   ],
+   "quellen": [
+    [
+     "FDA",
+     "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma"
+    ],
+    [
+     "OncLive",
+     "https://www.onclive.com/view/fda-approves-amivantamab-and-hyaluronidase-for-metastatic-hnscc"
+    ]
+   ],
+   "berichterstattung": [
+    "fda.gov",
+    "onclive.com",
+    "benzinga.com",
+    "biopharminternational.com"
+   ]
+  },
+  {
+   "id": "gut-04",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "Gentherapie",
+    "Deutschland"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Gen-Reparatur befreit Patientin aus Hannover von wöchentlichen Infusionen",
+   "deck": "Forscher der Medizinischen Hochschule Hannover haben erstmals in einer Fachzeitschrift belegt, dass Base-Editing den Alpha-1-Antitrypsin-Mangel in der Leber korrigiert.",
+   "text": [
+    "Katrin H. ist 55 Jahre alt und hat die schwerste Form des Alpha-1-Antitrypsin-Mangels, einer angeborenen Stoffwechselstörung, die Lunge und Leber schädigt. Jahrelang brauchte sie jede Woche eine Infusion mit dem fehlenden Schutzeiweiß, ihren Beruf als Anästhesistin musste sie aufgeben. Seit einer einmaligen Gentherapie produziert ihr Körper das Eiweiß wieder selbst, die Infusionen sind überflüssig geworden. Nebenwirkungen traten nach Angaben der Medizinischen Hochschule Hannover (MHH) nicht auf.",
+    "Behandelt wurde die Patientin in Shanghai mit sogenanntem Base-Editing: Eine Genschere auf CRISPR-Basis tauscht dabei gezielt einen einzelnen falschen DNA-Baustein aus, ohne den DNA-Strang zu durchtrennen. Ein Team um Michael Ott von der MHH und das Renji-Krankenhaus in Shanghai untersuchten anschließend Lebergewebe. Im Journal of Hepatology berichten sie, dass schon mit der niedrigsten geplanten Dosis viele Leberzellen korrigiert waren und keine unerwünschten Veränderungen an anderen Stellen des Erbguts auftraten.",
+    "Es ist nach Angaben der Forscher die erste in einer Fachzeitschrift veröffentlichte Gewebeanalyse eines Menschen nach einer solchen Behandlung. Bereits entstandene Schäden an Lunge und Leber lassen sich nicht rückgängig machen, das Fortschreiten der Krankheit soll aber gestoppt sein. Die Therapie ist noch nicht zugelassen. Die klinische Studie an der MHH soll Anfang 2027 weitergehen."
+   ],
+   "quellen": [
+    [
+     "Informationsdienst Wissenschaft (MHH)",
+     "https://idw-online.de/de/news880089"
+    ],
+    [
+     "News-Medical",
+     "https://www.news-medical.net/news/20261102/Gene-therapy-successfully-corrects-genetic-defect-in-alpha-1-antitrypsin-deficiency.aspx"
+    ]
+   ],
+   "berichterstattung": [
+    "idw-online.de",
+    "news-medical.net",
+    "genengnews.com"
+   ]
+  },
+  {
+   "id": "gut-05",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "Weltgesundheit"
+   ],
+   "kicker": "Gute Nachrichten · Weltgesundheit",
+   "titel": "63 Länder haben mindestens eine vernachlässigte Tropenkrankheit besiegt",
+   "deck": "Die WHO zieht Zwischenbilanz: Die Schlafkrankheit ist um 98 Prozent zurückgegangen, der Guineawurm fast ausgerottet.",
+   "text": [
+    "Der Kampf gegen sogenannte vernachlässigte Tropenkrankheiten zählt zu den großen Erfolgsgeschichten der Weltgesundheit. Das geht aus dem Bericht hervor, den die Weltgesundheitsorganisation (WHO) am 4. November in Genf vorgelegt hat. Bis Juni 2026 hatten 63 Länder mindestens eine dieser Krankheiten eliminiert, Ende 2020 waren es erst 42. WHO-Generaldirektor Tedros Adhanom Ghebreyesus nannte die Fortschritte einen der herausragenden Erfolge des globalen Gesundheitswesens.",
+    "Die Zahlen sind eindrucksvoll: Die Fälle der Schlafkrankheit, die von der Tsetsefliege übertragen wird, sind seit 1999 um 98 Prozent gesunken. Beim Guineawurm wurden 2025 weltweit nur noch zehn Erkrankungen bei Menschen gezählt, so wenige wie nie. Die Zahl der Menschen, die Behandlungen oder Vorbeugung gegen solche Krankheiten brauchen, fiel auf 1,41 Milliarden im Jahr 2024 – 36 Prozent weniger als 2010.",
+    "Zu den Krankheiten zählen unter anderem Trachom, Lepra, Flussblindheit und Wurmerkrankungen, die vor allem die ärmsten Regionen der Welt treffen. Der Bericht ist eine Halbzeitbilanz des WHO-Fahrplans bis 2030. Die Organisation mahnt zugleich, die Finanzierung stabil zu halten, damit das Erreichte gesichert wird und weitere Länder folgen können."
+   ],
+   "quellen": [
+    [
+     "WHO",
+     "https://www.who.int/news/item/04-11-2026-progress-against-neglected-tropical-diseases-requires-sustained-action"
+    ],
+    [
+     "CIDRAP",
+     "https://www.cidrap.umn.edu/neglected-tropical-diseases/who-highlights-major-progress-63-nations-report-eliminating-least-1"
+    ]
+   ],
+   "berichterstattung": [
+    "who.int",
+    "cidrap.umn.edu",
+    "aa.com.tr",
+    "allafrica.com"
+   ]
+  },
+  {
+   "id": "gut-06",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Natur",
+    "Afrika",
+    "Wald"
+   ],
+   "kicker": "Gute Nachrichten · Äthiopien",
+   "titel": "UN zeichnen Wiederaufforstung im äthiopischen Desa'a-Wald aus",
+   "deck": "Auf mehr als 23.000 Hektar wächst ein zerstörter Bergwald im Großen Afrikanischen Grabenbruch wieder – und schafft fast 16.000 Arbeitsplätze.",
+   "text": [
+    "Die Vereinten Nationen haben die Wiederherstellung des Desa'a-Waldes in Äthiopien als „World Restoration Flagship“ ausgezeichnet. Bekanntgegeben wurde das am 29. Oktober auf der UN-Biodiversitätskonferenz im armenischen Jerewan, zusammen mit vier Projekten in China, Kolumbien, Italien und den USA. Die Auszeichnung des UN-Umweltprogramms UNEP und der Ernährungsorganisation FAO bringt fachliche Unterstützung bei Überwachung und Öffentlichkeitsarbeit.",
+    "Der Desa'a-Wald in den Regionen Tigray und Afar bedeckte einst 154.000 Hektar, ein Großteil davon ist geschädigt. Die Organisation WeForest arbeitet dort mit den Dörfern an der Wiederbelebung: Mehr als 23.000 Hektar werden inzwischen renaturiert, bis 2030 sollen es über 38.000 sein. Jedes Jahr werden so nach Projektangaben rund 500.000 Tonnen Boden vor Erosion bewahrt und 1,9 Millionen Kubikmeter Regenwasser zurückgehalten. In den wiederhergestellten Flächen versickert das Wasser heute deutlich besser als 2019.",
+    "Auch die Menschen profitieren. Knapp 16.000 Arbeitsplätze sind entstanden, etwa 60 Prozent davon für Frauen, und fast 6.700 Haushalte leben von waldfreundlichen Erwerbszweigen wie Imkerei und Agroforstwirtschaft. UNEP-Chefin Inger Andersen sagte zur Auszeichnung, die Natur könne sich erholen, wenn man ihr die Chance gebe."
+   ],
+   "quellen": [
+    [
+     "WeForest",
+     "https://www.weforest.org/blog/press-release/ethiopias-project-recognized-as-un-world-restoration-flagship/"
+    ],
+    [
+     "Mongabay",
+     "https://news.mongabay.com/2026/11/un-recognizes-ongoing-restoration-work-inside-ethiopias-desaa-forest-amid-conflict/"
+    ]
+   ],
+   "berichterstattung": [
+    "weforest.org",
+    "mongabay.com"
+   ]
+  },
+  {
+   "id": "gut-07",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "Israel"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Neue Lunge ohne geöffneten Brustkorb: Israels erste Roboter-Transplantation",
+   "deck": "Chirurgen des Beilinson-Krankenhauses haben eine Lunge über kleine Schnitte eingesetzt – der Patient brauchte danach kaum mehr als Paracetamol.",
+   "text": [
+    "Am Clalit-Beilinson-Krankenhaus in Petach Tikwa ist erstmals in Israel eine Lunge mithilfe eines Operationsroboters transplantiert worden. Das Team unter Leitung von Yury Peysakhovich, dem Chef der Thoraxchirurgie, setzte die Spenderlunge mit dem Da-Vinci-System über mehrere kleine Schnitte ein und verband sie mit den Blutgefäßen und Atemwegen des Patienten. Brustbein und Rippen blieben unversehrt, anders als bei der herkömmlichen Operation.",
+    "Gerade dieser Unterschied zählt bei der Genesung. Nach einer klassischen Lungentransplantation, die acht bis zehn Stunden dauert, leiden Patienten oft wochenlang unter starken Schmerzen und Atemproblemen. Der Mann kam nach Angaben der Klinik mit Paracetamol aus, lag kürzer auf der Intensivstation und konnte früher nach Hause als erwartet. Der Leiter der Herz-Thorax-Intensivstation, Dan Gorfil, sprach von einer Erholung, die alle Erwartungen übertroffen habe.",
+    "Weltweit wurden bislang erst rund 20 solcher Eingriffe vorgenommen, der erste vor drei Jahren in Spanien. Peysakhovich rechnet damit, dass das Verfahren innerhalb von fünf Jahren zum Standard werden könnte. Damit würde eine der belastendsten Operationen der Medizin für viele Patienten deutlich schonender."
+   ],
+   "quellen": [
+    [
+     "Jüdische Allgemeine",
+     "https://www.juedische-allgemeine.de/israel/eine-neue-lunge-und-zur-genesung-nur-paracetamol/"
+    ],
+    [
+     "JNS",
+     "https://www.jns.org/news/israel-news/revolutionary-procedure-robotic-lung-transplant-without-fully-opening-chest"
+    ]
+   ],
+   "berichterstattung": [
+    "juedische-allgemeine.de",
+    "jns.org",
+    "israelnationalnews.com",
+    "i24news.tv"
+   ]
+  },
+  {
+   "id": "gut-08",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "Deutschland",
+    "Forschung"
+   ],
+   "kicker": "Gute Nachrichten · Forschung",
+   "titel": "Viren gegen Superkeime: Erste internationale Leitlinie zur Phagentherapie",
+   "deck": "Deutsche Fachgesellschaften und internationale Experten legen erstmals gemeinsame Regeln vor, wie Ärzte bakterienfressende Viren einsetzen sollen.",
+   "text": [
+    "Wenn Antibiotika versagen, könnten Bakteriophagen helfen: Viren, die gezielt bestimmte Bakterien befallen und zerstören. Unter Federführung der Deutschen Gesellschaft für Infektiologie und mit dem Deutschen Zentrum für Infektionsforschung haben 20 Fachgesellschaften, 18 internationale Experten – darunter Vertreter von Zulassungsbehörden – und zwei Patientenorganisationen die erste international abgestimmte Leitlinie für personalisierte Phagentherapie erarbeitet. Sie ist in Nature Medicine erschienen.",
+    "Die mehr als 60 Empfehlungen regeln, wie Phagen ausgewählt, getestet, hergestellt, verabreicht und überwacht werden. Weil jeder Phage nur bestimmte Bakterienstämme angreift, muss vor der Behandlung im Labor geprüft werden, ob er die Erreger des Patienten tatsächlich abtötet. Die Uniklinik Frankfurt hat seit Februar zehn Patienten so behandelt, vor allem gegen Pseudomonas- und Staphylokokken-Infektionen.",
+    "Als Routine gilt die Therapie noch nicht: Sie kommt infrage, wenn übliche Behandlungen versagen oder nicht möglich sind, und kontrollierte Studien zur Wirksamkeit fehlen noch. In einer belgischen Fallserie mit 100 Patienten besserte sich der Zustand bei 77 Prozent. Die Leitlinie schafft nun einheitliche Standards, damit Kliniken die Behandlung sicher anbieten und Ergebnisse vergleichbar erfassen können."
+   ],
+   "quellen": [
+    [
+     "ScienceDaily (DZIF)",
+     "https://www.sciencedaily.com/releases/2026/11/261102202828.htm"
+    ],
+    [
+     "Pharmazeutische Zeitung",
+     "https://www.pharmazeutische-zeitung.de/erste-leitlinie-zur-phagentherapie-168555/"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "pharmazeutische-zeitung.de",
+    "aerzteblatt.de",
+    "zm-online.de"
+   ]
+  },
+  {
+   "id": "gut-09",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Energie",
+    "Lateinamerika",
+    "Verkehr"
+   ],
+   "kicker": "Gute Nachrichten · Saubere Energie",
+   "titel": "Größte Elektrofähre der Welt pendelt zwischen Buenos Aires und Uruguay",
+   "deck": "Die „China Zorrilla“ trägt 2.100 Passagiere und 225 Autos über den Río de la Plata – angetrieben von mehr als 40 Megawattstunden Batterien.",
+   "text": [
+    "Auf dem Río de la Plata fährt seit dem 22. Oktober das größte batterieelektrische Schiff der Welt im Linienverkehr. Die Fähre „China Zorrilla“ der uruguayischen Reederei Buquebus verbindet Buenos Aires in Argentinien mit Colonia in Uruguay. Das 130 Meter lange Schnellboot wurde von der Werft Incat im australischen Tasmanien gebaut und bietet Platz für bis zu 2.100 Fahrgäste und 225 Fahrzeuge.",
+    "Angetrieben wird der Katamaran von acht elektrischen Wasserstrahlantrieben, herkömmliche Schiffsmotoren hat er nicht. Mehr als 250 Tonnen Batterien speichern über 40 Megawattstunden Energie. In beiden Häfen gibt es eigene Ladeanlagen, eine Ladung von 40 Minuten reicht für eine Überfahrt. Ursprünglich war das Schiff für Diesel und Flüssiggas geplant; Reederei und Werft stellten noch während des Baus auf vollelektrischen Antrieb um.",
+    "Die Strecke über den Mündungstrichter ist rund 55 Kilometer lang und eine der meistbefahrenen Fährverbindungen Südamerikas. Incat baut bereits weitere große Elektrofähren, unter anderem drei 129 Meter lange Schiffe für die dänische Reederei Molslinjen. Die „China Zorrilla“ zeigt, dass emissionsfreie Schifffahrt auch in dieser Größenordnung im Alltag funktioniert."
+   ],
+   "quellen": [
+    [
+     "gCaptain",
+     "https://gcaptain.com/worlds-largest-battery-electric-ship-begins-commercial-service-in-south-america/"
+    ],
+    [
+     "Baird Maritime",
+     "https://www.bairdmaritime.com/passenger/ro-pax/worlds-largest-fully-electric-ferry-enters-service-in-latin-america"
+    ]
+   ],
+   "berichterstattung": [
+    "gcaptain.com",
+    "bairdmaritime.com",
+    "maritime-executive.com",
+    "iprofesional.com"
+   ]
+  },
+  {
+   "id": "gut-10",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Natur",
+    "Brasilien",
+    "Wald"
+   ],
+   "kicker": "Gute Nachrichten · Regenwald",
+   "titel": "Abholzung im Amazonas so gering wie nie seit Beginn der Messungen",
+   "deck": "Brasiliens Satellitendaten zeigen 42 Prozent weniger Waldverlust – auch in der Savanne Cerrado sinkt die Rodung auf ein Rekordtief.",
+   "text": [
+    "Im brasilianischen Amazonasgebiet ist so wenig Regenwald vernichtet worden wie nie seit Beginn der Satellitenüberwachung im Jahr 1988. Nach Daten des Raumforschungsinstituts INPE gingen zwischen August 2025 und Juli 2026 rund 3.335 Quadratkilometer Wald verloren, etwa 42 Prozent weniger als im Jahr davor. Der bisherige Tiefstwert aus den Jahren 2011 und 2012 lag bei rund 4.571 Quadratkilometern, Mitte der 1990er-Jahre waren es fast 30.000 im Jahr.",
+    "Auch in der Cerrado-Savanne, einem der artenreichsten Lebensräume Südamerikas, ging die Rodung zurück: um rund 24 Prozent auf etwa 5.517 Quadratkilometer, den niedrigsten Wert seit Beginn der Messungen dort im Jahr 2001. Das Messjahr läuft von August bis Juli, weil die Wolkendecke zur Jahresmitte dünner ist und die Satellitenbilder klarer sind.",
+    "Umweltschützer sprachen von einer historischen Leistung. Brasilien hat sich vorgenommen, die illegale Abholzung bis 2030 zu beenden. Noch immer gehen jedes Jahr tausende Quadratkilometer Wald verloren, doch der Trend zeigt, dass konsequente Kontrolle wirkt: Weniger Rodung bedeutet weniger Treibhausgase und mehr Schutz für eine der artenreichsten Regionen der Erde."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record"
+    ],
+    [
+     "Free Press Journal",
+     "https://www.freepressjournal.in/world/brazils-amazon-deforestation-falls-to-record-low-forest-loss-drops-42"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "freepressjournal.in",
+    "jamaica-gleaner.com",
+    "carbon-pulse.com"
+   ]
+  },
+  {
    "id": "muc-01",
    "rubrik": "muenchen",
    "tags": [

@@ -21,7 +21,10 @@ MUC_KURZ_AB = "2026-11-05"
 # Seit der Ausgabe vom 5. November 2026: Künstliche Intelligenz
 RUBRIK_KI = {"ki": 5}
 KI_AB = "2026-11-05"
-ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN, **RUBRIK_KI}
+# Seit der Ausgabe vom 6. November 2026: Gute Nachrichten
+RUBRIK_GUT = {"gut": 10}
+GUT_AB = "2026-11-06"
+ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN, **RUBRIK_KI, **RUBRIK_GUT}
 ISO_START = re.compile(r"\d{4}-\d{2}-\d{2}(T\d{2}:\d{2})?$")
 MAX_WOERTER = 500
 
@@ -74,6 +77,8 @@ def pruefe(pfad: Path) -> list[str]:
         RUBRIKEN.update(RUBRIK_MUENCHEN)
     if datum >= KI_AB:
         RUBRIKEN.update(RUBRIK_KI)
+    if datum >= GUT_AB:
+        RUBRIKEN.update(RUBRIK_GUT)
     zaehler = {r: 0 for r in ALLE_RUBRIKEN}
     for a in artikel:
         aid = a.get("id", "?")
