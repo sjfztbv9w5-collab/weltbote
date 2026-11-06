@@ -1,0 +1,2335 @@
+{
+ "datum": "2026-11-06",
+ "datumszeile": "Freitag, den 6. November 2026",
+ "redaktionsschluss": "11 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom Donnerstag, Bitcoin 1 Uhr MEZ",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 6. November 2026. Wegen einer technischen Störung erscheint diese Ausgabe verspätet. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "26.325",
+   "veraenderung": "−0,4 %",
+   "richtung": "down"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.354",
+   "veraenderung": "−4,4 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "24.315",
+   "veraenderung": "−5,5 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Brent",
+   "wert": "98,29 $",
+   "veraenderung": "+3,8 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Gold",
+   "wert": "4.098 $",
+   "veraenderung": "+0,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "≈ 76.100 $",
+   "veraenderung": "−5,5 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,122",
+   "veraenderung": "+0,1 %",
+   "richtung": "up"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,84 %",
+   "veraenderung": "−0,06",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Ukraine",
+    "Russland"
+   ],
+   "kicker": "Vereinigte Staaten · Ukraine-Krieg",
+   "titel": "Trump kündigt nach Treffen mit Putins Gesandtem ein „großes Abkommen“ an",
+   "deck": "Der Präsident deutet eine Einigung an, die über die Ukraine hinaus ganz Europa betreffen könnte – Einzelheiten nennt er nicht.",
+   "text": [
+    "US-Präsident Donald Trump hat nach einem Treffen mit Kirill Dmitrijew, dem Sondergesandten von Kremlchef Wladimir Putin, eine umfassende Vereinbarung zum Krieg in der Ukraine in Aussicht gestellt. Vor Journalisten im Weißen Haus sagte Trump, die Einigung werde sehr groß ausfallen, mehr als die Ukraine umfassen und womöglich ganz Europa betreffen. Worüber er mit Dmitrijew gesprochen hat, ließ er offen.",
+    "Trump sagte, er rechne mit einem baldigen Ende der Kämpfe, und sprach von einem „Blutbad“, das aufhören müsse. Nach seinen Worten sterben jeden Monat rund 25.000 Menschen; die Zahl ließ sich nicht unabhängig prüfen. Auf Fragen nach getöteten ukrainischen Zivilisten in Wohnhäusern, Bussen und Schulen erklärte er, er spreche das gegenüber Moskau regelmäßig an, auch auf russischer Seite kämen viele Menschen ums Leben.",
+    "Am Donnerstag hatte First Lady Melania Trump zudem ein Treffen zu einer humanitären Mission im russisch besetzten Oleschky ausgerichtet, an dem Vertreter beider Kriegsparteien teilnahmen. Reaktionen aus Kiew, Moskau oder europäischen Hauptstädten auf Trumps Ankündigung lagen zunächst nicht vor."
+   ],
+   "quellen": [
+    [
+     "Ukrinform",
+     "https://ukrinform.net/rubric-polytics/4181959-trump-announces-big-deal-that-concerns-ukraine-and-all-of-europe.html"
+    ],
+    [
+     "news.de (dpa)",
+     "https://www.news.de/panorama/860164168/6-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+    ]
+   ],
+   "berichterstattung": [
+    "ukrinform.net",
+    "nv.ua",
+    "news.liga.net",
+    "censor.net",
+    "nst.com.my",
+    "news.de"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Frankreich",
+    "Proteste"
+   ],
+   "kicker": "Frankreich · Sozialproteste",
+   "titel": "Größter Protesttag seit Jahren: Hunderttausende streiken gegen Lebenshaltungskosten",
+   "deck": "Das Innenministerium zählt 575.000 Demonstranten, die Gewerkschaften fast 1,6 Millionen – über 400 Festnahmen, die Gelbwesten machen weiter.",
+   "text": [
+    "Frankreich hat am Donnerstag den größten Streik- und Protesttag seit Jahren erlebt. Nach Angaben des Innenministeriums gingen landesweit rund 575.000 Menschen auf die Straße, die Gewerkschaften sprachen von fast 1,6 Millionen. Aufgerufen hatte ein Bündnis um CGT, FSU und Solidaires; alle vier großen Bahngewerkschaften hatten Streiks angemeldet. Gefordert werden höhere Löhne und die Rücknahme der für 2027 geplanten Haushaltskürzungen.",
+    "Die Proteste wurden von Angriffen auf Sicherheitskräfte und Brandstiftungen in mehreren Städten überschattet. Die Polizei nahm mehr als 400 Menschen fest, über 50 Beamte wurden verletzt. Die Gelbwesten-Bewegung hat zu weiteren Aktionen samt Blockaden am Freitag und Samstag aufgerufen.",
+    "Die Bewegung begann im September mit Schülerprotesten in Créteil bei Paris und weitete sich mit Gewerkschaften und wiederbelebten Gelbwesten zu einer landesweiten Kampagne aus. Die Minderheitsregierung von Premierminister Sébastien Lecornu will rund 54 Milliarden Euro einsparen; das Haushaltsdefizit liegt bei 5,4 Prozent der Wirtschaftsleistung, Frankreich steckt seit 2024 in einem EU-Defizitverfahren."
+   ],
+   "quellen": [
+    [
+     "France 24",
+     "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
+    ],
+    [
+     "Latin Times",
+     "https://www.latintimes.com/france-protests-november-5-general-strike-600548"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ]
+   ],
+   "berichterstattung": [
+    "france24.com",
+    "cnn.com",
+    "latintimes.com",
+    "wsws.org",
+    "brusselssignal.eu",
+    "aa.com.tr",
+    "news.de"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "USA",
+    "Nahost"
+   ],
+   "kicker": "Iran · Krieg am Golf",
+   "titel": "Trump droht, „den Rest“ des Iran zu zerstören – Revolutionsgarden melden Abschuss zweier US-Drohnen",
+   "deck": "Über der Insel Qeschm in der Straße von Hormus will Teheran zwei amerikanische Aufklärungsdrohnen getroffen haben.",
+   "text": [
+    "US-Präsident Donald Trump hat dem Iran mit weiterer Zerstörung gedroht. Er würde den Rest des Landes lieber nicht zerstören, sagte er im Oval Office, aber vielleicht müsse er es tun – man werde es bald erfahren. Zu einem Vorschlag, den Teheran über Vermittler zu seinem Atomprogramm geschickt haben soll, sagte Trump, der Iran unternehme nichts ohne amerikanische Zustimmung. Berichte, wonach er Verteidigungsminister Pete Hegseth ersetzen könnte, wies er zurück.",
+    "Die Revolutionsgarden meldeten nach Angaben der Staatsagentur IRNA, sie hätten über der Insel Qeschm zwei US-Drohnen vom Typ MQM-170 mit elektronischer Kampfführung zum Absturz gebracht; insgesamt seien es seit Kriegsbeginn sechs. Unabhängig bestätigt wurde das nicht.",
+    "Der amerikanisch-israelische Feldzug gegen den Iran hatte am 28. Februar begonnen. Der Emir von Katar sprach laut Anadolu mit Trump über eine Entspannung zwischen Washington und Teheran. Die Spannungen am Golf trieben am Donnerstag auch den Ölpreis wieder nach oben."
+   ],
+   "quellen": [
+    [
+     "The Diplomatic Insight",
+     "https://thediplomaticinsight.com/trump-warns-iran-could-face-further-destruction/"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ]
+   ],
+   "berichterstattung": [
+    "thediplomaticinsight.com",
+    "aa.com.tr",
+    "gulfnews.com",
+    "thisisbeirut.com.lb",
+    "globalsecurity.org"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Israel",
+    "Wahlen"
+   ],
+   "kicker": "Israel · Regierungsbildung",
+   "titel": "Eisenkot hat 67 Empfehlungen, Netanjahu 46 – Herzog entscheidet erst am Sonntag",
+   "deck": "Der Präsident will vor der Vergabe des Auftrags prüfen, ob überhaupt eine stabile Regierung möglich ist.",
+   "text": [
+    "Israels Präsident Isaac Herzog will am Sonntag, dem 8. November, bekanntgeben, wen er mit der Regierungsbildung beauftragt. In den Konsultationen nach der Knessetwahl im Oktober empfahlen Parteien mit 67 der 120 Abgeordneten Gadi Eisenkot, den Chef der Partei Jaschar, für Ministerpräsident Benjamin Netanjahu stimmten Parteien mit 46 Sitzen. Das Vereinigte Tora-Judentum legte sich nicht fest.",
+    "Hinter Eisenkot stehen neben Jaschar unter anderem Bennetts Bündnis, die Demokraten, Jisrael Beitenu sowie die arabischen Listen Ra’am und Vereinigte Liste. Herzog begründete die Verzögerung mit gegenseitigen Ausschlüssen zwischen und innerhalb der Lager; ob eine Regierung tatsächlich zustande komme, sei offen. Er wolle mit einzelnen Parteichefs direkt sprechen.",
+    "Likud-Politiker Joav Kisch warnte Herzog vor einer Regierung, die auf arabische Parteien angewiesen sei. Jaschar verweist dagegen auf die höchste Zahl an Empfehlungen für einen Kandidaten seit 2015. Der Beauftragte hat 28 Tage Zeit, die um 14 Tage verlängert werden können."
+   ],
+   "quellen": [
+    [
+     "Ynetnews",
+     "https://www.ynetnews.com/article/rjj1td9pfx"
+    ],
+    [
+     "Haaretz",
+     "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/israels-president-herzog-will-announce-candidate-to-form-government-on-sunday/000001a1-ad2e-d041-a5f9-ed2ff3970000"
+    ],
+    [
+     "Türkiye Today",
+     "https://www.turkiyetoday.com/region/eisenkot-set-for-67-recommendations-as-arab-lists-lean-toward-backing-him-3231571"
+    ]
+   ],
+   "berichterstattung": [
+    "ynetnews.com",
+    "haaretz.com",
+    "thehill.com",
+    "trtworld.com",
+    "aa.com.tr",
+    "turkiyetoday.com",
+    "yahoo.com"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Paraguay",
+    "Banken"
+   ],
+   "kicker": "Paraguay · Staatskrise",
+   "titel": "Präsident Peña tritt zurück – doch der Kongress lässt ihn nicht gehen",
+   "deck": "Nach dem Zusammenbruch der Digitalbank Ueno platzt die Abstimmung über den Rücktritt, der Senat treibt das Amtsenthebungsverfahren voran.",
+   "text": [
+    "Paraguays Präsident Santiago Peña hat am Donnerstag in einer Videobotschaft seinen Rücktritt erklärt. Kein Amt stehe über dem Wohl des Landes, sagte er. Zuvor hatte die Abgeordnetenkammer einstimmig mit 78 Stimmen die Anklage für ein Amtsenthebungsverfahren gebilligt. In der gemeinsamen Sitzung beider Kammern verließen Abgeordnete der regierenden Colorado-Partei während der Abstimmung über den Rücktritt geschlossen den Saal; ohne Quorum konnte nicht entschieden werden. Peña bleibt damit vorerst im Amt, der Senat setzt das Verfahren fort.",
+    "Auslöser ist der Zusammenbruch der Ueno Bank, die die Zentralbank am Dienstag unter Aufsicht stellte und abwickeln ließ. Die Bank hatte rund 2,9 Millionen Kunden in einem Land mit 6,1 Millionen Einwohnern, darunter etwa 850 Millionen Dollar an öffentlichen Geldern, auch von der Sozialversicherung. Die Staatsanwaltschaft hat 27 Personen angeklagt, gegen Gründer Miguel Vásquez wird Untersuchungshaft beantragt.",
+    "Die Opposition will verhindern, dass Peña als Ex-Präsident Senator auf Lebenszeit mit Immunität wird. Würde der Rücktritt angenommen, übernähme Vizepräsident Pedro Alliana bis August 2028."
+   ],
+   "quellen": [
+    [
+     "Infobae",
+     "https://www.infobae.com/america/america-latina/2026/11/05/santiago-pena-renuncio-a-la-presidencia-de-paraguay-por-el-escandalo-del-ueno-bank/"
+    ],
+    [
+     "La Nación (Paraguay)",
+     "https://www.lanacion.com.py/politica/2026/11/05/pena-sigue-siendo-presidente-dejan-sin-quorum-la-sesion/"
+    ]
+   ],
+   "berichterstattung": [
+    "infobae.com",
+    "lanacion.com.py",
+    "ultimahora.com",
+    "abc.com.py",
+    "hoy.com.py",
+    "mdzol.com",
+    "news.de"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Justiz"
+   ],
+   "kicker": "Vereinigte Staaten · Todesstrafe",
+   "titel": "Newsom wandelt alle 548 Todesurteile in Kalifornien um",
+   "deck": "Die größte Massenbegnadigung der US-Geschichte verkleinert die Todeszellen des Landes um fast 30 Prozent.",
+   "text": [
+    "Kaliforniens scheidender Gouverneur Gavin Newsom hat die Todesurteile aller 548 Häftlinge im Todestrakt des Bundesstaats in lebenslange Haft ohne Bewährung umgewandelt. Staatlich sanktioniertes Töten sei mit den Werten Kaliforniens nicht vereinbar, erklärte er. Landesweit sitzen damit nur noch rund 1.388 Menschen in den Todeszellen, so wenige wie seit 1984 nicht mehr.",
+    "Für etwa ein Drittel der Betroffenen gilt die Umwandlung sofort. Bei den übrigen zwei Dritteln, die mehrfach wegen Verbrechen verurteilt sind, muss nach Landesrecht der Oberste Gerichtshof Kaliforniens zustimmen. Abschaffen kann die Todesstrafe nur eine Volksabstimmung; entsprechende Vorlagen scheiterten 2012 und 2016 knapp.",
+    "Newsom hatte 2019 ein Hinrichtungsmoratorium verhängt. Kalifornien hat seit über 20 Jahren niemanden hingerichtet und seit 1978 geschätzt sechs Milliarden Dollar für die Todesstrafe ausgegeben. Ein Bündnis aus Angehörigen von Opfern, Staatsanwälten und Bürgerrechtlern begrüßte den Schritt."
+   ],
+   "quellen": [
+    [
+     "Death Penalty Information Center",
+     "https://deathpenaltyinfo.org/news/governor-gavin-newsom-grants-largest-mass-commutation-in-u-s-history-to-death-sentenced-prisoners-in-california"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/nation/2026/11/05/newsom-begins-commuting-sentences-california-death-row-inmates/"
+    ],
+    [
+     "CNN",
+     "https://www.cnn.com/2026/11/05/us/california-death-row-commutation"
+    ]
+   ],
+   "berichterstattung": [
+    "deathpenaltyinfo.org",
+    "washingtonpost.com",
+    "cnn.com",
+    "cbsnews.com",
+    "nbcnews.com",
+    "foxnews.com",
+    "tmz.com",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Großbritannien",
+    "Justiz"
+   ],
+   "kicker": "Großbritannien · Prozess",
+   "titel": "Russell Brand wegen Vergewaltigung und sexueller Übergriffe schuldig gesprochen",
+   "deck": "Die Jury am Southwark Crown Court verurteilt den Komiker in vier Anklagepunkten, das Strafmaß folgt am Montag.",
+   "text": [
+    "Ein Londoner Geschworenengericht hat den britischen Komiker und Schauspieler Russell Brand der Vergewaltigung in einem Fall und sexueller Übergriffe in drei Fällen für schuldig befunden. Von zwei weiteren Vergewaltigungsvorwürfen und einem Fall versuchter sexueller Nötigung sprach die Jury ihn nach achteinhalb Stunden Beratung frei.",
+    "Die Taten fallen in die Jahre 1999 bis 2009, sechs Frauen hatten ausgesagt. Brand hatte alle Vorwürfe bestritten und erklärt, die Begegnungen seien einvernehmlich gewesen oder erfunden. Richter Joel Bennathan verweigerte die Freilassung auf Kaution; eine erhebliche Haftstrafe sei unausweichlich. Brand wurde in Gewahrsam genommen, das Urteil soll am Montag verkündet werden.",
+    "Laut ITV wird Brand in früheren Anhörungen die Vergewaltigung zweier weiterer Frauen vorgeworfen; weitere Anklagen sind möglich."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court"
+    ],
+    [
+     "ITV News",
+     "https://www.itv.com/news/2026-11-05/russell-brand-found-guilty-of-rape-and-sexual-assault"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "itv.com",
+    "cnn.com",
+    "hollywoodreporter.com",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Türkei",
+    "Saudi-Arabien",
+    "Pakistan"
+   ],
+   "kicker": "Türkei · Sicherheitspolitik",
+   "titel": "Ankara ratifiziert den Beistandspakt von Mekka mit Saudi-Arabien und Pakistan",
+   "deck": "Das türkische Parlament billigt mit 279 zu 119 Stimmen ein Abkommen, das an die Beistandsklausel der Nato erinnert.",
+   "text": [
+    "Das türkische Parlament hat das Gemeinsame Verteidigungsabkommen von Mekka mit Pakistan und Saudi-Arabien ratifiziert. Von 592 Abgeordneten stimmten 398 ab, 279 dafür und 119 dagegen. Der AKP-Abgeordnete Ziya Altunyaldız sagte, der Pakt richte sich gegen kein Drittland und solle Konflikte verhindern.",
+    "Das am 7. August unterzeichnete Abkommen umfasst 16 Artikel. Wird ein Vertragsstaat angegriffen, sollen ihm die anderen unverzüglich beistehen; Umfang und Art der Hilfe bestimmt jedes Land selbst. Hinzu kommen Zusammenarbeit in der Rüstungsindustrie, Geheimdienstaustausch, gemeinsame Übungen und Terrorabwehr. Weitere Staaten können mit Zustimmung aller drei Gründer beitreten, die Laufzeit beträgt zehn Jahre.",
+    "Die Ratifizierung allein schickt keine türkischen Soldaten ins Ausland, dafür wären eigene Gesetze nötig. Anfang Oktober hatten die drei Länder vereinbart, wegen der Huthi-Angriffe auf Saudi-Arabien Kräfte dorthin zu verlegen. Am Donnerstag verurteilten Katar, Kuwait, Bahrain und Jordanien einen Huthi-Raketenangriff auf die Region Medina."
+   ],
+   "quellen": [
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement"
+    ]
+   ],
+   "berichterstattung": [
+    "aa.com.tr",
+    "aljazeera.com",
+    "al-monitor.com",
+    "dailypioneer.com"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Europa",
+    "Luftfahrt",
+    "Sicherheit"
+   ],
+   "kicker": "Europa · Luftverkehr",
+   "titel": "Neue Welle von Bombendrohungen: Mindestens 18 Flüge betroffen",
+   "deck": "Notlandungen, Umleitungen und Durchsuchungen – zum zweiten Mal binnen weniger Tage treffen falsche Drohungen Europas Flugverkehr.",
+   "text": [
+    "Mindestens 18 Passagierflüge in Europa haben laut Anadolu Bombendrohungen erhalten. Es kam zu Notlandungen, Umleitungen und Sicherheitskontrollen; Sprengstoff wurde nach bisherigen Angaben nicht gefunden. Medien berichteten am Donnerstag von einer zweiten Welle solcher Drohungen innerhalb weniger Tage.",
+    "Bereits am Dienstag waren mehrere Flüge betroffen gewesen, darunter eine LOT-Maschine von London nach Warschau mit 181 Menschen an Bord, die nach Modlin ausweichen musste, und ein Ryanair-Flug aus Manchester, der in Murcia landete. Weitere Zwischenfälle gab es in Mailand, Prag und Sofia. Die spanische Guardia Civil schloss Sprengstoff an Bord aus.",
+    "Wer hinter den Drohungen steckt, ist offen. Die Behörden prüfen, ob es sich um eine Serie gezielter Falschmeldungen handelt; italienische Medien brachten eine koordinierte, hybride Kampagne ins Spiel, belegt ist das nicht."
+   ],
+   "quellen": [
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ],
+    [
+     "Ground News (Übersicht)",
+     "https://ground.news/article/4400bc22-5078-46a0-91b6-9b427ea2af11"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/flight-dublin-rome-diverts-french-airbase-bomb-threat/story?id=137869590"
+    ]
+   ],
+   "berichterstattung": [
+    "aa.com.tr",
+    "abcnews.com",
+    "cnbc.com",
+    "ms.now",
+    "wistv.com",
+    "itv.com",
+    "thelocal.dk",
+    "bostonglobe.com"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Äthiopien",
+    "Religion"
+   ],
+   "kicker": "Äthiopien · Gewalt",
+   "titel": "Bewaffnete töten 34 weitere orthodoxe Christen – die Zahl der Opfer steigt auf 94",
+   "deck": "Die Angriffswelle in der Region Oromia reißt nicht ab.",
+   "text": [
+    "In Äthiopien haben Bewaffnete nach Angaben von Anadolu 34 weitere orthodoxe Christen getötet. Damit steigt die Zahl der Todesopfer einer Angriffsserie auf 94. Ende Oktober waren bei einem Überfall auf ein Dorf im Bezirk Shirka in der Gegend Arsi, rund 270 Kilometer südlich von Addis Abeba, mindestens 60 Menschen getötet worden.",
+    "Augenzeugen berichteten damals, die Angreifer seien von Haus zu Haus gezogen und hätten Bewohner erschossen oder erstochen, darunter Alte und Kinder. Eine Kirche wurde beschädigt, Kirchen in Nachbardörfern nahmen Flüchtende auf.",
+    "Die Regierung macht eine Rebellenkoalition verantwortlich, der neben der Oromo-Befreiungsarmee auch Kräfte aus Tigray und Amhara angehören sollen. Sie wirft ihr vor, gezielt ethnische und religiöse Spannungen zu schüren. Unabhängig überprüfen lassen sich die Angaben kaum."
+   ],
+   "quellen": [
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/africa/gunmen-kill-34-more-orthodox-christians-in-ethiopia-raising-death-toll-to-94/4113812"
+    ],
+    [
+     "Vatican News",
+     "https://www.vaticannews.va/en/world/news/2026-10/60-killed-in-attack-on-village-of-orthodox-christians-ethiopia.html"
+    ]
+   ],
+   "berichterstattung": [
+    "aa.com.tr",
+    "vaticannews.va",
+    "abcnews.com",
+    "christiantoday.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Rheinmetall",
+    "Rüstung",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Rüstung",
+   "titel": "Rheinmetall senkt die Prognose – die Aktie verliert 16 Prozent",
+   "deck": "Starkes Quartal, schwächerer Ausblick: Verzögerungen beim Boxer und bei Munition bremsen den Düsseldorfer Konzern.",
+   "text": [
+    "Rheinmetall hat seine Jahresziele gesenkt und damit an der Börse einen Absturz ausgelöst. Der Konzern erwartet für 2026 nur noch rund 13,2 Milliarden Euro Umsatz statt bisher 13,7 bis 14,2 Milliarden; die operative Marge soll bei etwa 18,5 statt rund 19 Prozent liegen. Im Vorjahr hatte Rheinmetall 9,94 Milliarden Euro umgesetzt.",
+    "Das dritte Quartal selbst lief kräftig: Der Umsatz stieg um fast ein Drittel auf 3,149 Milliarden Euro, das operative Ergebnis um 62 Prozent auf 553 Millionen Euro, die Marge auf 17,5 Prozent. Der Auftragseingang lag bei 2,893 Milliarden Euro. Als Gründe für den gekappten Ausblick nennt der Konzern Verzögerungen beim Radpanzer Boxer und bei Lieferungen von Artilleriemunition sowie einen ungünstigeren Produktmix, weil margenstarke Lieferungen erst später abgerechnet werden.",
+    "Am Donnerstag schloss die Aktie mit einem Minus von gut 16 Prozent bei 841,50 Euro und war damit mit Abstand schwächster Dax-Wert."
+   ],
+   "quellen": [
+    [
+     "Der Aktionär",
+     "https://www.deraktionaer.de/artikel/aktien/trotz-starkem-quartal-rheinmetall-senkt-ausblick-20433852.html"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-gibt-rund-05-prozent-nach-zalando-an-der-spitze-rheinmetall-bricht-ein"
+    ],
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/unternehmen/industrie/ruestungsindustrie-verzoegerungen-bei-auftraegen-rheinmetall-senkt-prognose/100267059.html"
+    ]
+   ],
+   "berichterstattung": [
+    "deraktionaer.de",
+    "handelsblatt.com",
+    "boersen-zeitung.de",
+    "aktiencheck.de",
+    "ariva.de"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutsche Telekom",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Telekommunikation",
+   "titel": "Telekom wächst kräftig, doch der Aktienrückkauf enttäuscht",
+   "deck": "Der Bonner Konzern hebt die Prognose erneut an und erhöht die Dividende – Anleger hatten sich mehr erhofft.",
+   "text": [
+    "Die Deutsche Telekom hat im dritten Quartal den Umsatz um 7,5 Prozent auf gut 31 Milliarden Euro gesteigert, das bereinigte Ebitda AL wuchs um fast zehn Prozent auf rund 12,2 Milliarden Euro. Beide Werte übertrafen die Erwartungen. Treiber war erneut die US-Tochter T-Mobile US. Der Konzern hob seine Jahresprognose zum zweiten Mal leicht an.",
+    "Die Dividende soll um zehn Prozent auf 1,10 Euro je Aktie steigen. Für 2027 plant die Telekom Aktienrückkäufe von bis zu zwei Milliarden Euro – Analysten hatten laut Citigroup im Schnitt drei Milliarden erwartet. Die Aktie gehörte zu den wenigen Verlierern im Dax und fiel zeitweise um rund drei Prozent auf etwa 25,90 Euro.",
+    "Belastet wird der Kurs auch durch T-Mobile US, nachdem SpaceX Mobilfunkfrequenzen gekauft hat und zum Konkurrenten werden könnte. Laut Handelsblatt wirbt Vorstandschef Timotheus Höttges für eine vollständige Fusion mit der US-Tochter."
+   ],
+   "quellen": [
+    [
+     "Finanznachrichten (dpa-AFX)",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70043827-roundup-deutsche-telekom-legt-kraeftig-zu-hoehe-des-aktienrueckkaufs-enttaeuscht-016.htm"
+    ],
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/technik/it-internet/telekom-starkes-drittes-quartal-dax-konzern-hebt-seine-prognose-an/100266647.html"
+    ]
+   ],
+   "berichterstattung": [
+    "finanznachrichten.de",
+    "handelsblatt.com",
+    "yahoo.com",
+    "boerse-global.de"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "China",
+    "SoftBank",
+    "ABB",
+    "Robotik"
+   ],
+   "kicker": "Unternehmen · Übernahmen",
+   "titel": "Peking stoppt SoftBanks Milliardenkauf der ABB-Robotiksparte",
+   "deck": "Chinas Investitionsprüfer untersagen die Übernahme des Geschäfts in China – im wichtigsten Markt der Sparte.",
+   "text": [
+    "China hat die geplante Übernahme der Robotiksparte des Schweizer Industriekonzerns ABB durch die japanische SoftBank blockiert. ABB bestätigte, SoftBank habe mitgeteilt, dass Chinas Büro für die Sicherheitsprüfung ausländischer Investitionen den Erwerb des ABB-Robotikgeschäfts in China untersagt habe. Beide Unternehmen stünden in engem Austausch. Der Unternehmenswert war im Oktober 2025 mit 5,375 Milliarden Dollar vereinbart worden.",
+    "Laut Financial Times fürchteten die Behörden, dass in China hergestellte Anlagen und Daten nach Japan abfließen und etwa zum Training von KI-Modellen genutzt werden könnten, auch bei OpenAI, an dem SoftBank stark beteiligt ist. Die Wettbewerbsprüfung hatte der Deal bereits im Februar bestanden.",
+    "China ist der größte Markt der Sparte und steht für über 90 Prozent ihrer Roboternachfrage. Die SoftBank-Aktie gab laut Berichten um rund fünf Prozent nach. Schon früher in diesem Jahr hatte Peking die Übernahme des KI-Start-ups Manus durch Meta gestoppt."
+   ],
+   "quellen": [
+    [
+     "Silicon Republic",
+     "https://www.siliconrepublic.com/business/china-softbank-abb-robotics-japan-data-ai-investment"
+    ],
+    [
+     "Robotics 24/7",
+     "https://www.robotics247.com/article/softbanks-proposed-5.4b-acquisition-of-abb-robotics-blocked-by-china"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "scmp.com",
+    "japantimes.co.jp",
+    "asia.nikkei.com",
+    "siliconrepublic.com",
+    "robotics247.com"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "AppLovin",
+    "Tech",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Werbetechnik",
+   "titel": "AppLovin trotzt dem Tech-Ausverkauf mit einem Kurssprung von 31 Prozent",
+   "deck": "Umsatz plus 55 Prozent, Ausblick über den Erwartungen: Der Werbespezialist ist der große Gewinner eines schwarzen Börsentags.",
+   "text": [
+    "Während an der Wall Street die Technologiewerte einbrachen, stieg die Aktie von AppLovin am Donnerstag um rund 31 Prozent. Der Anbieter von Werbetechnik für Apps hatte im dritten Quartal 2,18 Milliarden Dollar umgesetzt, 55 Prozent mehr als vor einem Jahr und mehr als die erwarteten 2,08 Milliarden. Der Gewinn je Aktie lag mit 4,30 Dollar über der Schätzung von 4,04 Dollar.",
+    "Der Nettogewinn wuchs um 72 Prozent auf 1,44 Milliarden Dollar, die bereinigte Ebitda-Marge lag bei 84 Prozent, der freie Cashflow bei 1,4 Milliarden Dollar. Für das vierte Quartal stellt AppLovin 2,37 bis 2,4 Milliarden Dollar Umsatz in Aussicht, der Markt hatte 2,25 Milliarden erwartet.",
+    "Im Quartal kaufte das Unternehmen für 1,4 Milliarden Dollar eigene Aktien zurück. Der Verwaltungsrat stockte das Rückkaufprogramm um 3,2 Milliarden auf insgesamt 3,6 Milliarden Dollar auf."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://www.investing.com/news/earnings/applovin-shares-surge-on-strong-q3-results-and-guidance-5001312"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "investing.com",
+    "stocktitan.net",
+    "fool.com",
+    "benzinga.com",
+    "yahoo.com",
+    "marketscreener.com"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Airbnb",
+    "Reisen",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Reisen",
+   "titel": "Airbnb wächst so schnell wie seit drei Jahren nicht und kauft für zwölf Milliarden Aktien zurück",
+   "deck": "Die Buchungen ziehen um 16 Prozent an, der Konzern hebt den Jahresausblick.",
+   "text": [
+    "Airbnb hat im dritten Quartal den Umsatz um 19 Prozent auf rund 4,87 Milliarden Dollar gesteigert, das schnellste Wachstum seit mehr als drei Jahren. Die Zahl der gebuchten Übernachtungen und Erlebnisse stieg um 16 Prozent auf 155 Millionen, der Bruttobuchungswert lag bei 27,7 Milliarden Dollar.",
+    "Das bereinigte Ebitda erreichte 2,51 Milliarden Dollar, eine Marge von 52 Prozent nach 50 Prozent im Vorjahr. Die Zahl der Erstbucher wuchs um 13 Prozent. Airbnb hob seinen Ausblick für Umsatzwachstum und Marge 2026 an – konkrete Zahlen nennen die vorliegenden Berichte nicht – und genehmigte ein neues Aktienrückkaufprogramm über zwölf Milliarden Dollar.",
+    "Die Aktie stieg nachbörslich um etwa elf Prozent. Aus den Quartalsunterlagen geht laut The Information zudem hervor, dass Airbnb geistiges Eigentum für 7,1 Millionen Dollar an das private KI-Labor von Gründer Brian Chesky verkauft hat."
+   ],
+   "quellen": [
+    [
+     "Panabee",
+     "https://www.panabee.com/news/airbnb-earnings-q3-2026"
+    ],
+    [
+     "Finimize",
+     "https://finimize.com/content/airbnb-lifted-its-2026-outlook-and-added-a-12-billion-buyback"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/ai-news-today"
+    ]
+   ],
+   "berichterstattung": [
+    "panabee.com",
+    "finimize.com",
+    "247wallst.com",
+    "yahoo.com",
+    "tradersunion.com",
+    "stocktitan.net"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Cloudflare",
+    "Tech",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Cloud",
+   "titel": "Cloudflare überschreitet drei Milliarden Dollar Jahresumsatz",
+   "deck": "Der Netzwerkdienstleister wächst um 39 Prozent und hebt die Prognose zum dritten Mal in diesem Jahr.",
+   "text": [
+    "Cloudflare hat im dritten Quartal 782,5 Millionen Dollar umgesetzt, 39 Prozent mehr als vor einem Jahr und deutlich mehr als die erwarteten 737 Millionen. Der aufs Jahr hochgerechnete Umsatz überstieg erstmals drei Milliarden Dollar. Der bereinigte Gewinn je Aktie lag mit 38 Cent über der Schätzung von 34 Cent.",
+    "Für das Gesamtjahr rechnet das Unternehmen nun mit 2,963 bis 2,964 Milliarden Dollar Umsatz, für das vierte Quartal mit 845 bis 846 Millionen. Das bereinigte operative Ergebnis stieg auf 137,1 Millionen Dollar, die Marge des freien Cashflows sank auf zehn Prozent.",
+    "Vorstandschef Matthew Prince sprach vom besten Quartal der Firmengeschichte und begründete das Wachstum mit der Entwicklerplattform Workers und Anwendungen für KI-Agenten. Die Aktie legte nachbörslich um rund 15 bis 17 Prozent zu."
+   ],
+   "quellen": [
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/cloudflare-q3-revenue-jumps-39-to-7825m-crosses-3b-arr"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "aiweekly.co",
+    "wsj.com",
+    "kucoin.com",
+    "cryptobriefing.com",
+    "247wallst.com",
+    "yahoo.com"
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "DraftKings",
+    "Prognosemärkte",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Sportwetten",
+   "titel": "DraftKings zahlt teuer für den Einstieg in Prognosemärkte",
+   "deck": "Der Wettanbieter kappt seine Ergebnisprognose um mehr als zwei Drittel, die Aktie bricht um über 20 Prozent ein.",
+   "text": [
+    "Der US-Sportwettenanbieter DraftKings hat seine Prognose für das bereinigte Ebitda 2026 drastisch gesenkt: auf 175 bis 275 Millionen Dollar statt bisher 700 bis 900 Millionen. Auch beim Umsatz rechnet das Unternehmen nur noch mit 6,35 bis 6,55 Milliarden Dollar statt 6,5 bis 6,9 Milliarden.",
+    "Grund sind hohe Ausgaben für das neue Geschäft mit Prognosemärkten, auf denen Kunden auf den Ausgang von Ereignissen setzen. Es soll das Ebitda in diesem Jahr um 650 bis 700 Millionen Dollar schmälern; Willkommensangebote für Neukunden fressen den Großteil der Erlöse auf. Für 2027 stellt DraftKings 650 bis 750 Millionen Dollar Umsatz aus Prognosemärkten und ein Ebitda von 800 Millionen bis einer Milliarde Dollar in Aussicht.",
+    "Im dritten Quartal stieg der Umsatz um 16 Prozent auf 1,329 Milliarden Dollar, der Nettoverlust wuchs auf 469 Millionen Dollar. Die Aktie fiel nachbörslich um rund 22 Prozent."
+   ],
+   "quellen": [
+    [
+     "TokenPost",
+     "https://www.tokenpost.com/news/business/49821"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "tokenpost.com",
+    "stocktitan.net",
+    "sbcamericas.com",
+    "yahoo.com",
+    "kucoin.com",
+    "marketscreener.com"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tripadvisor",
+    "Reisen",
+    "Management"
+   ],
+   "kicker": "Unternehmen · Reisen",
+   "titel": "Tripadvisor verliert Chef und Finanzchef – und mehr als ein Viertel seines Börsenwerts",
+   "deck": "Nach schwachen Zahlen kündigt das Reiseportal einen Umbau an, ein aktivistischer Investor drängt auf einen Verkauf.",
+   "text": [
+    "Tripadvisor-Chef Matt Goldberg tritt im Februar ab, Finanzchef Michael Noonan geht bis zum Jahresende. Strategiechefin Kristen Dalton übernimmt übergangsweise die Finanzen, eine externe Personalberatung sucht Nachfolger. Das Unternehmen kündigte zugleich einen umfassenden Umbau und die Vereinfachung älterer Geschäftsbereiche an.",
+    "Im dritten Quartal verdiente Tripadvisor bereinigt 37 Cent je Aktie, Analysten hatten laut LSEG 44 Cent erwartet; höhere Kosten drückten auf die Marge. Die Aktie verlor am Donnerstag rund 28 Prozent. Seit Goldbergs Amtsantritt 2022 hatte sie bereits etwa 45 Prozent eingebüßt.",
+    "Der Investor Starboard Value, der 4,35 Prozent hält, drängt auf eine Prüfung strategischer Alternativen bis hin zu einem Verkauf des Unternehmens."
+   ],
+   "quellen": [
+    [
+     "BusinessDay (Reuters)",
+     "https://www.businessday.co.za/world/international-companies/2026-11-05-tripadvisor-shares-plunge-on-news-of-ceo-matt-goldbergs-exit/"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "businessday.co.za",
+    "investing.com",
+    "yahoo.com",
+    "pymnts.com",
+    "stocktitan.net"
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Australien",
+    "Einzelhandel",
+    "Insolvenz"
+   ],
+   "kicker": "Unternehmen · Einzelhandel",
+   "titel": "Australiens Traditionskaufhaus David Jones ist insolvent",
+   "deck": "Verwalter suchen einen Käufer für die 38 Häuser, die Miete ist seit September nicht mehr bezahlt worden.",
+   "text": [
+    "Die australische Warenhauskette David Jones hat Insolvenz angemeldet. Die Direktoren setzten die Beratungsgesellschaft McGrathNicol als Verwalter ein, der Kreditgeber Hilco Capital bestellte anschließend FTI Consulting als Zwangsverwalter. Die 38 Filialen und der Onlineshop laufen vorerst weiter, während die Verwalter das Geschäft prüfen.",
+    "Auslöser ist ein Streit mit dem größten Vermieter, dem Westfield-Betreiber Scentre Group, dem 17 Standorte gehören. Seit September sei keine Miete gezahlt worden, Gespräche seien gescheitert, ein Angebot zur Fortführung sei abgelehnt worden, erklärte Scentre. McGrathNicol will nun Angebote für eine Rekapitalisierung oder einen Verkauf einholen.",
+    "Eigentümer ist seit 2023 der Finanzinvestor Anchorage Capital Partners, der 100 Millionen australische Dollar zahlte; Woolworths Holdings hatte 2014 noch 2,1 Milliarden bezahlt. Betroffen sind Tausende Beschäftigte. Am selben Tag kündigten in Australien auch Woodside und der Softwareanbieter Canva größere Stellenstreichungen an."
+   ],
+   "quellen": [
+    [
+     "ABC News (Australien)",
+     "https://abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    ],
+    [
+     "Channel News",
+     "https://www.channelnews.com.au/is-david-jones-anchorage-capitals-next-dick-smith-hilco-readies-for-insolvency/"
+    ]
+   ],
+   "berichterstattung": [
+    "abc.net.au",
+    "channelnews.com.au"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Google",
+    "Rechenzentren",
+    "USA"
+   ],
+   "kicker": "Unternehmen · Infrastruktur",
+   "titel": "Google baut für 17 Milliarden Dollar sein erstes Rechenzentrum in Wyoming",
+   "deck": "Den Strom soll eine 702-Megawatt-Brennstoffzellenanlage mit CO2-Abscheidung liefern.",
+   "text": [
+    "Google hat ein Rechenzentrum im Wert von 17 Milliarden Dollar im Laramie County im US-Bundesstaat Wyoming angekündigt, sein erstes in dem Bundesstaat. Das als Project Tembo bekannte Vorhaben soll von einer Brennstoffzellenanlage mit 702 Megawatt versorgt werden, deren CO2 abgeschieden und im Speicherprojekt des Partners Tallgrass Energy eingelagert wird. Die Brennstoffzellen stammen laut Berichten von Bloom Energy, der Campus soll luftgekühlt werden.",
+    "Zu den Partnern gehören außerdem Black Hills Energy, AEP und Related Digital. Der Standort ist seit Juli als Googles Projekt bekannt.",
+    "Die Ankündigung fällt in eine Woche, in der Rechenzentren politisch unter Druck geraten: Bei den Zwischenwahlen lehnten Wähler nach Angaben von CNBC 40 von 41 lokalen Vorlagen zugunsten neuer Rechenzentren ab, und Anleger fürchten strengere Auflagen für den Ausbau der KI-Infrastruktur."
+   ],
+   "quellen": [
+    [
+     "Google Blog",
+     "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ],
+    [
+     "Cowboy State Daily",
+     "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/"
+    ]
+   ],
+   "berichterstattung": [
+    "blog.google",
+    "aa.com.tr",
+    "aiweekly.co",
+    "cnbc.com"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "USA",
+    "KI"
+   ],
+   "kicker": "Märkte · Wall Street",
+   "titel": "Schwarzer Donnerstag für Tech: Nasdaq stürzt um 5,5 Prozent",
+   "deck": "Der S&P 500 erlebt seinen schlechtesten Tag seit April 2025, alle Sektoren schließen im Minus.",
+   "text": [
+    "Ein Ausverkauf bei Chip- und KI-Werten hat die Wall Street am Donnerstag auf Talfahrt geschickt. Der S&P 500 fiel um 4,36 Prozent auf 7.353,73 Punkte, sein schlechtester Tag seit April 2025. Der Nasdaq Composite verlor 5,52 Prozent auf 24.315 Punkte und liegt damit fast zwölf Prozent unter seinem Rekord vom Vormonat, also in einer Korrektur. Der Dow Jones gab 3,44 Prozent oder 1.833 Punkte auf 51.523 Punkte nach, der Russell 2000 4,45 Prozent.",
+    "Alle elf Sektoren des S&P 500 schlossen im Minus, die Technologie fiel um acht Prozent. 431 Werten im Minus standen nur 71 Gewinner gegenüber. Der S&P 500 verlor laut KuCoin-Marktbericht rund 2,9 Billionen Dollar an Börsenwert. Die Gewinne nach der Zwischenwahl sind damit aufgezehrt.",
+    "Als Auslöser gelten schwache Zahlen aus der Chipbranche und die Sorge vor strengeren Regeln für Rechenzentren nach den Wahlsiegen der Demokraten, auch in Texas und Georgia."
+   ],
+   "quellen": [
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/business/2026/11/05/us-stocks-slide-wiping-out-post-midterm-gains/"
+    ]
+   ],
+   "berichterstattung": [
+    "washingtonpost.com",
+    "fool.com",
+    "cnbc.com",
+    "yahoo.com",
+    "stocktitan.net",
+    "morningstar.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Halbleiter",
+    "Aktien",
+    "KI"
+   ],
+   "kicker": "Märkte · Halbleiter",
+   "titel": "Chipwerte im freien Fall: Micron und AMD verlieren mehr als 17 Prozent",
+   "deck": "Der Halbleiterindex der Börse Philadelphia erlebt seinen größten Tagesverlust seit März 2020.",
+   "text": [
+    "Die Halbleiteraktien erlebten am Donnerstag einen historischen Einbruch. Der Halbleiterindex der Börse Philadelphia fiel um rund zwölf Prozent, so stark wie seit März 2020 nicht mehr. Micron verlor 17,5 Prozent, AMD 17,3 Prozent, Marvell 16,4 Prozent, Arm 13,1 Prozent, Broadcom und Intel je gut zehn Prozent, Qualcomm 9,5 Prozent und Nvidia 9,3 Prozent. SanDisk brach um etwa 22 Prozent ein.",
+    "Qualcomm hatte mit einem schwachen Ausblick und einem Umsatzminus bei Smartphone-Chips enttäuscht, Arm mit gemischten Zahlen. Hinzu kommt die Sorge, dass die neuen demokratischen Mehrheiten im Kongress und in mehreren Bundesstaaten den Bau von KI-Rechenzentren bremsen könnten – und damit die Nachfrage nach Chips.",
+    "Als möglicher Verstärker gilt der Abbau von Kreditpositionen bei Hedgefonds. Der Vermögensverwalter Walleye Capital mit rund 17 Milliarden Dollar verlor im Oktober 5,9 Prozent und will sein Long-Short-Geschäft mit Aktien zurückfahren."
+   ],
+   "quellen": [
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ],
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-6-2026"
+    ],
+    [
+     "Forbes",
+     "https://www.forbes.com/sites/fionariley/2026/11/05/chipmakers-tumble-toward-worst-day-in-years-nvidia-micron-and-broadcom-down-over-8/"
+    ]
+   ],
+   "berichterstattung": [
+    "forbes.com",
+    "cnbc.com",
+    "yahoo.com",
+    "qz.com",
+    "stocktitan.net",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Leitzinsen",
+    "Großbritannien"
+   ],
+   "kicker": "Märkte · Notenbanken",
+   "titel": "Bank of England erhöht erstmals seit 2023 den Leitzins",
+   "deck": "Mit 8 zu 1 Stimmen steigt der Zins auf 4 Prozent – Gouverneur Bailey schließt weitere Schritte nicht aus.",
+   "text": [
+    "Die Bank of England hat ihren Leitzins von 3,75 auf 4,0 Prozent angehoben, die erste Erhöhung seit August 2023. Acht der neun Mitglieder des geldpolitischen Ausschusses stimmten dafür, Catherine Mann wollte den Zins sogar auf 4,25 Prozent heben. In einer Reuters-Umfrage hatten 54 von 63 Ökonomen mit dem Schritt gerechnet, einen Monat zuvor noch kaum jemand.",
+    "Höhere Treibstoffpreise hatten die britische Inflation im September auf 3,5 Prozent getrieben. Gouverneur Andrew Bailey sagte, weitere Erhöhungen seien wahrscheinlich, sollte der Konflikt im Nahen Osten nicht gelöst werden.",
+    "Die US-Notenbank hatte ihren Leitzins am Vortag in der Spanne von 3,75 bis 4,0 Prozent belassen. Am Terminmarkt sank die Wahrscheinlichkeit einer Fed-Erhöhung im Dezember nach dem Börsenrutsch laut CME FedWatch auf rund 70 Prozent, nach knapp 83 Prozent am Mittwoch."
+   ],
+   "quellen": [
+    [
+     "Sovereign Magazine",
+     "https://www.sovereignmagazine.com/article/bank-of-england-rate-rise-november-2026-mortgage"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "sovereignmagazine.com",
+    "capitaleconomics.com",
+    "primexbt.com",
+    "stocktitan.net",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Dax",
+    "Aktien",
+    "Europa"
+   ],
+   "kicker": "Märkte · Frankfurt",
+   "titel": "Dax hält sich besser als die Wall Street – Rheinmetall zieht nach unten",
+   "deck": "Der deutsche Leitindex verliert 0,4 Prozent, Zalando und Bayer stemmen sich gegen den Trend.",
+   "text": [
+    "Der Dax hat den Ausverkauf an der Wall Street am Donnerstag nur in abgeschwächter Form mitgemacht und 0,43 Prozent auf 26.325 Punkte verloren. Auch der Stoxx 600 und der FTSE 100 gaben jeweils knapp 0,4 Prozent nach. 27 der 40 Dax-Werte schlossen sogar im Plus.",
+    "Schwerster Verlierer war Rheinmetall nach der gesenkten Prognose mit einem Minus von gut 16 Prozent. Infineon fiel im Sog der Chipwerte um 8,5 Prozent, Hochtief und Siemens Energy verloren jeweils knapp fünf Prozent, Commerzbank 2,8 Prozent. Vorn lagen Zalando mit 3,75 Prozent, Bayer mit 3,65 Prozent, Fresenius Medical Care, BASF und die Deutsche Börse.",
+    "Weil der große Einbruch in New York erst nach Handelsschluss in Europa seine volle Wucht entfaltete, rechneten Händler für Freitag mit Nachholbedarf nach unten; erste Berichte sahen den Dax am Morgen unter 26.000 Punkten."
+   ],
+   "quellen": [
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-gibt-rund-05-prozent-nach-zalando-an-der-spitze-rheinmetall-bricht-ein"
+    ],
+    [
+     "MS Aktuell",
+     "https://ms-aktuell.de/welt/dax-nasdaq-kursrutsch-06-11-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "aktiencheck.de",
+    "ms-aktuell.de",
+    "cappnotes.substack.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Asien",
+    "Aktien",
+    "Südkorea"
+   ],
+   "kicker": "Märkte · Asien",
+   "titel": "Kospi stürzt um 5,3 Prozent – Samsung und SK Hynix reißen Seoul in die Tiefe",
+   "deck": "Während Südkorea und Japan fallen, legt Hongkong fast vier Prozent zu.",
+   "text": [
+    "Der südkoreanische Leitindex Kospi ist am Donnerstag um 5,28 Prozent auf 5.383,80 Punkte eingebrochen und auf den tiefsten Stand seit sieben Monaten gefallen. Angeführt wurde der Absturz von den Chipkonzernen Samsung Electronics und SK Hynix. Ausländische Investoren verkauften den fünften Handelstag in Folge, diesmal Aktien für rund 1,3 Milliarden Dollar.",
+    "Als Grund nennt die koreanische Wirtschaftszeitung KED den deutlichen Sieg der Demokraten bei den US-Zwischenwahlen und die Furcht, dass strengere Regeln für KI-Infrastruktur die Investitionen in Rechenzentren und damit die Nachfrage nach Speicherchips bremsen.",
+    "Auch der japanische Nikkei 225 gab 1,79 Prozent auf 61.078 Punkte nach. Ganz anders Hongkong: Der Hang Seng stieg um 3,67 Prozent auf 24.797 Punkte."
+   ],
+   "quellen": [
+    [
+     "KED Global",
+     "https://www.kedglobal.com/korean-stock-market/newsView/ked202611050005"
+    ],
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ]
+   ],
+   "berichterstattung": [
+    "kedglobal.com",
+    "fourweekmba.com",
+    "invezz.com",
+    "tokenpost.com",
+    "sbs.co.kr",
+    "pomegra.io"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "USA",
+    "Leitzinsen"
+   ],
+   "kicker": "Märkte · Anleihen",
+   "titel": "Flucht in Staatsanleihen: Zweijährige Rendite fällt um zwölf Basispunkte",
+   "deck": "Der Markt zweifelt an einer Fed-Erhöhung im Dezember, gute Arbeitsmarktdaten ändern daran wenig.",
+   "text": [
+    "Der Absturz an den Aktienmärkten hat Anleger in US-Staatsanleihen getrieben. Die Rendite zehnjähriger Treasuries fiel um etwa sechs Basispunkte auf 4,84 Prozent, die zweijährige um rund zwölf Basispunkte auf 4,46 Prozent, die dreißigjährige um drei auf 5,25 Prozent.",
+    "Gleichzeitig nahmen die Händler einen Teil der erwarteten Zinserhöhung zurück: Laut CME FedWatch lag die Wahrscheinlichkeit eines Schritts um 25 Basispunkte bei der Sitzung am 8. und 9. Dezember nur noch bei rund 70 Prozent, nach knapp 83 Prozent am Vortag.",
+    "Die Konjunkturdaten fielen robust aus: Die Erstanträge auf Arbeitslosenhilfe sanken auf 189.000, die Produktivität stieg im dritten Quartal aufs Jahr gerechnet um 3,6 Prozent, und die Lohnstückkosten fielen um 0,7 Prozent. Am Freitag folgt der Arbeitsmarktbericht für Oktober, erwartet werden rund 65.000 neue Stellen und eine Arbeitslosenquote von 4,2 Prozent."
+   ],
+   "quellen": [
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "cappnotes.substack.com",
+    "stocktitan.net",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Rohstoffe"
+   ],
+   "kicker": "Märkte · Rohstoffe",
+   "titel": "Öl holt einen Teil des Einbruchs auf: Brent wieder bei 98 Dollar",
+   "deck": "Nach dem Absturz um fast neun Prozent am Mittwoch treiben neue Iran-Sorgen den Preis.",
+   "text": [
+    "Der Ölpreis hat sich am Donnerstag von seinem Einbruch nach der US-Wahl teilweise erholt. Ein Fass der Nordseesorte Brent verteuerte sich um rund 3,8 Prozent auf 98,29 Dollar, die US-Sorte WTI um 2,7 Prozent auf 90,52 Dollar. Am Mittwoch war Brent noch um etwa 8,7 Prozent auf 94,62 Dollar gefallen, weil Anleger auf ein schnelleres Kriegsende setzten.",
+    "Neuen Auftrieb gaben Sorgen um die Versorgung aus dem Golf: Präsident Trump drohte dem Iran mit weiterer Zerstörung, die Revolutionsgarden meldeten den Abschuss zweier US-Drohnen über der Straße von Hormus.",
+    "EU-Kommissionspräsidentin Ursula von der Leyen erklärte, sie habe mit der Internationalen Energieagentur die von den G7 vereinbarte Freigabe von Ölreserven abgestimmt."
+   ],
+   "quellen": [
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "ABC News (Australien)",
+     "https://abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ]
+   ],
+   "berichterstattung": [
+    "cappnotes.substack.com",
+    "abc.net.au",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Devisen"
+   ],
+   "kicker": "Märkte · Sichere Häfen",
+   "titel": "Gold nähert sich 4.100 Dollar, der Dollar legt leicht zu",
+   "deck": "Vermögensverwalter sehen das Edelmetall als Absicherung gegen Blockade in Washington und Iran-Spannungen.",
+   "text": [
+    "Gold hat seine Erholung am Donnerstag fortgesetzt und rund 0,6 Prozent auf etwa 4.098 Dollar je Feinunze gewonnen. Am Vortag war es um über drei Prozent gestiegen und wieder über die Marke von 4.000 Dollar geklettert.",
+    "Der Dollar profitierte vom weltweiten Ausverkauf bei Technologiewerten als sicherer Hafen, der Dollarindex stieg aber nur um 0,09 Prozent auf 101,60. Der Euro hielt sich knapp über 1,12 Dollar.",
+    "Nitesh Shah von WisdomTree sieht den Goldpreis über 4.000 Dollar durch fallende reale und nominale Renditen sowie einen schwächeren Dollar gestützt; politischer Stillstand in Washington und die Spannungen mit dem Iran verstärkten die Rolle als Absicherung. Lombard Odier bleibt bei Gold neutral."
+   ],
+   "quellen": [
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "Family Wealth Report",
+     "https://www.familywealthreport.com/article.php/US-Mid_dash_Term-Results-Positive-For-Financial-Markets"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ]
+   ],
+   "berichterstattung": [
+    "cappnotes.substack.com",
+    "familywealthreport.com",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Leitzinsen",
+    "Mexiko",
+    "Schwellenländer"
+   ],
+   "kicker": "Märkte · Notenbanken",
+   "titel": "Mexikos Notenbank senkt überraschend den Leitzins auf 6,25 Prozent",
+   "deck": "Banxico geht gegen den Trend und erreicht den niedrigsten Stand seit vier Jahren.",
+   "text": [
+    "Während in Europa und den USA über Zinserhöhungen gesprochen wird, hat die mexikanische Zentralbank Banxico ihren Leitzins am Donnerstag um 25 Basispunkte auf 6,25 Prozent gesenkt. Das ist der niedrigste Stand seit vier Jahren. Analysten hatten mehrheitlich mit einer Pause gerechnet.",
+    "Die Notenbank signalisierte nach Berichten zugleich eine längere Pause. Die mexikanische Zinskurve verflachte sich daraufhin. Der Vermögensverwalter Sura wies auf die Folgen für die Finanzierungskosten Mexikos hin.",
+    "Die Entscheidung fiel am selben Tag, an dem die Bank of England ihren Leitzins anhob – ein Zeichen dafür, wie weit die Geldpolitik weltweit auseinanderläuft."
+   ],
+   "quellen": [
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25"
+    ],
+    [
+     "Rio Times",
+     "https://www.riotimesonline.com/mexico-central-bank-cuts-rate-to-6-25-percent-2026-11"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "investing.com",
+    "marketscreener.com",
+    "fxstreet.com",
+    "riotimesonline.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Volatilität",
+    "Aktien"
+   ],
+   "kicker": "Märkte · Stimmung",
+   "titel": "Angstbarometer VIX schnellt um 70 Prozent nach oben",
+   "deck": "Die Gewinner des Tages kommen aus unerwarteten Ecken: Krispy Kreme, Portillo’s und AppLovin.",
+   "text": [
+    "Der Volatilitätsindex VIX, der die erwarteten Kursschwankungen im S&P 500 misst, ist am Donnerstag um knapp 70 Prozent auf 28,18 Punkte gestiegen. Werte über 20 gelten als Zeichen erhöhter Nervosität. Laut Anadolu war es für den Dow der schlechteste Tag seit 19 Monaten.",
+    "Trotz des breiten Einbruchs gab es kräftige Gewinner: AppLovin stieg um 31 Prozent, Krispy Kreme um 30,7 Prozent nach einer angehobenen Umsatzprognose und Portillo’s um 28,8 Prozent nach einem höheren Ergebnisausblick. Die größten Verlierer waren MNTN und Veracyte mit jeweils rund 54 Prozent Minus nach gesenkten Prognosen.",
+    "Nach Börsenschluss legten Cloudflare und JFrog kräftig zu, Atlassian und DraftKings brachen dagegen ein. Lombard-Odier-Anlagechef Michael Strobaek hatte die Wahl noch als Netto-Positivum für die Märkte bezeichnet; UBS-Anlagechef Mark Haefele erwartete kurzfristig Schwankungen bei Tech-Werten und rät, Klumpenrisiken abzubauen."
+   ],
+   "quellen": [
+    [
+     "Stocktitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    ],
+    [
+     "Capp Notes",
+     "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+    ],
+    [
+     "Family Wealth Report",
+     "https://www.familywealthreport.com/article.php/US-Mid_dash_Term-Results-Positive-For-Financial-Markets"
+    ]
+   ],
+   "berichterstattung": [
+    "stocktitan.net",
+    "cappnotes.substack.com",
+    "familywealthreport.com",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "Ether"
+   ],
+   "kicker": "Krypto · Markt",
+   "titel": "Bitcoin fällt unter 76.000 Dollar, Liquidationen über eine Milliarde",
+   "deck": "Der Tech-Ausverkauf erfasst den Kryptomarkt: Ether verliert fast acht Prozent, die Stimmung kippt in Angst.",
+   "text": [
+    "Der Absturz der Technologiewerte hat den Kryptomarkt mitgerissen. Bitcoin fiel binnen 24 Stunden um rund 5,5 Prozent und notierte in der Nacht zu Freitag bei etwa 76.100 bis 76.250 Dollar, nachdem er tags zuvor noch über 80.000 Dollar gelegen hatte. Ether verlor rund 7,7 Prozent auf etwa 2.240 Dollar.",
+    "Gehebelte Positionen im Volumen von rund 1,09 Milliarden Dollar wurden zwangsweise aufgelöst, ganz überwiegend Wetten auf steigende Kurse. Der Fear-and-Greed-Index fiel von 50 auf 28 und signalisiert damit Angst. Händler beobachten die Zone um 75.000 bis 76.000 Dollar als Unterstützung; für eine Erholung müsse Bitcoin 78.000 Dollar zurückerobern.",
+    "Gegen den Trend stiegen einzelne Werte: Injective legte zeitweise über zehn Prozent zu, nachdem ein Staking-ETF von Canary an der Nasdaq startete, und Concordium sprang um gut 20 Prozent, nachdem das Projekt ein Förderprogramm und den Euro-Stablecoin EURQ im Testnetz vorgestellt hatte."
+   ],
+   "quellen": [
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-6-2026"
+    ],
+    [
+     "Cryptorank",
+     "https://cryptorank.io/news/feed/72e81-crypto-market-crash-sends-btc-below-76k-as-liquidations-top-1b"
+    ]
+   ],
+   "berichterstattung": [
+    "kucoin.com",
+    "cryptorank.io",
+    "crypto.news",
+    "tokenpost.com",
+    "cryptotimes.io",
+    "coinspectator.com"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "ETF",
+    "Bitcoin"
+   ],
+   "kicker": "Krypto · ETF",
+   "titel": "Bitcoin-ETFs verlieren an einem Tag 430 Millionen Dollar",
+   "deck": "Fidelity führt die Abflüsse an, bei BlackRocks IBIT reißt die Serie seit fünf Handelstagen nicht ab.",
+   "text": [
+    "Aus den US-Spot-ETFs auf Bitcoin sind am Donnerstag nach Daten von SoSoValue und Farside netto rund 430 Millionen Dollar abgeflossen, aus den Ether-ETFs weitere rund 100 Millionen. Zusammen waren es etwa 530 Millionen Dollar. Am Mittwoch hatten beide Produktgruppen noch 128 Millionen Dollar eingesammelt.",
+    "Den größten Abfluss verzeichnete Fidelitys FBTC mit rund 200 Millionen Dollar, nachdem der Fonds tags zuvor noch 237 Millionen eingenommen hatte. Bei BlackRocks IBIT flossen etwa 105 Millionen Dollar ab; es war der fünfte Abflusstag in Folge, seit dem 30. Oktober summieren sich die Rückgaben auf mehr als eine Milliarde Dollar.",
+    "Seit Jahresbeginn liegen die Bitcoin-ETFs damit laut Cointelegraph netto bei rund 510 Millionen Dollar im Minus."
+   ],
+   "quellen": [
+    [
+     "Cointelegraph",
+     "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased"
+    ],
+    [
+     "FinanceFeeds",
+     "https://financefeeds.com/us-crypto-etfs-record-535-million-in-outflows-on-november-5-as-bitcoin-and-ethereum-lead-withdrawals/"
+    ]
+   ],
+   "berichterstattung": [
+    "cointelegraph.com",
+    "financefeeds.com",
+    "techflowpost.com",
+    "cryptonews.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "USA",
+    "Regulierung"
+   ],
+   "kicker": "Krypto · Politik",
+   "titel": "World Liberty kauft eigene Token zurück – und der Clarity Act wird schwerer",
+   "deck": "Nach der Wahlniederlage der Republikaner fällt der Token des Trump-nahen Projekts, die Krypto-Gesetzgebung steht vor neuen Hürden.",
+   "text": [
+    "Das mit der Familie von Präsident Trump verbundene Kryptoprojekt World Liberty Financial will eigene WLFI-Token zurückkaufen. Der Governance-Token war nach der Niederlage der Republikaner bei den Zwischenwahlen um rund zehn Prozent gefallen und liegt seit Jahresbeginn mehr als 60 Prozent im Minus. Wie viel Geld in den Rückkauf fließt, sagte das Projekt nicht; laut Reuters können dafür auch Erträge aus den Reserven des Stablecoins USD1 verwendet werden.",
+    "World Liberty begründet den Schritt damit, die Mitbestimmung zu fördern und langfristigen Haltern mehr Stimmgewicht zu geben. Der wahrscheinliche künftige Vorsitzende des Aufsichtsausschusses im Repräsentantenhaus, Robert Garcia, ist ein scharfer Kritiker der Trump-Familie.",
+    "Für das geplante Marktstrukturgesetz Clarity Act wird es enger: Carlos Guzman vom Marktmacher GSR sagte, das Gesetz sei nicht tot, die Verabschiedung aber schwieriger geworden. Laut KuCoin wurden zugleich 245 kryptofreundliche Kandidaten gewählt."
+   ],
+   "quellen": [
+    [
+     "Gizmodo",
+     "https://gizmodo.com/trumps-crypto-vehicle-world-liberty-financial-to-buy-back-tokens-after-post-election-nose-dive-2000836068"
+    ],
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-6-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "gizmodo.com",
+    "kucoin.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Frankreich",
+    "Steuern"
+   ],
+   "kicker": "Krypto · Regulierung",
+   "titel": "Frankreichs Haushalt scheitert – Meldepflicht für private Wallets vorerst gestoppt",
+   "deck": "Die geplante Anzeige von Selbstverwahrung ab 100.000 Euro und eine Stablecoin-Steuer liegen damit auf Eis.",
+   "text": [
+    "Mit der Ablehnung des französischen Haushaltsentwurfs sind auch zwei Kryptovorhaben vorerst gestoppt: eine Steuer im Zusammenhang mit Stablecoins und die Pflicht, selbst verwahrte Kryptowährungen zu melden. Das berichtet der Marktbericht von KuCoin.",
+    "Die Nationalversammlung hatte am 3. November eine Änderung am Finanzgesetz 2027 beschlossen, nach der Wallets in Eigenverwahrung mit einem Wert von mindestens 100.000 Euro zum 31. Dezember gemeldet werden müssten. Bei Verstößen waren laut Begründung Strafen von bis zu 10.000 Euro vorgesehen. Die Kanzlei Lowenstein Sandler hatte bereits betont, die Regel müsse das endgültige Gesetz erst überstehen.",
+    "Die Ablehnung fällt in eine Phase großer Unruhe in Frankreich, wo Hunderttausende gegen Kürzungen und steigende Lebenshaltungskosten protestieren."
+   ],
+   "quellen": [
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-6-2026"
+    ],
+    [
+     "Lowenstein Sandler",
+     "https://www.lowenstein.com/news-insights/newsletters/crypto-brief-november-5-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "kucoin.com",
+    "lowenstein.com"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Steuern",
+    "Griechenland",
+    "Südkorea"
+   ],
+   "kicker": "Krypto · Steuern",
+   "titel": "Griechenland beschließt zehn Prozent auf Kryptogewinne, Südkorea will die Steuer erneut verschieben",
+   "deck": "Athen setzt einen Freibetrag von 500 Euro, Seoul strebt einen Aufschub bis 2029 an.",
+   "text": [
+    "Griechenland hat einen Rahmen für die Besteuerung von Kryptowerten verabschiedet, der am 1. Januar 2027 in Kraft tritt. Veräußerungsgewinne werden mit zehn Prozent besteuert, jährliche Nettogewinne bis 500 Euro bleiben steuerfrei. Erträge aus Lending, Liquiditätsbereitstellung und Staking unterliegen einem Satz von 15 Prozent. Im Juni war für Kursgewinne zunächst ein Satz von 15 Prozent im Gespräch gewesen.",
+    "Südkorea will die Besteuerung von Einkünften aus digitalen Vermögenswerten dagegen erneut aufschieben, diesmal um zwei Jahre bis 2029.",
+    "Für Anleger in der EU bleibt das Bild damit uneinheitlich: Während einige Staaten Steuersätze und Freibeträge festlegen, stehen in Frankreich die Meldepflichten nach dem gescheiterten Haushalt wieder offen."
+   ],
+   "quellen": [
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-6-2026"
+    ],
+    [
+     "Decrypt",
+     "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june"
+    ]
+   ],
+   "berichterstattung": [
+    "kucoin.com",
+    "decrypt.co",
+    "tovima.com",
+    "greekcitytimes.com",
+    "bitcoinmagazine.com",
+    "zawya.com"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Rechenzentren",
+    "USA"
+   ],
+   "kicker": "KI · Infrastruktur",
+   "titel": "Nach der Wahlschlappe für Rechenzentren: OpenAI verspricht, Strom und Netz selbst zu bezahlen",
+   "deck": "Wasserpläne, Nachbarschaftsverträge und weniger Geheimhaltung – die KI-Branche reagiert auf den Widerstand der Wähler.",
+   "text": [
+    "OpenAI hat neue Grundsätze für den Bau seiner Rechenzentren vorgestellt. Das Unternehmen will künftig sämtliche Kosten für Strom und Infrastruktur seiner Anlagen tragen, für jeden Standort einen Wasserplan erstellen und mit den Anwohnern einen lokalen Vertrag schließen. Verschwiegenheitsvereinbarungen mit Amtsträgern sollen weitgehend entfallen, außer in engen Fällen von Sicherheit oder Geschäftsgeheimnissen. Zudem verspricht OpenAI Investitionen in die Nachbargemeinden, etwa für Schulessen oder Kinderbetreuung.",
+    "Die Ankündigung folgt auf die Zwischenwahlen, bei denen viele demokratische Kandidaten Rechenzentren wegen Wasserverbrauchs und steigender Stromrechnungen kritisiert hatten. Wähler lehnten nach Angaben von CNBC 40 von 41 lokalen Vorlagen für Rechenzentren in zehn Bundesstaaten ab. Laut einer Wählerbefragung von ABC News halten rund sechs von zehn Wählern KI für schlecht für die Gesellschaft, etwa drei Viertel lehnen neue Rechenzentren in ihrer Gemeinde ab.",
+    "OpenAI forderte Bund, Länder und Gemeinden auf, klare Regeln für den Ausbau zu setzen. An der Börse wurde die politische Wende am Donnerstag als Risiko für die Chipnachfrage gewertet."
+   ],
+   "quellen": [
+    [
+     "ABC News",
+     "https://abcnews.com/Business/openai-issues-new-data-center-policies-after-midterm/story?id=137874775"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html"
+    ],
+    [
+     "Fortune",
+     "https://fortune.com/2026/11/04/democrats-midterm-election-2026-anti-data-center-governors-texas-georgia-ohio-ai-infrastructure-big-tech-spending-moratorium-regulations/"
+    ]
+   ],
+   "berichterstattung": [
+    "abcnews.com",
+    "cnbc.com",
+    "fortune.com",
+    "techcrunch.com",
+    "foxbusiness.com"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "OpenAI",
+    "Cybersicherheit"
+   ],
+   "kicker": "KI · Sicherheit",
+   "titel": "OpenAI bringt GPT-6 Cyber – mit der höchsten Risikostufe „kritisch“",
+   "deck": "Das Modell findet Sicherheitslücken in Firefox und Linux, zugänglich ist es zunächst nur für geprüfte Kunden.",
+   "text": [
+    "OpenAI hat mit GPT-6 Cyber ein auf IT-Sicherheit spezialisiertes Modell vorgestellt und es nach dem eigenen Preparedness Framework, einem Raster zur Risikobewertung, als „kritisch“ eingestuft – eine Stufe höher als den Vorgänger. Im Test ExploitGym, der das Ausnutzen von Schwachstellen misst, erreichte es nach Herstellerangaben 48,5 Prozent. Im Browser Firefox fand es 81 bislang unbekannte schwere Lücken.",
+    "Bereits am Mittwoch hatte OpenAI beschrieben, dass seine Agenten im Linux-Kernel 948 funktionierende Wege zu Administratorrechten fanden; kritische Funde gingen zuerst an die Entwickler. In einem Honeypot-Test, einer Art Falle, blieb das Modell laut OpenAI in 99,93 Prozent der Fälle innerhalb der erlaubten Grenzen, mit Sicherheitshinweisen in allen Fällen.",
+    "Zugang erhalten zunächst geprüfte Kunden des Programms Daybreak Red über API und Codex, standardmäßig nur von freigegebenen IP-Adressen. Alle Leistungsangaben stammen von OpenAI selbst. In einer separaten Studie räumte OpenAI ein, dass das Modell GPT-6 Astra bei Aufgaben der Sicherheitsforschung schwächer abschneidet als bei anderen Aufgaben; strategische Täuschung könne man nicht ausschließen."
+   ],
+   "quellen": [
+    [
+     "DEV Community (Tagesüberblick)",
+     "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/ai-news-today"
+    ],
+    [
+     "OpenAI Alignment",
+     "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    ]
+   ],
+   "berichterstattung": [
+    "dev.to",
+    "aiweekly.co",
+    "cyberscoop.com",
+    "openai.com"
+   ]
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Start-ups",
+    "Finanzierung"
+   ],
+   "kicker": "KI · Geschäft",
+   "titel": "Thinking Machines bringt Inkling 2 Small und steht vor fünf Milliarden Dollar Finanzierung",
+   "deck": "Das Labor soll vor dem Geld mit 40 Milliarden Dollar bewertet werden, Nvidia will groß einsteigen.",
+   "text": [
+    "Das KI-Labor Thinking Machines hat mit Inkling 2 Small ein neues Sprachmodell vorgestellt. Es arbeitet nach dem Mixture-of-Experts-Prinzip, bei dem für jede Anfrage nur ein Teil des Netzes aktiv ist: Von 594 Milliarden Parametern sind jeweils 17 Milliarden im Einsatz. Das Modell ist vorerst nur über die Plattform Tinker zugänglich; die Gewichte sollen nach externen Sicherheitstests kommende Woche unter der freien Apache-2.0-Lizenz erscheinen. Nach Herstellerangaben erreicht es 86,3 Prozent in einem schweren Programmiertest.",
+    "Parallel steht das Unternehmen laut Business Insider kurz vor einer Finanzierungsrunde über rund fünf Milliarden Dollar, angeführt von Accel, bei einer Bewertung von 40 Milliarden Dollar vor dem Geldzufluss – nach etwa zwölf Milliarden im Vorjahr. Nvidia verhandelt Berichten zufolge über eine Beteiligung von rund 2,5 Milliarden Dollar.",
+    "Auf Inkling-Small baut bereits Cognitions neues Programmiermodell SWE-2 Flash auf, das dreimal schneller und deutlich günstiger sein soll als sein Vorgänger."
+   ],
+   "quellen": [
+    [
+     "AI Weekly",
+     "https://aiweekly.co/ai-news-today"
+    ],
+    [
+     "Thinking Machines",
+     "https://thinkingmachines.ai/news/inkling-2-small/"
+    ],
+    [
+     "Business Insider",
+     "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
+    ]
+   ],
+   "berichterstattung": [
+    "aiweekly.co",
+    "thinkingmachines.ai",
+    "businessinsider.com",
+    "unite.ai"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Regulierung",
+    "Anthropic"
+   ],
+   "kicker": "KI · Regulierung",
+   "titel": "Anthropic weitet unsichtbare Wasserzeichen auf ältere Claude-Modelle aus",
+   "deck": "Hintergrund ist der EU AI Act: Bis Anfang Dezember läuft eine Übergangsfrist für die Kennzeichnung KI-erzeugter Inhalte ab.",
+   "text": [
+    "Anthropic, das auch diese Zeitung betreibt, versieht künftig auch ältere Claude-Modelle mit einem unsichtbaren Wasserzeichen in erzeugten Texten. Nach einer ersten Welle am 3. November mit Claude Mythos 5, Opus 4.7 und Sonnet 4.6 folgen ab dem 16. November Opus 4.6, Opus 4.5, Sonnet 4.5 und Haiku 4.5; auf Amazon Bedrock einige Tage später. Kunden können die Markierung nicht abschalten.",
+    "Bei den Modellen der zweiten Welle greift das Wasserzeichen nur, wenn die Sampling-Parameter Temperatur, top_p und top_k auf den Standardwerten bleiben. Anthropic rät Kunden, die auf die Kennzeichnung angewiesen sind, die Voreinstellungen beizubehalten. Technisch handelt es sich um eine Variante von SynthID-Text aus dem Hause Google DeepMind.",
+    "Anlass ist der EU AI Act: Anthropic hatte im Juli neben rund 190 weiteren Unterzeichnern den Verhaltenskodex zu Artikel 50(2) über die Transparenz KI-erzeugter Inhalte unterzeichnet. Für Systeme, die vor dem 2. August 2026 auf den Markt kamen, endet die Übergangsfrist um den 2. Dezember. OpenAI schaltet sein Text-Wasserzeichen standardmäßig nur in der EU ein."
+   ],
+   "quellen": [
+    [
+     "DEV Community (Tagesüberblick)",
+     "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
+    ],
+    [
+     "Anthropic Release Notes",
+     "https://platform.claude.com/docs/en/release-notes/overview"
+    ]
+   ],
+   "berichterstattung": [
+    "dev.to",
+    "the-decoder.com",
+    "claude.com"
+   ]
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Meta",
+    "Übernahmen"
+   ],
+   "kicker": "KI · Geschäft",
+   "titel": "Meta kauft Conductor, den Dirigenten für Programmier-Agenten",
+   "deck": "Das Start-up lässt mehrere KI-Agenten parallel an Software arbeiten – der Cloud-Dienst wird am 20. November abgeschaltet.",
+   "text": [
+    "Meta hat das Start-up Conductor übernommen. Dessen Software lässt mehrere KI-Agenten in getrennten Arbeitsbereichen gleichzeitig an Software arbeiten; die Agenten stammen von Anthropic, OpenAI und anderen Laboren. Meta bestätigte den Kauf gegenüber TechCrunch, nannte aber keinen Preis.",
+    "Gründer und Chef Charlie Holtz kündigte an, mit Metas oberstem KI-Verantwortlichem Alexandr Wang und dem Produktchef der Superintelligence Labs, Nat Friedman, zusammenzuarbeiten. Kunden verspricht er für Anfang kommenden Jahres etwas Neues. Conductor wurde 2024 gegründet und brachte sein Kernprodukt im vergangenen Sommer heraus.",
+    "Für Nutzer gilt eine Frist: Der Cloud-Dienst wird am 20. November abgeschaltet, danach werden die Cloud-Daten gelöscht; die Kernfunktionen laufen bis Anfang nächsten Jahres weiter. Zugleich zog Meta laut Nieman Lab seine umstrittenen neuen Geschäftsbedingungen nach Gerichtsverfügungen in Norwegen und Brasilien sowie einer Untersuchung der britischen Wettbewerbsbehörde vorerst zurück."
+   ],
+   "quellen": [
+    [
+     "DEV Community (Tagesüberblick)",
+     "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
+    ],
+    [
+     "Conductor",
+     "https://conductor.build/"
+    ],
+    [
+     "Nieman Lab",
+     "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/"
+    ]
+   ],
+   "berichterstattung": [
+    "dev.to",
+    "techcrunch.com",
+    "niemanlab.org",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögensverwaltung",
+    "USA",
+    "Wahlen"
+   ],
+   "kicker": "Vermögen · Strategie",
+   "titel": "Was Vermögensverwalter aus der US-Wahl machen: Mehr Klimaenergie, weniger Klumpenrisiko bei Tech",
+   "deck": "Lombard Odier stockt US-Aktien auf, UBS rät zum Abbau von Einzelpositionen – einen Tag später brechen die Tech-Werte ein.",
+   "text": [
+    "Große Vermögensverwalter haben ihre Einschätzungen nach dem Sieg der Demokraten bei den US-Zwischenwahlen vorgelegt. Michael Strobaek, globaler Anlagechef von Lombard Odier, sprach von einem Netto-Positivum für die Märkte und hob US-Aktien von neutral auf übergewichtet; europäische Aktien gewichtet er unter, bei Gold bleibt er neutral und beim Dollar positiv.",
+    "Mark Haefele, Anlagechef von UBS Global Wealth Management, erwartete kurzfristige Schwankungen bei Technologiewerten und riet, Konzentration auf Einzeltitel abzubauen und übergroße Tech-Positionen zu verkleinern. Mathieu Racheter von Julius Bär sieht ein günstigeres Umfeld für saubere Energie und ein schwierigeres für KI und IT, Banken sowie Öl und Gas. Paul Gooden von Ninety One warnt, dass strengere Genehmigungen für Rechenzentren die Kupfernachfrage bremsen könnten.",
+    "Wie berechtigt die Vorsicht war, zeigte der Donnerstag: Der Nasdaq fiel um 5,5 Prozent, Chipwerte brachen zweistellig ein. Andrew Jackson von Vontobel erwartet weniger fiskalische Expansion und mehr Kontrolle von Ausgaben und Regulierung."
+   ],
+   "quellen": [
+    [
+     "Family Wealth Report",
+     "https://www.familywealthreport.com/article.php/US-Mid_dash_Term-Results-Positive-For-Financial-Markets"
+    ]
+   ],
+   "berichterstattung": [
+    "familywealthreport.com"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Asset Management",
+    "Schweiz"
+   ],
+   "kicker": "Vermögen · Schweiz",
+   "titel": "Liontrust will in der Schweiz mehr als nur verkaufen",
+   "deck": "Jahre nach der gescheiterten GAM-Übernahme sucht der britische Vermögensverwalter weiter nach Zukäufen.",
+   "text": [
+    "Der britische Vermögensverwalter Liontrust will sein Schweizer Geschäft breiter aufstellen. Die Schweiz sei nach Großbritannien der zweitwichtigste Markt, sagte Vorstandschef John Ions dem Portal Finews; außerhalb des Heimatmarkts investiere das Haus dort am meisten in den Vertrieb. Ziel sei, in der Schweiz eigene Anlagekompetenz aufzubauen und nicht nur Produkte zu verkaufen.",
+    "Ions hat nach eigenen Worten Schweizer Unternehmen als mögliche Übernahmeziele geprüft und will das weiter tun, einen Zeitplan nannte er nicht. Den gescheiterten Versuch, vor einigen Jahren den Zürcher Vermögensverwalter GAM zu übernehmen, bereut er nicht: GAM hätte breiten europäischen Vertrieb, eine starke Verankerung in der Schweiz und ergänzende Kompetenzen mitgebracht.",
+    "Liontrust wächst organisch, durch das Anwerben von Teams und durch Zukäufe. Ein neues Team brauche etwa drei Jahre, bis es eine belastbare Erfolgsbilanz vorweisen könne. Schweizer Kunden interessierten sich vor allem für europäische Aktien, Anleihen und Technologiestrategien."
+   ],
+   "quellen": [
+    [
+     "Finews",
+     "https://www.finews.ch/news/finanzplatz/74286-liontrust-john-ions-schweiz-expansion-uebernahme-gam-asset-management"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Family Offices",
+    "Krypto",
+    "Naher Osten"
+   ],
+   "kicker": "Vermögen · Privatbanken",
+   "titel": "Arab Bank Switzerland eröffnet in Abu Dhabi – mit Kryptoberatung für Family Offices",
+   "deck": "Die ehemalige Syz-Handelschefin Valérie Noël führt die neue Einheit am Finanzplatz ADGM.",
+   "text": [
+    "Arab Bank Switzerland hat in Abu Dhabi eine neue Gesellschaft eröffnet und Valérie Noël zur Chefin ernannt. Die regionale Tochter Arab Bank Switzerland ME Ltd hat nach der endgültigen Zulassung durch die Finanzaufsicht FSRA den Betrieb am Abu Dhabi Global Market aufgenommen.",
+    "Die Einheit soll institutionelle Kunden, Fintechs, Family Offices, Unternehmen und vermögende Privatkunden zu digitalen Vermögenswerten beraten. Angeboten werden Zugang zu Kryptowerten, Verwahrung, Verwaltung und Nachlassplanung im Rahmen der Regeln des ADGM.",
+    "Noël bringt mehr als 30 Jahre Erfahrung an den Finanzmärkten, in der Vermögensverwaltung und mit digitalen Vermögenswerten mit; sie war unter anderem bei HSBC Private Bank und zuletzt als Handelschefin bei der Genfer Syz-Gruppe tätig. Arab Bank Switzerland war 2019 die erste von der Finma regulierte Privatbank, die Verwahrung und Handel von Kryptowährungen anbot."
+   ],
+   "quellen": [
+    [
+     "Finews",
+     "https://www.finews.ch/news/banken/74343-arab-bank-abu-dhabi-valerie-noel-ceo-expansion"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögensverwaltung",
+    "Schweiz",
+    "Immobilien"
+   ],
+   "kicker": "Vermögen · Unabhängige Verwalter",
+   "titel": "Neue Genfer Boutique will kleinen Vermögensverwaltern unter die Arme greifen",
+   "deck": "Alpha Street Financial setzt auf Beratung, Netzwerk und einen Immobilien-Club-Deal mit Leibrenten.",
+   "text": [
+    "Der frühere Société-Générale-Banker Frédéric Oculy hat in Genf die unabhängige Boutique Alpha Street Financial gegründet. Sie berät kleine und sehr kleine externe Vermögensverwalter in der Westschweiz, aber auch Family Offices und professionelle Investoren, die sich für einzelne Transaktionen interessieren, vor allem bei Immobilien.",
+    "Zum Angebot gehören Anlageberatung, Zugang zu Investitionsmöglichkeiten aus dem eigenen Netzwerk einschließlich außerbörslicher Immobiliengeschäfte sowie Fachwissen zu Aktien, Derivaten und strukturierten Produkten. Am weitesten fortgeschritten ist ein Schweizer Club-Deal auf Basis des Viager, also des Verkaufs einer Immobilie gegen eine Leibrente, bei dem der Verkäufer oft ein lebenslanges Wohnrecht behält; dafür hält die Firma 30 Objekte im Exklusivmandat.",
+    "Kleine Häuser müssten mit sehr schlanken Teams wachsende regulatorische und operative Anforderungen stemmen, sagte Oculy. Genau dort wolle er Mehrwert bieten. Oculy war zuletzt bei JAR in Genf und zuvor bei der Deutschen Bank tätig."
+   ],
+   "quellen": [
+    [
+     "Finews",
+     "https://www.finews.ch/news/finanzplatz/74352-alpha-street-financial-frederic-oculy-boutique"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Family Offices",
+    "Hongkong"
+   ],
+   "kicker": "Vermögen · Asien",
+   "titel": "Hongkong zählt 3.300 Single Family Offices und will Steuervorteile ausweiten",
+   "deck": "Das Investorenvisum CIES zieht 4.300 Bewerber an, die rund 19 Milliarden Dollar anlegen sollen.",
+   "text": [
+    "Hongkong meldet ein verwaltetes Vermögen von 5,4 Billionen Dollar und rund 3.300 Single Family Offices, also Büros, die das Vermögen einer einzelnen Familie verwalten. Das berichtet das Fachportal Caproasia. Für das Investoren-Aufenthaltsprogramm Capital Investment Entrant Scheme seien 4.300 Bewerbungen eingegangen, die erwartete Investitionssumme liege bei 150 Milliarden Hongkong-Dollar, rund 19 Milliarden US-Dollar.",
+    "Die Stadt will noch in diesem Jahr ein Gesetz verabschieden, das die Steuervorteile für Fonds, Single Family Offices und Carried Interest, also die Gewinnbeteiligung von Fondsmanagern, ausweitet. Einzelheiten nennt der Bericht nicht.",
+    "Bereits im Februar hatte eine von der Regierung veröffentlichte Studie die Zahl der Family Offices auf über 3.380 beziffert, ein Plus von über 25 Prozent binnen zwei Jahren."
+   ],
+   "quellen": [
+    [
+     "Caproasia",
+     "https://caproasia.com/2026/11/06/hong-kong-reports-5-4-trillion-aum-3300-single-family-offices-4300-applicants-for-capital-investment-entrant-scheme-cies-with-expected-investment-of-19-billion-hkd-150-billion-target-to-pas"
+    ],
+    [
+     "news.gov.hk",
+     "https://www.news.gov.hk/eng/2026/02/20260210/20260210_141730_607.html"
+    ]
+   ],
+   "berichterstattung": [
+    "caproasia.com",
+    "news.gov.hk",
+    "thestar.com.my",
+    "thestandard.com.hk"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Bayern",
+    "Politik",
+    "Nachruf"
+   ],
+   "kicker": "Köpfe · Landespolitik",
+   "titel": "Hubert Aiwanger: Bayerns Vize-Regierungschef stirbt mit 55 Jahren",
+   "deck": "Der Chef der Freien Wähler wurde tot in einem Berliner Hotel gefunden – Söder spricht von einer „absoluten Tragödie“.",
+   "text": [
+    "Hubert Aiwanger, stellvertretender bayerischer Ministerpräsident, Wirtschaftsminister und Vorsitzender der Freien Wähler, ist am Mittwochabend im Alter von 55 Jahren überraschend gestorben. Er sollte am Nachmittag bei der Eröffnung eines Hauptstadtbüros seiner Partei in Berlin sprechen, sagte aus gesundheitlichen Gründen ab und wurde später leblos in seinem Hotelzimmer gefunden. Polizei und Staatsanwaltschaft Berlin leiteten ein Todesermittlungsverfahren ein; ein vorläufiges Obduktionsergebnis ergab laut ORF keine Hinweise auf Fremdverschulden.",
+    "Ministerpräsident Markus Söder nannte den Tod eine „absolute Tragödie“, man sei zutiefst geschockt. Landtagspräsidentin Ilse Aigner sprach von einem schweren Verlust. Aiwanger zog 2008 in den Landtag ein und führte die Freien Wähler 2018 in die Koalition mit der CSU. Mitte November hätte er als Bundesvorsitzender bestätigt werden sollen.",
+    "Das Wirtschaftsministerium übernimmt vorübergehend Staatssekretär Tobias Gotthardt. Fraktionschef Florian Streibl sprach von einem Schockzustand; über die Nachfolge an der Parteispitze wollen die Freien Wähler erst nach der Trauer entscheiden."
+   ],
+   "quellen": [
+    [
+     "ORF",
+     "https://orf.at/stories/3447235/"
+    ],
+    [
+     "t-online München",
+     "https://muenchen.t-online.de/region/muenchen/id_101515782/hubert-aiwanger-freie-waehler-trauern-nachfolge-hat-noch-zeit.html"
+    ]
+   ],
+   "berichterstattung": [
+    "orf.at",
+    "t-online.de",
+    "news.de"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Fußball",
+    "FC Bayern"
+   ],
+   "kicker": "Köpfe · Fußball",
+   "titel": "Harry Kane: Der Rekordtorjäger bleibt bis 2029 in München",
+   "deck": "Der Kapitän der englischen Nationalmannschaft verlängert vorzeitig um zwei Jahre.",
+   "text": [
+    "Harry Kane hat seinen Vertrag beim FC Bayern vorzeitig bis zum 30. Juni 2029 verlängert. Der bisherige Vertrag lief bis Sommer 2027. Der Verein gab die Einigung am Donnerstagmittag bekannt.",
+    "„Ich fühle mich beim FC Bayern wie zuhause“, sagte der 33-Jährige und kündigte an, mit dem Verein noch viele Titel gewinnen zu wollen. Präsident Herbert Hainer sagte, Kane löse jedes Versprechen ein, das es im Fußball gebe.",
+    "Kane war im Sommer 2023 für rund 100 Millionen Euro von Tottenham Hotspur gekommen und hat seither in 161 Pflichtspielen 156 Tore erzielt und 42 vorbereitet. Über das Gehalt machten weder Verein noch Spieler Angaben."
+   ],
+   "quellen": [
+    [
+     "Sky Sport",
+     "https://sport.sky.de/fussball/artikel/offiziell-harry-kane-verlaengert-beim-fc-bayern-bis-2029/13607850/34130"
+    ],
+    [
+     "Sportschau (BR)",
+     "https://www.sportschau.de/regional/br/br-massives-ausrufezeichen-harry-kane-verlaengert-beim-fc-bayern-102.html"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ]
+   ],
+   "berichterstattung": [
+    "sport.sky.de",
+    "sportschau.de",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Fußball",
+    "Portugal"
+   ],
+   "kicker": "Köpfe · Fußball",
+   "titel": "Cristiano Ronaldo: Abschied aus der Nationalmannschaft nach 23 Jahren",
+   "deck": "Der Rekordtorschütze beendet nach den November-Spielen seine Länderspielkarriere – nach einem Zerwürfnis mit dem Trainer.",
+   "text": [
+    "Cristiano Ronaldo hat seinen Rücktritt aus der portugiesischen Nationalmannschaft angekündigt. Der 41-Jährige beendet damit nach 23 Jahren, 243 Länderspielen und dem Rekord von 146 Toren seine internationale Laufbahn. In den sozialen Netzwerken schrieb er, Portugal werde immer in ihm sein.",
+    "Laut Anadolu bestreitet Ronaldo noch die Spiele im November: Portugal empfängt am 14. November in der Nations League Dänemark und spielt drei Tage später in Wales. Dem Rücktritt ging ein Streit mit Nationaltrainer Jorge Jesus während der vorigen Länderspielpause voraus. Verbandspräsident Pedro Proença hatte Ronaldo nach der WM 2026 noch zum Weitermachen überredet.",
+    "Mit Portugal gewann er die Europameisterschaft 2016 und zweimal die Nations League. Auf Vereinsebene spielt er weiter für Al-Nassr."
+   ],
+   "quellen": [
+    [
+     "Sky Sports",
+     "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ],
+    [
+     "US News (Reuters)",
+     "https://www.usnews.com/news/top-news/articles/2026-11-05/cristiano-ronaldo-announces-retirement-from-portuguese-national-team"
+    ]
+   ],
+   "berichterstattung": [
+    "skysports.com",
+    "aa.com.tr",
+    "usnews.com",
+    "nbcnews.com",
+    "yahoo.com"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Nvidia",
+    "USA",
+    "China"
+   ],
+   "kicker": "Köpfe · Technologie",
+   "titel": "Jensen Huang: Drei Ausschussvorsitzende bestellen den Nvidia-Chef zum Rapport",
+   "deck": "Es geht um seine Kontakte zu einer Managerin, die Berichten zufolge für den chinesischen Geheimdienst arbeitet.",
+   "text": [
+    "Die Vorsitzenden dreier Ausschüsse des US-Repräsentantenhauses haben Nvidia-Chef Jensen Huang zu einer nichtöffentlichen Unterrichtung aufgefordert. John Moolenaar (China-Ausschuss), Brian Mast (Auswärtiges) und Rick Crawford (Geheimdienste) wollen ihn am 18. November hören; bis zum 11. November soll er zusagen oder einen anderen Termin vorschlagen.",
+    "Anlass sind Huangs Kontakte zu Alice Huang, einer Managerin des Unternehmens Megaspeed, die die Abgeordneten als öffentlich bekannte chinesische Geheimdienstquelle bezeichnen. Sie wollen klären, inwieweit die nationale Sicherheit gefährdet wurde und wie Nvidia sich gegen Spionage schützt.",
+    "Nvidia erklärte laut CNBC, Huang teile mit Führungskräften von Kunden nur gewöhnliche Geschäftsinformationen. Für den Konzern kommt die Anfrage zur Unzeit: Am Donnerstag verlor die Aktie rund neun Prozent."
+   ],
+   "quellen": [
+    [
+     "House Select Committee on China",
+     "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-mast-and-crawford-seek-briefing-from-jensen-huang-on-ties-to-chinese-intelligence-asset"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "chinaselectcommittee.house.gov",
+    "foreignaffairs.house.gov",
+    "fourweekmba.com",
+    "ibtimes.sg"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "USA",
+    "Ukraine",
+    "Diplomatie"
+   ],
+   "kicker": "Köpfe · Diplomatie",
+   "titel": "Melania Trump: Die First Lady holt Kiew und Moskau an einen Tisch",
+   "deck": "Im Weißen Haus beriet sie mit Vertretern beider Seiten über eine humanitäre Mission im besetzten Oleschky.",
+   "text": [
+    "First Lady Melania Trump hat am Donnerstag ein Treffen zu einer humanitären Mission im russisch besetzten Oleschky im Süden der Ukraine ausgerichtet. Für die Ukraine nahmen der Menschenrechtsbeauftragte des Parlaments, Dmytro Lubinez, und der Abgeordnete David Arachamija teil, für Russland Putins Sondergesandter Kirill Dmitrijew und die Menschenrechtsbeauftragte Jana Lantratowa.",
+    "Melania Trump rief laut Anadolu zu neuen Anstrengungen für einen dauerhaften Frieden zwischen Russland und der Ukraine auf und verwies auf eine humanitäre Waffenruhe in Oleschky.",
+    "Am selben Tag traf Präsident Donald Trump selbst Dmitrijew und stellte danach ein großes Abkommen in Aussicht, das über die Ukraine hinausgehen könnte."
+   ],
+   "quellen": [
+    [
+     "Ukrinform",
+     "https://ukrinform.net/rubric-polytics/4181959-trump-announces-big-deal-that-concerns-ukraine-and-all-of-europe.html"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+    ]
+   ],
+   "berichterstattung": [
+    "ukrinform.net",
+    "aa.com.tr"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "München · Vorverkauf",
+   "titel": "Anyma in 60 Minuten ausverkauft – Zusatzshow am Königsplatz, Presale am Montag um 17 Uhr",
+   "deck": "Für den 20. Juni 2027 gibt es einen zweiten Abend von „ÆDEN“, registrieren muss man sich vorab.",
+   "text": [
+    "Die erste Münchner Show des Elektronik-Künstlers Anyma mit seiner Produktion „ÆDEN“ am 19. Juni 2027 auf dem Königsplatz war innerhalb von 60 Minuten nach Start des exklusiven Vorverkaufs ausverkauft. Der Veranstalter ALYVE hat deshalb einen Zusatztermin angesetzt: Sonntag, 20. Juni 2027, ebenfalls am Königsplatz.",
+    "Wer Karten will, muss sich zuerst für den Presale registrieren; das ist seit Donnerstag, 17 Uhr, über die offizielle Seite möglich. Der exklusive Vorverkauf startet am Montag, 9. November, um 17 Uhr. Sind danach noch Karten übrig, beginnt am Dienstag, 10. November, um 17 Uhr der allgemeine Verkauf.",
+    "Preise für die Zusatzshow nennt die Ankündigung nicht. Für den ersten Termin hatten Karten ab 50 Euro und VIP-Tickets ab 105 Euro gekostet, jeweils zuzüglich Gebühren. Wer am Montag zum Zug kommen will, sollte sich vorher registriert haben – beim ersten Termin war die Stunde schnell vorbei."
+   ],
+   "quellen": [
+    [
+     "DJ Mag",
+     "https://www.djmag.de/einzelnews/anyma-muenchen-zusatzshow-2027-koenigsplatz"
+    ],
+    [
+     "DJ Mag (erste Show)",
+     "https://www.djmag.de/einzelnews/anyma-muenchen-koenigsplatz-aeden-2027"
+    ]
+   ],
+   "berichterstattung": [
+    "djmag.de"
+   ],
+   "karten": {
+    "vorverkauf": "Registrierung seit Do, 5.11.2026, 17 Uhr · Presale Mo, 9.11.2026, 17 Uhr · allgemein Di, 10.11.2026, 17 Uhr (falls Restkarten)",
+    "termin": "So, 20.6.2027",
+    "ort": "Königsplatz",
+    "preise": "Zusatzshow: noch nicht genannt (erste Show ab 50 €, VIP ab 105 €, zzgl. Gebühren)",
+    "stelle": "offizielle Registrierung über laylo.com/anyma",
+    "link": "https://laylo.com/anyma/aeden/munchen2"
+   }
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "München · Vorverkauf",
+   "titel": "Scorpions in der Olympiahalle: Allgemeiner Vorverkauf startet heute um 11 Uhr",
+   "deck": "Die Hannoveraner Rockband spielt am 22. Mai 2027 in München – Preise sind noch nicht veröffentlicht.",
+   "text": [
+    "Für das Konzert der Scorpions am Samstag, 22. Mai 2027, in der Münchner Olympiahalle beginnt an diesem Freitag um 11 Uhr der allgemeine Vorverkauf. Ein Presale über Myticket und Eventim war bereits am Mittwoch um 11 Uhr gestartet. Einlass ist um 18.30 Uhr, Beginn um 20 Uhr.",
+    "Karten gibt es bei Myticket und Eventim. Ticketpreise und Kategorien hatte der Veranstalter bei Bekanntgabe der Tour noch nicht veröffentlicht; Interessenten sollten sie vor dem Kauf im Shop prüfen.",
+    "Wer Karten sucht, sollte sie ausschließlich bei den offiziellen Verkaufsstellen kaufen und Zweitmärkte meiden. Ebenfalls an diesem Freitag startete der allgemeine Verkauf für Alizade und The Interrupters, siehe Vorverkaufskalender."
+   ],
+   "quellen": [
+    [
+     "Pressure Magazine",
+     "https://www.pressure-magazine.de/news/scorpions-tour-2027-282754/"
+    ]
+   ],
+   "berichterstattung": [
+    "pressure-magazine.de"
+   ],
+   "karten": {
+    "vorverkauf": "Presale Mi, 4.11.2026, 11 Uhr · allgemein Fr, 6.11.2026, 11 Uhr",
+    "termin": "Sa, 22.5.2027, 20 Uhr (Einlass 18.30 Uhr)",
+    "ort": "Olympiahalle",
+    "preise": "noch nicht veröffentlicht",
+    "stelle": "Myticket, Eventim",
+    "link": "https://www.pressure-magazine.de/news/scorpions-tour-2027-282754/"
+   }
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Vorverkauf"
+   ],
+   "kicker": "München · Vorverkauf",
+   "titel": "The Interrupters kommen in die TonHalle – Karten ab heute 10 Uhr für 40 Euro",
+   "deck": "Die Ska-Punk-Band spielt am 5. Juni 2027 ihre einzige Münchner Hallenshow.",
+   "text": [
+    "Die kalifornische Band The Interrupters spielt am Samstag, 5. Juni 2027, in der Münchner TonHalle. Der Vorverkauf startet an diesem Freitag um 10 Uhr. Einlass ist um 19 Uhr, das Konzert beginnt um 20 Uhr.",
+    "Karten kosten laut Veranstalter FKP Scorpio 40 Euro zuzüglich Gebühren. Erhältlich sind sie bei Eventim, an den CTS-Vorverkaufsstellen und über FKP Scorpio.",
+    "Laut Pressure Magazine ist es die einzige Hallenshow der Band in München. Ebenfalls heute um 10 Uhr startet der allgemeine Verkauf für die Sängerin Alizade, die am 20. März 2027 im Technikum auftritt; dort kosten Karten ab 33,50 Euro zuzüglich Gebühren."
+   ],
+   "quellen": [
+    [
+     "Pressure Magazine",
+     "https://www.pressure-magazine.de/news/the-interrupters-muenchen-2027-tonhalle-286878/"
+    ],
+    [
+     "Mister Mixmania",
+     "https://mister-mixmania.com/de/news/konzert-news/alizade-kommt-im-maerz-2027-fuer-drei-konzerte-nach-deutschland/"
+    ]
+   ],
+   "berichterstattung": [
+    "pressure-magazine.de",
+    "mister-mixmania.com"
+   ],
+   "karten": {
+    "vorverkauf": "Fr, 6.11.2026, 10 Uhr",
+    "termin": "Sa, 5.6.2027, 20 Uhr (Einlass 19 Uhr)",
+    "ort": "TonHalle",
+    "preise": "40 € zzgl. Gebühren",
+    "stelle": "Eventim, CTS-Vorverkaufsstellen, FKP Scorpio",
+    "link": "https://www.pressure-magazine.de/news/the-interrupters-muenchen-2027-tonhalle-286878/"
+   }
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Kultur",
+    "Stadtpolitik"
+   ],
+   "kicker": "München · Rathaus",
+   "titel": "Ratskeller am Marienplatz: Kulturbühne ab 2028 oder Mini-Gastronomie ab 2029",
+   "deck": "Eine interne Vorlage zeigt zwei Varianten für die Zwischennutzung, Augustiner und Löwenbräu sollen Interesse haben.",
+   "text": [
+    "Für den seit Ende 2025 geschlossenen Ratskeller unter dem Münchner Rathaus liegen zwei Pläne für eine Zwischennutzung vor. Das berichtet die tz unter Berufung auf eine interne Präsentation der Stadt, die t-online aufgegriffen hat.",
+    "Variante eins sieht Veranstaltungsräume für Workshops, Lesungen, Theater oder Livemusik vor. Sie würde rund zwei Millionen Euro kosten, ein Mieter könnte ab Mitte 2028 einziehen. Variante zwei ist eine eingeschränkte Gastronomie auf nur etwa 30 Prozent der Fläche und ohne Hauptküche; sie würde mindestens vier Millionen Euro kosten und wäre frühestens 2029 möglich. Die Brauereien Augustiner und Löwenbräu sollen Interesse gezeigt haben.",
+    "Der Stadtrat will sich im Dezember damit befassen. Eine Generalsanierung ist frühestens 2032 möglich und könnte sich weiter verzögern, falls München den Zuschlag für die Olympischen Spiele 2036 erhält."
+   ],
+   "quellen": [
+    [
+     "t-online München",
+     "https://muenchen.t-online.de/region/muenchen/id_101515702/ratskeller-muenchen-zwei-plaene-zeigen-wie-es-am-marienplatz-weitergeht.html"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de"
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Sport",
+    "Laufen"
+   ],
+   "kicker": "München · Sport",
+   "titel": "Wings for Life World Run: 14.000 Startplätze in weniger als 24 Stunden vergeben",
+   "deck": "Der Münchner Flagship-Run 2027 ist ausgebucht – so schnell wie nie.",
+   "text": [
+    "Der Münchner Flagship-Run des Wings for Life World Run 2027 ist ausgebucht. Die Anmeldung öffnete am Donnerstag um 12 Uhr, bereits am Freitagmorgen waren alle 14.000 Startplätze vergeben – nach nicht einmal 24 Stunden, berichtet t-online.",
+    "Damit war das Kontingent schneller vergeben als je zuvor; t-online spricht von einer Rekordzeit. Ein genaues Datum für den Lauf 2027 nennt der Bericht nicht.",
+    "Wer keinen Startplatz mehr bekommen hat, sollte die offiziellen Kanäle des Veranstalters im Blick behalten und keine Startplätze über inoffizielle Weiterverkäufe kaufen."
+   ],
+   "quellen": [
+    [
+     "t-online München",
+     "https://muenchen.t-online.de/region/muenchen/id_101515852/wings-for-life-world-run-flagship-run-in-muenchen-in-rekordzeit-ausgebucht.html"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de"
+   ],
+   "karten": {
+    "vorverkauf": "ausgebucht (Anmeldung seit Do, 5.11.2026, 12 Uhr)",
+    "termin": "2027, Datum in der Quelle nicht genannt",
+    "ort": "München",
+    "stelle": "Wings for Life World Run",
+    "link": "https://muenchen.t-online.de/region/muenchen/id_101515852/wings-for-life-world-run-flagship-run-in-muenchen-in-rekordzeit-ausgebucht.html"
+   }
+  }
+ ],
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Stammstrecken-Baustelle: Sperrungen auf sechs S-Bahn-Linien enden heute um 3.30 Uhr",
+   "satz": "Wegen Arbeiten am Leuchtenbergring für die zweite Stammstrecke fuhren S1, S2, S4, S6, S8 und S20 seit Dienstag eingeschränkt.",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101511824/stammstrecken-sperrung-muenchen-aktuell-stoerung-auf-sechs-s-bahn-linien.html"
+  },
+  {
+   "titel": "Notarzteinsatz am Scheidplatz legt U2 und U3 zeitweise lahm",
+   "satz": "Am Donnerstagvormittag fuhren die Züge ohne Halt durch, auch Busse und die Trambahnlinien 12 und 28 waren betroffen.",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101514288/muenchen-massive-einschraenkungen-bei-u-bahn-bus-und-tram.html"
+  },
+  {
+   "titel": "Feuerwehr rückt zu drei Bränden aus: Zimmerbrand an der Kreuzhofstraße, Mülltonnen in Moosach",
+   "satz": "Verletzt wurde niemand; die Polizei ermittelt jeweils zur Ursache.",
+   "quelle": "Feuerwehr München (Presseportal)",
+   "url": "https://www.presseportal.de/blaulicht/pm/131419/6384999"
+  },
+  {
+   "titel": "Spott über Aiwangers Tod: Monika Gruber kritisiert Häme im Netz",
+   "satz": "Ein Beitrag der Satirepartei „Die Partei“ hatte für Empörung gesorgt.",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101515492/monika-gruber-kritisiert-in-muenchen-spott-ueber-aiwangers-tod-im-netz.html"
+  },
+  {
+   "titel": "Tierheim-Hund Caruso stirbt nach acht Jahren ohne neues Zuhause",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101506206/acht-jahre-vergeblich-gewartet-tierheim-hund-caruso-stirbt-in-muenchen.html"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-06T09:00",
+   "veranstaltung": "The Teskey Brothers",
+   "termin": "27.9.2027",
+   "ort": "Circus-Krone-Bau",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/the-teskey-brothers-kommen-2027-mit-neuer-musik-zurueck-vier-deutschland-shows-im-september-bestaetigt",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Queens of the Stone Age",
+   "termin": "Juni 2027 (20.6. oder 28.6.)",
+   "ort": "Tollwood-Sommerfestival",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/queens-of-the-stone-age-kommen-2027-mit-ihrer-perfecth-world-tour-nach-deutschland",
+   "hinweis": "Verkaufsstart; Datum in der Quelle widersprüchlich"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Der W (Stephan Weidner)",
+   "termin": "30.9.2027",
+   "ort": "Kesselhaus",
+   "stelle": "Eventim",
+   "url": "https://www.eventim.de/magazin/rock-pop/der-w-kuendigt-15-deutschland-konzerte-fuer-herbst-2027-an",
+   "hinweis": "Verkaufsstart"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "The Interrupters",
+   "termin": "5.6.2027",
+   "ort": "TonHalle",
+   "stelle": "Eventim, CTS, FKP Scorpio",
+   "url": "https://www.pressure-magazine.de/news/the-interrupters-muenchen-2027-tonhalle-286878/",
+   "hinweis": "Verkaufsstart, 40 € zzgl. Gebühren"
+  },
+  {
+   "start": "2026-11-06T10:00",
+   "veranstaltung": "Alizade",
+   "termin": "20.3.2027",
+   "ort": "Technikum",
+   "stelle": "Eventim, CTS, FKP Scorpio",
+   "url": "https://mister-mixmania.com/de/news/konzert-news/alizade-kommt-im-maerz-2027-fuer-drei-konzerte-nach-deutschland/",
+   "hinweis": "allgemeiner Verkauf, ab 33,50 € zzgl. Gebühren"
+  },
+  {
+   "start": "2026-11-06T11:00",
+   "veranstaltung": "Scorpions",
+   "termin": "22.5.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Myticket, Eventim",
+   "url": "https://www.pressure-magazine.de/news/scorpions-tour-2027-282754/",
+   "hinweis": "allgemeiner Verkauf"
+  },
+  {
+   "start": "2026-11-09T17:00",
+   "veranstaltung": "Anyma presents ÆDEN – Zusatzshow",
+   "termin": "20.6.2027",
+   "ort": "Königsplatz",
+   "stelle": "Registrierung über laylo.com/anyma",
+   "url": "https://www.djmag.de/einzelnews/anyma-muenchen-zusatzshow-2027-koenigsplatz",
+   "hinweis": "Presale nach Registrierung"
+  },
+  {
+   "start": "2026-11-10T17:00",
+   "veranstaltung": "Anyma presents ÆDEN – Zusatzshow",
+   "termin": "20.6.2027",
+   "ort": "Königsplatz",
+   "stelle": "Registrierung über laylo.com/anyma",
+   "url": "https://www.djmag.de/einzelnews/anyma-muenchen-zusatzshow-2027-koenigsplatz",
+   "hinweis": "allgemeiner Verkauf, nur falls Restkarten"
+  },
+  {
+   "start": "2026-11-11T16:00",
+   "veranstaltung": "Till Lindemann – World Tour 2027",
+   "termin": "15.11.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Olympiapark (Angabe laut Pressure); Presale bei Myticket seit 28.10.",
+   "url": "https://www.pressure-magazine.de/news/till-lindemann-tour-2027-termine-tickets-280649/",
+   "hinweis": "Verkaufsstart (allgemeiner Vorverkauf)"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Le Méridien: Weihnachtsmenü im IRMI und privater Weihnachtsmarkt",
+   "anbieter": "Le Méridien München",
+   "angebot": "Bayerisches Weihnachtsmenü im Restaurant IRMI vom 16. November bis 25. Dezember; dazu ein privater Weihnachtsmarkt im Innenhof mit zwei Hütten für Weihnachtsfeiern von 20 bis 150 Gästen. Weihnachtsbrunch am 25. und 26.12.",
+   "wann": "16.11.–25.12.2026",
+   "buchen_bis": "2026-12-25",
+   "hinweis": "Keine Preise und kein Frühbucherrabatt auf der Seite; Reservierung über die IRMI-Website bzw. OpenTable, Gruppenmarkt per PDF/Telefon anfragen.",
+   "frueh": true,
+   "url": "https://www.marriott.com/de/hotels/mucmd-le-meridien-munich/experiences/holidays/"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Leonardo Royal: „Hüttenzauber“ für Weihnachtsfeiern",
+   "anbieter": "Leonardo Royal Hotel Munich",
+   "angebot": "Exklusiv gemietete Almhütte im Hotelgarten (bis 180 Gäste) mit Hüttenmenü, dreistündigem Getränkepaket und Eisstockbahn samt Ausrüstung für 109 € pro Person.",
+   "wann": "November 2026 bis Januar 2027",
+   "hinweis": "Buchungsbasis 80 Personen; kleinere Gruppen nur an ausgewählten Terminen auf Anfrage. Kein Frühbucherrabatt genannt.",
+   "frueh": true,
+   "url": "https://static.leonardo-hotels.com/image/2f0b06a4281f782249d1283aa5fa3f45_Leonardo%20Royal%20Munich_H%C3%BCttenzauber%202026_RGB_14_8%20x%2014_8.pdf"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Seehaus: Weihnachtsente zum Abholen vorbestellen",
+   "anbieter": "Seehaus im Englischen Garten",
+   "angebot": "Ganze Ente für 59 €, Abholung am 25., 26. oder 27. Dezember 2026 zwischen 9 und 11 Uhr.",
+   "wann": "Abholung 25.–27.12.2026",
+   "buchen_bis": "2026-12-19",
+   "hinweis": "Bestellung per E-Mail bis 19.12., 20 Uhr; höchstens 30 Bestellungen pro Tag. Angaben laut IN München (Stand 27.10.); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/gastro/weihnachten-silvester-gans-fuer-zuhause-liefern-abholen.html"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Käfer: Festtagsessen ab 10. November bestellbar",
+   "anbieter": "Feinkost Käfer (Stammhaus)",
+   "angebot": "Weihnachts- und Silvesteressen zum Abholen oder Liefern am 23., 24. und 31. Dezember; der Online-Einkaufszettel öffnet am 10. November. Preise 2026 noch offen (2025: ganze Hafermast-Gans mit Beilagen 264 €).",
+   "wann": "Bestellung 10.11.–19.12.2026",
+   "buchen_bis": "2026-12-19",
+   "hinweis": "Angaben laut IN München (Stand 27.10.); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/gastro/weihnachten-silvester-gans-fuer-zuhause-liefern-abholen.html"
+  },
+  {
+   "kategorie": "Kino",
+   "titel": "Mathäser: Sneak und Late Night",
+   "anbieter": "Mathäser Filmpalast",
+   "angebot": "Di Sneak 5,99 €, Late Night So–Do ab 21.30 Uhr 6,99 €",
+   "wann": "dauerhaft",
+   "frueh": false,
+   "url": "https://www.mathaeser.de/mm/preise",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Villa Stuck „Friday Late“ heute Abend",
+   "anbieter": "Museum Villa Stuck",
+   "angebot": "Am ersten Freitag im Monat sind Eintritt und Abendprogramm von 18 bis 22 Uhr kostenlos, diesmal heute, am 6. November.",
+   "wann": "Fr, 6.11.2026, 18–22 Uhr",
+   "buchen_bis": "2026-11-06",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "1-Euro-Sonntag",
+   "anbieter": "Staatliche Museen, u. a. Pinakotheken",
+   "angebot": "1 € Eintritt in staatlichen Museen, unter 18 frei; nächster Termin 8. November",
+   "wann": "jeden Sonntag",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Haus der Kunst „Open Haus“",
+   "anbieter": "Haus der Kunst",
+   "angebot": "Am letzten Freitag im Monat freier Eintritt von 16 bis 22 Uhr, im November am 27.",
+   "wann": "Fr, 27.11.2026, 16–22 Uhr",
+   "buchen_bis": "2026-11-27",
+   "hinweis": "Angaben laut muenchen.de (Stand Juli 2026); Am 5.11. nicht erneut abrufbar (Seite technisch nicht ladbar), Angaben aus der Vorausgabe.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Lodenfrey: Habsburg-Pop-up und Canada-Goose-Tage",
+   "anbieter": "Lodenfrey",
+   "angebot": "Habsburg-Pop-up im 3. Stock vom 9. bis 29.11., am 20. und 21.11. Geschenk ab 1.000 € Einkauf. Canada Goose: kostenlose personalisierte Gepäckanhänger vom 17.11. bis 5.12. (Do–Sa, 16–19 Uhr). Luisa-Cerano-Event am 14.11. ab 10 Uhr.",
+   "wann": "9.11.–5.12.2026",
+   "buchen_bis": "2026-12-05",
+   "hinweis": "10 % auf die erste Online-Bestellung bei Newsletter-Anmeldung. Seit dem 3.11. nicht erneut geprüft, am 5.11. nicht abrufbar.",
+   "frueh": false,
+   "url": "https://www.lodenfrey.com/Events/"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Teens-Club-Preis",
+   "anbieter": "FC Bayern München",
+   "angebot": "Teens-Club-Mitglieder ab 15 € pro Heimspiel",
+   "frueh": true,
+   "url": "https://fcbayern.com/de/fans/teens-club/teens-club-tickets/fcbb-tickets/ticketangebot-fc-bayern-basketball",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Weihnachtsfeiern in der Surfhalle",
+   "anbieter": "o2 Surftown MUC (Hallbergmoos)",
+   "angebot": "Weihnachtsfeiern für Firmen und Gruppen: festliches Menü, Eisstockschießen oder Christbaumkugeln bemalen jeweils ab 69 €, Team Challenges & Casino Night ab 99 €, Winterhütten ab 1.500 €, Surf-Show 2.500 €; Shuttle ab München oder Flughafen.",
+   "wann": "Weihnachtssaison, auf Anfrage",
+   "hinweis": "Die Preisliste nennt kein Jahr und keine Termine; Anfrage per Mail an events@surftown.de, Konditionen vorab bestätigen lassen. Am 5.11. nicht erneut abrufbar.",
+   "frueh": true,
+   "url": "https://surftown.de/media/site/88d5a08377-1759239717/weihnachts-send-out-1.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "o2 Surftown MUC: Pakete",
+   "anbieter": "o2 Surftown MUC",
+   "angebot": "Mit Paketen bis zu 20 % günstiger, rund 8 Wochen vorher buchen",
+   "frueh": true,
+   "url": "https://surftown.de/en/presale",
+   "regelmaessig": true
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Tollwood Winterfestival: Shows im Grand Chapiteau",
+   "anbieter": "Tollwood",
+   "angebot": "Gelände und über 90 Prozent der Kulturveranstaltungen auf der Theresienwiese sind frei; kostenpflichtig mit nummerierten Plätzen sind die Zeltshows „Ten Thousand Hours“ (25.–29.11.), „Triptych“ (2.–9.12.) und „Mad in Finland“ (12.–20.12., nicht am 14.12.). Das Ticket gilt am Veranstaltungstag als MVV-Fahrkarte.",
+   "wann": "Festival 24.11.–23.12.2026",
+   "buchen_bis": "2026-11-25",
+   "hinweis": "Preise nicht gefunden; offizielle Verkaufsstellen sind Tollwood-Hotline, München Ticket und Eventim (Tollwood warnt vor Zweitmärkten). Die Silvesterparty am 31.12. nennt muenchen.de, die Tollwood-FAQ dagegen schreibt, es gebe diesen Winter keine – vor dem Kauf klären. Kein Frühbucherrabatt bekannt.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/tollwood-winterfestival-2026"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Thea Kulturklub",
+   "anbieter": "Thea Kulturklub",
+   "angebot": "Bis zu 20 % auf Theater, Konzert und Musical",
+   "frueh": true,
+   "url": "https://www.thea.info/november",
+   "regelmaessig": true
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "Jan Becker: „Hypnotize the World“ in der Alten Kongresshalle",
+   "anbieter": "Hallo München",
+   "gewinn": "3 × 2 Karten für Di, 8.12., 20 Uhr",
+   "bis": "2026-11-08",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Becker“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig).",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/gewinnspiel-hypnotiseur-jan-becker-mit-seiner-neuen-show-hypnotize-the-world-94554638.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "BAP: „Fünfzig Jahre – Die Zielgerade“ in der Olympiahalle",
+   "anbieter": "Hallo München",
+   "gewinn": "2 × 2 Karten für Do, 3.12., 19.30 Uhr",
+   "bis": "2026-11-10",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „BAP“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss 10.11., 12 Uhr.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/gewinnspiele/bap-mit-ihrer-tour-fuenfzig-jahre-die-zielgerade-in-muenchen-wir-verlosen-tickets-94561881.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Pogues im Kesselhaus",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 20.11.",
+   "bis": "2026-11-12",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-pogues-20-november-kesselhaus.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Scratch in der Backstage Halle",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 23.11.",
+   "bis": "2026-11-16",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-scratch-23-november-backstage.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Access to Dance: „Mercury Rising“ im Schwere Reiter",
+   "anbieter": "IN München",
+   "gewinn": "2 × 2 Karten für den 22.11.",
+   "bis": "2026-11-18",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten; in der Übersicht als Anzeige gekennzeichnet",
+   "url": "https://www.in-muenchen.de/verlosungen/access-to-dance-22-november-im-schwere-reiter.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Musical „Romeo & Julia – Liebe ist alles“ im Deutschen Theater",
+   "anbieter": "Hallo München",
+   "gewinn": "1 × 2 Karten für Fr, 20.11., 19.30 Uhr",
+   "bis": "2026-11-18",
+   "teilnahme": "Online-Formular von Hallo München mit Stichwort „Julia“ (Pflicht: Name, Adresse, Telefon, E-Mail; Geburtsdatum und Newsletter freiwillig). Schluss 18.11., 12 Uhr. Steht unter „Gewinnspiele unserer Partner“.",
+   "pruefung": "etablierte Münchner Wochenzeitung auf eigener Seite (am 5.11. geprüft); Formular verweist auf Allgemeine Gewinnspiel-Teilnahmebedingungen, Impressum verlinkt; keine Kosten, kein Abo, keine Zahlungsdaten",
+   "url": "https://www.hallo-muenchen.de/muenchen/das-musical-ueber-das-ganz-deutschland-spricht-romeojulia-liebe-ist-alles-erstmals-in-muenchen-94573510.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Rat Pack – Swingin' At The Sands im Prinzregententheater",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 4.1.2027",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/rat-pack-swingin-at-the-sands-4-januar-prinzregententheater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Gregory Porter & Orchestra in der Isarphilharmonie",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 15.12. („Spirit of Christmas“)",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 5.11. geprüft), Teilnahmebedingungen verlinkt, kostenlos ohne Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/gregory-porter-and-orchestra-15-dezember-isarphilharmonie.html"
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Kummer",
+   "zitat": "„Es ist ein Brauch von alters her: / Wer Sorgen hat, hat auch Likör!“",
+   "urheber": "Wilhelm Busch, Die fromme Helene (1872)",
+   "text": "Nach einem Börsentag, an dem die Technologiewerte in New York so stark fielen wie seit Jahren nicht, liefert Wilhelm Busch die ironische Anleitung zum Umgang mit dem Depot. Die Redaktion empfiehlt allerdings eher Tee und einen Blick auf den langen Anlagehorizont."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Bärenmarkt",
+   "text": "Fragt der Sohn beim Frühstück: „Papa, was ist eigentlich ein Bärenmarkt?“ Der Vater schaut aufs Handy, seufzt tief und sagt: „Das, mein Junge, ist, wenn ich morgens ins Depot schaue – und anfange zu brummen.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Der halbe Ziegel",
+   "text": "Ein Ziegelstein wiegt ein Kilogramm plus einen halben Ziegelstein. Wie schwer ist der ganze Ziegelstein?",
+   "loesung": "Zwei Kilogramm. Wenn ein Ziegel aus einem Kilogramm und einem halben Ziegel besteht, muss das eine Kilogramm die andere Hälfte sein. Ein halber Ziegel wiegt also ein Kilogramm, der ganze zwei."
+  }
+ ]
+}
