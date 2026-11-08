@@ -1,0 +1,2888 @@
+{
+ "datum": "2026-11-08",
+ "datumszeile": "Sonntag, den 8. November 2026",
+ "redaktionsschluss": "6 Uhr",
+ "kurse_stand": "Stand: Schlusskurse Freitag, 6.11.2026; Gold: Comex-Future Dezember; Bitcoin: Sonntag, 8.11., ca. 1 Uhr MEZ (24 Std.)",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 8. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "25.820",
+   "veraenderung": "−1,9 %",
+   "richtung": "down"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.377",
+   "veraenderung": "+0,3 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "24.579",
+   "veraenderung": "+1,1 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Brent",
+   "wert": "98,32 $",
+   "veraenderung": "+0,0 %",
+   "richtung": "flat"
+  },
+  {
+   "name": "Gold",
+   "wert": "4.080 $",
+   "veraenderung": "−0,8 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "75.840 $",
+   "veraenderung": "−0,2 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,114",
+   "veraenderung": "−0,8 %",
+   "richtung": "down"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,86 %",
+   "veraenderung": "+0,02",
+   "richtung": "up"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "Israel",
+    "Nahost",
+    "Wahlen"
+   ],
+   "kicker": "Israel · Regierungsbildung",
+   "titel": "Herzog beauftragt Eisenkot – Netanjahu droht der Machtverlust",
+   "deck": "Israels Präsident übergibt den Auftrag zur Regierungsbildung schon am Sonntag an den Oppositionsführer, doch der Weg zu einer Mehrheit bleibt schmal.",
+   "text": [
+    "Israels Präsident Isaac Herzog hat am Samstagabend angekündigt, den Oppositionspolitiker Gadi Eisenkot mit der Bildung der nächsten Regierung zu beauftragen. Die formelle Übergabe des Mandats ist für Sonntag um 17 Uhr in der Präsidentenresidenz angesetzt. Herzog stützt sich auf die Empfehlungen der Fraktionen: 67 der 120 Knesset-Abgeordneten sprachen sich für Eisenkot aus, darunter die arabisch geprägten Parteien, nur 46 für Ministerpräsident Benjamin Netanjahu. Das Thora-Judentum gab keine Empfehlung ab. Eisenkot, Chef der Partei Jaschar und von 2015 bis 2019 Generalstabschef der Armee, hat nun 28 Tage Zeit, die um bis zu 14 Tage verlängert werden können.",
+    "Die Rechnung ist knapp. Bei der Wahl am 27. Oktober kam Eisenkots Vier-Parteien-Bündnis auf 48 Sitze, Netanjahus rechts-religiöses Lager auf 53, arabisch geprägte Parteien auf einen Rekordwert von 19 Sitzen. Eine Zusammenarbeit mit ihnen hat Eisenkot ausgeschlossen. Gewönne er das Thora-Judentum mit sieben und die Schas-Partei mit sechs Sitzen, käme er auf genau 61 Stimmen. Hauptstreitpunkt mit den Ultraorthodoxen ist die Wehrpflicht für Religionsschüler. Avigdor Liberman von Israel Beitenu signalisierte Kompromissbereitschaft, Schas wies Berichte über eine Duldung als „Fake News“ zurück. Eisenkot rief zu einer „nationalen Notstandsregierung“ auf.",
+    "Netanjahu warb in einer Videobotschaft für eine Regierung der nationalen Einheit unter Einschluss seiner bisherigen Partner, auch der beiden rechtsextremen Parteien. Eine Regierung, die von Islamisten abhänge, werde den Staat „von innen zerlegen“, warnte er. Jaschar antwortete, der Likud könne einer Regierung unter Eisenkot nur beitreten, wenn er mit den „Extremisten“ breche. Ahmad Tibi von der Vereinten Liste nannte Herzogs Entscheidung „erwartet“ und rechnet mit einer Minderheitsregierung, die von den arabischen Parteien von außen gestützt wird – sein Vorrang sei, Netanjahu, Ben-Gvir und Smotrich abzulösen.",
+    "Scheitert Eisenkot, kann Herzog einen zweiten Kandidaten benennen; danach könnte eine Parlamentsmehrheit einen dritten unterstützen. Gelingt keine Regierungsbildung, folgt binnen 90 Tagen eine Neuwahl, bis dahin bliebe Netanjahu geschäftsführend im Amt."
+   ],
+   "quellen": [
+    [
+     "Times of Israel",
+     "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+    ],
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/politik/ausland/regierungsbildung-israel-herzog-eisenkot-netanjahu-100.html"
+    ]
+   ],
+   "berichterstattung": [
+    "timesofisrael.com",
+    "aljazeera.com",
+    "zdfheute.de",
+    "foxnews.com",
+    "cbsnews.com",
+    "thehill.com",
+    "breitbart.com",
+    "wnoz.de",
+    "nw.de",
+    "kurierverlag.de",
+    "rheinpfalz.de",
+    "morningstaronline.co.uk"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Polen",
+    "Gewalt"
+   ],
+   "kicker": "Polen · Anschlag",
+   "titel": "Schütze feuert auf dem Krakauer Marktplatz – mindestens sechs Tote",
+   "deck": "Ein Mann fährt mit dem Auto auf den Hauptmarkt der Altstadt und schießt wahllos auf Passanten, 15 Menschen werden verletzt.",
+   "text": [
+    "Auf dem Hauptmarkt in der Krakauer Altstadt hat ein Mann am Samstagnachmittag mindestens sechs Menschen erschossen. Nach Angaben der Polizei fuhr er gegen 15 Uhr mit seinem Auto auf den Platz und begann, „aus dem Wagen heraus auf zufällige Menschen zu schießen“. Getötet wurden vier Frauen und zwei Männer, 15 weitere Menschen wurden verletzt, darunter zwei Polizisten. Einer der Beamten schwebt nach Angaben von Innenminister Marcin Kierwiński in Lebensgefahr.",
+    "Der Täter handelte nach bisherigen Erkenntnissen allein. Er trug Kleidung im Militärstil und erwiderte bei seiner Festnahme das Feuer; Polizisten schossen ihn an, er wird im Krankenhaus behandelt. Laut Innenministerium ist er polnischer Staatsbürger. Zu einem Motiv gibt es noch keine Angaben. Ministerpräsident Donald Tusk sprach von einer „tragischen Schießerei“, lobte den „heldenhaften“ Einsatz der Polizei und kündigte an, Hintergründe und Umstände würden ermittelt.",
+    "Präsident Karol Nawrocki erklärte, seine Gedanken seien bei den Opfern und ihren Familien. Außenminister Radosław Sikorski erhielt nach eigenen Worten zahlreiche Beileidsbekundungen. Die EU-Außenbeauftragte Kaja Kallas schrieb, Polen stehe „nicht allein“, der ukrainische Präsident Wolodymyr Selenskyj verurteilte ein „schockierendes Verbrechen“.",
+    "Tödliche Schusswaffenangriffe sind in Polen sehr selten. Das Land war bereits nach einer Serie von Messerangriffen im Oktober in Alarmbereitschaft – damals wurden binnen einer Woche drei Schulen zum Tatort. Tusk hatte von einem „Kult der Gewalt“ gesprochen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+    ],
+    [
+     "Al Jazeera (Hintergrund Oktober)",
+     "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "USA",
+    "Nahost"
+   ],
+   "kicker": "Iran-Krieg · Eskalation",
+   "titel": "Trump bestätigt „kleinere“ Angriffe auf Iran – Teheran hebt Reichweitengrenze für Raketen auf",
+   "deck": "Die ersten US-Schläge seit der Wahlniederlage treffen die Luftabwehr auf Qeschm, die Revolutionsgarden antworten mit einer Drohung, Washington weitet die Blockade aus.",
+   "text": [
+    "US-Präsident Donald Trump hat neue Angriffe auf die iranische Insel Qeschm in der Straße von Hormus bestätigt. Er sprach von „kleineren Schlägen“ gegen die Luftabwehr; ein Flugabwehrsystem sei „in etwa 15 Minuten, vielleicht fünf“ zerstört worden. Iranische Staatsmedien meldeten zwei Raketeneinschläge im Gebiet Suza. Die iranische Armee erklärte, sie habe eine amerikanische MQ-9-Drohne abgeschossen. Das US-Zentralkommando Centcom nannte die Lage „relativ ruhig“. Es sind die ersten Angriffe seit den Zwischenwahlen, bei denen Trumps Republikaner beide Kammern des Kongresses verloren.",
+    "In Teheran erklärte der Sprecher der Revolutionsgarden, General Hossein Mohebbi, die selbst auferlegte Begrenzung der Reichweite ballistischer Raketen auf 2.000 Kilometer sei aufgehoben. Ob Iran bereits weiter reichende Raketen besitzt, sagte er nicht; man werde die Fähigkeiten „in der Praxis“ zeigen. Bekannt ist ein solches Arsenal nicht. Zuvor hatte Revolutionsführer Modschtaba Chamenei mit einer Antwort „ohne geografische Grenzen“ gedroht. Zudem meldete das iranische Militär, ein Tanker östlich der Meerenge sei auf eine Mine gelaufen und in Brand geraten.",
+    "Washington verschärft parallel den wirtschaftlichen Druck. Centcom gründete die „Task Force Iron Gate“, die die Seeblockade auf Landwege und das Kaspische Meer ausdehnen soll; rund 20 Mitarbeiter in Florida sollen den Transport von Waffen, Dual-Use-Technik und sanktionierten Gütern unterbinden. Ob dabei militärische Gewalt eingesetzt wird, blieb offen. Nach US-Angaben hat die Blockade bis Ende Oktober 144 Schiffe umgeleitet. Für Hinweise auf das iranische Atomprogramm setzte Centcom bis zu 20 Millionen Dollar aus.",
+    "Diplomatisch bleibt die Lage offen: Trump sagte, Iran wolle ein Abkommen, es gebe „viele Fortschritte“. Katar wies Berichte über gescheiterte Gespräche zurück und erklärte, die Vermittlung laufe weiter."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+    ],
+    [
+     "AP / Philadelphia Inquirer",
+     "https://www.inquirer.com/news/nation-world/iran-missile-ranges-houthis-yemen-gaza-camps-us-israel-strait-hormuz-20261107.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "inquirer.com",
+    "cbsnews.com",
+    "ctvnews.ca",
+    "khaleejtimes.com",
+    "abcnews.com",
+    "timesofisrael.com",
+    "israelnationalnews.com",
+    "nationalheraldindia.com",
+    "news4jax.com",
+    "wsbradio.com"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Neuseeland",
+    "Wahlen"
+   ],
+   "kicker": "Neuseeland · Parlamentswahl",
+   "titel": "Hauchdünne Mehrheit für Luxons Koalition – die Sonderstimmen entscheiden",
+   "deck": "Labour liegt bei den Parteistimmen knapp vorn, die Regierung hält nach dem vorläufigen Ergebnis 67 von 131 Sitzen – endgültig ist erst der 27. November.",
+   "text": [
+    "Nach der Parlamentswahl in Neuseeland ist der Ausgang offen. Laut dem vorläufigen Ergebnis der Wahlkommission liegt die oppositionelle Labour-Partei von Chris Hipkins mit 29,36 Prozent der Parteistimmen hauchdünn vor der Nationalpartei von Premierminister Christopher Luxon mit 29,21 Prozent. Weil National aber 42 Wahlkreise gewann und Te Pāti Māori mit 0,57 Prozent fünf Direktmandate holte, wächst das Parlament durch Überhangmandate auf 131 Sitze.",
+    "Die Regierungskoalition käme danach auf 67 Sitze – National 42, ACT 13, New Zealand First 12 – und damit knapp über die nötige Mehrheit von 66. Labour (36), Grüne (16) und Te Pāti Māori (5) erreichen zusammen 57 Sitze. Erstmals zieht die zentristische Opportunity-Partei mit 5,96 Prozent und sieben Abgeordneten ins Parlament ein. Luxon hat eine Zusammenarbeit mit ihr wegen ihrer Steuerpläne mehrfach ausgeschlossen, Hipkins ist offen, lehnt aber die geplante Bodensteuer ab. Parteichefin Qiulae Wong will zuerst mit National verhandeln, sofern ihre Bedingungen erfüllt werden.",
+    "Noch nicht gezählt sind nach Schätzung der Wahlkommission rund 399.000 Sonderstimmen, darunter knapp 97.000 aus dem Ausland. Bei früheren Wahlen holten linke Parteien bei diesen Stimmen oft auf, die Sitzverteilung kann sich also noch verschieben. Die amtliche Auszählung beginnt am Sonntag, das Endergebnis soll am 27. November vorliegen. Überschattet wurde der Wahltag von Unwettern, vor allem in Auckland."
+   ],
+   "quellen": [
+    [
+     "Electoral Commission",
+     "https://elections.nz/media-and-news/2026/2026-general-election-preliminary-results"
+    ],
+    [
+     "ABC News (Australien)",
+     "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448"
+    ],
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/politik/international/wahlen-regierungsbuendnis-liegt-nach-wahl-in-neuseeland-knapp-in-fuehrung/100268071.html"
+    ]
+   ],
+   "berichterstattung": [
+    "elections.nz",
+    "abc.net.au",
+    "handelsblatt.com",
+    "aljazeera.com",
+    "cnn.com",
+    "berliner-zeitung.de",
+    "rnz.co.nz",
+    "nzherald.co.nz",
+    "newsroom.co.nz",
+    "yahoo.com"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland"
+   ],
+   "kicker": "Ukraine-Krieg · Angriffe",
+   "titel": "36 Raketen und 172 Drohnen vor den Gesprächen in Abu Dhabi",
+   "deck": "Russland greift Kiew und zwölf weitere Regionen an, die Nordbrücke über den Dnipro wird beschädigt – drei Tage vor der nächsten Verhandlungsrunde.",
+   "text": [
+    "Russland hat in der Nacht zum Samstag Kiew und zwölf weitere Regionen der Ukraine mit 36 Raketen und 172 Drohnen angegriffen. Nach Angaben von Präsident Wolodymyr Selenskyj wurden nur vier der Raketen abgeschossen, mindestens neun Menschen wurden verletzt. Ziel war vor allem die Energieversorgung; eine der eingesetzten Raketen sei „in Nordkorea hergestellt und geliefert“ worden. Selenskyj hatte bereits am Freitag vor einem Großangriff auf Energieanlagen und Brücken gewarnt.",
+    "In Kiew schlugen ballistische Raketen in mehreren Wellen ein. Bürgermeister Vitali Klitschko meldete mindestens fünf Verletzte, darunter ein 14-jähriges Mädchen. Die Nordbrücke über den Dnipro wurde beschädigt und in beide Richtungen gesperrt; Fahrbahn, Oberleitung und Stromleitung wurden getroffen. Im Bezirk Solomjanskyj wurden ein Wohnhaus und ein Kindergarten beschädigt. Die Ukraine griff ihrerseits Berichten zufolge die Ölraffinerie von Saratow an.",
+    "Am Dienstag wollen Unterhändler Russlands, der Ukraine und der USA in Abu Dhabi verhandeln – die vierte von Washington vermittelte Runde, die letzte fand im Februar in Genf statt. Die ukrainische Delegation führt Rustem Umerow. „Russland hat eine ganz eigene Sicht auf Diplomatie – als eine Unterart der Aggression“, schrieb Selenskyj. Im Dorf Komyschuwacha in der Region Saporischschja stieg die Zahl der Toten nach dem Bombenangriff auf eine Hilfsausgabestelle vom Montag auf 55, Dutzende werden noch vermisst."
+   ],
+   "quellen": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/zelenskyy-russia-attacks-us-talks/"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
+    ],
+    [
+     "Al Jazeera",
+     "https://aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+    ]
+   ],
+   "berichterstattung": [
+    "cbsnews.com",
+    "kyivindependent.com",
+    "aljazeera.com",
+    "yahoo.com"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Trump"
+   ],
+   "kicker": "USA · Nach der Wahl",
+   "titel": "Trump verlangt Ermittlungen gegen Demokraten wegen „Erpressung“",
+   "deck": "Der Präsident wirft den Wahlsiegern vor, Kabinettsmitgliedern und Spendern mit Amtsenthebung und Strafen zu drohen – Belege nennt er nicht.",
+   "text": [
+    "US-Präsident Donald Trump hat das Justizministerium angewiesen, gegen Demokraten zu ermitteln. Sie gingen umher und „bedrohten viele Leute“, schrieb er am Samstag auf Truth Social, einigen Kabinettsmitgliedern sei mit Amtsenthebung gedroht worden. Das sei „Erpressung auf höchster Ebene“ und eine Straftat. Zudem behauptete er, seine Spender würden bedroht, und nannte die Senatorin Elissa Slotkin aus Michigan. Belege legte er nicht vor.",
+    "Hintergrund ist der Machtwechsel im Kongress: Die Demokraten haben bei den Zwischenwahlen am Dienstag beide Kammern gewonnen. Abgeordnete und neu gewählte Kandidaten kündigten Untersuchungen zu den Finanzen der Familie Trump, zur Einwanderungsbehörde ICE, zu Verteidigungsminister Pete Hegseth und zu Justizminister Todd Blanche an. Ab Januar können sie Dokumente anfordern, Regierungsvertreter vorladen und Anhörungen abhalten. Der kalifornische Abgeordnete Robert Garcia, voraussichtlich künftiger Vorsitzender des Kontrollausschusses, hatte nach dem Wahlsieg „LAWYER UP“ gepostet – sinngemäß: Nehmt euch einen Anwalt.",
+    "Unter Druck steht vor allem Hegseth. Der republikanische Abgeordnete Thomas Massie will Anfang der Woche eine Resolution zu dessen Amtsenthebung einbringen. Trump erklärte, er habe „jede Absicht“, an Hegseth festzuhalten."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people"
+    ],
+    [
+     "AND Magazine",
+     "https://andmagazine.substack.com/p/morning-brief-7-november-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "andmagazine.substack.com"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Jemen",
+    "Saudi-Arabien",
+    "Nahost"
+   ],
+   "kicker": "Jemen · Krieg",
+   "titel": "Dutzende Tote bei Luftangriffen nahe Sanaa",
+   "deck": "Die Huthis machen Saudi-Arabien verantwortlich, die Koalition fängt eine Rakete auf Riad ab – der Krieg im Jemen eskaliert seit dem Sommer.",
+   "text": [
+    "Bei Luftangriffen auf ein Dorf nahe der jemenitischen Hauptstadt Sanaa sind nach Angaben des von den Huthis kontrollierten Gesundheitsministeriums mindestens 27 Menschen getötet und 36 verletzt worden, überwiegend Frauen und Kinder. Nach Huthi-Angaben stieg zudem die Zahl der Toten nach einem saudischen Angriff auf das Dorf Al-Schariya auf 33. Die Angaben ließen sich nicht unabhängig überprüfen. Die Huthis machen Saudi-Arabien verantwortlich, das saudische Informationsministerium äußerte sich zunächst nicht.",
+    "Zuvor hatte die saudisch geführte Koalition nach eigenen Angaben eine Huthi-Rakete abgefangen, die auf Riad gezielt habe. Die Huthis reklamierten ihrerseits Angriffe in Saudi-Arabien; für die Grenzstadt Dschasan gab der Zivilschutz mehrfach Warnungen aus. Bereits am Freitag hatten die Huthis gemeldet, ein saudischer Angriff auf einen Markt in Taiz habe 30 Menschen getötet oder verletzt.",
+    "Die Kämpfe zwischen den Huthis, die Sanaa sowie den Norden und Westen des Landes kontrollieren, und ihren von Saudi-Arabien unterstützten Gegnern haben sich seit dem Sommer verschärft. Nach UN-Angaben sind seit dem Wiederaufflammen der Kämpfe mehr als 1.600 Menschen ums Leben gekommen."
+   ],
+   "quellen": [
+    [
+     "AP / Philadelphia Inquirer",
+     "https://www.inquirer.com/news/nation-world/iran-missile-ranges-houthis-yemen-gaza-camps-us-israel-strait-hormuz-20261107.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    ],
+    [
+     "Khaleej Times",
+     "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-7-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "inquirer.com",
+    "cbsnews.com",
+    "khaleejtimes.com",
+    "ctvnews.ca",
+    "news4jax.com"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Italien",
+    "Cyberangriff",
+    "Russland"
+   ],
+   "kicker": "Italien · Cyberangriff",
+   "titel": "Prorussische Hacker stellen Daten von Außenminister Tajani ins Darknet",
+   "deck": "Italiens Vizeregierungschef spricht von Drohungen gegen seine Familie, Meloni nennt den Fall „äußerst besorgniserregend“.",
+   "text": [
+    "Persönliche Daten des italienischen Außenministers Antonio Tajani sind im Darknet veröffentlicht worden. Kriminelle verbreiteten seine Daten „seit Tagen“, schrieb Tajani, der auch Vizeregierungschef ist, am Samstag in sozialen Netzwerken. Die Angreifer nähmen auch seine Familie ins Visier und seien bereit, für weitere Einzelheiten über ihn und seine Angehörigen zu bezahlen. Er werde sich „in keiner Weise einschüchtern lassen“. Welche Informationen betroffen sind, sagte er nicht.",
+    "Ministerpräsidentin Giorgia Meloni machte prorussische Hacker verantwortlich. Versuche, vertrauliche Informationen über Regierungsmitglieder zu verkaufen, seien „äußerst besorgniserregend“ und müssten entschlossen bekämpft werden. Tajani brachte die Angriffe mit Italiens Haltung zur Ukraine in Verbindung: Wer die Unabhängigkeit eines souveränen Staates verteidige, werde zum Ziel solcher Gruppen. Möglicherweise reagierten die Täter auch auf den Ausbau der digitalen Abwehr seines Ministeriums, das sein Vorgehen mit Verbündeten abstimmt.",
+    "Der Fall fällt in eine Woche, in der falsche Bombendrohungen in ganz Europa Flugzeuge zu Umleitungen zwangen und Rundfunkanstalten Sicherheitsalarm auslösten."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Gaza",
+    "Nahost",
+    "Humanitäre Lage"
+   ],
+   "kicker": "Gaza · Winter",
+   "titel": "Starkregen flutet Zeltlager in Gaza",
+   "deck": "Für mehr als 1,6 Millionen Vertriebene beginnt ein weiterer Winter in Notunterkünften – die Hilfe reicht nur für einen Bruchteil.",
+   "text": [
+    "Heftiger Regen hat am Samstag Zelte und Notunterkünfte im Gazastreifen überflutet. Matratzen und Habseligkeiten wurden durchnässt, Wege in den Lagern verwandelten sich in Schlammpfützen, etwa in Deir al-Balah im Zentrum des Gebiets. „Wir werden heute Nacht auf der Straße schlafen müssen oder woanders unterkommen“, sagte Majed Al-Omari, der im Krieg eine Gliedmaße verloren hat und dessen Unterkunft der Regen zerstörte.",
+    "Mehr als 1,6 Millionen Palästinenser leben nach dem Verlust ihrer Häuser in Zelten oder anderen provisorischen Unterkünften. Nach Angaben des UN-Nothilfebüros benötigen 294.250 Familien Hilfe, um ihre Unterkünfte für die Regenzeit zu rüsten; mit den vorhandenen Vorräten lassen sich nur 18 Prozent von ihnen teilweise versorgen.",
+    "Als Gründe nennen die Vereinten Nationen fehlende Mittel, langsame Beschaffung und verzögerte Genehmigungen durch die israelischen Behörden. Weitere Lieferungen könnten erst ankommen, wenn mehr als die Hälfte des Winters vorüber ist."
+   ],
+   "quellen": [
+    [
+     "AP / Philadelphia Inquirer",
+     "https://www.inquirer.com/news/nation-world/iran-missile-ranges-houthis-yemen-gaza-camps-us-israel-strait-hormuz-20261107.html"
+    ],
+    [
+     "National Herald",
+     "https://www.nationalheraldindia.com/international/iran-lifts-self-imposed-limit-on-missile-ranges-amid-fears-of-renewed-war-gaza-hit-by-heavy-rain"
+    ],
+    [
+     "CTV News",
+     "https://www.ctvnews.ca/world/article/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/"
+    ]
+   ],
+   "berichterstattung": [
+    "inquirer.com",
+    "nationalheraldindia.com",
+    "ctvnews.ca"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Raumfahrt",
+    "China",
+    "Pakistan"
+   ],
+   "kicker": "Wissenschaft · Raumfahrt",
+   "titel": "Erstmals soll ein Ausländer zur chinesischen Raumstation fliegen – ein Pakistaner",
+   "deck": "Peking nominiert einen pakistanischen Astronauten für die Mission Shenzhou-24, der Start wird bis Jahresende erwartet.",
+   "text": [
+    "China will erstmals einen ausländischen Raumfahrer zu seiner Raumstation schicken. Die bemannte Raumfahrtbehörde des Landes hat nach Berichten chinesischer Staatsmedien vom Samstag einen pakistanischen Astronauten als Nutzlastspezialisten für die Mission Shenzhou-24 ausgewählt. Seinen Namen und das Startdatum nannte Peking nicht; erwartet wird der Flug bis Ende des Jahres. Zurückkehren sollen die Raumfahrer nach einem kurzen Aufenthalt im Orbit mit Shenzhou-23, berichtete das Staatsfernsehen CCTV.",
+    "Die pakistanischen Piloten Zeeshan Ali und Khurram Daud haben monatelang im Ausbildungszentrum für Astronauten in Peking trainiert, einschließlich intensiver Chinesischkurse. Grundlage ist ein im Februar vereinbartes Programm zur Ausbildung pakistanischer Raumfahrer, das Teil der Zusammenarbeit im Rahmen der chinesischen Initiative Neue Seidenstraße ist.",
+    "Auch auf dem Mond arbeiten beide Länder zusammen: Chinas Raumfahrtbehörde soll Pakistans ersten Mondrover Jinnah-1 absetzen, ein 35 Kilogramm schweres Fahrzeug, das Plasma, Strahlung und die Zusammensetzung des Mondbodens untersuchen soll. China, Pakistans größter Handelspartner, will bis 2030 selbst Astronauten auf den Mond bringen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "China",
+    "Handel",
+    "Seltene Erden"
+   ],
+   "kicker": "Welthandel · USA und China",
+   "titel": "Washington mahnt Peking: Seltene Erden und Agrarkäufe „sofort“ liefern",
+   "deck": "Zwei Wochen vor dem Treffen von Trump und Xi in Shenzhen werfen die USA China vor, die Zusagen von Busan nicht einzuhalten.",
+   "text": [
+    "Die US-Regierung erhöht vor dem nächsten Gipfel zwischen Donald Trump und Xi Jinping den Druck auf China. Finanzminister Scott Bessent und der Handelsbeauftragte Jamieson Greer forderten Chinas Vizepremier He Lifeng am Freitag in einer Videoschalte auf, die im Oktober 2025 in Busan vereinbarten Zusagen „vollständig und unverzüglich“ umzusetzen. Greers Behörde verlangte konkrete Schritte bei Agrarkäufen, Seltenen Erden und anderen kritischen Mineralien. Weitere Fortschritte hingen von „konkreten Ergebnissen“ ab, hieß es; Washington werde die Umsetzung genau prüfen.",
+    "Hintergrund sind Klagen amerikanischer Unternehmen, sie erhielten aus China zu wenige Seltene Erden und kritische Rohstoffe – Materialien, die für Elektronik, Elektroautos, Maschinen und Rüstungsgüter unverzichtbar sind. China hatte in Busan zugesagt, über drei Jahre 25 Millionen Tonnen US-Sojabohnen zu kaufen und Ausfuhrkontrollen für Seltene Erden zurückzunehmen. Laut Weißem Haus soll Peking zudem ab 2026 jährlich Agrargüter für 17 Milliarden Dollar abnehmen. Das Abkommen deckelt die US-Zölle auf chinesische Waren bei rund 20 Prozent und läuft am 10. Januar aus.",
+    "Peking reagierte zurückhaltend. Laut der Nachrichtenagentur Xinhua äußerte He „ernste Besorgnis“ über jüngste US-Handelsbeschränkungen, sagte aber weitere Gespräche zu. Bereits am Donnerstag hatte das Handelsministerium erklärt, China sei zu weiteren Agrarkäufen bereit – allerdings nur, wenn beide Seiten das vorgeschlagene Paket gegenseitiger Zollsenkungen umsetzen. Nach dem Gipfel im September in Washington war von Senkungen im Umfang von 60 Milliarden Dollar die Rede, darunter rund 17 Milliarden für US-Agrarprodukte; endgültig vereinbart ist das Paket nicht.",
+    "Trump und Xi wollen sich am Rande des Apec-Gipfels am 18. und 19. November im südchinesischen Shenzhen treffen. Mitte Dezember folgt der G20-Gipfel in Miami."
+   ],
+   "quellen": [
+    [
+     "AsiaOne (Reuters)",
+     "https://www.asiaone.com/world/us-urges-china-meet-rare-earths-agriculture-commitments-ahead-trump-xi-meetings"
+    ],
+    [
+     "Al Jazeera",
+     "https://aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments"
+    ],
+    [
+     "The Epoch Times",
+     "https://theepochtimes.com/china/us-tells-china-to-immediately-meet-trade-commitment-ahead-of-trump-xi-meeting-6120181"
+    ]
+   ],
+   "berichterstattung": [
+    "asiaone.com",
+    "aljazeera.com",
+    "theepochtimes.com",
+    "japantimes.co.jp",
+    "thejakartapost.com",
+    "scmp.com",
+    "ntd.com",
+    "politiko.com.ph",
+    "rallies.ai",
+    "gewinnermagazin.de"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Berkshire Hathaway",
+    "Quartalszahlen"
+   ],
+   "kicker": "Unternehmen · Berkshire Hathaway",
+   "titel": "Berkshire verdient weniger und kauft kräftig eigene Aktien zurück",
+   "deck": "Im dritten Quartal unter Konzernchef Greg Abel fließen 9,6 Milliarden Dollar in Rückkäufe, das Versicherungsgeschäft bricht ein.",
+   "text": [
+    "Die Beteiligungsholding Berkshire Hathaway hat im dritten Quartal operativ weniger verdient als ein Jahr zuvor. Wie der Konzern am Samstag mitteilte, sank der operative Gewinn nach Steuern auf 12,7 Milliarden Dollar nach 13,5 Milliarden im Vorjahreszeitraum. Am stärksten fiel das Versicherungsgeschäft zurück: Das Ergebnis aus dem Underwriting schrumpfte von 2,37 auf 1,35 Milliarden Dollar, ein Minus von rund 43 Prozent. Unter dem Strich stand ein Nettogewinn von 22,1 Milliarden Dollar, darin enthalten 9,4 Milliarden Dollar aus Kursgewinnen bei Beteiligungen.",
+    "Auffällig ist der Kurswechsel bei den Aktienrückkäufen. Berkshire erwarb im Quartal eigene Papiere für rund 9,6 Milliarden Dollar, in den ersten neun Monaten waren es etwa 14,4 Milliarden. Im gesamten Jahr 2025 hatte der Konzern keine eigenen Aktien zurückgekauft. Nach den Regeln des Hauses wird nur gekauft, wenn der Kurs unter dem „konservativ ermittelten“ inneren Wert liegt.",
+    "Der berühmte Geldberg schmilzt dadurch leicht ab: Barmittel und kurzlaufende US-Staatsanleihen im Versicherungs- und übrigen Geschäft sanken auf 352,3 Milliarden Dollar nach 359,2 Milliarden Ende Juni. Mit den Mitteln der Eisenbahn BNSF und des Energiegeschäfts kommt Berkshire auf 377,4 Milliarden Dollar. Im Juli hatte der Konzern zudem den Hausbauer Taylor Morrison für rund 6,8 Milliarden Dollar in bar übernommen.",
+    "Es ist das dritte Quartal unter Greg Abel, der zum 1. Januar die Führung von Warren Buffett übernommen hat. Buffett ist seit Mitte September Ehrenvorsitzender, den Vorsitz im Verwaltungsrat hat sein Sohn Howard Buffett übernommen."
+   ],
+   "quellen": [
+    [
+     "Stock Titan",
+     "https://www.stocktitan.net/articles/berkshire-hathaway-q3-2026-earnings-abel-cash-pile"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "bloomberg.com",
+    "yahoo.com",
+    "theinsurer.com",
+    "benzinga.com",
+    "stocktitan.net",
+    "mlq.ai",
+    "tradersagency.com",
+    "digg.com"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Streik",
+    "Industrie"
+   ],
+   "kicker": "Tarifstreit · Metall- und Elektroindustrie",
+   "titel": "Mehr als 413.000 Metaller im Warnstreik – am Montag wird in Bayern und NRW verhandelt",
+   "deck": "Die IG Metall droht mit einer Eskalation, die Arbeitgeber bieten bislang eine Einmalzahlung und 1,3 Prozent ab 2028.",
+   "text": [
+    "Die IG Metall hat in der ersten Warnstreikwelle der Tarifrunde mehr Beschäftigte mobilisiert als vor zwei Jahren. Nach Angaben der Gewerkschaft beteiligten sich in dieser Woche mehr als 413.000 Menschen an über 2800 Aktionen, von kurzen Arbeitsniederlegungen bis zu Kundgebungen. Betroffen waren unter anderem Mercedes, Audi, BMW, Daimler Truck, MAN, Siemens Gamesa und Airbus. Allein in Bayern rief die Gewerkschaft am Freitag Beschäftigte in 105 Betrieben auf, bei BMW in Dingolfing wurden ganze Spät- und Nachtschichten bestreikt.",
+    "Die IG Metall fordert für die rund 3,7 Millionen Beschäftigten der Branche fünf Prozent mehr Geld ab November bei einer Laufzeit von zwölf Monaten, Regeln zur Beschäftigungssicherung sowie Gewinnbeteiligungen in Unternehmen, denen es gut geht. Die Arbeitgeber haben im Bezirk Küste eine Einmalzahlung von 500 bis 850 Euro im Juli 2027 angeboten, die Krisenbetriebe streichen können, sowie 1,3 Prozent mehr Tariflohn ab Juli 2028. Die Gewerkschaft nennt das eine Reallohnsenkung.",
+    "Die dritte Verhandlungsrunde im Bezirk Küste endete am Freitag ohne Ergebnis. Am Montag wird in Bayern und Nordrhein-Westfalen weiterverhandelt; die IG Metall drohte mit einer Ausweitung der Streiks, sollten die Arbeitgeber nicht nachbessern. Bayerns Verhandlungsführer Horst Ott sagte, die Arbeitgeber „sollten diese Signale nicht überhören“.",
+    "Der bayerische Arbeitgeberverband vbm wies die Warnstreiks zurück. Hauptgeschäftsführer Bertram Brossardt verlangte weniger Klassenkampfrhetorik und mehr Bereitschaft zu Lösungen. Die Unternehmen verweisen auf die schwache Lage der Industrie, in der viele Betriebe Stellen abbauen."
+   ],
+   "quellen": [
+    [
+     "onvista (Reuters)",
+     "https://onvista.de/news/2026/11-06-ig-metall-zaehlt-mehr-als-400-000-teilnehmer-an-warnstreiks-0-20-26573541"
+    ],
+    [
+     "ARIVA (dpa-AFX)",
+     "https://www.ariva.de/news/ig-metall-ruft-zehntausende-in-bayern-zu-warnstreik-auf-12197495"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/3/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures"
+    ]
+   ],
+   "berichterstattung": [
+    "onvista.de",
+    "ariva.de",
+    "aljazeera.com",
+    "abendzeitung-muenchen.de",
+    "ad-hoc-news.de",
+    "gna.org.gh",
+    "regionalupdate.de",
+    "infranken.de",
+    "igmetall.de",
+    "digg.com"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Bau",
+    "Übernahmen",
+    "Deutschland",
+    "Spanien"
+   ],
+   "kicker": "Übernahmen · Bauindustrie",
+   "titel": "ACS dementiert Pläne für eine Komplettübernahme von Hochtief",
+   "deck": "Ein Bloomberg-Bericht hatte die Hochtief-Aktie am Freitag um 5,5 Prozent steigen lassen – am Samstag folgte das Nein aus Madrid.",
+   "text": [
+    "Der spanische Baukonzern ACS hat einen Bericht über Pläne zur vollständigen Übernahme seiner deutschen Tochter Hochtief zurückgewiesen. In einem Schreiben an die spanische Börsenaufsicht CNMV erklärte ACS am Samstag „kategorisch“, weder ein Übernahmeangebot für Hochtief noch einen Verkauf von Anteilen an der US-Tochter Turner erwogen zu haben. ACS hält bereits gut 75 Prozent an dem Essener Konzern.",
+    "Die Finanznachrichtenagentur Bloomberg hatte am Freitag unter Berufung auf Insider berichtet, ACS prüfe mehrere Optionen: den Kauf der übrigen Hochtief-Aktien, eine Fusion beider Unternehmen und in diesem Zusammenhang möglicherweise einen Börsengang von Turner Construction in New York. Die Hochtief-Aktie sprang kurz vor Handelsschluss an und ging mit einem Plus von 5,5 Prozent bei 365,60 Euro aus dem Handel.",
+    "Beide Konzerne profitieren stark vom weltweiten Bauboom für Rechenzentren der KI-Branche; Turner arbeitet an mehreren großen Projekten in den USA, darunter ein Campus für Meta. Die Hochtief-Aktie hatte sich von Ende 2022 bis zum Rekordhoch von 554 Euro im Mai 2026 mehr als verzehnfacht, ist seither aber deutlich zurückgefallen, weil Anleger hohe Bewertungen im KI-Umfeld zunehmend skeptisch sehen. Die ACS-Aktie lag zuletzt rund 39 Prozent unter ihrem Rekordstand vom Mai.",
+    "Jefferies-Analyst Graham Hunt hielte ein Interesse von ACS an einer Komplettübernahme für wenig überraschend: Der Kurs sei stark gefallen, während die Gewinnerwartungen gestiegen seien. Das Thema dürfte beim Kapitalmarkttag von ACS am 12. November erneut auf den Tisch kommen."
+   ],
+   "quellen": [
+    [
+     "onvista (dpa-AFX)",
+     "https://www.onvista.de/news/2026/11-07-acs-dementiert-bericht-ueber-interesse-an-komplettuebernahme-von-hochtief-0-10-26573775"
+    ],
+    [
+     "finanzen.net",
+     "https://www.finanzen.net/nachricht/aktien/fusion-hochtief-aktie-deutlich-fester-acs-dementiert-plaene-ueber-angebliche-komplettuebernahme-und-turner-ipo-16045043"
+    ],
+    [
+     "Briefs",
+     "https://www.briefs.co/news/acs-denies-plans-for-hochtief-tender-offer-or-a-turner-share/"
+    ]
+   ],
+   "berichterstattung": [
+    "onvista.de",
+    "finanzen.net",
+    "briefs.co",
+    "investing.com",
+    "ariva.de",
+    "cash.ch",
+    "goldesel.de",
+    "kapitalmarktexperten.de",
+    "it-boltwise.de",
+    "stock-world.de",
+    "ad-hoc-news.de"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Medien",
+    "Übernahmen"
+   ],
+   "kicker": "Übernahmen · Medien",
+   "titel": "Fox schließt den 22-Milliarden-Kauf von Roku ab",
+   "deck": "Der Murdoch-Konzern bündelt das Streaming-Geschäft in einer neuen Sparte und verspricht, die Plattform offen zu halten.",
+   "text": [
+    "Der US-Medienkonzern Fox Corporation hat die Übernahme des Streaming-Plattformbetreibers Roku abgeschlossen. Fox hatte den 22 Milliarden Dollar schweren Kauf im Juni angekündigt und am Freitag den Vollzug gemeldet. Rokus Plattform für vernetzte Fernseher erreicht nach Konzernangaben mehr als 100 Millionen Haushalte und soll künftig mit dem Live-Sport, den Nachrichten und den Lokalprogrammen von Fox zusammenspielen.",
+    "Fox erwartet binnen zwei Jahren nach dem Abschluss jährliche Kostensynergien von rund 400 Millionen Dollar und zusätzlich Umsatzpotenzial. Ab dem zweiten vollen Geschäftsjahr nach der Übernahme soll das Geschäft den freien Mittelzufluss je Aktie erhöhen. Roku ergänzt das bestehende Streaming-Angebot aus dem Gratisdienst Tubi und Fox One.",
+    "Organisatorisch schafft Fox die neue Sparte Fox Digital Platforms, zu der Roku, Tubi, Fox One und Red Seat Ventures gehören. Roku-Gründer Anthony Wood zieht in den Fox-Verwaltungsrat ein und wird gemeinsam mit Paul Cheesbrough, der zugleich Chef der Sparte wird, deren Vorsitz übernehmen. Konzernchef Lachlan Murdoch sagte, der Abschluss bringe die langfristige Strategie von Fox voran; man wolle die Offenheit und Auswahl auf der Roku-Plattform bewahren.",
+    "Fox sicherte zu, Roku weiterhin für alle Inhalteanbieter offen zu halten – ein wichtiger Punkt für Konkurrenten, deren Apps über die Plattform laufen. Wood sagte, Rokus Auftrag ändere sich nicht."
+   ],
+   "quellen": [
+    [
+     "Fox Business",
+     "https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku"
+    ],
+    [
+     "Variety",
+     "https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/"
+    ],
+    [
+     "Deadline",
+     "https://deadline.com/2026/11/fox-corp-closes-roku-acquisition-1237215436/"
+    ]
+   ],
+   "berichterstattung": [
+    "foxbusiness.com",
+    "variety.com",
+    "deadline.com",
+    "hollywoodreporter.com",
+    "engadget.com"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Österreich",
+    "Signa",
+    "Justiz"
+   ],
+   "kicker": "Unternehmen · Signa",
+   "titel": "Benko wegen schweren Betrugs zu weiteren zwei Jahren Haft verurteilt",
+   "deck": "Das Landesgericht Innsbruck sieht es als erwiesen an, dass der Signa-Gründer Hans Peter Haselsteiner um fünf Millionen Euro betrogen hat.",
+   "text": [
+    "Der Gründer der zusammengebrochenen Signa-Gruppe, René Benko, ist erneut verurteilt worden. Ein Schöffengericht am Landesgericht Innsbruck sprach den 49-Jährigen des schweren Betrugs schuldig und verhängte eine Zusatzstrafe von zwei Jahren Haft. Das Urteil ist nicht rechtskräftig. Bereits im September war Benko in einem anderen Verfahren wegen Schädigung von Gläubigern zu 30 Monaten verurteilt worden.",
+    "Im aktuellen Prozess ging es um fünf Millionen Euro aus der Privatstiftung des Industriellen und früheren Strabag-Chefs Hans Peter Haselsteiner. Benko brauchte das Geld nach Darstellung der Wirtschafts- und Korruptionsstaatsanwaltschaft Anfang November 2023 dringend für die Sporthandelstochter Sportscheck und gab dafür eine persönliche Rückzahlungsgarantie ab, die er nicht hätte einhalten können. Haselsteiner sagte als Zeuge aus, ohne diese Garantie hätte er nicht gezahlt. Benkos Verteidiger argumentierte, das Geld sei aus einem früheren Aktiengeschäft ohnehin geschuldet gewesen; das Gericht folgte dem nicht.",
+    "Vom zweiten Vorwurf wurde Benko freigesprochen: Er soll ein Jagdgewehr im Wert von rund 80.000 Euro vor Gläubigern versteckt haben. Das Gericht kam jedoch zu dem Schluss, die Waffe sei stets am selben Ort in Innsbruck-Igls aufbewahrt worden.",
+    "Benko befindet sich weiter in Untersuchungshaft, darf diese seit Mitte Oktober aber mit Fußfessel in einer Wohnung verbringen. Die Aufarbeitung der Signa-Pleite ist damit nicht beendet: Ermittlungen laufen in Österreich und anderen Ländern, auch in Deutschland. Zum Niedergang der Gruppe trug auch der Einstieg bei den deutschen Warenhausketten Kaufhof und Karstadt bei."
+   ],
+   "quellen": [
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/wirtschaft/benko-betrug-urteil-zwei-jahre-100.html"
+    ],
+    [
+     "Leadersnet",
+     "https://www.leadersnet.at/news/105397,rene-benko-wegen-millionen-betrugs-zu-weiterer-haftstrafe.html"
+    ]
+   ],
+   "berichterstattung": [
+    "zdfheute.de",
+    "leadersnet.at",
+    "stuttgarter-zeitung.de",
+    "salzburg24.at",
+    "news.at",
+    "cash.ch",
+    "boersen-zeitung.de",
+    "leinetal24.de",
+    "arabnews.pk",
+    "devdiscourse.com"
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Insolvenz",
+    "Handel"
+   ],
+   "kicker": "Insolvenzen · Modehandel",
+   "titel": "Modekette Liberty Woman ist insolvent",
+   "deck": "Der Filialist aus Lübbecke mit rund 600 Beschäftigten will sich in Eigenverwaltung sanieren – die Läden bleiben geöffnet.",
+   "text": [
+    "Die Modehandelskette Liberty Damenmoden aus dem westfälischen Lübbecke hat Insolvenz in Eigenverwaltung beantragt. Das Amtsgericht Bielefeld gab dem Antrag mit Beschluss vom 5. November statt und ordnete ein vorläufiges Eigenverwaltungsverfahren an. Das Unternehmen mit der Eigenmarke Liberty Woman beschäftigt rund 600 Menschen und betreibt gut 110 Filialen in Deutschland und Österreich sowie einen Onlineshop. Geschäfte und Webshop sollen während des Verfahrens normal weiterlaufen.",
+    "Als Gründe nennt das Unternehmen den schwierigen Markt im Modehandel, sinkende Kundenfrequenz und eine schwache Nachfrage nach Herbst- und Wintermode, die es vor allem auf das Wetter zurückführt. Geschäftsführer Oliver Lübbenjans will das Sortiment schärfen, schneller auf saisonale Trends reagieren und die Nähe zu den Kundinnen stärken. Auf den Prüfstand kommen das Filialnetz, die Kostenstrukturen und interne Abläufe.",
+    "In der Eigenverwaltung bleibt die Geschäftsführung im Amt, wird aber von Sanierungsexperten begleitet; zum vorläufigen Sachwalter bestellte das Gericht den Rechtsanwalt Hans-Joachim Berner. Die Löhne und Gehälter der Beschäftigten sind für bis zu drei Monate über das Insolvenzgeld der Bundesagentur für Arbeit gesichert.",
+    "Liberty wurde 1976 in Herford gegründet und zog 1979 nach Lübbecke. Die Kette reiht sich in eine lange Liste angeschlagener Modehändler ein, die unter Kaufzurückhaltung und sinkender Kundenfrequenz leiden."
+   ],
+   "quellen": [
+    [
+     "Neue Westfälische",
+     "https://www.nw.de/nachrichten/wirtschaft/24456544_Luebbecker-Modeunternehmen-beantragt-Insolvenz-in-Eigenverwaltung.html"
+    ],
+    [
+     "t-online",
+     "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101516712/liberty-damenmoden-gmbh-mode-kette-ist-insolvent-.html"
+    ],
+    [
+     "TextilWirtschaft",
+     "https://www.textilwirtschaft.de/retail/liberty-ist-insolvent-442822"
+    ]
+   ],
+   "berichterstattung": [
+    "nw.de",
+    "t-online.de",
+    "textilwirtschaft.de",
+    "westfalen-blatt.de"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Kanada",
+    "Autoindustrie",
+    "Gewerkschaften"
+   ],
+   "kicker": "Industrie · Kanada",
+   "titel": "Gewerkschaft Unifor geht vom Verkauf des Stellantis-Werks in Brampton aus",
+   "deck": "Der Autokonzern schweigt, ein Hersteller gepanzerter Fahrzeuge gilt als Käufer – über 9000 Beschäftigte haben ein Streikmandat erteilt.",
+   "text": [
+    "Im Konflikt um die Zukunft der kanadischen Werke von Stellantis spitzt sich die Lage zu. Die Autogewerkschaft Unifor erklärte, sie gehe davon aus, dass der Konzern sein stillgelegtes Montagewerk in Brampton in der Provinz Ontario verkauft hat. Bei einem Treffen am Freitag habe Stellantis Berichte über einen Verkauf weder bestätigt noch dementiert. Unifor wertet diese Weigerung nach eigenen Worten „als Bestätigung“, dass das Werk verkauft sei.",
+    "Als Käufer gilt Roshel, ein in Brampton ansässiger Hersteller gepanzerter Fahrzeuge. Stellantis hatte im September eine Absichtserklärung über einen möglichen Verkauf des Standorts an das Unternehmen unterzeichnet. Sprecher beider Firmen erklärten, sie hätten „nichts mitzuteilen“.",
+    "In Brampton ruht die Produktion seit 2023, mehr als 2000 Beschäftigte wurden damals entlassen. Für die Gewerkschaft ist das Werk ein zentraler Punkt in den laufenden Tarifverhandlungen: Beide Seiten stecken bei der Arbeitsplatzsicherheit und der Zukunft des Standorts in einer Sackgasse. Mitte Oktober hatten mehr als 9000 Stellantis-Beschäftigte in Kanada mit 97,3 Prozent für Streiks gestimmt.",
+    "Ob Unifor nun tatsächlich zum Streik aufruft, ist offen. Die Verhandlungen wurden bislang nicht wieder aufgenommen, Gewerkschaft, Konzern und Regierungsvertreter stehen aber in Kontakt. Unifor hatte die Regierung zuvor aufgefordert, einen Verkauf des Werks zu verhindern."
+   ],
+   "quellen": [
+    [
+     "BNN Bloomberg (Canadian Press)",
+     "https://www.bnnbloomberg.ca/business/company-news/2026/11/07/unifor-says-it-thinks-stellantis-has-sold-brampton-assembly-plant/"
+    ],
+    [
+     "AM800 News",
+     "https://www.am800cklw.com/news/unifor-presses-stellantis-on-reported-brampton-plant-sale/"
+    ],
+    [
+     "CP24",
+     "https://www.cp24.com/local/peel/2026/11/07/unifor-says-it-thinks-stellantis-has-sold-brampton-assembly-plant/"
+    ]
+   ],
+   "berichterstattung": [
+    "bnnbloomberg.ca",
+    "am800cklw.com",
+    "cp24.com",
+    "ctvnews.ca",
+    "archyde.com"
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Häfen",
+    "Streik",
+    "Logistik"
+   ],
+   "kicker": "Logistik · USA",
+   "titel": "Streik in Los Angeles und Long Beach erneut abgewendet – vorerst bis zum 20. November",
+   "deck": "Nur 250 Wachleute, aber ihre Terminals schlagen mehr als die Hälfte der Fracht des größten US-Containerhafens um.",
+   "text": [
+    "Am größten Containerhafenkomplex der USA ist ein Streik ein weiteres Mal aufgeschoben worden. Der Arbeitgeberverband Pacific Maritime Association und die Gewerkschaft ILWU Local 26 verlängerten die Frist für ihre Tarifverhandlungen bis zum 20. November, wie der Verband am Freitag mitteilte. Zuvor war die Frist bereits zweimal verschoben worden, zuletzt auf Mitternacht in der Nacht zum Samstag. Weitere Gesprächstermine seien vereinbart.",
+    "Die Gewerkschaft vertritt rund 250 Wachleute in den Häfen von Los Angeles und Long Beach, etwa zwei Prozent der dortigen Hafenbeschäftigten. Ihr Gewicht ist dennoch erheblich: Die Wachleute kontrollieren die Zufahrten für Lastwagen und Personal an den Terminaltoren, sichern die Anlagen und überwachen wertvolle Fracht. Nach Angaben des Arbeitgeberverbands würde ein Streik Terminals treffen, über die rund 85 Prozent der Ladung in Long Beach und 33 Prozent in Los Angeles laufen. Andere Hafenarbeiter dürften Streikposten nach Einschätzung der Arbeitgeber respektieren.",
+    "Der Vertrag der Wachleute ist bereits im Juli 2025 ausgelaufen, seither wird unter Verlängerungen gearbeitet; die Mitglieder hatten nach mehr als einem Jahr Verhandlungen einen Streik genehmigt. Der große Rahmenvertrag für rund 22.000 Hafenarbeiter an 29 Westküstenhäfen gilt bis 2028 und ist nicht betroffen.",
+    "Der Zeitpunkt ist heikel: Beide Häfen meldeten für September Rekordumschläge, unter anderem mit Waren für das Weihnachtsgeschäft, Ausrüstung für den Bau von KI-Rechenzentren und Autoteilen."
+   ],
+   "quellen": [
+    [
+     "GV Wire (Reuters)",
+     "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
+    ],
+    [
+     "FreightWaves",
+     "https://freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
+    ]
+   ],
+   "berichterstattung": [
+    "gvwire.com",
+    "freightwaves.com",
+    "srnnews.com",
+    "trains.com",
+    "yahoo.com",
+    "bairdmaritime.com"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Energie",
+    "Übernahmen",
+    "Deutschland"
+   ],
+   "kicker": "Energie · Privatisierung",
+   "titel": "Uniper lockt Käufer mit wachsender Dividende – Equinor erwägt Allianz mit Brookfield",
+   "deck": "Vor der zweiten Bieterrunde verspricht der verstaatlichte Versorger sieben Prozent mehr Ausschüttung pro Jahr, und das Bieterfeld ordnet sich neu.",
+   "text": [
+    "Der Energiekonzern Uniper macht sich für private Eigentümer attraktiv. Per Ad-hoc-Mitteilung legte das Unternehmen am Freitag erstmals eine Dividendenpolitik fest: Ausgehend von einer Basisdividende von 300 Millionen Euro soll die Ausschüttung mittelfristig um durchschnittlich sieben Prozent im Jahr wachsen. Für 2026 will Uniper der Hauptversammlung 2027 eine Dividende von 321 Millionen Euro oder 0,77 Euro je Aktie vorschlagen, nach 0,72 Euro für 2025. Bereits zwei Tage zuvor hatte der Konzern die Prognose für das bereinigte Nettoergebnis angehoben, laut Berichten auf 550 bis 650 Millionen Euro. Die Aktie gewann 1,9 Prozent.",
+    "Zugleich kommt Bewegung in den Verkaufsprozess. Der norwegische Öl- und Gaskonzern Equinor erwägt nach Informationen des Handelsblatts, sich dem Konsortium der kanadischen Investoren Brookfield und CPP anzuschließen. Ein europäischer Partner könnte die Chancen der Kanadier erhöhen, Equinor wiederum die eigenen, in die nächste Runde zu kommen. Die Unternehmen äußerten sich nicht. Nicht bindende Gebote hatten Ende September unter anderem auch KKR gemeinsam mit RWE sowie der tschechische Konzern EPH abgegeben.",
+    "Der Bund hält seit der Rettung im Gaskrisenjahr 2022 mehr als 99 Prozent an Uniper und verfolgt zwei Wege: den Verkauf von bis zu 74,12 Prozent oder einen Börsengang, den das Unternehmen selbst bevorzugt. Zur zweiten Runde will das Finanzministerium, das JP Morgan und UBS mandatiert hat, nur drei bis höchstens fünf Bieter zulassen. Am 10. November legt Uniper den Neunmonatsbericht vor, am 16. November folgt ein Kapitalmarkttag in London. Verbindliche Gebote werden im neuen Jahr erwartet."
+   ],
+   "quellen": [
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/unternehmen/energie/energie-im-rennen-um-uniper-kauf-erwaegen-zwei-grosse-bieter-zusammenschluss/100267911.html"
+    ],
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/unternehmen-branchen/uniper-verspricht-wachsende-dividenden"
+    ],
+    [
+     "Onvista (Ad-hoc-Mitteilung)",
+     "https://www.onvista.de/news/2026/11-06-eqs-adhoc-uniper-se-legt-dividendenpolitik-fest-0-37-26573368"
+    ]
+   ],
+   "berichterstattung": [
+    "handelsblatt.com",
+    "boersen-zeitung.de",
+    "onvista.de",
+    "marketscreener.com",
+    "ad-hoc-news.de",
+    "trend.az",
+    "energynewsmagazine.at",
+    "ms-aktuell.de",
+    "kapitalmarktexperten.de",
+    "goldesel.de",
+    "headtopics.com"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "USA",
+    "Inflation",
+    "Notenbank"
+   ],
+   "kicker": "Finanzen · Wochenausblick USA",
+   "titel": "Die Inflationszahl am Dienstag entscheidet über die Zinserhöhung im Dezember",
+   "deck": "Nach dem Jobwunder setzt der Markt zu rund 80 Prozent auf einen Fed-Schritt – nur ein schwacher Verbraucherpreisindex könnte das noch ändern.",
+   "text": [
+    "Die neue Börsenwoche in New York steht im Zeichen eines einzigen Termins: Am Dienstag um 14.30 Uhr deutscher Zeit veröffentlicht das Arbeitsministerium die Verbraucherpreise für Oktober. Ökonomen rechnen mit einem Anstieg um 0,3 Prozent zum Vormonat, nach 0,6 Prozent im September, als vor allem Benzin um 9,1 Prozent teurer geworden war. Für die Kernrate ohne Energie und Lebensmittel liegen die Schätzungen bei 0,2 bis 0,3 Prozent. Wegen der Datenlücke aus dem Shutdown des vergangenen Jahres könnten Jahresraten diesmal fehlen; im September lag die Teuerung bei 3,7 Prozent. Robert Greil von Merck Finck erwartet für Oktober eine Rate von rund vier Prozent und rechnet im Dezember mit Zinserhöhungen sowohl der Fed als auch der EZB.",
+    "Nach dem überraschend starken Arbeitsmarktbericht mit 165.000 neuen Stellen preisen die Terminmärkte laut CME FedWatch und LSEG eine Wahrscheinlichkeit von etwa 77 bis 80 Prozent für eine Anhebung um einen Viertelpunkt auf der Sitzung am 8. und 9. Dezember ein. Nick Rees von Monex erwartet, dass der Schritt bis dahin nahezu vollständig eingepreist wird – es sei denn, die Inflation fällt deutlich niedriger aus oder der Novemberbericht vom Arbeitsmarkt enttäuscht stark. Matthew Martin von Oxford Economics hält eine Erhöhung im Dezember für richtig, sieht weitere Schritte Anfang 2027 aber in Frage gestellt, falls Technologieaktien und Öl weiter fallen.",
+    "Die Notenbanker selbst gaben vor dem Wochenende die Richtung vor. Die Präsidentin der San Francisco Fed, Mary Daly, sprach von einer „Tretmühle hoher Inflation“, auf der die Amerikaner liefen; weitere Erhöhungen seien wahrscheinlich nötig. St.-Louis-Fed-Chef Alberto Musalem nannte die Inflation die größte Sorge der Unternehmen. Nach den Daten am Dienstag stehen Auftritte von Fed-Gouverneur Christopher Waller und Philadelphia-Fed-Präsidentin Anna Paulson auf dem Programm.",
+    "Am Freitag folgen die Erzeugerpreise: Erwartet wird ein Plus von 0,4 Prozent zum Vormonat und 6,6 Prozent zum Vorjahr. Den von der Fed bevorzugten PCE-Preisindex für Oktober gibt es erst am 25. November."
+   ],
+   "quellen": [
+    [
+     "BigGo Finance",
+     "https://finance.biggo.com/news/9e1d0a9b-b32c-4bf1-b265-11480691d264"
+    ],
+    [
+     "BigGo Finance",
+     "https://finance.biggo.com/news/f3ac8327-fd4a-4e42-8050-2fef8f3ff5d1"
+    ],
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/wochenausblick-dax-zwischen-ki-sorgen-und-iran-hoffnung-auf-richtungssuche-16044417"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.biggo.com",
+    "finanzen.net",
+    "kucoin.com",
+    "coinpaper.com",
+    "financefeeds.com",
+    "kitco.com",
+    "topstep.com",
+    "thriveinmarkets.com",
+    "cnbc.com",
+    "bloomberg.com",
+    "investing.com",
+    "finance.yahoo.com",
+    "qz.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Dax",
+    "Bilanzen",
+    "Börse"
+   ],
+   "kicker": "Finanzen · Wochenausblick Dax",
+   "titel": "Superwoche für den Dax: Siemens, Allianz und Infineon legen Zahlen vor",
+   "deck": "Nach dem Rücksetzer vom Rekord sucht der Leitindex die Richtung – Strategen streiten, ob die KI-Korrektur schon ausgestanden ist.",
+   "text": [
+    "Auf die Anleger in Frankfurt wartet der Höhepunkt der Berichtssaison. Am Dienstag öffnet Infineon die Bücher, am Mittwoch folgen Siemens Energy und Eon, am Donnerstag kommen Siemens, die Allianz, die Munich Re und Merck. Auch Hannover Rück, RWE und Henkel legen im Laufe der Woche Zahlen vor. Infineon und Siemens Energy stehen als Profiteure des KI-Ausbaus besonders im Rampenlicht: Die Infineon-Aktie war im Ausverkauf der Chipwerte zeitweise um mehr als neun Prozent eingebrochen, Siemens hatte am Freitag rund 3,5 Prozent verloren.",
+    "Der Dax war am Freitag mit 25.820 Punkten aus dem Handel gegangen, nachdem er am Donnerstag mit knapp 26.693 Zählern ein Rekordhoch erreicht hatte. Frank Sohlleder von ActivTrades sieht den Index charttechnisch an einer „kritischen Wegmarke“. Jochen Stanzl von der Consorsbank warnt: „Ein Ende der KI-Korrektur ist dabei noch nicht abzusehen.“ Christian Gattiker von Julius Bär hält die Furcht vor einer starken Beschränkung der KI-Entwicklung in den USA dagegen für übertrieben; Ausschläge der Volatilität wie zuletzt träten historisch eher in der Nähe von Tiefständen auf als zu Beginn langer Bärenmärkte.",
+    "Mehrere Fachleute sehen den deutschen Markt im Vorteil. Thomas Altmann von QC Partners verweist auf die geringe Gewichtung von Technologiewerten im Dax, Andreas Lipkow von CMC Markets erwartet eine teilweise Abkopplung Europas von der Schwäche der US-Techwerte, die erhoffte Jahresendrally dürfte aber holpriger verlaufen. Die Analysten von Index Radar halten einen länger anhaltenden Bärenmarkt wegen der starken Berichtssaison für unwahrscheinlich.",
+    "Von außen kommen die Impulse vor allem aus den USA, wo am Dienstag die Inflationsdaten anstehen, und vom Ölmarkt, der auf Fortschritte oder Rückschläge im Iran-Konflikt reagiert."
+   ],
+   "quellen": [
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/wochenausblick-dax-zwischen-ki-sorgen-und-iran-hoffnung-auf-richtungssuche-16044417"
+    ],
+    [
+     "FinanzNachrichten.de (börsennews.de)",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70058586-wochenvorschau-kw-46-superwoche-fuer-den-dax-siemens-allianz-und-infineon-legen-bilanz-088.htm"
+    ],
+    [
+     "Finimize",
+     "https://finimize.com/content/silver-linings-neocloud-earnings-and-the-investing-week-ahead"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.net",
+    "investing.com",
+    "ariva.de",
+    "finanznachrichten.de",
+    "onvista.de",
+    "finimize.com",
+    "stock-world.de"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Iran",
+    "Rohstoffe"
+   ],
+   "kicker": "Finanzen · Rohstoffe",
+   "titel": "Raketen auf Saudi-Arabien, Minen in Hormus: Der Ölmarkt startet mit neuen Risiken in die Woche",
+   "deck": "Nach dem kräftigen Wochenverlust melden die Huthis Angriffe auf Aramco, ein Tanker gerät vor Iran in Brand – Analysten halten neue Kämpfe für wahrscheinlich.",
+   "text": [
+    "Während die Ölbörsen am Wochenende geschlossen waren, hat sich die Lage am Golf erneut zugespitzt. Die jemenitischen Huthi-Milizen erklärten am Samstagabend, sie hätten unter anderem Anlagen des Ölkonzerns Aramco und den Flughafen von Riad angegriffen; Schäden waren zunächst nicht bestätigt. Die saudische Luftabwehr fing nach Angaben der Militärkoalition am Samstag einen Marschflugkörper in Richtung Riad und am Sonntag eine ballistische Rakete in Richtung der Ostprovinz ab, in der wichtige Ölanlagen liegen. Irans Marine meldete zudem, ein Tanker mit abgeschaltetem Transponder sei östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten. US-Streitkräfte setzten im Golf von Oman ein Frachtschiff außer Gefecht, das die Seeblockade gegen Iran durchbrechen wollte.",
+    "Die Schifffahrt durch die Meerenge bleibt stark eingeschränkt. Die britische Seesicherheitsbehörde UKMTO zählte in der Woche bis zum 6. November mindestens elf angegriffene Schiffe, drei davon sanken; die Zahl der Durchfahrten lag rund 65 Prozent unter dem Niveau vor dem Konflikt.",
+    "Brent hatte die Woche am Freitag bei 98,32 Dollar je Barrel beendet, nachdem die Hoffnung auf ein Abkommen zwischen Washington und Teheran den Preis zwischenzeitlich bis auf rund 93 Dollar gedrückt hatte. Bob McNally, Gründer der Beratungsfirma Rapidan Energy Group, beziffert die Wahrscheinlichkeit, dass die Kämpfe wieder aufflammen, auf 80 Prozent – dann könnten beide Ölsorten über 100 Dollar steigen. Die US-Energiebehörde EIA hatte ihre Prognose für das vierte Quartal bereits im Oktober auf 105 Dollar angehoben.",
+    "Neue Orientierung liefern in dieser Woche der Kurzfristausblick der EIA am Dienstag, der Monatsbericht der Opec am Mittwoch und der Bericht der Internationalen Energieagentur am Freitag. Das nächste Ministertreffen der Opec+ ist für den 29. November angesetzt."
+   ],
+   "quellen": [
+    [
+     "Gulf News",
+     "https://gulfnews.com/world/mena/middle-east-war-update-qeshm-island-strike-raises-tensions-talks-continue-1.500739148"
+    ],
+    [
+     "Al Jazeera",
+     "https://aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"
+    ],
+    [
+     "FinanceFeeds",
+     "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+    ]
+   ],
+   "berichterstattung": [
+    "gulfnews.com",
+    "aljazeera.com",
+    "financefeeds.com",
+    "cnbc.com",
+    "cbsnews.com",
+    "en.ilsole24ore.com",
+    "finance.biggo.com",
+    "topstep.com",
+    "mansfield.energy"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "EZB",
+    "Notenbank",
+    "Europa"
+   ],
+   "kicker": "Finanzen · Notenbank",
+   "titel": "Knot gegen de Cos: Das Rennen um Lagardes Nachfolge ist ein Zweikampf",
+   "deck": "Bis Fristende haben nur die Niederlande und Spanien Kandidaten benannt – am Montag beraten die Finanzminister der Eurozone, Deutschland setzt auf ein Personalpaket.",
+   "text": [
+    "Die Suche nach einer neuen Spitze für die Europäische Zentralbank läuft auf ein Duell hinaus. Bis zum Ablauf der Frist am Freitag gingen bei der Eurogruppe nur zwei offizielle Bewerbungen ein, wie deren Präsident Kyriakos Pierrakakis mitteilte: die des früheren niederländischen Notenbankchefs Klaas Knot und die des Spaniers Pablo Hernández de Cos, der heute als Generaldirektor die Bank für Internationalen Zahlungsausgleich (BIZ) in Basel führt und zuvor die spanische Zentralbank leitete. Spaniens Wirtschaftsminister Carlos Cuerpo lobte seinen Kandidaten für dessen „besonnene Hand und inspirierende Führung“. Christine Lagarde verlässt die EZB am 7. Februar 2027, rund neun Monate vor dem regulären Ende ihrer Amtszeit.",
+    "Deutschland hat niemanden nominiert. Die Bundesregierung erklärte, die Gespräche über die Besetzung liefen noch, Fristen könnten verlängert werden. Finanzminister Lars Klingbeil (SPD) kündigte an, das Gewicht der größten Volkswirtschaft des Euroraums für eine breit getragene neue EZB-Führung einzusetzen. Hintergrund ist, dass in den kommenden Monaten weitere Posten frei werden: Direktoriumsmitglied Isabel Schnabel wechselt Anfang Januar zum Internationalen Währungsfonds, Chefvolkswirt Philip Lane scheidet Ende Mai aus. In Brüssel wird deshalb über ein Gesamtpaket verhandelt.",
+    "Am Montag befassen sich die Finanzminister der Eurozone erstmals mit den Bewerbungen. Ernannt wird der neue Präsident von den Staats- und Regierungschefs auf Empfehlung der Euroländer; Insider rechnen mit einer Entscheidung beim EU-Gipfel Mitte Dezember. Für die Märkte fällt die Personalfrage in eine heikle Phase: Die EZB hat für ihre Sitzung am 17. Dezember eine weitere Zinserhöhung signalisiert."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung",
+     "https://boersen-zeitung.de/konjunktur-politik/de-cos-und-knot-fuer-ezb-vorsitz-nominiert"
+    ],
+    [
+     "Investing.com (dpa-AFX)",
+     "https://de.investing.com/news/economy-news/zwei-bewerber-fur-lagardenachfolge-an-spitze-der-ezb-3754473"
+    ],
+    [
+     "Eunews",
+     "https://www.eunews.it/en/2026/11/04/ecb-the-post-lagarde-era-begins-on-9-november/"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de",
+    "investing.com",
+    "eunews.it",
+    "mlex.com",
+    "bloomberg.com",
+    "consilium.europa.eu",
+    "informat.ro",
+    "it-boltwise.de",
+    "cash-online.de",
+    "kuwaittimes.com",
+    "dutchnews.nl",
+    "live.euronext.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "China",
+    "Inflation",
+    "Konjunktur"
+   ],
+   "kicker": "Finanzen · China",
+   "titel": "Chinas Datenwoche beginnt in der Nacht zum Montag mit den Preisen",
+   "deck": "Erwartet wird, dass die Erzeugerpreise weiter anziehen – danach folgen Handelsbilanz und Kreditdaten, während Chinas Börsen eine starke Woche hinter sich haben.",
+   "text": [
+    "Für Anleger in Asien beginnt die Woche mit Zahlen aus Peking. Das Statistikamt veröffentlicht am Montag die Verbraucher- und Erzeugerpreise für Oktober. Bei den Verbraucherpreisen wird ein Anstieg um 0,8 Prozent zum Vorjahr erwartet, nach 0,9 Prozent im September. Spannender sind die Erzeugerpreise: Sie waren im September um 5,0 Prozent gestiegen, so stark wie seit 2022 nicht mehr – getrieben vor allem von höheren Treibstoff- und Rohstoffkosten. Für Oktober reichen die Schätzungen von 5,2 bis 5,4 Prozent.",
+    "Am Dienstag folgen die Außenhandelsdaten für Oktober. Im September waren die Exporte um 36,3 Prozent gestiegen, der Handelsüberschuss rückte damit in Richtung einer Billion Dollar, was den Druck von Handelspartnern wie der EU erhöht hat. Am Freitag schließen die Geldmengen- und Kreditdaten die Woche ab. Das Analysehaus Lundgreen’s erwartet für die gesamte gesellschaftliche Finanzierung rund 1,6 Billionen Yuan, bei den neuen Yuan-Krediten dagegen einen Nettorückgang um etwa 200 Milliarden Yuan.",
+    "An den Börsen hat China zuletzt gegen den Trend der übrigen Region zugelegt. In der Woche bis zum 5. November gewann der MSCI China nach Berechnung von Lundgreen’s 7,1 Prozent, der Shanghai Composite 2,5 Prozent und der Technologieindex ChiNext 6,4 Prozent. Die Analysten rechnen jedoch damit, dass die Schwankungen kurzfristig hoch bleiben."
+   ],
+   "quellen": [
+    [
+     "Lundgreen’s Investor Insights",
+     "https://www.lundgreensinvestorinsights.com/next-week-in-china-9-13-november-2026/"
+    ],
+    [
+     "BigGo Finance",
+     "https://finance.biggo.com/news/9e1d0a9b-b32c-4bf1-b265-11480691d264"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html"
+    ]
+   ],
+   "berichterstattung": [
+    "lundgreensinvestorinsights.com",
+    "finance.biggo.com",
+    "cnbc.com",
+    "fortune.com",
+    "usnews.com",
+    "nbcnews.com",
+    "fxmacrodata.com",
+    "financecalendar.com",
+    "thriveinmarkets.com"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Aktien",
+    "KI",
+    "Bilanzen"
+   ],
+   "kicker": "Finanzen · Wall Street",
+   "titel": "Bewährungsprobe für den KI-Handel: CoreWeave, Cisco und Applied Materials berichten",
+   "deck": "Nach dem schärfsten Einbruch der Techwerte seit Jahren schauen Anleger vor allem auf die Finanzierung der Rechenzentrumsbetreiber.",
+   "text": [
+    "Nach dem Ausverkauf in der vergangenen Woche wird die Berichtssaison an der Wall Street zum Stimmungstest für den gesamten KI-Komplex. Am Dienstag legt der Rechenzentrumsbetreiber CoreWeave Zahlen vor, am Donnerstag folgen der Netzwerkausrüster Cisco, der Chipanlagenbauer Applied Materials und der CoreWeave-Konkurrent Nebius. Der Branchenprimus Nvidia berichtet am 17. November.",
+    "Im Mittelpunkt steht die Finanzierung der sogenannten Neoclouds, die Rechenkapazität an KI-Entwickler vermieten. Die Aktien von CoreWeave und Nebius haben in den vergangenen Wochen jeweils rund die Hälfte ihres Werts verloren. Die Rendite von CoreWeave-Anleihen ist über 15 Prozent gestiegen – ein Niveau, das am Anleihemarkt eher für Unternehmen in ernsten Schwierigkeiten typisch ist. Beide Firmen haben Verträge über deutlich mehr als 100 Milliarden Dollar unterschrieben, ein Teil des Geldes fließt aber erst, wenn die Rechenzentren laufen. Gute Zahlen könnten Nvidia und andere Chiplieferanten stützen, Finanzierungsprobleme dagegen Chipbestellungen verzögern.",
+    "Wie tief die Verunsicherung sitzt, zeigen mehrere Kennzahlen: Laut Keith Lerner von Truist ist der Rückstand der Technologiewerte gegenüber dem S&P 500 im Monatsvergleich so groß wie seit Mai 2002 nicht mehr. Nach Daten von Vanda Research verkauften Privatanleger am Donnerstag netto so viel wie seit der Corona-Pandemie nicht. Jay Woods von Freedom Capital Markets will erst bei einem Angstbarometer VIX über 30 von einem echten Ausverkauf sprechen; der Index schloss am Freitag bei 25,6.",
+    "Fundamental stützt die Berichtssaison: Die Gewinne der S&P-500-Unternehmen wachsen im dritten Quartal nach bisherigen Ergebnissen um 33,4 Prozent zum Vorjahr."
+   ],
+   "quellen": [
+    [
+     "Finimize",
+     "https://finimize.com/content/silver-linings-neocloud-earnings-and-the-investing-week-ahead"
+    ],
+    [
+     "BigGo Finance",
+     "https://finance.biggo.com/news/f3ac8327-fd4a-4e42-8050-2fef8f3ff5d1"
+    ],
+    [
+     "Rallies.ai",
+     "https://rallies.ai/news/eyes-on-next-weeks-tech-results-after-recent-selloff-aaddf8385e3a28ef"
+    ]
+   ],
+   "berichterstattung": [
+    "finimize.com",
+    "finance.biggo.com",
+    "rallies.ai",
+    "kucoin.com",
+    "boerse-express.com",
+    "theclosingprint.net",
+    "topstep.com",
+    "chaincatcher.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "USA"
+   ],
+   "kicker": "Finanzen · Anleihen",
+   "titel": "125 Milliarden Dollar in vier Tagen: Washington testet die Nachfrage nach Staatsanleihen",
+   "deck": "Die Zehnjährige wird ausgerechnet am Inflationstag versteigert, am Mittwoch ruht der Anleihemarkt – und das Finanzministerium öffnet die Tür für kleinere Auktionen.",
+   "text": [
+    "Neben den Inflationsdaten muss der US-Anleihemarkt in dieser Woche das vierteljährliche Refinanzierungspaket des Finanzministeriums verdauen. Am Montag werden dreijährige Notes über 58 Milliarden Dollar versteigert, am Dienstag – wenige Stunden nach den Verbraucherpreisen – zehnjährige über 42 Milliarden Dollar und am Donnerstag 30-jährige Bonds über 25 Milliarden Dollar. Mit den insgesamt 125 Milliarden Dollar refinanziert Washington fällige Papiere über rund 97 Milliarden Dollar und nimmt etwa 28 Milliarden Dollar frisches Geld auf. Am Mittwoch bleibt der Anleihemarkt wegen des Veterans Day geschlossen.",
+    "Aufmerksamkeit erregte eine Formulierung: Das Ministerium strich die Wendung „mindestens“ aus seinem Ausblick, wonach die Auktionsgrößen für mehrere Quartale unverändert bleiben sollen. Strategen werten das als Signal, dass die Volumina ab 2027 sinken könnten; Händler hatten bereits mit Kürzungen bei 20- und 30-jährigen Papieren gerechnet. Bob Michele von JPMorgan forderte, die 20-jährige Anleihe ganz abzuschaffen und stärker auf kurzlaufende Bills zu setzen. Zudem wird die siebenjährige Note ab März 2027 nur noch vierteljährlich neu aufgelegt. Für Rückkäufe zur Marktpflege stellt das Ministerium im Quartal bis zu 70 Milliarden Dollar bereit.",
+    "Die Rendite zehnjähriger Treasuries stieg am Freitag nach den starken Arbeitsmarktdaten um zwei Basispunkte auf 4,86 Prozent, die der zweijährigen um fünf Basispunkte auf 4,51 Prozent. Auf Wochensicht lagen beide dennoch niedriger, nachdem der Ausverkauf am Aktienmarkt Anleger in sichere Häfen getrieben hatte."
+   ],
+   "quellen": [
+    [
+     "U.S. Department of the Treasury",
+     "https://home.treasury.gov/news/press-releases/sb0678"
+    ],
+    [
+     "Sell the News",
+     "https://sellthenews.org/catalyx/event/2026-11-04-us-treasury-quarterly-refunding-announcement-q4-dce3a3"
+    ],
+    [
+     "The Closing Print",
+     "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+    ]
+   ],
+   "berichterstattung": [
+    "home.treasury.gov",
+    "sellthenews.org",
+    "theclosingprint.net",
+    "dallasexpress.com",
+    "tokenpost.com",
+    "topstep.com",
+    "thriveinmarkets.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Rohstoffe",
+    "Notenbank"
+   ],
+   "kicker": "Finanzen · Edelmetalle",
+   "titel": "Gold vor dem Härtetest: Analysten blicken auf die Marke von 4.000 Dollar",
+   "deck": "Eine hohe Inflationszahl könnte das Edelmetall unter die Schwelle drücken – Zentralbanken kaufen so viel wie lange nicht.",
+   "text": [
+    "Nach der besten Woche seit August geht Gold mit gemischten Aussichten in die neuen Handelstage. Der Dezember-Future an der Comex schloss am Freitag bei 4.079,50 Dollar je Feinunze und damit 0,8 Prozent leichter, nachdem die starken US-Arbeitsmarktdaten den Dollar gestützt hatten. Silber gewann auf Wochensicht rund 5,7 Prozent; beide Metalle beendeten eine dreiwöchige Verlustserie.",
+    "Entscheidend dürfte die US-Inflation am Dienstag werden. Phillip Streible von Blue Line Futures erwartet, dass hohe Teuerungsdaten Gold unter 4.000 Dollar drücken könnten, sieht darin aber möglicherweise den letzten Rücksetzer: Anleger könnten ab dieser Woche nach Gelegenheiten zum Einstieg suchen. Ole Hansen von der Saxo Bank rechnet mit Halt oberhalb von 4.000 Dollar, aber wenig Aufwärtspotenzial, weil „der Großteil der Käufe erledigt“ sei. Fawad Razaqzada von Forex.com nennt 4.000 Dollar die Schlüsselmarke, deren Bruch weitere Verkäufe auslösen dürfte. Terri-Leigh Bennett von CMS Prime warnt, die Märkte preisten womöglich ein Iran-Abkommen ein, das noch nicht unterschrieben sei.",
+    "Rückhalt erhält das Metall von den Notenbanken. Nach den Daten des World Gold Council kauften Zentralbanken im dritten Quartal 321 Tonnen, 42 Prozent mehr als vor einem Jahr und deutlich über dem Fünfjahresschnitt von 227 Tonnen; nur 120 Tonnen davon wurden offiziell gemeldet. Gold-ETFs verzeichneten Zuflüsse von 211 Tonnen, ihre Bestände erreichten mit 4.256 Tonnen einen Rekord. Haushaltssorgen und Unsicherheit hätten die höheren Opportunitätskosten durch steigende Zinsen teilweise aufgewogen, schreibt der Branchenverband."
+   ],
+   "quellen": [
+    [
+     "Kitco",
+     "https://www.kitco.com/news/article/2026-11-06/gold-price-holds-critical-4000-support-strong-us-jobs-data-and-inflation"
+    ],
+    [
+     "Kitco",
+     "https://www.kitco.com/news/article/2026-11-03/gold-demand-remains-near-record-highs-central-bank-buying-surges-42-wgc"
+    ],
+    [
+     "FinanceFeeds",
+     "https://financefeeds.com/gold-price-today-4045-saturday-week-ahead-after-165000-jobs-december-hike-odds-cpi-10-november-bull-4135-bear-3990/"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "financefeeds.com",
+    "finance.biggo.com",
+    "usagold.com",
+    "fxstreet.com",
+    "indexbox.io",
+    "news.futunn.com",
+    "riotimesonline.com",
+    "nationthailand.com",
+    "cnbc.com"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börsengang",
+    "USA"
+   ],
+   "kicker": "Finanzen · Börsengänge",
+   "titel": "Zahnmedizin und Biotech eröffnen den Emissionsreigen – der große Brocken steht noch aus",
+   "deck": "Die Schweizer vVardis und die Bostoner Rezera wollen zusammen gut 400 Millionen Dollar einsammeln, Anthropic könnte am Dienstag seine Roadshow starten.",
+   "text": [
+    "Am US-Emissionsmarkt stehen in dieser Woche zwei Börsengänge im Kalender. Das Zuger Dentalunternehmen vVardis, das mit dem Mittel Curodont Karies ohne Bohren behandeln will, bietet rund 9,5 Millionen Aktien zu je 21 bis 24 Dollar an. Das Volumen läge bei 214 Millionen Dollar, der Börsenwert bei rund 1,35 Milliarden Dollar; die Konsortialführung haben Goldman Sachs und JPMorgan. Das Bostoner Biotechunternehmen Rezera, das Wirkstoffe gegen Entzündungskrankheiten entwickelt, will 200 Millionen Dollar zu 11 bis 13 Dollar je Aktie erlösen, begleitet von Jefferies und TD Securities.",
+    "Überschattet wird das Geschehen vom geplanten Börsengang des KI-Entwicklers Anthropic, der die Redaktion dieser Seite betreibt. Nach Einschätzung des Researchhauses Renaissance Capital könnte das Angebot bereits am Dienstag offiziell starten, die Preisfestsetzung wäre dann in der Woche ab dem 16. November möglich. Laut dem geänderten Börsenprospekt sollen die Aktien unter dem Kürzel „ANT“ an der Nasdaq gehandelt werden; eine Preisspanne ist noch nicht eingetragen. Renaissance Capital beschreibt das Umfeld nach dem Einbruch der Techwerte als schwächer, als das Unternehmen wohl erwartet habe.",
+    "Neue Emissionen haben es in diesem Jahr ohnehin schwer: Der Renaissance-IPO-Index, der frisch an die Börse gebrachte US-Werte abbildet, lag Anfang November seit Jahresbeginn 4,0 Prozent im Minus, während der S&P 500 um 8,4 Prozent zugelegt hatte. Zusätzlich laufen in dieser Woche neun Haltefristen für Altaktionäre aus."
+   ],
+   "quellen": [
+    [
+     "Renaissance Capital",
+     "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
+    ],
+    [
+     "FourWeekMBA",
+     "https://fourweekmba.com/ai-anthropic-said-to-start-ipo-roadshow-next-week-no-price-yet/"
+    ]
+   ],
+   "berichterstattung": [
+    "renaissancecapital.com",
+    "fourweekmba.com",
+    "iposcoop.com",
+    "swissinfo.ch",
+    "live.euronext.com",
+    "finance.yahoo.com",
+    "breitbart.com",
+    "empower.com",
+    "huggingnews.com",
+    "leverageshares.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Indien",
+    "Aktien",
+    "Asien"
+   ],
+   "kicker": "Finanzen · Asien",
+   "titel": "Indiens Börse feiert Diwali mit der besten Woche seit 2021",
+   "deck": "Sensex und Nifty steigen um fast neun Prozent, Auslandsinvestoren kehren zurück – am Sonntag läutet der Muhurat-Handel das neue Börsenjahr ein.",
+   "text": [
+    "Während Tokio und Seoul am Freitag jeweils rund sechs Prozent verloren, hat Indiens Aktienmarkt eine Rekordwoche hingelegt. Der Nifty 50 stieg am Freitag um 2,0 Prozent auf 25.030 Punkte, der Sensex um 2,2 Prozent auf 81.028 Punkte – beide auf den höchsten Stand seit mehr als acht Monaten. Auf Wochensicht gewannen sie 8,6 beziehungsweise 8,8 Prozent, so viel wie seit Februar 2021 nicht mehr. Der Nifty schloss sieben Handelstage in Folge im Plus; Finanzwerte legten um mehr als zehn Prozent zu, HDFC Bank um 13,8 Prozent.",
+    "Als Gründe nennen Marktbeobachter den fallenden Ölpreis, die geringe Gewichtung von KI-Werten und die Rückkehr ausländischer Investoren. Diese kauften am Donnerstag netto Aktien für rund 150 Milliarden Rupien – so viel wie seit fast sechs Jahren an keinem Tag. Seit Jahresbeginn liegen die beiden Indizes allerdings noch mit gut vier Prozent im Minus, während der MSCI-Schwellenländerindex sieben Prozent gewonnen hat.",
+    "Das zu Ende gehende Hindu-Börsenjahr Samvat 2082 war von Rekordabflüssen geprägt: Ausländische Portfolioinvestoren zogen netto 4,55 Billionen Rupien ab, die Rupie verlor mehr als sechs Prozent gegenüber dem Dollar, und die Notenbank erhöhte im Oktober erstmals seit 2023 den Leitzins auf 5,5 Prozent. Am Sonntag, dem Diwali-Fest, eröffnen die Börsen in Mumbai mit dem traditionellen Muhurat-Handel das Jahr Samvat 2083; die rund einstündige Sondersitzung beginnt um 14.20 Uhr Ortszeit, 9.50 Uhr deutscher Zeit. Ravi Singh von Master Capital Services rät zu Zurückhaltung, weil die Umsätze dabei oft dünn und die Kurse stimmungsgetrieben seien."
+   ],
+   "quellen": [
+    [
+     "The Asian Age",
+     "https://www.aryanage.com/article/50735/indian-stock-market-records-biggest-weekly-gain-in-six-years"
+    ],
+    [
+     "Upstox",
+     "https://upstox.com/news/market-news/stocks/samvat-year-in-review-sensex-nifty-50-end-in-red-key-factors-that-shaped-dalal-street-in-2082/article-203151/"
+    ],
+    [
+     "Groww",
+     "https://groww.in/blog/muhurat-trading-2026-timings"
+    ]
+   ],
+   "berichterstattung": [
+    "aryanage.com",
+    "upstox.com",
+    "groww.in",
+    "zeebiz.com",
+    "multibagg.ai",
+    "fvbb.com",
+    "tradingview.com",
+    "nationpathindia.com"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "USA",
+    "Regulierung",
+    "Geldwäsche"
+   ],
+   "kicker": "Krypto · Regulierung",
+   "titel": "Washington beerdigt die 250-Dollar-Schwelle der Travel Rule",
+   "deck": "FinCEN und Federal Reserve ziehen einen Vorschlag von 2020 zurück – für grenzüberschreitende Kryptotransfers bleibt es bei 3.000 Dollar.",
+   "text": [
+    "Die US-Finanzaufsicht FinCEN und der Gouverneursrat der Federal Reserve haben am Freitag gemeinsam einen Regelungsvorschlag aus dem Jahr 2020 zurückgezogen, der die Schwelle der sogenannten Travel Rule für grenzüberschreitende Überweisungen von 3.000 auf 250 Dollar gesenkt hätte. Die Travel Rule nach dem Bank Secrecy Act verpflichtet Finanzinstitute, Angaben zu Auftraggeber und Empfänger einer Überweisung zu erfassen und an das empfangende Institut weiterzugeben. Der Vorschlag betraf nur Transfers, die im Ausland beginnen oder enden, und sollte zugleich klarstellen, dass auch konvertierbare virtuelle Währungen und digitale Vermögenswerte mit gesetzlichem Zahlungsmittelstatus als „Geld“ im Sinne der Vorschriften gelten.",
+    "Die Rücknahme soll mit der Veröffentlichung im Federal Register am 9. November wirksam werden. Zur Begründung verweisen die Behörden darauf, dass seit dem Vorschlag mehr als fünf Jahre vergangen seien und sich Branche und Rechtsrahmen stark verändert hätten, unter anderem durch das Stablecoin-Gesetz GENIUS Act vom Juli 2025. Eine ähnliche Regel werde es nicht ohne erneute öffentliche Konsultation geben. Ausdrücklich ausgeschlossen ist eine Neuauflage allerdings nicht, einen Zeitplan nannte FinCEN nicht.",
+    "Für Börsen und Verwahrer ändert sich praktisch nichts: Die bestehenden Aufzeichnungs- und Weitergabepflichten ab 3.000 Dollar gelten unverändert fort. Verhindert wird nur die Ausweitung auf Kleinbeträge, die nach Ansicht von Kritikern auch gewöhnliche Rücküberweisungen und Alltagszahlungen erfasst hätte.",
+    "Es ist bereits der dritte Rückzug eines Krypto-Vorschlags nach dem Bank Secrecy Act binnen etwa eines Monats: Im Oktober hatte das Finanzministerium die Pläne zu selbst verwahrten Wallets („unhosted wallets“) und zu Mixing-Diensten fallen gelassen. Ji Hun Kim, Chef des Crypto Council for Innovation, nannte die Entscheidung richtig, die niedrigere Schwelle hätte die Institute unverhältnismäßig belastet. Die Lobbyorganisation Coin Center hatte vor „Finanzüberwachung ohne richterliche Anordnung“ gewarnt."
+   ],
+   "quellen": [
+    [
+     "Coinpaprika",
+     "https://coinpaprika.com/news/treasury-scraps-250-crypto-transfer-rule"
+    ],
+    [
+     "InsideBitcoins",
+     "https://insidebitcoins.com/news/fincen-fed-withdraw-crypto-travel-rule-250-threshold"
+    ],
+    [
+     "TFTC",
+     "https://www.tftc.io/fincen-fed-withdraw-250-travel-rule-nprm-crypto-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "coinpaprika.com",
+    "insidebitcoins.com",
+    "tftc.io",
+    "theblock.co",
+    "kucoin.com",
+    "en.coin-turk.com",
+    "regreportingdesk.com",
+    "coinspectator.com",
+    "bitbase.com",
+    "chaincatcher.com"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "USA",
+    "Regulierung",
+    "Altersvorsorge"
+   ],
+   "kicker": "Krypto · Altersvorsorge",
+   "titel": "Krypto im 401(k): Die endgültige Regel liegt im Weißen Haus",
+   "deck": "Das Arbeitsministerium will Arbeitgebern einen sicheren Hafen bieten, wenn sie alternative Anlagen in die Fondsauswahl ihrer Pensionspläne aufnehmen.",
+   "text": [
+    "Das US-Arbeitsministerium hat die endgültige Fassung seiner Regel „Fiduciary Duties in Selecting Designated Investment Alternatives“ (RIN 1210-AC38) zur abschließenden Prüfung an das Office of Information and Regulatory Affairs (OIRA) im Weißen Haus geschickt. Das Paket wurde dort am 5. November registriert und als „wirtschaftlich bedeutsam“ eingestuft. Die Regel soll es Arbeitgebern erleichtern, in betrieblichen Pensionsplänen vom Typ 401(k) neben Aktien- und Rentenfonds auch alternative Anlagen anzubieten – Private Equity, Immobilien und Kryptowerte.",
+    "Kern ist ein prozessbasierter „sicherer Hafen“: Wer als Treuhänder (Fiduciary) eine Anlage nach einem dokumentierten Verfahren prüft, soll vor Klagen wegen Pflichtverletzung besser geschützt sein. Im Entwurf vom März nannte das Ministerium sechs Kriterien – Wertentwicklung, Kosten, Liquidität, Bewertung, Vergleichsmaßstäbe und Komplexität. Eine Pflicht, Krypto anzubieten, entsteht nicht; welche Kryptowerte infrage kommen, legt die Regel nach bisherigem Stand nicht fest. Vize-Arbeitsminister Keith Sonderling hatte betont, keine Anlageklasse werde bevorzugt oder benachteiligt.",
+    "Der Entwurf war am 31. März im Federal Register erschienen, die Kommentierungsfrist lief bis 1. Juni. Grundlage ist ein Dekret von Präsident Donald Trump vom August 2025. Ob der sichere Hafen die Kommentare unverändert überstanden hat, ist offen, denn der Endtext ist noch nicht veröffentlicht. Eine Frist für die Prüfung durch das OIRA gibt es nicht. Die demokratischen Senatoren Bernie Sanders und Elizabeth Warren hatten das Ministerium aufgefordert, den kryptofreundlichen Ansatz aufzugeben.",
+    "Der 401(k)-Markt umfasste nach Zahlen des Investment Company Institute Ende Juni 10,8 Billionen Dollar. Ob und wie viel Kapital tatsächlich in Kryptoprodukte fließt, hängt von Arbeitgebern, Plananbietern und Fondsgesellschaften ab."
+   ],
+   "quellen": [
+    [
+     "Bitcoin Magazine",
+     "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review"
+    ],
+    [
+     "KuCoin News",
+     "https://www.kucoin.com/news/flash/u-s-labor-dept-sends-final-rule-on-crypto-in-401-k-s-to-white-house"
+    ]
+   ],
+   "berichterstattung": [
+    "bitcoinmagazine.com",
+    "kucoin.com",
+    "theblock.co",
+    "cointelegraph.com",
+    "analyticsinsight.net",
+    "techflowpost.com",
+    "chaincatcher.com",
+    "bitbase.com",
+    "altcoinbuzz.io",
+    "criptotendencias.com",
+    "diariobitcoin.com",
+    "tradingview.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Hacks",
+    "Binance",
+    "Nordkorea"
+   ],
+   "kicker": "Krypto · Hacks",
+   "titel": "Binance-Beute: Die Angreifer tauschen XRP in Bitcoin",
+   "deck": "Laut Elliptic sind inzwischen gestohlene Altcoins im Wert von mehr als 120 Millionen Dollar in Bitcoin umgewandelt – Auszahlungen in Fiatgeld seien bislang kaum erkennbar.",
+   "text": [
+    "Gut eine Woche nach dem Rekorddiebstahl bei Binance setzen die Täter die Umschichtung der Beute fort. Nach Angaben des Blockchain-Analyseunternehmens Elliptic wurden bis Freitag gestohlene Kryptowerte im Wert von rund 124 Millionen Dollar in etwa 1.650 Bitcoin getauscht – fast doppelt so viel wie am Vortag. Treiber war vor allem XRP: Rund 50 Millionen Dollar davon flossen größtenteils über das dezentrale Protokoll THORChain in Bitcoin. Weitere XRP im Wert von etwa 226 Millionen Dollar waren zu diesem Zeitpunkt noch nicht bewegt. Einem Bericht zufolge, der sich auf eine Elliptic-Aktualisierung vom Samstagmorgen beruft, ist die Summe inzwischen auf rund 2.300 BTC im Wert von etwa 175 Millionen Dollar gestiegen.",
+    "Die direkt erbeuteten 18.270 Bitcoin und der Großteil der Ether-Bestände lagen nach Elliptic-Angaben noch unberührt. Eingefroren oder beschlagnahmt sind demnach rund 2,85 Milliarden Dollar, gut 3,1 Milliarden Dollar liegen weiter auf Adressen, die dem Diebstahl zugeordnet werden. Die Spur verteilt sich auf mehr als 20.000 Wallets und 16 Blockchains. Auszahlungen in klassisches Geld seien „bislang wahrscheinlich vernachlässigbar“, so Elliptic. Alle Werte sind Momentaufnahmen und hängen von den Marktpreisen ab.",
+    "Der Diebstahl vom 29. Oktober im Umfang von rund 6,3 bis 6,4 Milliarden Dollar wird der nordkoreanischen Gruppe TraderTraitor zugerechnet. Laut Chainalysis vermischten die Täter die Mittel mit Beute aus dem Bitget-Diebstahl vom September und tauschten in den ersten Minuten Stablecoins für 325 Millionen Dollar mit hohem Abschlag in Ether, offenbar um Sperrungen zuvorzukommen. Binance kündigte an, die Auszahlungen für weitere Token und Netzwerke schrittweise wieder freizugeben."
+   ],
+   "quellen": [
+    [
+     "NewsBTC",
+     "https://www.newsbtc.com/security/elliptic-traces-124m-in-bitcoin-swaps-from-binance-hack-funds"
+    ],
+    [
+     "ChainCatcher",
+     "https://chaincatcher.com/en/article/2302435"
+    ],
+    [
+     "SpendNode",
+     "https://www.spendnode.io/blog/binance-hackers-convert-175m-in-stolen-crypto-to-bitcoin/"
+    ]
+   ],
+   "berichterstattung": [
+    "newsbtc.com",
+    "chaincatcher.com",
+    "spendnode.io",
+    "theblock.co",
+    "cryptonews.net",
+    "cryptopolitan.com",
+    "finance.biggo.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "DeFi",
+    "Übernahmen"
+   ],
+   "kicker": "Krypto · DeFi",
+   "titel": "Aave Labs kauft das Avon-Team für Kredite mit festem Zins",
+   "deck": "Der größte On-Chain-Kreditmarkt holt sich Entwickler und Technik eines Protokolls für Fest- und Gleitzinskredite samt Orderbuch.",
+   "text": [
+    "Aave Labs, das Entwicklerunternehmen hinter dem dezentralen Kreditprotokoll Aave, hat Team und Technologie des Projekts Avon übernommen. Zum Kaufpreis machten die Beteiligten keine Angaben. Erworben wurden nach Angaben von Aave Labs Avons Protokolle für Kredite mit festem und variablem Zins, ein On-Chain-Orderbuch sowie Domains und weitere Vermögenswerte.",
+    "Bislang werden Kredite auf Aave überwiegend zu variablen Zinsen vergeben, die sich mit Angebot und Nachfrage im jeweiligen Pool laufend ändern. Feste Zinsen machen Finanzierungskosten planbar – eine Voraussetzung vor allem für institutionelle Kreditnehmer und Fintechs. Das Avon-Team soll sich zunächst genau darauf konzentrieren. Avon-Gründer Prince Sinha hatte Märkte mit festen und variablen Sätzen sowie ein Orderbuch für neue Kreditstrukturen entwickelt; die Arbeit umfasste auch Zinspreisbildung, Risikoisolierung und das Design von Kreditmärkten.",
+    "Sinha und Ayush Kaul wechseln ins Entwicklerteam von Aave Labs, Omar el-Ashaal in die Geschäftsentwicklung. Aave Labs-Chef Stani Kulechov sagte, das Team werde helfen, Aave zu Institutionen, Fintechs und Privatanwendern zu bringen. Zu Zinssätzen, Gebühren oder einem Starttermin für Festzinskredite gibt es noch keine Angaben.",
+    "Aave bezeichnet sich als größtes On-Chain-Kreditnetzwerk und verwaltet nach eigenen Angaben mehr als 30 Milliarden Dollar an Einlagen und über 12 Milliarden Dollar an ausstehenden Krediten."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "On-Chain"
+   ],
+   "kicker": "Krypto · On-Chain-Daten",
+   "titel": "Bitcoin ringt um den Einstandspreis der Kurzfristanleger",
+   "deck": "Glassnode-Daten zeigen: Nur noch gut ein Drittel der jüngeren Bestände liegt im Gewinn, am Optionsmarkt ballen sich die Positionen für das Jahresende.",
+   "text": [
+    "Bitcoin pendelt zum Wochenschluss um eine Marke, die Analysten besonders genau beobachten: den durchschnittlichen Einstandspreis der Kurzfristanleger („Short-Term Holder Cost Basis“). Gemeint sind Coins, die weniger als rund fünf Monate in derselben Adresse liegen. Nach dem Wochenbericht des Analysehauses Glassnode liegt dieser Wert bei etwa 75.700 Dollar, das sogenannte True Market Mean – ein Maß für den durchschnittlichen Einstand aktiver Marktteilnehmer – bei rund 77.700 Dollar. Am Freitag war Bitcoin bis auf 74.762 Dollar gefallen, den tiefsten Stand seit dem 21. August, und notierte am Samstagmorgen bei gut 75.800 Dollar.",
+    "Wie angespannt die Lage ist, zeigt der Anteil der Kurzfristbestände im Gewinn: Er ist laut Glassnode auf rund 38 Prozent gesunken, nach mehr als 97,5 Prozent Anfang Oktober. Ein großer Teil der jüngeren Käufer sitzt damit auf Buchverlusten – ein Umfeld, in dem Erholungen oft für Verkäufe zum Einstand genutzt werden.",
+    "Am Optionsmarkt liegt der „Max Pain“-Punkt, bei dem die meisten Optionen wertlos verfallen, für den Novembertermin bei 80.000 Dollar, für Dezember bei 76.000 Dollar. Für den Verfall am 27. November stehen offene Positionen von 5,7 Milliarden Dollar aus, für den 25. Dezember 12,5 Milliarden Dollar. Über alle Laufzeiten überwiegen Kaufoptionen mit rund 18 Milliarden Dollar gegenüber Verkaufsoptionen mit etwa 13 Milliarden Dollar. Liquidationsschwellen für gehebelte Long-Positionen ballen sich zwischen 73.000 und 76.000 Dollar sowie zwischen 60.000 und 63.000 Dollar, der größte Block an Short-Liquidationen liegt bei etwa 87.000 Dollar.",
+    "Ether notierte am Samstag bei rund 2.240 Dollar, der Bitcoin-Anteil an der gesamten Marktkapitalisierung von etwa 2,64 Billionen Dollar lag bei 57,7 Prozent. Als nächste Wegmarke gilt der Wochenschluss am Sonntag relativ zu 75.000 Dollar."
+   ],
+   "quellen": [
+    [
+     "CryptoTicker",
+     "https://cryptoticker.io/de/bitcoin-prognose-einstandspreis-neukaeufer-7-november-2026/"
+    ],
+    [
+     "SecureShift",
+     "https://secureshift.io/blog/crypto-market-today-november-7-2026-weekly-recap"
+    ]
+   ],
+   "berichterstattung": [
+    "cryptoticker.io",
+    "secureshift.io",
+    "wallstreet-online.de",
+    "finanznachrichten.de"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "OpenAI",
+    "Finanzierung"
+   ],
+   "kicker": "KI · Finanzierung",
+   "titel": "OpenAI sammelt elf Milliarden Dollar ein – zu einer niedrigeren Bewertung als erhofft",
+   "deck": "Die erste Tranche der laufenden Finanzierungsrunde bewertet den ChatGPT-Entwickler mit 1,25 Billionen Dollar – weniger als ursprünglich angepeilt.",
+   "text": [
+    "OpenAI hat in einer neuen Finanzierungsrunde bislang elf Milliarden Dollar von Investoren eingesammelt. Das berichtete zuerst die Finanznachrichtenagentur Bloomberg am Freitag unter Berufung auf mit der Sache vertraute Personen. Die Runde bewertet den Entwickler von ChatGPT demnach mit 1,25 Billionen Dollar. Abgeschlossen ist sie noch nicht; nach Bloomberg-Informationen könnte das Volumen in den kommenden Wochen auf etwa 20 Milliarden Dollar steigen.",
+    "Zu den Geldgebern gehören nach Angaben zweier Investoren gegenüber der Nachrichtenagentur Reuters Softbank und der Investor MGX aus Abu Dhabi. Weitere Beteiligte sind bislang nicht bekannt, OpenAI äußerte sich zunächst nicht.",
+    "Die Bewertung liegt deutlich über den 852 Milliarden Dollar, mit denen OpenAI im März bei einer Runde über 122 Milliarden Dollar bewertet worden war. Sie bleibt aber hinter den ursprünglichen Zielen zurück: Angestrebt hatte das Unternehmen bis zu 30 Milliarden Dollar. Als damals angepeilte Bewertung nannten Medien 1,4 Billionen, Reuters zufolge sogar 1,5 Billionen Dollar; Finanzchefin Sarah Friar wies die höhere Zahl als Medienangabe zurück.",
+    "Die Runde fällt in eine Phase abkühlender Stimmung gegenüber KI-Unternehmen. Wofür das neue Geld verwendet werden soll, ist nicht offiziell bekannt."
+   ],
+   "quellen": [
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
+    ],
+    [
+     "Reuters (via Lufkin Daily News)",
+     "https://lufkindailynews.com/news_reuters/business/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/article_030d6022-41a7-5362-983c-56f015019b13.html"
+    ],
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "reuters.com",
+    "techcrunch.com",
+    "gulfnews.com",
+    "247wallst.com",
+    "gvwire.com",
+    "forklog.com",
+    "americanbazaaronline.com",
+    "cryptobriefing.com",
+    "thenews.com.pk",
+    "aifundingtracker.com",
+    "gewinnermagazin.de"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Apple",
+    "Smartphones"
+   ],
+   "kicker": "Apple · Sprachassistent",
+   "titel": "Apple öffnet Siri AI für alle Entwickler – Nutzer in der EU bleiben außen vor",
+   "deck": "Mit den Betas von iOS 27.3 können Apps ihre Funktionen an die neue Siri anbinden, in den App Store dürfen sie damit erst im Frühjahr.",
+   "text": [
+    "Apple hat am 3. November eine Entwicklervorschau gestartet, mit der jede App an Siri AI angebunden werden kann, die neue, gesprächsfähigere Version des Sprachassistenten. Die Schnittstelle steckt in den ersten Betaversionen von iOS, iPadOS, macOS und visionOS 27.3. Technische Grundlage sind die sogenannten App Intents: Über sie beschreibt eine App, welche Inhalte und Aktionen sie anbietet, damit der Assistent sie ansteuern kann. Apple hatte diese Verknüpfung bereits 2024 in Aussicht gestellt.",
+    "Nutzer sollen Aufträge in eigenen Worten formulieren können, etwa eine Lieferung prüfen, einen Tisch reservieren oder eine Bestellung aufgeben. Siri AI soll dabei den persönlichen Kontext und den Bildschirminhalt berücksichtigen. Neu sind „Skills“, mit denen Entwickler dem Assistenten beibringen, mehrere Aktionen zu einer Anfrage zu bündeln. Zudem kann Siri AI jedes Objekt aus dem semantischen Suchindex von Spotlight aufgreifen, nicht nur solche, die in ein vorgegebenes Schema passen. Apple selbst stattet unter anderem Kalender, Mail, Karten, Fotos, Notizen und Safari mit den Funktionen aus.",
+    "Veröffentlichen können Entwickler solche Apps noch nicht. Getestet wird vorerst in Xcode oder mit internen TestFlight-Versionen; Einreichungen im App Store sind laut Apple ab dem Frühjahr möglich. Unterstützt werden zunächst Englisch, Französisch, Japanisch, Koreanisch, Portugiesisch und Spanisch, Deutsch steht nicht auf der Liste. Die serverseitigen Funktionen unterliegen täglichen Nutzungsgrenzen, erweiterten Zugang will Apple künftig gegen Gebühr anbieten.",
+    "In der EU ist Siri AI auf iPhone, iPad und Apple Watch weiterhin nicht verfügbar. Apple erklärt, man arbeite „konstruktiv“ mit der EU an einer Lösung. Den Aufschub hatte der Konzern im Sommer mit den Vorgaben des Digital Markets Act begründet, des EU-Gesetzes für große Digitalplattformen."
+   ],
+   "quellen": [
+    [
+     "Apple Developer",
+     "https://developer.apple.com/news?id=gdk2umrf"
+    ],
+    [
+     "Macworld",
+     "https://macworld.com/article/3276244/with-ios-27-3-the-siri-ai-floodgates-are-about-to-open.html"
+    ],
+    [
+     "IT Brief UK",
+     "https://itbrief.co.uk/story/apple-adds-siri-ai-app-intents-in-27-3-developer-betas"
+    ]
+   ],
+   "berichterstattung": [
+    "developer.apple.com",
+    "macworld.com",
+    "itbrief.co.uk",
+    "itbrief.com.au",
+    "9to5mac.com",
+    "iclarified.com",
+    "beebom.com",
+    "borncity.com",
+    "ithinkdiff.com",
+    "techenclave.com",
+    "letsdatascience.com",
+    "aiweekly.co",
+    "analyticsinsight.net",
+    "runtimewire.com",
+    "iphonewired.com",
+    "mind-verse.de"
+   ]
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "USA",
+    "Banken",
+    "Regulierung"
+   ],
+   "kicker": "Bankenaufsicht · USA",
+   "titel": "US-Bankenaufsicht gibt Prüfern einen Leitfaden für KI-Agenten",
+   "deck": "Die OCC will nicht die Raffinesse der Technik prüfen, sondern die Folgen, wenn eine KI eigenständig handelt.",
+   "text": [
+    "Die US-Bankenaufsicht Office of the Comptroller of the Currency (OCC) hat ihren Prüfern einen Rahmen an die Hand gegeben, mit dem sie den KI-Einsatz von Banken bewerten sollen. Das am 4. November veröffentlichte Rundschreiben trägt den Titel „Super Intelligence: Supervisory Framework“. Die Behörde verwendet den Begriff „Super Intelligence“ inzwischen für jene Technologien, die bisher gesetzlich als künstliche Intelligenz definiert waren, und verweist dabei auf eine Präsidentenverfügung vom Oktober. Gemeint sind ausdrücklich auch agentische Systeme, also KI, die selbstständig Aufgaben ausführt.",
+    "Neue Pflichten für die Institute schafft das Papier nach Angaben der OCC nicht. KI soll keine eigene Risikokategorie sein, Banken müssen auch keine gesonderte Risikobereitschaft dafür festlegen. Stattdessen sollen die Prüfer jeden Anwendungsfall danach einordnen, welche Folgen ein Fehler hätte, wie viel Entscheidungsbefugnis an die Maschine übergeht und wie stark Menschen sie überwachen, nicht nach technischer Raffinesse. Je gravierender die möglichen Folgen, desto strengere Kontrollen und desto weniger Autonomie könnten angemessen sein.",
+    "Laut dem Fachblatt American Banker gliedert sich der Rahmen in sechs Säulen: Zweck, Risiken, Kontrollen, menschliche Aufsicht, Widerstandsfähigkeit und Tests. Banken sollen für jedes System dokumentieren, wofür es gedacht ist, wer es nutzen darf, auf welche Daten es zugreift und welche Befugnisse es hat. Handelt eine KI außerhalb dieses Zwecks, kann das als Kontrollversagen gelten. Die OCC warnt zudem, erfundene Angaben eines Modells („Halluzinationen“) zu Gebühren, Zinsen oder Kontoständen könnten rechtliche Risiken und Schäden für Kunden nach sich ziehen. Wer KI von Dritten einkauft, bleibt für deren Risiken verantwortlich.",
+    "Der Rahmen gilt für die Prüfung von Nationalbanken, Bundessparkassen und US-Niederlassungen ausländischer Banken; bei kleineren Gemeinschaftsbanken soll die Prüfung an Größe und Risikoprofil angepasst werden. Die OCC will das Dokument regelmäßig überarbeiten."
+   ],
+   "quellen": [
+    [
+     "OCC",
+     "https://occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html"
+    ],
+    [
+     "OCC Bulletin 2026-54",
+     "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html"
+    ],
+    [
+     "American Banker",
+     "https://www.americanbanker.com/news/occ-banks-need-strong-controls-when-delegating-to-ai-agents"
+    ]
+   ],
+   "berichterstattung": [
+    "occ.gov",
+    "americanbanker.com",
+    "bankingjournal.aba.com",
+    "cdomagazine.tech",
+    "forvismazars.us",
+    "letsdatascience.com",
+    "ctol.digital",
+    "aichatdaily.com",
+    "retailbankerinternational.com",
+    "crowdfundinsider.com",
+    "ffnews.com",
+    "elevateconsult.com"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Cybersicherheit",
+    "KI-Agenten"
+   ],
+   "kicker": "Sicherheit · KI-Agenten",
+   "titel": "CrowdStrike verkauft einen Notausschalter für KI-Agenten",
+   "deck": "Der „AI Kill Switch“ soll außer Kontrolle geratene Agenten stoppen – Analysten nennen ihn eine Notbremse, keinen Rückspulknopf.",
+   "text": [
+    "Der Sicherheitsanbieter CrowdStrike hat einen „AI Kill Switch“ vorgestellt, mit dem Unternehmen KI-Agenten notfalls abschalten können sollen. KI-Agenten sind Programme, die auf Basis von Sprachmodellen selbstständig Aufgaben erledigen, etwa auf Datenbanken zugreifen, Befehle ausführen oder mit Geschäftsanwendungen arbeiten. Die Funktion wurde am 3. November auf der Konferenz Fal.Con Europe in Barcelona angekündigt und ist Teil der Plattform Falcon Guardian, die nach Firmenangaben Agenten im Unternehmensnetz aufspürt und deren Anweisungen, Kommunikation und Aktionen über den Falcon-Sensor nachverfolgt.",
+    "Laut CrowdStrike kann der Schalter einen laufenden Agenten am Gateway, also am Übergang ins Netz, anhalten, seinen Neustart auf bestimmten Rechnern verhindern und ihm den Zugang zum Firmennetz kappen. Ein Stopp direkt auf dem Endgerät soll „bald“ folgen. Auslösen darf die Maßnahme nur ein berechtigter Administrator, jeder Schritt wird protokolliert. Leistungsdaten nennt das Unternehmen nicht. Firmenchef George Kurtz sagte, wer Agenten mit einem Notausschalter einsetze, behalte die Kontrolle.",
+    "Analysten bewerten das Werkzeug zurückhaltend. Apeksha Kaushik vom Marktforscher Gartner sprach gegenüber dem Fachportal CSO von einer „Notbremse, keinem Rückspulknopf“: Bereits abgerufene Daten, geänderte Systeme oder ausgelöste Transaktionen lasse der Schalter nicht ungeschehen. Wie gut er wirke, hänge davon ab, wie schnell auffälliges Verhalten erkannt werde. Soumen Mandal von Counterpoint Research gab zu bedenken, herkömmliche Sicherheitswerkzeuge verstünden die Denkschritte und Werkzeugaufrufe von Agenten oft nicht, sodass Schäden erst im Nachhinein auffielen. Die tatsächliche Wirksamkeit werde sich erst im breiten Praxiseinsatz zeigen."
+   ],
+   "quellen": [
+    [
+     "CrowdStrike (Pressemitteilung)",
+     "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/"
+    ],
+    [
+     "CSO Online",
+     "https://www.csoonline.com/article/4244509/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-agents.html"
+    ],
+    [
+     "TechRadar",
+     "https://techradar.com/pro/security/crowdstrike-launches-ai-kill-switch-it-claims-can-stop-rogue-agents-and-more"
+    ]
+   ],
+   "berichterstattung": [
+    "crowdstrike.com",
+    "csoonline.com",
+    "techradar.com",
+    "scworld.com",
+    "cybermagazine.com",
+    "cyberdaily.au",
+    "unite.ai",
+    "windowsreport.com",
+    "securitymea.com",
+    "cxotoday.com",
+    "dailycaller.com",
+    "techbuzz.ai",
+    "dutchitchannel.nl",
+    "xenospectrum.com",
+    "stock-world.de",
+    "cryptobriefing.com",
+    "cryptopolitan.com",
+    "forklog.com",
+    "toolnavs.com"
+   ]
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "SpaceX",
+    "Rechenzentren",
+    "USA"
+   ],
+   "kicker": "KI · Rechenzentren",
+   "titel": "SpaceX wirbt in der Wüste Arizonas für ein Sechs-Gigawatt-Rechenzentrum",
+   "deck": "Bei Willcox soll einer der größten KI-Campus der USA entstehen – bei einer Bürgerversammlung zeigten sich Anwohner gespalten.",
+   "text": [
+    "Im ländlichen Cochise County im Südosten Arizonas ist ein KI-Rechenzentrum geplant, das bei vollem Ausbau bis zu 6.000 Megawatt Strom benötigen würde. Der Bauantrag für den rund 750 Acres (etwa 300 Hektar) großen Campus nahe dem Kraftwerk Apache Generating Station, etwa 13 Meilen von Willcox entfernt, läuft auf die Firma Tombstone Resources LLC. Vorgesehen sind neun Rechenzentrumsgebäude, ein Batteriespeicher und gasbetriebene Notstromaggregate. Nach Angaben des Senders KJZZ wäre es das größte Rechenzentrumsvorhaben in Arizona.",
+    "Bei einer Bürgerversammlung am Mittwochabend in der Grundschule von Cochise mit rund 275 Besuchern bestätigte nach Angaben der Lokalzeitung Gila Herald ein SpaceX-Vertreter, dass Elon Musks Raumfahrtkonzern hinter dem Projekt steht. Der Firmenname sei im Antrag nicht genannt worden, weil er sofort Aufmerksamkeit von außen auf sich ziehe. Das Unternehmen stellt Tausende Bauarbeitsplätze und etwa 1.000 Dauerstellen in Aussicht.",
+    "Strom soll die Genossenschaft Arizona Electric Power Cooperative liefern, die Endversorgung übernimmt die Sulphur Springs Valley Electric Cooperative. Deren Angaben zufolge muss der Bauherr die nötigen Netzausbauten selbst bezahlen; zudem verhandelt sie über Absicherungen für den Fall, dass das Projekt scheitert. Gekühlt werden soll mit Luft statt Grundwasser. Der Entwickler verspricht Steuereinnahmen von 34 bis 103 Millionen Dollar im Jahr und niedrigere Stromrechnungen für die übrigen Kunden.",
+    "Anwohner äußerten Sorgen über Lärm, Wasser, Strombedarf und die nahe Willcox Playa, einen Rastplatz für Kraniche. Eine Petition gegen das Vorhaben hat mehr als 1.000 Unterschriften. Die Planungskommission des Countys berät am 9. Dezember in einer öffentlichen Anhörung."
+   ],
+   "quellen": [
+    [
+     "KJZZ",
+     "https://www.kjzz.org/business/2026-11-03/largest-data-center-proposal-in-arizona-heads-to-cochise-county-1st-community-meeting-scheduled"
+    ],
+    [
+     "The Gila Herald",
+     "https://gilaherald.com/spacex-proposes-massive-747-acre-ai-data-center-near-willcox-drawing-mixed-reactions-from-rural-cochise-county-residents/"
+    ],
+    [
+     "Azfamily (KTVK/KPHO)",
+     "https://www.azfamily.com/2026/11/05/spacex-behind-proposed-data-center-cochise-county/"
+    ]
+   ],
+   "berichterstattung": [
+    "kjzz.org",
+    "gilaherald.com",
+    "azfamily.com",
+    "datacenterdynamics.com",
+    "finance.yahoo.com",
+    "gurufocus.com",
+    "seekingalpha.com",
+    "teslanorth.com",
+    "fourweekmba.com"
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Rüstung",
+    "Familienunternehmen",
+    "Deutschland"
+   ],
+   "kicker": "Beteiligungen · Rüstung",
+   "titel": "Der Milliarden-Exit der stillen KNDS-Eigentümer",
+   "deck": "Die Familien Bode und von Braunbehrens verkaufen ihre Hälfte am Panzerbauer an den Bund – günstiger als einst geplant, aber mit Paketzuschlag.",
+   "text": [
+    "Die deutschen Eigentümerfamilien des deutsch-französischen Panzerbauers KNDS stehen vor einem der größten Familien-Exits der jüngeren Zeit. Nach Berichten von Handelsblatt und Reuters hat sich der Bund im Grundsatz mit der Wegmann Unternehmens-Holding darauf verständigt, deren Anteil von 50 Prozent zu übernehmen. Reuters stützt sich auf ein Schreiben des Bundesfinanzministeriums an den Haushaltsausschuss. Die Unterzeichnung soll noch im November erfolgen, der Vollzug ist laut dem Bericht für Dezember geplant. KNDS und die Familien äußerten sich nicht.",
+    "Hinter der in Fürstenfeldbruck ansässigen Holding stehen die Familien Bode und von Braunbehrens, Nachfahren des Kasseler Waggonbauers Wegmann & Co. Das „Manager Magazin“ schätzte ihr Vermögen 2025 auf rund acht Milliarden Euro – ein Plus von 5,3 Milliarden Euro binnen eines Jahres und damit der größte Sprung der Rangliste, wie das „private banking magazin“ zusammenfasst. Die andere Hälfte von KNDS gehört dem französischen Staat.",
+    "Ursprünglich wollte der Bund nur 40 Prozent erwerben, mit einem Preis, der sich am Ausgabekurs eines Börsengangs orientieren sollte. Der Haushaltsausschuss hatte dafür im Juni bis zu 7,2 Milliarden Euro freigegeben. Weil die Bewertungen von Rüstungsfirmen gefallen sind, wurde der Börsengang erst verschoben und dann auf Eis gelegt. Nun gilt eine neue Preisformel auf Basis der aktuellen Bewertung; der Preis für die vollen 50 Prozent liegt den Berichten zufolge deutlich unter der genehmigten Summe. Die Familien erhalten einen Paketzuschlag und einen Teil der Dividende für 2026.",
+    "Die Familien hatten zwischenzeitlich auch einen Verkauf an Wettbewerber oder einen Finanzinvestor erwogen. Die Regierung begründet den Kauf mit dem Schutz von Schlüsseltechnologien und der Parität mit Frankreich. Beide Staaten wollen ihre Anteile später um je zehn Prozent verringern, sobald ein Börsengang wieder möglich erscheint."
+   ],
+   "quellen": [
+    [
+     "private banking magazin",
+     "https://private-banking-magazin.de/die-stillen-eigentuemer-von-knds-und-ihr-milliardenschwerer-exit/?viewall="
+    ],
+    [
+     "Reuters via onvista",
+     "https://www.onvista.de/news/2026/11-05-bund-mit-eigentuemerfamilien-ueber-knds-einstieg-einig-0-20-26572950"
+    ],
+    [
+     "Finanznachrichten (dts)",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70043419-bericht-bund-und-eigentuemer-einigen-sich-auf-knds-uebernahme-003.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "private-banking-magazin.de",
+    "onvista.de",
+    "wiwo.de",
+    "marketscreener.com",
+    "finanznachrichten.de",
+    "aktien.news"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Family Offices",
+    "Immobilien",
+    "Studie"
+   ],
+   "kicker": "Family Offices · Studie",
+   "titel": "Family Offices ziehen Immobiliengeld aus Deutschland ab",
+   "deck": "Der Deutschland-Anteil an den Immobilienportfolios vermögender Familien fällt binnen eines Jahres von 88 auf 77 Prozent.",
+   "text": [
+    "Family Offices im deutschsprachigen Raum setzen bei Immobilien zunehmend auf das Ausland. Nach dem „Family Office Real Estate Report 2026“ des Münchner Investmenthauses Kingstone Investment Management sank der Anteil deutscher Objekte an ihren Immobilienanlagen von 88,3 Prozent im Vorjahr auf 76,5 Prozent. Das übrige Europa kommt nun auf 12,6 Prozent, die USA auf 9,0 Prozent. Asien bleibt eine Randerscheinung.",
+    "Für die Erhebung, die Kingstone gemeinsam mit dem Family Office Real Estate Day durchführte, antworteten zwischen September und Oktober 34 von rund 1.450 angeschriebenen Family Offices; die meisten verwalten mehr als 100 Millionen Euro. Kingstone selbst bezeichnet das Ergebnis als Stimmungsbild, nicht als repräsentative Studie. Als Gründe für die Verschiebung nennen die Befragten die schwache Konjunktur und politische Unsicherheit in Deutschland. „Insbesondere Polen und UK werden unter unseren Kunden oft genannt“, sagt Mitgründer Philipp Schomberg.",
+    "Insgesamt bleiben Immobilien die wichtigste Anlageklasse, ihr Anteil am Vermögen sank aber von 56,5 auf 53,7 Prozent. Aktien liegen nahezu unverändert bei 19,6 Prozent, Anleihen legten um 2,6 Punkte auf 6,2 Prozent zu. Wohnen ist mit 37 Prozent der größte Immobilientyp, der Büroanteil ging zurück, Einzelhandel gewann deutlich.",
+    "Rund 41 Prozent der Befragten wollen ihr Immobilienengagement im kommenden Jahr ausbauen, etwa 26 Prozent wollen es verringern. Typisch sind fünf bis zehn Millionen Euro pro Jahr. „Insgesamt sind die Volumina, die p.a. in den nächsten drei Jahren investiert werden sollen, leicht kleiner geworden“, sagt Kingstone-Chef Tim Schomberg."
+   ],
+   "quellen": [
+    [
+     "private banking magazin",
+     "https://www.private-banking-magazin.de/kingstone-family-office-real-estate-report-2026-immobilien-ausland/"
+    ],
+    [
+     "altii",
+     "https://www.altii.de/family-offices-senken-den-immobilienanteil-in-deutschland-deutlich-d752b023a7/"
+    ],
+    [
+     "immofokus",
+     "https://immofokus.at/a/family-offices-reduzieren-den-deutschland-immobilien-anteil-deutlich"
+    ]
+   ],
+   "berichterstattung": [
+    "private-banking-magazin.de",
+    "altii.de",
+    "immofokus.at"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Pensionskassen",
+    "Energie"
+   ],
+   "kicker": "Private Equity · Infrastruktur",
+   "titel": "Blackstone und Kanadas Pensionskassen kaufen sich für 3,1 Milliarden Dollar bei LNG Canada ein",
+   "deck": "Mitsubishi gibt knapp die Hälfte seiner Beteiligungsgesellschaft ab – und finanziert damit den Ausbau des Exportterminals.",
+   "text": [
+    "Eine Investorengruppe unter Führung des Finanzinvestors Blackstone übernimmt für 3,1 Milliarden Dollar eine Minderheitsbeteiligung von 49,9 Prozent an einer Tochter des japanischen Handelshauses Mitsubishi. Diese hält 15 Prozent an LNG Canada, dem ersten Exportterminal für Flüssigerdgas des Landes im britisch-kolumbianischen Kitimat. Mit Blackstone investieren vier kanadische Großanleger: CPP Investments, OMERS, IMCO und PSP Investments. Wie sich der Anteil auf die Käufer verteilt, wurde nicht mitgeteilt.",
+    "Laut The Energy Mix bewertet Mitsubishi den verkauften Anteil mit rund 1,6 Milliarden Dollar; der Rest des Geldes soll in die zweite Ausbaustufe fließen. Mit ihr soll sich die Kapazität auf 28 Millionen Tonnen im Jahr verdoppeln, der Start wird für Anfang der 2030er-Jahre erwartet. Mitsubishi behält seinen vollen Anteil an der Flüssiggasproduktion. Partner des Gemeinschaftsunternehmens sind außerdem Shell, PetroChina, Petronas und die koreanische KOGAS.",
+    "Auf Blackstone-Seite kommt das Geld aus der Kredit- und Versicherungssparte; Senior Managing Director Rick Campbell nannte LNG Canada eines der bedeutendsten Energieprojekte Kanadas. Geoff Souter von CPP Investments sprach von einem „hochwertigen, global strategischen“ Vermögenswert mit attraktivem Renditepotenzial.",
+    "Umweltgruppen und Vertreter von Pensionsversicherten kritisieren das Engagement. Die Organisation Shift warf den Fonds vor, mit den Ersparnissen ihrer Mitglieder auf eine riskante und klimaschädliche Anlage zu setzen; Richard Brooks von Stand.earth sagte, die Investition sei langfristig nicht risikofrei."
+   ],
+   "quellen": [
+    [
+     "BNN Bloomberg",
+     "https://www.bnnbloomberg.ca/business/company-news/2026/11/02/blackstone-led-group-buys-into-mitsubishi-subsidiary-that-holds-lng-canada-stake/"
+    ],
+    [
+     "The Energy Mix",
+     "https://www.theenergymix.com/canadian-pension-investors-blackstone-acquire-lng-canada-stake-as-advocates-warn-of-risk/"
+    ],
+    [
+     "Blackstone",
+     "https://www.blackstone.com/news/press/blackstone-and-leading-canadian-institutional-investors-announce-3-1b-investment-in-mitsubishi-corporations-interest-in-lng-canada/"
+    ]
+   ],
+   "berichterstattung": [
+    "bnnbloomberg.ca",
+    "theenergymix.com",
+    "blackstone.com",
+    "engineeringnews.co.za",
+    "investmentexecutive.com",
+    "advisor.ca",
+    "oilprice.com",
+    "gasworld.com",
+    "esgnews.com",
+    "finimize.com",
+    "boereport.com",
+    "westernstandard.news",
+    "lngprime.com",
+    "offshore-technology.com",
+    "caproasia.com",
+    "hedgeco.net",
+    "pulse2.com"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "USA",
+    "Wealth Management",
+    "Übernahmen"
+   ],
+   "kicker": "Wealth Management · Übernahmen",
+   "titel": "Piloten, Steuerberater, Vorstädte: Amerikas Vermögensberater kaufen weiter zu",
+   "deck": "Beacon Pointe, Aprio und Carson Group übernehmen innerhalb weniger Tage Beratungsfirmen mit zusammen fast 3,9 Milliarden Dollar Kundenvermögen.",
+   "text": [
+    "Die Konsolidierung unter den unabhängigen amerikanischen Vermögensberatern geht unvermindert weiter. Beacon Pointe Advisors aus Newport Beach in Kalifornien hat zum 31. Oktober ACT Wealth Management übernommen, einen Berater mit Büros in Texas und North Carolina und rund 637 Millionen Dollar verwaltetem Vermögen. ACT hat sich seit 1996 auf Piloten, Flugbegleiter und ihre Familien spezialisiert und berät sie bei Betriebsrenten, Auszahlungsplänen und Roth-Umwandlungen. Beacon Pointe betreut damit nach eigenen Angaben rund 71 Milliarden Dollar. ACT-Gründer Dan Archer sagte, der neue Eigentümer gebe ihm die Mittel, den sich wandelnden Bedürfnissen der Kunden gerecht zu werden.",
+    "Einen anderen Weg geht die Steuer- und Unternehmensberatung Aprio. Sie hat zum 2. November den Honorarberater Garner Asset Management aus Plano bei Dallas gekauft – ihre erste eigenständige Übernahme im Vermögensgeschäft. Gründer Robert Garner wird Partner bei Aprio. Aprio Wealth Management betreute Ende September rund 6,1 Milliarden Dollar.",
+    "Die Carson Group, die mehr als 66 Milliarden Dollar verwaltet, nimmt zudem Marietta Wealth Management in Georgia mit rund 1,6 Milliarden Dollar auf. Und Prospera Financial Services gewinnt die Cornerstone Wealth Management aus Rochester mit 600 Millionen Dollar, wie das Fachportal Planadviser auflistet.",
+    "Für Aprio ist Garner nach Prism Financial Group Ende 2025 erst der zweite Vermögensberater unter dem eigenen Dach; die Muttergesellschaft beschäftigt mehr als 3.600 Mitarbeiter. Begleitet wurden die Übernahmen von spezialisierten Beratern wie Advisor Growth Strategies (Beacon Pointe) und DeVoe & Company (Garner)."
+   ],
+   "quellen": [
+    [
+     "PR Newswire (Beacon Pointe)",
+     "https://www.prnewswire.com/news-releases/beacon-pointe-advisors-acquires-act-wealth-management-expanding-services-for-pilots-and-airline-professionals-302927291.html"
+    ],
+    [
+     "Pulse 2.0",
+     "https://pulse2.com/aprio-acquires-garner-asset-management-expanding-6-1-billion-wealth-management-platform-into-dallas-fort-worth/"
+    ],
+    [
+     "Planadviser",
+     "https://www.planadviser.com/advisory-ma-news-11-4-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "prnewswire.com",
+    "pulse2.com",
+    "planadviser.com",
+    "ocbj.com",
+    "wealthmanagement.com"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Schweiz",
+    "Private Banking",
+    "Studie"
+   ],
+   "kicker": "Private Banking · Studie",
+   "titel": "Jeder vierte Schweizer Millionär hat in fünf Jahren die Hausbank gewechselt",
+   "deck": "Eine Studie von Hochschule und Kantonalbank Luzern zeigt, wie wechselwillig vermögende Kunden sind – und wer davon profitiert.",
+   "text": [
+    "Vermögende Privatkunden in der Schweiz sind ihren Banken weniger treu als oft angenommen. Rund jeder vierte hat in den vergangenen fünf Jahren seine wichtigste Anlagebank gewechselt. Das zeigt eine gemeinsame Studie der Hochschule Luzern und der Luzerner Kantonalbank, über die finews.ch berichtet. Befragt wurden im Mai 307 Personen mit mehr als einer Million Franken frei verfügbarem Vermögen. Die Autoren führen die Wechsel teilweise auf das Verschwinden der Credit Suisse zurück und halten weitere Verschiebungen für möglich.",
+    "Profitiert haben vor allem die Großen: Die UBS ist für 27 Prozent der Befragten die wichtigste Anlagebank, die Kantonalbanken kommen auf 21 Prozent – zusammen fast die Hälfte. Neo- und Digitalbanken spielen bei Anlagen kaum eine Rolle, ergänzen bei Jüngeren aber die traditionellen Institute. Im Schnitt unterhalten die Millionäre 3,3 Bankbeziehungen.",
+    "Auch das Anlageverhalten unterscheidet sich deutlich von der Gesamtbevölkerung: 99 Prozent besitzen Wertpapiere (Bevölkerung: 52 Prozent), 90 Prozent halten direkt Aktien. Fast ein Drittel ist in Private-Debt- oder Private-Equity-Fonds investiert, 53 Prozent indirekt in Immobilien.",
+    "Zufrieden machen die Kunden vor allem Kompetenz, Vertrauen, Stabilität und Transparenz – exklusive Anlässe zählen weniger. Mehr als ein Drittel wünscht mindestens einmal im Quartal Kontakt. Die Kunden sähen die Bank als „Sparringpartner, der auf Augenhöhe mit ihnen agiert“, sagt Désirée von Michaelis, Leiterin Private Banking bei der Luzerner Kantonalbank."
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/news/banken/74267-schweizer-millionaere-private-banking-bankenwechsel-ubs-kantonalbanken-hslu-lukb-studie"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Deutschland",
+    "Bundespräsident",
+    "CSU"
+   ],
+   "kicker": "Köpfe · Staatsoberhaupt",
+   "titel": "Ilse Aigner: Die Landtagspräsidentin soll erste Bundespräsidentin werden",
+   "deck": "Nach CSU und CDU will auch die SPD die 61-Jährige unterstützen – Kanzler Merz muss sich für die zähe Suche Kritik anhören.",
+   "text": [
+    "Ilse Aigner steht vor dem Sprung ins höchste Staatsamt. Nach der CSU hat sich nach übereinstimmenden Berichten auch die CDU hinter die 61-jährige Präsidentin des Bayerischen Landtags gestellt. Offiziell soll die Kandidatur am Montag in den CDU-Führungsgremien in Berlin vorgestellt werden. Gewählt wird der Nachfolger von Frank-Walter Steinmeier am 30. Januar von der Bundesversammlung, in der Union und SPD gemeinsam auf eine Mehrheit von etwa 50 Stimmen kommen. Aigner wäre die erste Frau und die erste CSU-Politikerin in dem Amt.",
+    "Die gelernte Radio- und Fernsehtechnikerin aus dem Landkreis Rosenheim zog 1994 in den Landtag ein, wechselte 1998 in den Bundestag und war von 2008 bis 2013 Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz. Seit 2018 leitet sie das Münchner Landesparlament. SPD-Chef Lars Klingbeil nannte sie „volksnah“ und sagte Unterstützung zu, Horst Seehofer sprach von der „richtigen Bundespräsidentin zur richtigen Zeit“.",
+    "Die Begleitmusik gilt vor allem Friedrich Merz. Grünen-Politiker Omid Nouripour sagte, dem Kanzler sei „erneut ein wichtiges Personalverfahren entglitten“, Fraktionschefin Britta Haßelmann sprach von einer „unprofessionellen Findungssuche“. Merz verwies auf das mit der CSU vereinbarte Verfahren. AfD-Chef Tino Chrupalla lehnt Aigner ab, die Linke hatte eine überparteiliche Kandidatur gefordert."
+   ],
+   "quellen": [
+    [
+     "Stuttgarter Zeitung",
+     "https://www.stuttgarter-zeitung.de/politik/ilse-aigner-eisernes-merz-schweigen-zur-kandidatin-kritik-am-kanzler-79676023.html"
+    ],
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/politik/bundespraesidentin-aigner-koalition-merz-100.html"
+    ],
+    [
+     "Werra-Rundschau",
+     "https://www.werra-rundschau.de/politik/ilse-aigner-soll-bundespraesidentin-werden-merz-schweigt-und-kassiert-heftige-kritik-zr-94579151.html"
+    ]
+   ],
+   "berichterstattung": [
+    "stuttgarter-zeitung.de",
+    "zdfheute.de",
+    "werra-rundschau.de",
+    "t-online.de",
+    "gmuender-tagespost.de",
+    "webnachrichten.de",
+    "nordkurier.de",
+    "heidelberg24.de",
+    "wz.de",
+    "aa.com.tr",
+    "ilfoglio.it",
+    "informat.ro",
+    "lomazoma.com"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Deutschland",
+    "SPD"
+   ],
+   "kicker": "Köpfe · Parteien",
+   "titel": "Lars Klingbeil: „Ich klebe nicht am Stuhl“",
+   "deck": "Vor der Ruhr-SPD in Bochum lässt der Vizekanzler offen, ob er im Januar wieder für den Parteivorsitz kandidiert.",
+   "text": [
+    "Lars Klingbeil hält sich die Zukunft an der SPD-Spitze offen. Beim Mitgliederkonvent der Ruhr-SPD im Bochumer Bergbaumuseum sagte der Parteichef, Vizekanzler und Finanzminister am Samstag, er klebe nicht an seinem Amt. Entscheidend sei die Solidarität der ganzen Partei, gleich wer gewählt werde. Die Entscheidung treffe er nicht allein, sie werde intern beraten. Wann ein Personalvorschlag kommt, ließ er offen.",
+    "Nötig wird die Neuwahl durch den Rücktritt von Bärbel Bas, die Mitte Oktober als Co-Vorsitzende und Arbeitsministerin aufgehört hatte. Die SPD will ihre Spitze auf einem Parteitag im Januar neu bestimmen. Als mögliche Kandidaten werden der frühere Arbeitsminister Hubertus Heil, der eine Bewerbung nicht ausschließt, und Mecklenburg-Vorpommerns Ministerpräsidentin Manuela Schwesig gehandelt.",
+    "In Bochum bekam Klingbeil die Unzufriedenheit der Basis zu spüren. Redner warfen ihm Profillosigkeit vor und forderten „klare Kante“, viele stören sich an seiner Doppelrolle als Minister und Parteichef. Klingbeil ermunterte die Genossen: „Nehmt kein Blatt vor den Mund, wenn ihr mit mir diskutiert.“ Für eine Wiederwahl bräuchte er den Rückhalt Nordrhein-Westfalens, des größten Landesverbands, der ein Viertel der Delegierten stellt. Dort liegt die SPD vor der Landtagswahl im April in Umfragen bei 14 bis 18 Prozent."
+   ],
+   "quellen": [
+    [
+     "Handelsblatt (dpa)",
+     "https://www.handelsblatt.com/politik/deutschland/klingbeil-bei-ruhr-spd-frage-um-spd-vorsitz-klingbeil-klebe-nicht-am-stuhl/100268108.html"
+    ],
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/politik/deutschland/spd-chef-lars-klingbeil-nordrhein-westfalen-ruhrgebiet-bochum-100.html"
+    ]
+   ],
+   "berichterstattung": [
+    "handelsblatt.com",
+    "zdfheute.de",
+    "finanzen.at",
+    "bnn.de",
+    "nwzonline.de",
+    "yahoo.com",
+    "investing.com",
+    "kurierverlag.de",
+    "ad-hoc-news.de",
+    "leinetal24.de",
+    "echo24.de"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Krypto",
+    "Binance"
+   ],
+   "kicker": "Köpfe · Kryptobörsen",
+   "titel": "Kaiser Ng: Binances Finanzchef geht neun Tage nach dem Rekord-Hack",
+   "deck": "Nachfolger wird Justin Yek vom Zahlungsdienstleister Airwallex – der Wechsel sei seit einem halben Jahr geplant, sagt die Konzernspitze.",
+   "text": [
+    "Kaiser Ng verlässt die Kryptobörse Binance. Co-Chefin Yi He teilte am Samstag mit, der Finanzchef wolle sich nach mehr als fünf Jahren im Unternehmen „einem neuen Vorhaben“ widmen. Nachfolger wird Justin Yek, zuletzt Vizepräsident für Finanzen beim Zahlungsdienstleister Airwallex. Ein Übergangsplan sei über das vergangene halbe Jahr umgesetzt worden. Wann Ng ausscheidet und was er künftig macht, blieb offen. Zuerst hatte Bloomberg berichtet.",
+    "Ng ist seit Januar 2022 Finanzchef von Binance und arbeitete laut seinem Linkedin-Profil zuvor beim Konkurrenten Kraken. Sein Abschied fällt in die schwierigste Phase der Börse seit Langem: Am 29. Oktober hatten Angreifer über mehrere Blockchains hinweg Kryptowerte im Wert von 6,3 Milliarden Dollar abgezogen, nach Angaben von The Block der größte Kryptodiebstahl überhaupt. Binance und das FBI machen die nordkoreanische Gruppe TraderTraitor verantwortlich.",
+    "Die Börse hatte Auszahlungen mehrere Tage eingefroren und versichert, die Verluste selbst zu tragen. Bis zum 2. November ersetzte sie nach eigenen Angaben rund 95 Prozent der betroffenen Bestände aus eigenen Mitteln. Nach der Freigabe zogen Kunden in den ersten Stunden netto 3,6 Milliarden Dollar ab."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
+    ],
+    [
+     "TechCrunch",
+     "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+    ],
+    [
+     "Investing.com",
+     "https://de.investing.com/news/stock-market-news/binancefinanzchef-tritt-wenige-tage-nach-6milliardendollarkryptohack-zuruck-3754897"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "techcrunch.com",
+    "finance.yahoo.com",
+    "investing.com",
+    "tradingview.com",
+    "marketscreener.com",
+    "mlq.ai",
+    "unn.ua",
+    "archyde.com",
+    "see.news",
+    "bloomingbit.io",
+    "digg.com",
+    "ua.news"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Deutschland",
+    "Politik",
+    "Rüstung"
+   ],
+   "kicker": "Köpfe · Politik",
+   "titel": "Dietmar Bartsch: „Kreislaufwirtschaft im absurdesten Sinne“",
+   "deck": "Der Haushaltspolitiker der Linken greift den geplanten Staatseinstieg beim Panzerbauer KNDS an.",
+   "text": [
+    "Dietmar Bartsch, haushaltspolitischer Sprecher der Linken im Bundestag, hat sich als einer der ersten Kritiker des geplanten Einstiegs des Bundes beim Panzerbauer KNDS zu Wort gemeldet. Der Staat kaufe faktisch bei sich selbst, sagte Bartsch der Nachrichtenagentur Reuters – das werfe rechtliche Fragen auf. Er sprach von „Kreislaufwirtschaft im absurdesten Sinne“.",
+    "Bartsch stellte zudem die Frage, warum die bisherigen Eigentümer lieber verkaufen und Geld verdienen wollten, als die Kontrolle zu behalten. Hintergrund ist eine Grundsatzeinigung zwischen der Bundesregierung und den Eigentümerfamilien, die laut einem Schreiben des Finanzministeriums an den Haushaltsausschuss 50 Prozent an dem deutsch-französischen Konzern abgeben sollen. Der Ausschuss hatte vor dem Sommer bis zu 7,2 Milliarden Euro für einen Anteil von 40 Prozent bewilligt; der neue Preis soll darunter liegen. Die Regierung begründet den Schritt mit dem Schutz von Schlüsseltechnologien."
+   ],
+   "quellen": [
+    [
+     "Reuters via onvista",
+     "https://www.onvista.de/news/2026/11-05-bund-mit-eigentuemerfamilien-ueber-knds-einstieg-einig-0-20-26572950"
+    ],
+    [
+     "marketscreener (Reuters)",
+     "https://de.marketscreener.com/boerse-nachrichten/bund-mit-eigentuemerfamilien-ueber-knds-einstieg-einig-ce785fdcdf8fff27"
+    ]
+   ],
+   "berichterstattung": [
+    "onvista.de",
+    "marketscreener.com"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Schweiz",
+    "Banken",
+    "Personalien"
+   ],
+   "kicker": "Köpfe · Banken",
+   "titel": "Thomas Schöb: Vom Versicherungsbanker zum Chef der Aargauischen Kantonalbank",
+   "deck": "Der Physiker und Chef der Baloise Bank übernimmt im Juni 2027 die Führung einer der größten Kantonalbanken.",
+   "text": [
+    "Thomas Schöb wechselt die Seiten: Der Chef der Baloise Bank wird zum 1. Juni 2027 Direktionspräsident der Aargauischen Kantonalbank (AKB). Er folgt auf Dieter Widmer, der das Institut auf eigenen Wunsch verlässt. Widmer arbeitete mehr als 30 Jahre für die AKB, davon neun als Direktionspräsident.",
+    "Schöb ist diplomierter Physiker der ETH Zürich und seit 2002 für die Baloise tätig. Die Baloise Bank führt er seit Anfang 2025, er bleibt bis Ende April 2027 in dieser Funktion und gehört der Geschäftsleitung Schweiz von Helvetia an. Er sitzt zudem im Verwaltungsrat des Verbands Schweizer Regionalbanken.",
+    "Mit dem Aargau ist Schöb eng verbunden: Er ist im Kanton aufgewachsen und präsidiert seit 2018 die Finanzkommission seiner Wohngemeinde Staufen. AKB-Präsident Kurt Bobst lobte seine „langjährige Erfahrung darin, grosse Organisationseinheiten erfolgreich zu führen“."
+   ],
+   "quellen": [
+    [
+     "finews.ch",
+     "https://www.finews.ch/news/banken/74337-aargauische-kantonalbank-thomas-schoeb-dieter-widmer-baloise-direktionspraesident"
+    ]
+   ],
+   "berichterstattung": [
+    "finews.ch"
+   ]
+  },
+  {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Personalisierter mRNA-Impfstoff senkt Rückfallrisiko bei Hautkrebs um 42 Prozent",
+   "deck": "In einer Phase-III-Studie blieben deutlich mehr Melanom-Patienten nach der Operation krebsfrei, wenn sie zusätzlich zur Immuntherapie eine individuell angefertigte Impfung erhielten.",
+   "text": [
+    "Ein auf den einzelnen Tumor zugeschnittener mRNA-Impfstoff hat in einer großen Studie das Risiko verringert, dass schwarzer Hautkrebs nach einer Operation zurückkehrt. Wie der „Guardian“ berichtet, sank das Risiko für einen Rückfall oder Tod innerhalb von zwei Jahren um 42 Prozent, wenn Patienten den Impfstoff zusätzlich zu einer Immuntherapie bekamen.",
+    "Nach zwei Jahren waren in der Impfstoffgruppe 82 Prozent der Patienten am Leben und ohne erneuten Tumor, in der Vergleichsgruppe mit der Standardbehandlung allein waren es 70 Prozent. Entwickelt wird der Impfstoff von Moderna und MSD (Merck & Co). Erste, noch unvollständige Ergebnisse einer Phase-III-Studie mit rund 1.000 Teilnehmern hatten die Unternehmen bereits im Sommer gemeldet; damals hatte der britische Krebsexperte Lennard Lee von einem „Meilenstein für Krebsimpfstoffe“ gesprochen.",
+    "Das Prinzip: Aus dem entfernten Tumor wird das Erbgut der Krebszellen analysiert, daraus entsteht ein Impfstoff, der das Immunsystem auf genau diese Merkmale trainiert. Die Immuntherapie löst zugleich eine Bremse der Abwehrzellen. Phase-III-Studien sind in der Regel die letzte Stufe vor einem Zulassungsantrag. Wie lange der Schutz anhält, müssen längere Beobachtungen zeigen."
+   ],
+   "quellen": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia"
+    ],
+    [
+     "Positive News",
+     "https://www.positive.news/?p=589141"
+    ]
+   ],
+   "berichterstattung": [
+    "theguardian.com",
+    "positive.news",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "Weniger tote Neugeborene in Flint: Sterblichkeit binnen eines Jahres halbiert",
+   "deck": "Nach dem Start des Hilfsprogramms Rx Kids ist in der Stadt in Michigan die Säuglingssterblichkeit in den ersten Lebenswochen um die Hälfte gesunken.",
+   "text": [
+    "In Flint im US-Bundesstaat Michigan sterben deutlich weniger Babys in ihren ersten Lebenswochen. Nach dem Start des Programms Rx Kids sank die Neugeborenensterblichkeit dort innerhalb eines Jahres um 50 Prozent, von 10,2 auf 5,1 Todesfälle je 1.000 Lebendgeburten. Das berichtet das Fachportal Medical Xpress unter Berufung auf eine Auswertung der Daten.",
+    "Besonders stark fiel der Rückgang in der ersten Lebenswoche aus: Die frühe Neugeborenensterblichkeit ging um 74 Prozent zurück. Im übrigen Michigan blieb die Rate im selben Zeitraum mit rund 3,9 bis 4,0 Todesfällen je 1.000 Geburten nahezu unverändert. Der Abstand zwischen Flint und dem Rest des Bundesstaats ist damit deutlich kleiner geworden.",
+    "Hinter dem Rückgang steht das Programm Rx Kids, das sich an werdende Mütter und Familien mit Neugeborenen in der Stadt richtet. Die neuen Zahlen beziehen sich auf einen Zeitraum von einem Jahr; ob der Effekt anhält und wie viel davon auf das Programm zurückgeht, werden weitere Daten zeigen müssen."
+   ],
+   "quellen": [
+    [
+     "Medical Xpress",
+     "https://medicalxpress.com/news/2026-11-newborn-deaths-fell-flint-rx.html"
+    ],
+    [
+     "Good Good Good (Hinweis)",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-7-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "medicalxpress.com",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "Indien senkt die Preise für 137 Krebsmedikamente um bis zu 70 Prozent",
+   "deck": "Ab dem 9. November gelten neue Preisobergrenzen. Sie bauen auf einer Regelung von 2019 auf, die Krebsmittel teils um 90 Prozent verbilligt hatte.",
+   "text": [
+    "Krebspatienten in Indien sollen für viele Medikamente deutlich weniger bezahlen. Die Regierung hat die Preisobergrenzen auf 137 Krebsmittel ausgeweitet, die Preise sinken damit um bis zu 70 Prozent. Die neuen Höchstpreise gelten nach Angaben des „Telegraph India“ ab dem 9. November.",
+    "Die Maßnahme knüpft an eine Regelung aus dem Jahr 2019 an. Damals hatte Indien die Handelsspannen für 42 Krebsmedikamente begrenzt, die Preise fielen dadurch um bis zu 90 Prozent. Nun wird die Liste der betroffenen Arzneien mehr als verdreifacht.",
+    "In Indien zahlen viele Patienten ihre Behandlung ganz oder teilweise aus eigener Tasche, eine Krebstherapie kann Familien deshalb finanziell überfordern. Niedrigere Preise können dazu beitragen, dass mehr Erkrankte eine Behandlung beginnen und durchhalten. Wie stark die Ersparnis im Einzelfall ausfällt, hängt vom jeweiligen Medikament ab; die 70 Prozent sind die Obergrenze der Senkungen."
+   ],
+   "quellen": [
+    [
+     "The Telegraph India",
+     "https://www.telegraphindia.com/india/india-expands-cancer-drug-price-caps-slashing-costs-on-137-medicines-by-up-to-70-per-cent-from-november-9/cid/2185316"
+    ],
+    [
+     "Good Good Good (Hinweis)",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "telegraphindia.com",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-04",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "Sechs Kälber im Mekong: Kambodschas Flussdelfine werden wieder mehr",
+   "deck": "Der Bestand der seltenen Irawadi-Delfine in Kambodscha wird auf 118 Tiere geschätzt – Flusswächter und Fangverbote zeigen Wirkung.",
+   "text": [
+    "Im Mekong in Kambodscha sind in diesem Jahr mindestens sechs Irawadi-Delfine zur Welt gekommen. Bis Ende Juni wurden fünf Kälber in der Provinz Kratie und eines in Stung Treng bestätigt. Der Bestand einer der seltensten Delfinpopulationen der Welt wird damit auf 118 Tiere geschätzt, wie das Umweltportal Mongabay berichtet.",
+    "Ende der 1990er Jahre lebten in Kambodscha noch schätzungsweise 200 der Flussdelfine, danach schrumpfte die Zahl auf kaum mehr als 100. Seit 2012 sind Stellnetze in den geschützten Kernzonen auf einer 180 Kilometer langen Flussstrecke zwischen Kratie und Stung Treng verboten. Die Fischereibehörde setzt Flusswächter ein, 2012 waren es 72. Allein 2022 wurden in den Schutzzonen rund 36.000 Meter Stellnetze beschlagnahmt und vernichtet. 2025 erklärte das zuständige Ministerium den Lebensraum zu staatlichem Land.",
+    "Die Erholung bleibt verletzlich: Am Mekong und seinen Nebenflüssen arbeiten mehr als 160 Staudämme, die Fischbestände und Wasserstand verändern. Im Grenzgebiet zu Laos starb 2022 der letzte Delfin eines Beckens, nachdem er sich in illegalem Fanggerät verfangen hatte. Umso mehr gelten die Geburten dieses Jahres Naturschützern als Ermutigung."
+   ],
+   "quellen": [
+    [
+     "Mongabay",
+     "https://news.mongabay.com/2026/09/mekongs-irrawaddy-dolphins-find-cautious-hope-amid-a-river-in-crisis/"
+    ],
+    [
+     "Cambodianess",
+     "https://cambodianess.com/article/new-life-new-momentum-sixth-dolphin-birth-fuels-cambodias-conservation-push"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/mekong-river-irrawaddy-dolphins-cambodia"
+    ]
+   ],
+   "berichterstattung": [
+    "mongabay.com",
+    "cambodianess.com",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-05",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "Somalia senkt die Zahl der Cholera-Toten um 93 Prozent",
+   "deck": "Das Land hat zudem nach mehr als drei Jahrzehnten wieder eine eigene Arzneimittelbehörde. Auch im Sudan steigen die Impfquoten deutlich.",
+   "text": [
+    "Somalia hat die Zahl der Todesfälle durch Cholera um 93 Prozent verringert. Das berichtet die „Tanzania Times“ in einer Bilanz von Gesundheitsfortschritten in der Ostmittelmeer-Region der Weltgesundheitsorganisation, zu der Somalia gehört. Cholera ist eine durch verunreinigtes Wasser übertragene Darminfektion, die unbehandelt binnen Stunden tödlich sein kann, sich mit sauberem Wasser, Impfungen und rascher Flüssigkeitsgabe aber gut bekämpfen lässt.",
+    "Zugleich hat das Land am Horn von Afrika erstmals seit mehr als drei Jahrzehnten wieder eine nationale Arzneimittelbehörde eingerichtet. Eine solche Behörde prüft, welche Medikamente auf den Markt kommen, und soll gefälschte oder minderwertige Arzneien fernhalten – ein Grundbaustein jedes Gesundheitssystems.",
+    "Auch der Sudan meldet Fortschritte: Der Anteil der Kinder, die die dritte Dosis einer Standardimpfung erhalten haben, stieg dem Bericht zufolge innerhalb eines Jahres von 39 auf 71 Prozent. Beide Länder zeigen damit, dass Gesundheitsprogramme auch unter schwierigen Bedingungen messbare Erfolge bringen können."
+   ],
+   "quellen": [
+    [
+     "Tanzania Times",
+     "https://tanzaniatimes.net/somalia-cuts-down-cholera-deaths-by-93-percent-as-sudan-increases-vaccination-coverage-to-more-than-71-percent/"
+    ],
+    [
+     "Good Good Good (Hinweis)",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "tanzaniatimes.net",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-06",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Wald"
+   ],
+   "kicker": "Gute Nachrichten · Klima",
+   "titel": "Niederlande geben 500 Millionen Dollar für den Tropenwald-Fonds",
+   "deck": "Der von Brasilien gestartete Fonds soll Länder dafür bezahlen, dass ihre Regenwälder stehen bleiben – nun steigt ein weiterer großer Geldgeber ein.",
+   "text": [
+    "Die Niederlande beteiligen sich mit 500 Millionen Dollar über zehn Jahre an der Tropical Forest Forever Facility (TFFF). Die Regierung in Den Haag gab die Zusage am 26. Oktober bekannt. Der Fonds war von Brasilien auf der UN-Klimakonferenz COP30 im November 2025 ins Leben gerufen worden.",
+    "Die TFFF funktioniert ähnlich wie ein Staatsfonds: Das eingezahlte Kapital wird angelegt, die Erträge fließen an tropische Länder, die ihre Wälder erhalten. Langfristig soll ein Kapitalstock von 125 Milliarden Dollar entstehen, bislang sind rund 7,8 Milliarden zugesagt. Nach eigenen Schätzungen könnte der Fonds 800 bis 900 Millionen Hektar Tropenwald schützen – etwa das 200-Fache der Fläche der Niederlande.",
+    "Die Umweltstiftung WWF Niederlande sprach von einem „großen Durchbruch für den Schutz tropischer Wälder weltweit“. Es gibt aber auch Kritik am Modell: Der Stanford-Umweltökonom Bård Harstad hält den Ansatz für fehlerhaft und warnt, eine verfehlte Finanzierung könne künftige Ausgaben für den Waldschutz entmutigen. Er empfiehlt stattdessen Anleihen, deren Konditionen an Nachhaltigkeitsziele gekoppelt sind."
+   ],
+   "quellen": [
+    [
+     "Mongabay",
+     "https://news.mongabay.com/short-article/netherlands-pledges-500-million-to-help-conserve-tropical-forests/"
+    ],
+    [
+     "Rijksoverheid",
+     "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-investeert-fors-in-bescherming-tropische-bossen"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/netherlands-pledges-tropical-forests"
+    ]
+   ],
+   "berichterstattung": [
+    "mongabay.com",
+    "rijksoverheid.nl",
+    "wwf.panda.org",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-07",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin"
+   ],
+   "kicker": "Gute Nachrichten · Forschung",
+   "titel": "Implantat senkt Blutzucker ohne Medikamente – zunächst bei Mäusen",
+   "deck": "Forscher der ETH Zürich wandeln überschüssigen Zucker mit einem elektrischen Katalysator um. Die Studie erschien in „Science“.",
+   "text": [
+    "Ein Team um den Biotechnologen Martin Fussenegger von der ETH Zürich hat ein Implantat entwickelt, das den Blutzucker ohne Arzneimittel regulieren soll. Ein Katalysator aus Gold und Platin auf Graphitfilz wandelt überschüssige Glukose in Glukonat um, das der Körper über den Urin ausscheidet. Die Arbeit ist in der Fachzeitschrift „Science“ erschienen.",
+    "Gesteuert wird das System wie ein geschlossener Regelkreis: Ein Glukosesensor misst den Zuckerspiegel, per Bluetooth schaltet ein Smartphone oder eine Smartwatch das Implantat ein, wenn der Wert zu hoch ist, und wieder aus, sobald er im Normalbereich liegt. Die Energie wird drahtlos übertragen. Getestet wurde das Gerät zunächst in fünf Litern Nährlösung – etwa so viel, wie ein Erwachsener an Blut hat – und dann sechs Wochen lang in Mäusen mit Diabetes.",
+    "In den Tieren hielt das Implantat den Blutzucker im Rahmen, die Mäuse nahmen zudem ab. Das Gerät arbeitete zuverlässig und wurde gut vertragen, Gewebeschäden durch Strom oder Wärme fanden die Forscher nicht. „Seit Jahrzehnten behandeln wir Diabetes, indem wir dem Körper sagen, wie er mit Glukose umgehen soll“, sagte Fussenegger. Nun lasse sie sich direkt steuern, „mit Elektronik statt Medikamenten“. Am Menschen ist das Implantat noch nicht erprobt; als Nächstes soll ein Medizinprodukt für klinische Tests entstehen."
+   ],
+   "quellen": [
+    [
+     "ScienceDaily / ETH Zürich",
+     "https://www.sciencedaily.com/releases/2026/10/261031221151.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "gut-08",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "„Batman“ findet verschollene Fledermaus 650 Kilometer vom bekannten Fundort",
+   "deck": "Ein Forscher hat in Nordaustralien den Ruf einer kaum je gesehenen Fledermausart aufgezeichnet – weit entfernt von ihrem bisher bekannten Verbreitungsgebiet.",
+   "text": [
+    "Eine der rätselhaftesten Tierarten Australiens ist an einem unerwarteten Ort aufgetaucht. Oli Aylen, Wissenschaftler der Naturschutzorganisation Australian Wildlife Conservancy (AWC), hat im Pungalina-Seven-Emu-Schutzgebiet im Northern Territory den Ruf einer Arnhem Sheath-tailed Bat aufgezeichnet, einer kleinen Fledermaus aus der Familie der Glattnasen-Freischwänze. Der Fundort liegt rund 650 Kilometer vom letzten bekannten Nachweis der Art entfernt.",
+    "Aylen, in Australien als „Batman“ bekannt, hatte bei einer Bestandsaufnahme an den Mangroven Netze aufgebaut, als sein Handdetektor den Ruf erfasste. Die Art fällt durch einen ungewöhnlich kurzen Echoortungsruf auf. Entdeckt wurde die kleine Fledermaus 1979, seither ist sie nur eine Handvoll Male dokumentiert worden.",
+    "Wie es um die Art steht, ist unklar: Ob sie selten, bedroht oder womöglich weiter verbreitet ist als gedacht, wissen die Forscher nicht. Als nächster Schritt gilt die Suche nach ihren Schlafquartieren. Die AWC schützt das Gebiet seit 2008. In Australien stehen mehr als 2.200 heimische Arten auf den Listen gefährdeter Tiere und Pflanzen – jeder neue Nachweis hilft, ihren Schutz zu planen."
+   ],
+   "quellen": [
+    [
+     "EcoVoice (Pressemitteilung AWC)",
+     "https://www.ecovoice.com.au/australian-batman-finds-elusive-species-650-km-from-its-last-known-location-in-the-nt/"
+    ],
+    [
+     "Australian Museum",
+     "https://australian.museum/learn/animals/bats/arnhem-sheathtail-bat/"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/endangered-species-microbat-australia"
+    ]
+   ],
+   "berichterstattung": [
+    "ecovoice.com.au",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-09",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Raumfahrt"
+   ],
+   "kicker": "Gute Nachrichten · Raumfahrt",
+   "titel": "Voyager 1 erreicht bald die Entfernung von einem Lichttag",
+   "deck": "Am 18. November ist die Nasa-Sonde so weit von der Erde entfernt, dass ein Funksignal einen ganzen Tag unterwegs ist – kein menschengemachtes Objekt war je weiter weg.",
+   "text": [
+    "Fast 50 Jahre nach ihrem Start 1977 erreicht die Raumsonde Voyager 1 eine symbolische Marke: Am 18. November wird sie nach Angaben des Jet Propulsion Laboratory der Nasa einen Lichttag von der Erde entfernt sein, rund 25,9 Milliarden Kilometer. Ein Funkspruch braucht dann 24 Stunden in eine Richtung. Kein anderes von Menschen gebautes Objekt ist je so weit gekommen. Die Sonde fliegt mit etwa 61.000 Kilometern pro Stunde durch den interstellaren Raum.",
+    "Für das Team bedeutet das Geduld: Auf eine Antwort auf einen Befehl wartet man rund 48 Stunden. „Man wartet zwei Tage, bis man endlich eine Antwort bekommt“, sagte Projektmanagerin Suzanne Dodd.",
+    "Dass Voyager 1 überhaupt noch forscht, verdankt sie dem Einfallsreichtum der Ingenieure. Die Radionuklidbatterien verlieren jedes Jahr etwa vier Watt Leistung, nicht benötigte Geräte wurden abgeschaltet. Anfang September tauschte das Team in einer „Big Bang“ genannten Aktion drei Geräte gegen sparsamere Varianten aus und verlängerte so das Leben der Messinstrumente – sonst hätte bereits im Sommer 2027 ein weiteres abgeschaltet werden müssen. Vom 18. bis 20. Oktober war der Kontakt kurz abgerissen, weil die Sonde selbstständig auf Ersatztriebwerke umgeschaltet hatte. „Wir sind an einem Punkt der Mission, an dem wir mit dem Unerwarteten rechnen müssen“, sagte Missionsmanager Kareem Badaruddin."
+   ],
+   "quellen": [
+    [
+     "ScienceDaily / Nasa JPL",
+     "https://www.sciencedaily.com/releases/2026/11/261103003152.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "gut-10",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Astronomie"
+   ],
+   "kicker": "Gute Nachrichten · Forschung",
+   "titel": "Neues Teleskop in Chile entdeckt zwei verborgene Begleiter der Milchstraße",
+   "deck": "Schon mit Testdaten findet das Vera-C.-Rubin-Observatorium eine lichtschwache Zwerggalaxie und einen Sternhaufen hinter kosmischem Staub.",
+   "text": [
+    "Das Vera-C.-Rubin-Observatorium auf dem Cerro Pachón in den chilenischen Anden hat seine ersten Entdeckungen in der Umgebung der Milchstraße gemacht. Forscher um William Cerny von der Yale University fanden in Vorab-Beobachtungen die ultraschwache Zwerggalaxie Aquarius IV, etwa 355.000 Lichtjahre entfernt am äußersten Rand der Milchstraße. Ein Team um Aashay Pai von der University of Chicago entdeckte auf der gegenüberliegenden Seite der Galaxis den Sternhaufen Rubin-GC1, der hinter kosmischem Staub verborgen lag.",
+    "Die Daten stammen aus Testaufnahmen von April 2025 bis Januar 2026 und decken erst etwa sieben Prozent des Himmels ab. Bislang sind rund 65 Begleitgalaxien der Milchstraße bekannt, Schätzungen zufolge könnten Hunderte weitere unentdeckt sein. „Diese Entdeckungen sind erst der Anfang für Rubin“, sagte Cerny.",
+    "Das Observatorium arbeitet mit einem 8,4-Meter-Teleskop und einer Kamera mit 3,2 Gigapixeln, finanziert von der US-Wissenschaftsstiftung NSF und dem Energieministerium. Im Juni hat seine auf zehn Jahre angelegte Himmelsdurchmusterung begonnen. Beteiligt an den Studien waren Einrichtungen aus den USA, Kanada, Spanien und Schweden. Die Arbeit zu Aquarius IV erschien in den Research Notes der American Astronomical Society, die zu Rubin-GC1 ist von den Astrophysical Journal Letters angenommen."
+   ],
+   "quellen": [
+    [
+     "ScienceDaily / Yale University",
+     "https://www.sciencedaily.com/releases/2026/11/261104012252.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "Konzerte",
+    "Vorverkauf",
+    "Olympiahalle"
+   ],
+   "kicker": "München · Vorverkauf",
+   "titel": "Till Lindemann in der Olympiahalle: Allgemeiner Vorverkauf startet am Mittwoch um 16 Uhr",
+   "deck": "Der Rammstein-Sänger kommt am 15. November 2027 nach München – nach dem exklusiven Presale sind die Karten ab dieser Woche für alle zu haben.",
+   "text": [
+    "Wer Till Lindemann im kommenden Jahr in München sehen will, sollte sich den Mittwoch vormerken: Am 11. November 2026 um 16 Uhr beginnt nach Angaben des Olympiaparks der allgemeine Vorverkauf für das Konzert in der Olympiahalle. Der Auftritt im Rahmen seiner Welttournee 2027 ist für Montag, den 15. November 2027, angesetzt. Einlass ist laut Ankündigung um 18.30 Uhr, Beginn um 20 Uhr.",
+    "Ein Teil der Karten ist bereits verkauft worden: Seit dem 28. Oktober 2026, 16 Uhr, lief ein exklusiver Presale beim Ticketanbieter myticket. Welche Stellen ab Mittwoch im allgemeinen Verkauf zum Zuge kommen, nennt die Tour-Übersicht des Magazins „Pressure“ nicht; maßgeblich ist die Veranstaltungsseite des Olympiaparks. Örtlicher Veranstalter ist Global Concerts. Ticketpreise wurden bislang nicht veröffentlicht.",
+    "Für Lindemann ist es eine Rückkehr an einen bekannten Ort: Bereits mit seiner „Meine Welt Tour“ hatte der Sänger am 25. November 2025 in der Olympiahalle gastiert. Damals war die Tournee im November 2024 angekündigt worden, kurz darauf folgten die Termine für rund zwanzig Konzerte.",
+    "Wer Karten kaufen will, sollte ausschließlich offizielle Verkaufsstellen nutzen. Bei stark nachgefragten Konzerten tauchen erfahrungsgemäß rasch Angebote auf Zweitmärkten auf, oft deutlich über dem Originalpreis."
+   ],
+   "quellen": [
+    [
+     "Pressure Magazine",
+     "https://www.pressure-magazine.de/news/till-lindemann-tour-2027-termine-tickets-280649/"
+    ],
+    [
+     "Olympiapark München",
+     "https://www.olympiapark.de/de/veranstaltungen/till-lindemann-n6222"
+    ],
+    [
+     "Wikipedia (Meine Welt Tour)",
+     "https://en.wikipedia.org/wiki/Meine_Welt_Tour"
+    ]
+   ],
+   "berichterstattung": [
+    "pressure-magazine.de",
+    "olympiapark.de"
+   ],
+   "karten": {
+    "vorverkauf": "Exklusiver Presale (myticket) seit Mi, 28.10.2026, 16 Uhr · allgemein Mi, 11.11.2026, 16 Uhr",
+    "termin": "Mo, 15.11.2027, 20 Uhr (Einlass 18.30 Uhr)",
+    "ort": "Olympiahalle",
+    "stelle": "Olympiapark / örtlicher Veranstalter Global Concerts; Presale über myticket",
+    "link": "https://www.olympiapark.de/de/veranstaltungen/till-lindemann-n6222"
+   }
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "NFL",
+    "Sport",
+    "Allianz Arena"
+   ],
+   "kicker": "München · NFL",
+   "titel": "NFL in der Allianz Arena: Lions gegen Patriots ausverkauft – Fanfest am Odeonsplatz für alle",
+   "deck": "Am kommenden Sonntag kickt die NFL zum dritten Mal in Fröttmaning; reguläre Karten gibt es keine mehr, Restchancen nur über das offizielle NFL-Portal.",
+   "text": [
+    "Eine Woche noch, dann gastiert die National Football League zum dritten Mal in München: Am Sonntag, 15. November 2026, empfangen die Detroit Lions um 15.30 Uhr die New England Patriots in der Allianz Arena. Es ist ein reguläres Saisonspiel der zehnten Spielwoche, die Lions sind formal Gastgeber. Zuvor hatten 2022 Seattle und Tampa Bay vor 69.811 Zuschauern und 2024 die New York Giants und Carolina vor 70.132 Fans in Fröttmaning gespielt; ein weiteres Spiel ist für 2028 vereinbart.",
+    "Karten gibt es regulär nicht mehr. Der Verkauf hatte am 10. Juli begonnen, das Kontingent war laut muenchen.de binnen Stunden vergriffen. Die Preise lagen zwischen 83,59 und 413,75 Euro, Kinder unter 16 Jahren zahlten ab 42,17 Euro. Zurückgegebene Tickets tauchen mitunter auf dem offiziellen Portal unter nfl.com/Munich auf; dafür ist ein kostenloses NFL-Konto nötig. Vor Wiederverkaufsplattformen wie Viagogo oder Ebay warnt ran.de wegen überhöhter Preise und Betrugsrisiken. Die NFL storniert Käufe, die gegen ihre Regeln verstoßen.",
+    "Wer kein Ticket hat, kann trotzdem mitfeiern: Am 13. und 14. November lädt die „Lions Fan Fest“ von 11 bis 18 Uhr kostenlos auf den Odeonsplatz, mit Ex-Spielern, Cheerleadern und Maskottchen. Am Freitag legt ab 17 Uhr DJ Kevin Saunderson auf, am Samstag tritt Rapper Big Sean auf. Für den Zugang ist eine Voranmeldung nötig, garantiert ist er nicht. Der offizielle NFL-Shop in der Neuhauser Straße 47 öffnet vom 12. bis 16. November von 10 bis 20 Uhr, am Spieltag selbst bleibt er geschlossen. Am Stadion gibt es am Spieltag kein Rahmenprogramm, Fans ohne Karte sollen nicht anreisen.",
+    "Zur Anreise empfehlen Stadt und Arena die U6 bis Fröttmaning. Achtung: Am Spieltag ist die U6 zwischen Implerstraße und Goetheplatz unterbrochen, Pendelzug und Ersatzbusse schließen die Lücke. Parken kostet in P2 und P3 jeweils 20 Euro."
+   ],
+   "quellen": [
+    [
+     "muenchen.de",
+     "https://www.muenchen.de/veranstaltungen/sport/nfl-muenchen-2026"
+    ],
+    [
+     "ran.de",
+     "https://ran.joyn.de/sports/american-football/nfl/nfl-spiel-in-muenchen2026-detroit-lions-vs-new-england-patriots-wie-kommt-man-noch-an-karten-125957"
+    ],
+    [
+     "Allianz Arena",
+     "https://allianz-arena.com/de/news/2026/05/new-england-patriots-treffen-auf-detroit-lions-im-dritten-nfl-gastspiel-in-allianz-arena"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de",
+    "ran.joyn.de",
+    "allianz-arena.com",
+    "dazn.com",
+    "football-world.news"
+   ],
+   "karten": {
+    "vorverkauf": "beendet – ausverkauft; zurückgegebene Karten ggf. über das offizielle NFL-Portal",
+    "termin": "So, 15.11.2026, 15.30 Uhr",
+    "ort": "Allianz Arena",
+    "preise": "83,59–413,75 € · Kinder unter 16 ab 42,17 €",
+    "stelle": "NFL (nfl.com/Munich)",
+    "link": "https://www.muenchen.de/veranstaltungen/sport/nfl-muenchen-2026"
+   }
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "Tollwood",
+    "Feste",
+    "Zirkus"
+   ],
+   "kicker": "München · Tollwood",
+   "titel": "Tollwood-Winterfestival ab 24. November: Akrobatik im Grand Chapiteau, Silvester ohne Feuerwerk",
+   "deck": "Der Markt der Ideen auf der Theresienwiese ist frei zugänglich – für die drei Zirkus- und Tanzproduktionen im großen Zelt braucht man Karten.",
+   "text": [
+    "In gut zwei Wochen verwandelt sich die Theresienwiese wieder in den alternativen Weihnachtsmarkt der Stadt: Das Tollwood-Winterfestival läuft vom 24. November bis 23. Dezember 2026, am 31. Dezember folgt die Silvesterparty. Der Markt der Ideen öffnet werktags ab 14 Uhr, an Wochenenden ab 11 Uhr. Der Eintritt aufs Gelände ist frei, nach Angaben der Stadt sind mehr als 90 Prozent der Kulturveranstaltungen kostenlos.",
+    "Kostenpflichtig ist das Programm im Grand Chapiteau unter dem Motto „Made to move you“. Den Auftakt macht vom 25. bis 29. November die australische Zirkuskompanie Gravity & Other Myths mit „Ten Thousand Hours“: acht Akrobatinnen und Akrobaten und ein Musiker, 60 Minuten ohne Pause. Es folgen vom 2. bis 9. Dezember die Tanzproduktion „Triptych“ von Lewis Major Productions als Deutschlandpremiere und vom 12. bis 20. Dezember „Mad in Finland“ von Galapiat Cirque.",
+    "Für „Ten Thousand Hours“ kosten Karten regulär 39, 49 oder 59 Euro je nach Kategorie, ermäßigt 29 bis 49 Euro, Kinder zahlen 19,50 bis 29,50 Euro. Daneben gibt es ein Sozialticket für 19 Euro ohne Nachweis. Verkauft wird über die Tollwood-Hotline 089/38 38 50 0, über München Ticket samt Vorverkaufsstellen und an der Abendkasse am Zelt. Das Festival warnt ausdrücklich vor nicht autorisierten Wiederverkäufern.",
+    "Die Silvesterparty beginnt am 31. Dezember um 19 Uhr, Livemusik gibt es ab 19.30 Uhr, unter anderem mit Ezé, Botticelli Baby und Falschgeld. Ein Feuerwerk gibt es nicht, auch eigene Böller und Wunderkerzen sind verboten. Anreise am besten mit U4 oder U5 bis Theresienwiese."
+   ],
+   "quellen": [
+    [
+     "muenchen.de",
+     "https://www.muenchen.de/veranstaltungen/tollwood-winterfestival-2026"
+    ],
+    [
+     "Tollwood",
+     "https://www.tollwood.de/en/veranstaltungen/2026/ten-thousand-hours-2/"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de",
+    "tollwood.de",
+    "munich.travel",
+    "in-muenchen.de",
+    "regioactive.de",
+    "rausgegangen.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft (Frühbucherpreise endeten am 19.7.2026)",
+    "termin": "„Ten Thousand Hours“ 25.–29.11.2026 · „Triptych“ 2.–9.12. · „Mad in Finland“ 12.–20.12.",
+    "ort": "Grand Chapiteau, Tollwood auf der Theresienwiese",
+    "preise": "„Ten Thousand Hours“: 39–59 €, ermäßigt 29–49 €, Kinder 19,50–29,50 €, Sozialticket 19 €",
+    "stelle": "Tollwood-Hotline 089/38 38 50 0, München Ticket, Abendkasse",
+    "link": "https://www.tollwood.de/en/veranstaltungen/2026/ten-thousand-hours-2/"
+   }
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "Christkindlmarkt",
+    "Feste",
+    "Advent"
+   ],
+   "kicker": "München · Christkindlmarkt",
+   "titel": "Christkindlmarkt am Marienplatz öffnet am 20. November – ab Montag stehen die Buden",
+   "deck": "Oberbürgermeister Dominik Krause lässt den Christbaum aus Sauerlach um 17 Uhr anleuchten; 138 Stände sind dabei.",
+   "text": [
+    "Der Christbaum steht schon, jetzt folgen die Buden: Ab Montag, 9. November, bauen Mitarbeiter des städtischen Bauhofs rund um den Marienplatz die Stände für den Münchner Christkindlmarkt auf und montieren die Weihnachtsbeleuchtung. Ab 13. November dürfen die Händler ihre Stände einrichten, ab 14. November die Waren einräumen. Der Christbaum war am 3. November von der Berufsfeuerwehr aufgestellt worden; gespendet hat sie in diesem Jahr die Gemeinde Sauerlach im Landkreis München.",
+    "Eröffnet wird der älteste Weihnachtsmarkt der Stadt am Freitag, 20. November, um 17 Uhr, wenn Oberbürgermeister Dominik Krause den Baum anleuchten lässt und an die Öffentlichkeit übergibt. Der Markt mit 138 Waren- und Gastronomieständen läuft bis Heiligabend, dann bis 14 Uhr. Geöffnet ist montags bis samstags von 10 bis 21 Uhr, sonntags bis 20 Uhr. Am Totensonntag, 22. November, bleibt er geschlossen. Am 27. November und 12. Dezember dürfen einzelne Stände bis 22 Uhr öffnen.",
+    "Zum Programm gehören der Kripperlmarkt vor dem Alten Peter, Adventsmusik vom Rathausbalkon von Sonntag bis Donnerstag ab 17.15 Uhr, das Singen unterm Christbaum vor der Michaelskirche sowie der Krampuslauf am 13. Dezember. In der Himmelswerkstatt im Neuen Rathaus basteln Kinder von sechs bis zwölf Jahren vom 26. November bis 13. Dezember kostenlos; anmelden muss man sich beim Kindermuseum, frühestens zehn Tage vor dem Wunschtermin.",
+    "Abgebaut wird nach Weihnachten zügig: Die Buden verschwinden bis 8. Januar 2027, der Baum fällt am 11. Januar."
+   ],
+   "quellen": [
+    [
+     "Stadt München (Referat für Arbeit und Wirtschaft)",
+     "https://stadt.muenchen.de/dam/Home/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/presse/pm/PR-Meldungen-ChM/01_Auf-Abbau_Christkindlmarkt_2026.pdf"
+    ],
+    [
+     "muenchen.de",
+     "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz"
+    ]
+   ],
+   "berichterstattung": [
+    "stadt.muenchen.de",
+    "muenchen.de",
+    "munich.travel",
+    "festivalsindeutschland.de"
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "Konzerte",
+    "Ausverkauft"
+   ],
+   "kicker": "München · Konzerte",
+   "titel": "Ausverkauft und abgesagt: Was in der Münchner Konzertwoche noch geht",
+   "deck": "Vier Abende bis Donnerstag sind restlos vergriffen, vier Konzerte fallen aus – für Good Charlotte im Zenith und die Klassikreihen gibt es Karten.",
+   "text": [
+    "Wer in den kommenden Tagen spontan ins Konzert will, hat in München nicht überall Glück. Laut dem Stadtmagazin IN München sind vier Termine bereits ausverkauft: The High Kings am Sonntag, 8. November, um 19.30 Uhr im Strom, President am Montag im Backstage Werk sowie am Donnerstag, 12. November, Morpheuz ebenfalls im Backstage Werk und die brasilianische Sängerin Joyce Moreno im Werkraum der Kammerspiele.",
+    "Abgesagt sind nach derselben Übersicht Dominik Hartz (8.11., Feierwerk Hansa 39), Black Sabbitch (9.11., Backstage Halle), Undacava (10.11., Backstage Club) und Triple Riøt (12.11., Feierwerk Orangehouse). Wer Karten hat, sollte sich wegen der Erstattung an die Verkaufsstelle wenden.",
+    "Größere Bühnen bieten Alternativen: Am Mittwoch, 11. November, spielen Good Charlotte im Zenith, in der Olympiahalle stehen im November laut Olympiapark noch Placebo mit ihrer Tour zum 30-jährigen Bestehen, Papa Roach und die „90s Super Show“ im Kalender. Für Klassikfreunde listet MünchenMusik unter anderem den Mandolinisten Avi Avital am Sonntagvormittag im Prinzregententheater, das Luxembourg Philharmonic am Sonntagnachmittag in der Isarphilharmonie und am Montag den Bariton Andrè Schuen sowie das Utopia Orchestra.",
+    "Für die Konzerte im Olympiapark verweist der Betreiber auf seine Ticketseiten, für die MünchenMusik-Reihen läuft der Verkauf über den Veranstalter. Aktuelle Restkarten-Lagen ändern sich kurzfristig, ein Blick vor dem Losgehen lohnt sich."
+   ],
+   "quellen": [
+    [
+     "IN München",
+     "https://www.in-muenchen.de/konzerte"
+    ],
+    [
+     "Olympiapark München",
+     "https://www.olympiapark.de/de/veranstaltungen/konzerte"
+    ],
+    [
+     "MünchenMusik",
+     "https://www.muenchenmusik.de/mm/veranstaltungen"
+    ]
+   ],
+   "berichterstattung": [
+    "in-muenchen.de",
+    "olympiapark.de",
+    "muenchenmusik.de"
+   ],
+   "karten": {
+    "vorverkauf": "ausverkauft: The High Kings (8.11.), President (9.11.), Morpheuz und Joyce Moreno (12.11.) · übrige Konzerte im Verkauf",
+    "termin": "8.–12.11.2026",
+    "ort": "Strom, Backstage Werk, Kammerspiele, Zenith, Olympiahalle, Prinzregententheater, Isarphilharmonie",
+    "stelle": "IN München (Übersicht), Olympiapark, MünchenMusik",
+    "link": "https://www.in-muenchen.de/konzerte"
+   }
+  }
+ ],
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Bayern gewinnt 2:1 in Mainz – Neuer verletzt sich in seinem Rekordspiel",
+   "satz": "Kimmich und Lennart Karl trafen für den Tabellenführer; Manuel Neuer musste kurz vor der Pause nach einer Behandlung am rechten Fuß raus, Jonas Urbig ersetzte ihn.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/sport/fcbayern/neuer-im-rekordspiel-verletzt-bayern-siegt-in-mainz-art-1171610"
+  },
+  {
+   "titel": "Nach der LMU auch die TU München Ziel eines Hackerangriffs",
+   "satz": "Die Abendzeitung fasst zusammen, was über den Angriff auf die Technische Universität bisher bekannt ist.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/nach-lmu-auch-tum-opfer-eines-hackerangriffs-art-1171379"
+  },
+  {
+   "titel": "Haushaltskrise: Wo das Münchner Rathaus kürzt – und wo nicht",
+   "satz": "Die Stadt muss sparen; die Abendzeitung listet, welche Bereiche betroffen sind und welche verschont bleiben.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/haushaltskrise-wo-das-muenchner-rathaus-kuerzt-und-wo-doch-nicht-art-1171428"
+  },
+  {
+   "titel": "45.000 Euro pro Baum? Baumentscheid wirft Millionenfrage auf",
+   "satz": "Die Umsetzung des Münchner Baumentscheids könnte die Stadt teuer zu stehen kommen.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/45000-euro-fuer-einen-baum-muenchens-baumentscheid-sorgt-fuer-millionenfrage-art-1171519"
+  },
+  {
+   "titel": "Feuerwehreinsatz in Bogenhausen mit 60 Einsatzkräften",
+   "satz": "Die Münchner Feuerwehr rückte mit einem Großaufgebot von 60 Kräften in den Stadtteil Bogenhausen aus.",
+   "quelle": "Abendzeitung",
+   "url": "https://www.abendzeitung-muenchen.de/muenchen/feuerwehreinsatz-in-bogenhausen-60-einsatzkraefte-vor-ort-art-1171304"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-09T17:00",
+   "veranstaltung": "Anyma presents ÆDEN – Zusatzshow",
+   "termin": "So, 20.6.2027",
+   "ort": "Königsplatz",
+   "stelle": "offizielle Anyma-Registrierung (seit 5.11., 17 Uhr)",
+   "url": "https://www.djmag.de/einzelnews/anyma-muenchen-zusatzshow-2027-koenigsplatz",
+   "hinweis": "Presale (nur mit Registrierung)"
+  },
+  {
+   "start": "2026-11-10T17:00",
+   "veranstaltung": "Anyma presents ÆDEN – Zusatzshow",
+   "termin": "So, 20.6.2027",
+   "ort": "Königsplatz",
+   "stelle": "offizieller Ticketverkauf des Veranstalters",
+   "url": "https://www.djmag.de/einzelnews/anyma-muenchen-zusatzshow-2027-koenigsplatz",
+   "hinweis": "allgemeiner Verkauf (nur falls nach dem Presale Karten übrig sind)"
+  },
+  {
+   "start": "2026-11-11T16:00",
+   "veranstaltung": "Till Lindemann – World Tour 2027",
+   "termin": "Mo, 15.11.2027, 20 Uhr",
+   "ort": "Olympiahalle",
+   "stelle": "Olympiapark / Global Concerts",
+   "url": "https://www.pressure-magazine.de/news/till-lindemann-tour-2027-termine-tickets-280649/",
+   "hinweis": "allgemeiner Verkauf"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Museen",
+   "titel": "Haus der Kunst „Open Haus“",
+   "anbieter": "Haus der Kunst",
+   "angebot": "Am letzten Freitag im Monat ist der Eintritt von 16 bis 22 Uhr frei, im November also am 27.",
+   "wann": "Fr, 27.11.2026, 16–22 Uhr",
+   "buchen_bis": "2026-11-27",
+   "hinweis": "Termin aus der Regel „letzter Freitag im Monat“ abgeleitet; Übersicht von muenchen.de mit Stand 15.7.2026, am 8.11. erneut geprüft.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Lenbachhaus „extra+“ am ersten Donnerstag im Dezember",
+   "anbieter": "Lenbachhaus",
+   "angebot": "Freier Eintritt am Abend des ersten Donnerstags im Monat, in der Regel 18 bis 22 Uhr, mit wechselndem Programm; nächster Termin 3. Dezember.",
+   "wann": "Do, 3.12.2026, 18–22 Uhr",
+   "buchen_bis": "2026-12-03",
+   "hinweis": "Termin aus der Regel „erster Donnerstag im Monat“ abgeleitet (muenchen.de, Stand 15.7.2026, am 8.11. erneut geprüft). Laut muenchen.de nur „in der Regel“, vorher beim Haus prüfen; der Kunstbau bleibt 2026 geschlossen.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Villa Stuck „Friday Late“ im Dezember",
+   "anbieter": "Museum Villa Stuck",
+   "angebot": "Am ersten Freitag im Monat sind Eintritt und Abendprogramm von 18 bis 22 Uhr kostenlos, inklusive historischer Räume und aktueller Ausstellungen; nächster Termin 4. Dezember.",
+   "wann": "Fr, 4.12.2026, 18–22 Uhr",
+   "buchen_bis": "2026-12-04",
+   "hinweis": "Termin aus der Regel „erster Freitag im Monat“ abgeleitet; Übersicht von muenchen.de mit Stand 15.7.2026, am 8.11. erneut geprüft.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Kunsthalle „AfterworkKH“",
+   "anbieter": "Kunsthalle München",
+   "angebot": "Ausstellung bis 22 Uhr geöffnet; Studierende erhalten ab 18.30 Uhr zwei Tickets zum Preis von einem.",
+   "wann": "Mi, 18.11.2026, bis 22 Uhr",
+   "buchen_bis": "2026-11-18",
+   "hinweis": "Termin aus der Regel „dritter Mittwoch im Monat“ abgeleitet (muenchen.de, Stand 15.7.2026, am 8.11. geprüft). Gültiger Studierendenausweis nötig.",
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "1-Euro-Sonntag",
+   "anbieter": "Staatliche Museen",
+   "angebot": "1 € Eintritt in staatlichen Museen wie den Pinakotheken, unter 18 frei",
+   "wann": "jeden Sonntag",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Kunsthalle-Dienstag",
+   "anbieter": "Kunsthalle München",
+   "angebot": "Dienstags in der Regel halber Eintritt, außer Feiertage und Sondertermine",
+   "wann": "jeden Dienstag",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Eisstocksaison im Prinzregentenstadion",
+   "anbieter": "Stadtwerke München (SWM)",
+   "angebot": "Zwei Kunststoffbahnen mieten: 55 € pro Stunde (10–14 Uhr) bzw. 75 € pro Stunde (14–21 Uhr), inklusive 8 Eisstöcken und Daube.",
+   "wann": "ab Mo, 9.11.2026, täglich 10–21 Uhr",
+   "hinweis": "Mehrere Stunden buchbar, eigene Stöcke erlaubt; Eislauf, Bad und Sauna nicht inbegriffen. Am 24. und 31.12. nur 10–14 Uhr. Laut SWM-Mitteilung vom 29.10.2026; Buchung über swm.de/eisstock.",
+   "frueh": false,
+   "url": "https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/10-2026/start-eisstocksaison"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Weihnachts- und Wintermarkt am Flughafen: Eislaufen und Eisstock",
+   "anbieter": "Flughafen München",
+   "angebot": "Eislaufen 5 € pro Person für den ganzen Tag (Schleifen inklusive), Schlittschuhverleih 5 €, Eisstockbahn 25 € pro Stunde.",
+   "wann": "13.11.–27.12.2026, täglich 11–21 Uhr (24.12. bis 16 Uhr)",
+   "buchen_bis": "2026-12-27",
+   "hinweis": "Eisstockbahn und Glühweinhütte über die externe Buchungsplattform des Betreibers; Eisdisco mittwochs ab 18 Uhr am 25.11., 2.12., 9.12. und 16.12.",
+   "frueh": false,
+   "url": "https://www.munich-airport.com/weihnachts-und-wintermarkt-2026-14101844"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Weihnachtsfeiern und Weihnachtsmenü im Le Méridien",
+   "anbieter": "Le Méridien München",
+   "angebot": "Privater Weihnachtsmarkt für Gruppen von 20 bis 150 Gästen; Weihnachtsmenü im Restaurant IRMI vom 16.11. bis 25.12.; Weihnachtsbrunch am 25. und 26.12.",
+   "wann": "16.11.–25.12.2026",
+   "buchen_bis": "2026-12-25",
+   "hinweis": "Preise und Frühbucherkonditionen stehen nicht auf der Seite, Anfrage unter 089 24220.",
+   "frueh": false,
+   "url": "https://www.marriott.com/de/hotels/mucmd-le-meridien-munich/experiences/holidays/"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Tollwood-Silvesterparty auf der Theresienwiese",
+   "anbieter": "Tollwood",
+   "angebot": "Silvesterparty mit Livemusik auf mehreren Bühnen und Mitternachtswalzer: 38,50 €, ermäßigt 33 €, Sozialticket 18 €; das Ticket gilt als MVV-Fahrkarte.",
+   "wann": "Do, 31.12.2026, ab 19 Uhr",
+   "buchen_bis": "2026-12-31",
+   "hinweis": "Keine Frühbucherpreise genannt; Restkarten an Silvester nur nach Verfügbarkeit. Kein Einlass unter 6 Jahren, unter 18 nur mit Begleitung. Verkauf über Tollwood-Webshop, München Ticket und Gasteig HP8.",
+   "frueh": false,
+   "url": "https://www.tollwood.de/en/veranstaltungen/2026/new-years-eve-party-2026/"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Residenztheater: 10-Euro-Karten unter 30",
+   "anbieter": "Residenztheater",
+   "angebot": "Schüler, Studierende, Azubis und Freiwillige unter 30: 10 €, ab 14 Tage vorher",
+   "wann": "laufend",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://residenztheater.de/en/tickets/young-at-resi"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Gruppentickets",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Gruppen über zehn Personen: je fünf zahlende Gäste ein Freiticket, Saison 2026/27",
+   "wann": "alle Heimspiele",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://www.redbullmuenchen.de/en/news/gruppentickets-heimspiele-ehc-red-bull-muenchen-sap-garden"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Familienticket",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "Zwei Erwachsene, zwei Kinder, vier Getränke: 89 € BMW Park, 99 € SAP Garden",
+   "wann": "Heimspiele",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticket-angebote"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: REWE Familienblock",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "15 € (BMW Park) bzw. 20 € (SAP Garden) je Ticket, mit mindestens einem Kind",
+   "wann": "Heimspiele",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticket-angebote"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Buddy & Beer Package",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "4 Tickets plus 4 Getränkegutscheine: 109 € BMW Park, 119 € SAP Garden",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "frueh": false,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticket-angebote"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "The Pogues im Kesselhaus",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 20.11.",
+   "bis": "2026-11-12",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 8.11. geprüft); Teilnahmebedingungen der Stadtmagazin München GmbH: kostenlos, keine Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-pogues-20-november-kesselhaus.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "The Scratch in der Backstage Halle",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 23.11.",
+   "bis": "2026-11-16",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 8.11. geprüft); Teilnahmebedingungen: kostenlos, keine Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/the-scratch-23-november-backstage.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Access to Dance: „Mercury Rising“ im Schwere Reiter",
+   "anbieter": "IN München",
+   "gewinn": "2 × 2 Karten für den 22.11.",
+   "bis": "2026-11-18",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 8.11. geprüft); Teilnahmebedingungen: kostenlos, keine Kaufpflicht, keine Zahlungsdaten; in der Übersicht als Anzeige gekennzeichnet",
+   "url": "https://www.in-muenchen.de/verlosungen/access-to-dance-22-november-im-schwere-reiter.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Rat Pack – Swingin' At The Sands im Prinzregententheater",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für den 4.1.2027",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 8.11. geprüft); Teilnahmebedingungen: kostenlos, keine Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/rat-pack-swingin-at-the-sands-4-januar-prinzregententheater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Gregory Porter & Orchestra in der Isarphilharmonie",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für den 15.12. („Spirit of Christmas“)",
+   "bis": "2026-11-19",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 8.11. geprüft); Teilnahmebedingungen: kostenlos, keine Kaufpflicht, keine Zahlungsdaten",
+   "url": "https://www.in-muenchen.de/verlosungen/gregory-porter-and-orchestra-15-dezember-isarphilharmonie.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "VIP-Karten: Futsal Deutschland gegen Weltmeister Brasilien im SAP Garden",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 VIP-Karten für die SQAD Futsal Challenge am 9.12. mit Buffet, Getränken, VIP-Terrasse und Parkplatz",
+   "bis": "2026-11-30",
+   "teilnahme": "Online-Formular (Name, Adresse, E-Mail, Mobilnummer, Geburtsdatum), Teilnahmebedingungen und Datenschutz akzeptieren; Newsletter freiwillig. Ab 16, unter 18 mit Zustimmung der Eltern.",
+   "pruefung": "etabliertes Münchner Stadtmagazin auf eigener Seite (am 8.11. geprüft); Teilnahmebedingungen: kostenlos, keine Kaufpflicht, keine Zahlungsdaten; in der Übersicht als Anzeige gekennzeichnet",
+   "url": "https://www.in-muenchen.de/verlosungen/sqad-futsal-challenge-deutschland-vs-weltmeister-brasilien-am-9-dezember.html"
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom eigenen Urteil",
+   "zitat": "„Habe Mut, dich deines eigenen Verstandes zu bedienen!“",
+   "urheber": "Immanuel Kant, Beantwortung der Frage: Was ist Aufklärung? (1784)",
+   "text": "Kant nannte diesen Satz den Wahlspruch der Aufklärung. Er passt zu einem Sonntag, an dem man die Nachrichten der Woche in Ruhe sortieren und sich ein eigenes Bild machen kann – statt nur der lautesten Schlagzeile zu folgen."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Albtraum",
+   "text": "„Herr Doktor, ich träume jede Nacht von Aktienkursen.“ – „Und was stört Sie daran?“ – „Ich wache immer kurz vor dem Verkauf auf.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Am Glühweinstand",
+   "text": "Am Christkindlmarkt zahlt Anna für drei Tassen Glühwein und zwei Lebkuchenherzen 17 Euro. Ben zahlt am selben Stand für zwei Tassen Glühwein und drei Lebkuchenherzen 13 Euro. Was kostet eine Tasse Glühwein, was ein Lebkuchenherz?",
+   "loesung": "Glühwein 5 Euro, Lebkuchenherz 1 Euro. Addiert man beide Einkäufe, kosten fünf Tassen und fünf Herzen 30 Euro, also eine Tasse plus ein Herz 6 Euro. Die Differenz der Einkäufe zeigt: Eine Tasse kostet 4 Euro mehr als ein Herz."
+  }
+ ]
+}
