@@ -24,7 +24,13 @@ KI_AB = "2026-11-05"
 # Seit der Ausgabe vom 6. November 2026: Gute Nachrichten
 RUBRIK_GUT = {"gut": 10}
 GUT_AB = "2026-11-06"
-ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN, **RUBRIK_KI, **RUBRIK_GUT}
+# Seit der Ausgabe vom 14. November 2026: Wissenschaft (mit Vortrag des Tages) und Transfermarkt
+RUBRIK_WISS = {"wissenschaft": 5}
+WISS_AB = "2026-11-14"
+FUSS_AB = "2026-11-14"
+FUSS_MIN, FUSS_MAX = 1, 20
+FUSS_STATUS = ("fix", "verhandlung", "geruecht")
+ALLE_RUBRIKEN = {**RUBRIKEN_BASIS, **RUBRIKEN_NEU, **RUBRIK_MUENCHEN, **RUBRIK_KI, **RUBRIK_GUT, **RUBRIK_WISS, "fussball": None}
 ISO_START = re.compile(r"\d{4}-\d{2}-\d{2}(T\d{2}:\d{2})?$")
 MAX_WOERTER = 500
 
@@ -79,6 +85,8 @@ def pruefe(pfad: Path) -> list[str]:
         RUBRIKEN.update(RUBRIK_KI)
     if datum >= GUT_AB:
         RUBRIKEN.update(RUBRIK_GUT)
+    if datum >= WISS_AB:
+        RUBRIKEN.update(RUBRIK_WISS)
     zaehler = {r: 0 for r in ALLE_RUBRIKEN}
     for a in artikel:
         aid = a.get("id", "?")
@@ -100,10 +108,22 @@ def pruefe(pfad: Path) -> list[str]:
             fehler.append(f"{aid}: 'text' muss eine Liste von Absätzen sein")
         else:
             w = len(" ".join(text).split())
-            if w > MAX_WOERTER:
-                fehler.append(f"{aid}: {w} Wörter (max. {MAX_WOERTER})")
-            if w < 80:
-                fehler.append(f"{aid}: nur {w} Wörter, zu dünn")
+            if r == "fussball":
+                if len(text) != 1:
+                    fehler.append(f"{aid}: Transfer-Artikel haben genau einen Absatz (3 bis 5 Sätze)")
+                if not 35 <= w <= 140:
+                    fehler.append(f"{aid}: {w} Wörter, Transfer-Artikel brauchen 35 bis 140 (3 bis 5 Sätze)")
+            else:
+                if w > MAX_WOERTER:
+                    fehler.append(f"{aid}: {w} Wörter (max. {MAX_WOERTER})")
+                if w < 80:
+                    fehler.append(f"{aid}: nur {w} Wörter, zu dünn")
+        if r == "fussball":
+            if a.get("status") not in FUSS_STATUS:
+                fehler.append(f"{aid}: 'status' muss fix, verhandlung oder geruecht sein")
+            t = a.get("transfer")
+            if not isinstance(t, dict) or not t.get("spieler"):
+                fehler.append(f"{aid}: 'transfer' mit mindestens 'spieler' fehlt")
         quellen = a.get("quellen")
         if not isinstance(quellen, list) or not quellen:
             fehler.append(f"{aid}: keine Quellen")
@@ -116,6 +136,8 @@ def pruefe(pfad: Path) -> list[str]:
             if (pfad.parent.parent / "medien.json").exists() else {}
         for a in artikel:
             aid = a.get("id", "?")
+            if a.get("rubrik") == "fussball":
+                continue
             b = a.get("berichterstattung")
             if not isinstance(b, list) or not all(isinstance(x, str) and "." in x and " " not in x for x in b):
                 fehler.append(f"{aid}: 'berichterstattung' muss eine Liste von Domains sein")
@@ -126,6 +148,14 @@ def pruefe(pfad: Path) -> list[str]:
     for r, soll in RUBRIKEN.items():
         if zaehler[r] != soll:
             fehler.append(f"Rubrik {r}: {zaehler[r]} Artikel statt {soll}")
+    if datum >= FUSS_AB:
+        n = zaehler["fussball"]
+        if not FUSS_MIN <= n <= FUSS_MAX:
+            fehler.append(f"Rubrik fussball: {n} Artikel, erlaubt sind {FUSS_MIN} bis {FUSS_MAX}")
+        elif n < 3:
+            HINWEISE.append(f"Transfermarkt: nur {n} Meldung(en), wirklich nicht mehr los?")
+    if datum >= WISS_AB:
+        fehler += pruefe_vortrag(d.get("vortrag"), pfad, datum)
 
     fehler += pruefe_muenchen(d, artikel, datum)
 
@@ -142,6 +172,48 @@ def pruefe(pfad: Path) -> list[str]:
             if not f.get(k):
                 fehler.append(f"Feuilleton {f.get('art', '?')}: Feld '{k}' fehlt")
 
+    return fehler
+
+
+def pruefe_vortrag(v, pfad: Path, datum: str) -> list[str]:
+    if not isinstance(v, dict):
+        return ["'vortrag' (Vortrag des Tages) fehlt"]
+    fehler = []
+    for f in ("id", "fachgebiet", "titel", "einstieg"):
+        if not isinstance(v.get(f), str) or not v[f].strip():
+            fehler.append(f"Vortrag: Feld '{f}' fehlt")
+    if not isinstance(v.get("tags"), list) or not v["tags"]:
+        fehler.append("Vortrag: 'tags' fehlt")
+    text = v.get("text")
+    if not isinstance(text, list) or not 3 <= len(text) <= 5 or not all(isinstance(p, str) for p in text):
+        fehler.append("Vortrag: 'text' braucht 3 bis 5 Absätze")
+    else:
+        w = len(" ".join(text).split())
+        if not 250 <= w <= 450:
+            fehler.append(f"Vortrag: {w} Wörter, erlaubt sind 250 bis 450")
+    m = v.get("merksaetze")
+    if not isinstance(m, list) or len(m) != 3:
+        fehler.append("Vortrag: genau 3 'merksaetze'")
+    else:
+        for i, s in enumerate(m, 1):
+            if len(str(s).split()) > 20:
+                fehler.append(f"Vortrag: Merksatz {i} zu lang (max. 20 Wörter)")
+    b = v.get("begriffe")
+    if not isinstance(b, list) or not 2 <= len(b) <= 4 or not all(isinstance(x, list) and len(x) == 2 for x in b):
+        fehler.append("Vortrag: 'begriffe' braucht 2 bis 4 Paare [Begriff, Erklärung]")
+    q = v.get("quellen")
+    if not isinstance(q, list) or not q or not all(isinstance(x, list) and len(x) == 2 and _https(x[1]) for x in q):
+        fehler.append("Vortrag: 'quellen' als Liste von [Name, https-URL]")
+    titel = str(v.get("titel", "")).strip().lower()
+    for p in pfad.parent.glob("????-??-??.json"):
+        if p.stem >= datum:
+            continue
+        try:
+            alt = json.loads(p.read_text(encoding="utf-8")).get("vortrag") or {}
+        except Exception:  # noqa: BLE001
+            continue
+        if str(alt.get("titel", "")).strip().lower() == titel:
+            fehler.append(f"Vortrag: Thema „{v.get('titel')}“ gab es schon am {p.stem}")
     return fehler
 
 
