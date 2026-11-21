@@ -1,0 +1,2786 @@
+{
+ "datum": "2026-11-21",
+ "datumszeile": "Sonnabend, den 21. November 2026",
+ "redaktionsschluss": "6 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom Freitag, Bitcoin 4:50 Uhr MEZ",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 21. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "24.803",
+   "veraenderung": "−2,6 %",
+   "richtung": "down"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "6.910",
+   "veraenderung": "−3,7 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "22.618",
+   "veraenderung": "−5,3 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Brent",
+   "wert": "92,57 $",
+   "veraenderung": "+0,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.538 $",
+   "veraenderung": "−2,4 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "56.810 $",
+   "veraenderung": "−3,6 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,097",
+   "veraenderung": "±0,0 %",
+   "richtung": "flat"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,93 %",
+   "veraenderung": "−0,11",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland",
+    "Krieg",
+    "Diplomatie"
+   ],
+   "kicker": "Ukraine-Krieg · Angriffe und Diplomatie",
+   "titel": "Tote in Kiew und Lwiw, Botschaften beschädigt – und in Washington wird ein Nato-Beitritt gegen Land erwogen",
+   "deck": "Während Russland Brücken und Bahnhöfe angreift, sondieren Trumps Unterhändler laut „Wall Street Journal“ einen Tausch, der bisher als undenkbar galt.",
+   "text": [
+    "Russland hat die Ukraine erneut mit schweren nächtlichen Angriffen überzogen. Nach Angaben von Kiews Bürgermeister Vitali Klitschko kamen allein in der Hauptstadt acht Menschen ums Leben; Ziel waren unter anderem die Brücken über den Dnipro. Bei einem Angriff auf einen Bahnhof in Lwiw starben zwei weitere Menschen. Ministerpräsident Serhij Korezkyj meldete 28 Verletzte in neun Regionen, insgesamt wurden mindestens zehn Menschen getötet. Euronews berichtete zudem über Schäden an den Botschaften Österreichs und der Niederlande in Kiew sowie über einen Angriff auf Odessa mit vier Toten.",
+    "Parallel dazu wird über die Bedingungen eines Kriegsendes gerungen. Nach Informationen des „Wall Street Journal“ hat Jared Kushner in jüngsten Gesprächen eine Nato-Mitgliedschaft der Ukraine ins Spiel gebracht – für den Fall, dass Kiew Gebiete an Russland abtritt. Als Alternative sei eine eingefrorene Frontlinie mit Sicherheitsgarantien erörtert worden. Kushner hatte in Berlin erklärt, Moskau sei mit Garantien nach Art des Nato-Beistandsartikels einverstanden.",
+    "US-Präsident Donald Trump schaltete sich laut Axios selbst in das Treffen von Kushner und Steve Witkoff mit europäischen Spitzenpolitikern und Wolodymyr Selenskyj ein. Putin werde „dessen müde“, sagte Trump; er habe auch Chinas Staatschef Xi Jinping um Hilfe gebeten. In Europa stößt der Kurs auf Skepsis: Polens Regierungschef Donald Tusk reagierte auf Trumps Bezeichnung Putins als „mein Freund“ mit dem Satz „Gott, schütze uns vor solchen Freunden“. Finnlands Präsident Alexander Stubb sagte, er sei das „Europa-Bashing“ leid.",
+    "Auch die Ukraine greift weiter an: Nach Berichten traf sie die Krim-Brücke zum dritten Mal binnen einer Woche, Putin kündigte eine Antwort an. Zum Berliner Treffen der „Koalition der Willigen“ waren rund 40 Staaten gekommen."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ],
+    [
+     "Everything Briefing",
+     "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"
+    ],
+    [
+     "Euronews",
+     "https://de.euronews.com/video/2026/11/20/nachrichten-des-tages-20-november-2026-morgenausgabe"
+    ]
+   ],
+   "berichterstattung": [
+    "justsecurity.org",
+    "bbc.co.uk",
+    "wsj.com",
+    "axios.com",
+    "euronews.com",
+    "everythingbriefing.substack.com"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Großbritannien",
+    "EU",
+    "Diplomatie"
+   ],
+   "kicker": "Europa · Gipfel in Brüssel",
+   "titel": "Neustart nach dem Brexit: London und Brüssel öffnen jungen Menschen die Grenzen – mit einer Bedingung",
+   "deck": "Beim Gipfel in Brüssel vereinbaren Großbritannien und die EU ein Jugendmobilitätsprogramm, das an niedrigere Studiengebühren für Europäer geknüpft ist.",
+   "text": [
+    "Großbritannien und die Europäische Union haben sich nach Angaben der BBC auf ein Programm für junge Menschen verständigt, das jährlich bis zu 100.000 Teilnehmern erlauben soll, auf der jeweils anderen Seite zu reisen, zu arbeiten und zu studieren. Besiegelt werden sollte es beim Gipfel am Freitag in Brüssel. Für London saß Premierminister Andy Burnham am Tisch, für die EU Ratspräsident António Costa und Kommissionspräsidentin Ursula von der Leyen.",
+    "Die Vereinbarung ist an eine Bedingung geknüpft: Großbritannien soll die Studiengebühren für Europäer senken. Beide Seiten haben sechs Monate Zeit, sich auf diesen Punkt oder eine Alternative zu einigen. EU-Bürger zahlen an britischen Hochschulen bisher die Gebühren für internationale Studierende, laut Reuters typischerweise etwa das Dreifache des Satzes für Einheimische. Ein EU-Diplomat sagte, „Gleichbehandlung“ werde die Gebühren deutlich senken, wenn auch nicht unbedingt auf das Niveau für Briten.",
+    "Ein Entwurf der Gipfelerklärung, den Reuters vorab einsehen konnte, sah außerdem einen erleichterten Handel mit Agrar- und Lebensmitteln, die Verknüpfung der beiden Emissionshandelssysteme und einen britischen Beitritt zum Austauschprogramm Erasmus+ im Jahr 2027 vor. Der Entwurf hatte das Jugendprogramm für 18- bis 34-Jährige mit bis zu drei Jahren Aufenthalt beschrieben.",
+    "Großbritannien hatte die EU 2020 verlassen. Burnham, seit Juli im Amt, hatte im September gesagt, der Brexit habe „mehr geschadet als genützt“, und auch einen Wiedereintritt nicht ausgeschlossen. Rückgängig gemacht wird der Austritt mit dem Gipfel jedoch nicht."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ],
+    [
+     "Devdiscourse (Reuters)",
+     "https://www.devdiscourse.com/article/international/4001263-britain-eu-set-for-youth-mobility-deal-at-summit-student-fee-talks-continue"
+    ],
+    [
+     "news.de (dpa)",
+     "https://www.news.de/panorama/860203969/20-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-20-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+    ]
+   ],
+   "berichterstattung": [
+    "justsecurity.org",
+    "bbc.co.uk",
+    "reuters.com",
+    "devdiscourse.com",
+    "news.de",
+    "theboar.org"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "USA",
+    "Nahost",
+    "Krieg"
+   ],
+   "kicker": "Nahost · Iran-Krieg",
+   "titel": "Senat lehnt Ende des Iran-Kriegs ab – Trump will erst im neuen Jahr über weitere Angriffe entscheiden",
+   "deck": "Mit 51 zu 48 Stimmen scheitert die Kriegsvollmachten-Resolution; Israels Mossad-Chef drängt in Washington auf eine neue Luftoffensive.",
+   "text": [
+    "Der US-Senat hat eine Resolution abgelehnt, die Präsident Donald Trump verpflichtet hätte, den Krieg gegen Iran zu beenden oder die Zustimmung des Kongresses einzuholen. Die Vorlage scheiterte nach Angaben der „New York Times“ mit 51 zu 48 Stimmen, nachdem das Repräsentantenhaus sie im September gebilligt hatte.",
+    "Trump selbst will sich mit dem nächsten Schritt Zeit lassen. Er werde erst nach dem Jahreswechsel entscheiden, sagte er dem Portal Axios: „Ich überstürze keine Entscheidung.“ Zugleich wird berichtet, dass er eine Wiederaufnahme großangelegter Angriffe erwägt, weil Teheran seine Raketenbestände wieder aufbauen soll. Laut „Wall Street Journal“ warb Mossad-Chef Roman Gofman bei einem Besuch in den USA für eine neue, mehrtägige Luftoffensive und legte Geheimdienstmaterial zum iranischen Atomprogramm vor. Iran wies Vorwürfe, es plane Chemiewaffen, als „betrügerisch“ zurück. Das US-Außenministerium warnte amerikanische Staatsbürger in der Region vor Bedrohungen durch Iran und die Huthi.",
+    "Am Golf geht die Gewalt weiter: Nachdem eine Huthi-Rakete Riads höchsten Wolkenkratzer beschädigt hatte, griff die von Saudi-Arabien geführte Koalition nach Berichten 60 militärische Ziele der Huthi an. Im Irak rückten Sicherheitskräfte laut Reuters in Jurf al-Sakhar ein, eine Hochburg der proiranischen Miliz Kataib Hisbollah. Ministerpräsident Ali al-Zaidi hatte den Einsatz wegen mutmaßlichen Ölschmuggels angeordnet, was die Miliz bestreitet."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ],
+    [
+     "Everything Briefing",
+     "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"
+    ]
+   ],
+   "berichterstattung": [
+    "justsecurity.org",
+    "nytimes.com",
+    "axios.com",
+    "wsj.com",
+    "reuters.com",
+    "everythingbriefing.substack.com"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Estland",
+    "Russland",
+    "Polen",
+    "Sicherheit"
+   ],
+   "kicker": "Osteuropa · Sicherheit",
+   "titel": "Moskau spricht vom „neuen Eisernen Vorhang“: Estland macht die Grenze dicht, Polen meldet drei Flugobjekte",
+   "deck": "Nach einem mutmaßlich vom russischen Militärgeheimdienst gesteuerten Brandanschlag schließt Tallinn alle Übergänge; an der polnischen Grenze drangen offenbar Raketen und eine Drohne ein.",
+   "text": [
+    "Russland hat Estland vorgeworfen, mit der Schließung der gemeinsamen Grenze einen „neuen Eisernen Vorhang“ zu errichten. Außenamtssprecherin Maria Sacharowa drohte nach Angaben von Reuters mit einer Antwort. Estland will die Grenze für mindestens sechs Monate schließen; laut Meduza sollen alle drei noch geöffneten Übergänge – Narva, Koidula und Luhamaa – ab dem 1. Dezember dicht sein.",
+    "Auslöser war ein versuchter Brandanschlag auf den Drohnenhersteller Threod Systems in der Nacht zum 14. November. Acht Bewohner Lettlands wurden festgenommen; die estnischen Behörden machen den russischen Militärgeheimdienst GRU verantwortlich, der Kreml weist das zurück. „Russland muss verstehen, dass feindselige Handlungen gegen Estland Konsequenzen haben“, schrieb Außenminister Margus Tsahkna. Ministerpräsident Kristen Michal befürwortet eine unbefristete Schließung. Für Familien auf beiden Seiten wird der Weg weiter: Laut estnischer Polizei passierten in diesem Jahr 760.000 Menschen die Grenze, darunter 307.000 Russen.",
+    "Auch Polen meldete einen Zwischenfall. Verteidigungsminister Władysław Kosiniak-Kamysz sagte, drei Objekte seien in den polnischen Luftraum eingedrungen, Berichten zufolge zwei Raketen und eine Drohne. Die Armee untersucht den Vorfall nahe der ukrainischen Grenze. Polen bereitete zu diesem Zeitpunkt Übungen der „Koalition der Willigen“ vor."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+    ],
+    [
+     "Meduza",
+     "https://meduza.io/en/feature/2026/11/16/estonia-is-closing-its-border-with-russia-after-an-alleged-sabotage-attempt-and-preparing-to-move-government-services-to-the-cloud-in-case-of-invasion"
+    ]
+   ],
+   "berichterstattung": [
+    "justsecurity.org",
+    "reuters.com",
+    "aljazeera.com",
+    "meduza.io",
+    "internazionale.it",
+    "theprint.in",
+    "sbs.com.au"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Gesundheit",
+    "Afrika",
+    "Kongo"
+   ],
+   "kicker": "Afrika · Epidemie",
+   "titel": "Mehr als 5.300 Tote: Ebola-Ausbruch im Kongo ist laut Afrika-CDC weiter außer Kontrolle",
+   "deck": "Sechs Monate nach der Ausrufung des globalen Gesundheitsnotstands hat sich das Virus auf acht Provinzen ausgebreitet – der Ausbruch ist größer als der in Westafrika 2014.",
+   "text": [
+    "Der Ebola-Ausbruch in der Demokratischen Republik Kongo ist nach Einschätzung der afrikanischen Gesundheitsbehörde Africa CDC weiterhin nicht unter Kontrolle. Die Zahl der Toten ist auf mehr als 5.387 gestiegen, die der registrierten Fälle auf mehr als 11.042. Africa-CDC-Chef Jean Kaseya sagte, auch ein halbes Jahr nach der Ausrufung des internationalen Gesundheitsnotstands sei kein Ende in Sicht.",
+    "Etwa 70 Prozent der Fälle entfallen auf die Provinz Ituri im Nordosten des Landes. Das Virus hat inzwischen acht Provinzen erreicht, darunter Tshopo, Süd-Kivu, Bas-Uele, Süd-Ubangi und Nord-Ubangi. Die Weltgesundheitsorganisation hatte im Mai eine gesundheitliche Notlage von internationaler Tragweite erklärt.",
+    "Der Ausbruch hat damit die Epidemie in Westafrika von 2014 übertroffen."
+   ],
+   "quellen": [
+    [
+     "Everything Briefing",
+     "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"
+    ]
+   ],
+   "berichterstattung": [
+    "everythingbriefing.substack.com"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Kongress",
+    "Wahlen"
+   ],
+   "kicker": "Vereinigte Staaten · Nach der Zwischenwahl",
+   "titel": "257 Sitze für die Demokraten – Van Hollen fordert Schumer heraus, das Justizministerium gibt in Alaska auf",
+   "deck": "Zwei Wochen nach der Wahl sind sechs Rennen noch offen; im Senat beginnt der Kampf um die Führung der neuen Mehrheit.",
+   "text": [
+    "Zwei Wochen nach den Zwischenwahlen in den Vereinigten Staaten zeichnet sich eine breite demokratische Mehrheit im Repräsentantenhaus ab. Die Demokraten kommen auf 257 der 435 Sitze, die Republikaner auf 172; sechs Rennen sind noch zu knapp für eine Entscheidung. Die „Washington Post“ berichtet, es sei der größte Vorsprung der Demokraten bei den landesweit abgegebenen Stimmen für das Repräsentantenhaus seit der Watergate-Ära.",
+    "Im Senat beginnt der Machtkampf um die Führung der künftigen Mehrheit. Senator Chris Van Hollen fordert Chuck Schumer heraus und stellte mit Jeff Merkley und Tim Kaine Vorschläge für neue Geschäftsordnungsregeln vor; Elissa Slotkin unterstützt ihn. Die Republikanerin Lisa Murkowski schloss aus, sich im Januar der demokratischen Fraktion anzuschließen.",
+    "Das Justizministerium beantragte, seine Klage gegen die gewählte Senatorin Mary Peltola in Alaska für erledigt zu erklären – zwei Tage, nachdem das Rennen für sie entschieden worden war, wie die „New York Times“ berichtet. Den Sitz Alaskas im Repräsentantenhaus verteidigte der Republikaner Begich."
+   ],
+   "quellen": [
+    [
+     "Everything Briefing",
+     "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"
+    ],
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "everythingbriefing.substack.com",
+    "justsecurity.org",
+    "washingtonpost.com",
+    "nytimes.com"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Guyana",
+    "Venezuela",
+    "USA"
+   ],
+   "kicker": "Lateinamerika · Grenzstreit",
+   "titel": "Sollte Guyana Land an Venezuela abtreten? Ein Vorschlag aus Trumps Außenministerium sorgt für Unruhe",
+   "deck": "Der frühere Planungschef Jeremy Lewin soll Georgetown im September eine Abtretung von Gebieten nahegelegt haben – Washington beeilte sich, die Wogen zu glätten.",
+   "text": [
+    "Ein hochrangiger Beamter der Regierung von Donald Trump hat Guyana nach Informationen von Reuters nahegelegt, Gebiete an Venezuela abzutreten. Der frühere Leiter des Planungsstabs im US-Außenministerium, Jeremy Lewin, soll den Vorschlag im September gemacht haben. Die USA versicherten den guyanischen Regierungsvertretern später, ihre Grenzpolitik habe sich nicht geändert.",
+    "Im Mittelpunkt steht die von Venezuela beanspruchte Region Essequibo, die reich an Gold, Diamanten und Bauxit ist.",
+    "Der Bericht fällt in eine Phase der Annäherung zwischen Washington und Caracas. Verteidigungsminister Pete Hegseth war erst in dieser Woche in der venezolanischen Hauptstadt mit der amtierenden Staatschefin Delcy Rodríguez zusammengetroffen; beide Länder nahmen die militärische Zusammenarbeit wieder auf. Hegseth nannte den 3. Januar einen „Tag der Befreiung“ für Venezuela."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ],
+    [
+     "Everything Briefing",
+     "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "justsecurity.org",
+    "everythingbriefing.substack.com"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Deutschland",
+    "Gesellschaft",
+    "Proteste"
+   ],
+   "kicker": "Deutschland · Jugendproteste",
+   "titel": "„Gen Z regelt“: Junge Menschen gehen erneut in Dutzenden Städten auf die Straße",
+   "deck": "Knapp drei Wochen nach den ersten großen Kundgebungen ruft die Bewegung zu Aktionen in 73 Städten auf – gegen die Wehrpflicht und für mehr Geld für Schulen.",
+   "text": [
+    "Knapp drei Wochen nach den ersten großen Jugendprotesten in Deutschland haben junge Menschen am Freitag erneut zu Demonstrationen aufgerufen. Hinter den Aktionen steht die Gruppe „Gen Z regelt“, die nach eigenen Angaben rund 20.000 Anmeldungen für Kundgebungen in 73 Städten zählte.",
+    "Die Forderungen reichen von mehr Geld für Schulen, Suchthilfe und Psychotherapie über bezahlbare Lebenshaltungskosten bis zu konsequentem Klimaschutz. Ein zentrales Anliegen ist das Nein zur Wehrpflicht.",
+    "Am selben Tag kamen in Berlin Vertreter Deutschlands und der Ukraine zum jährlichen Deutsch-Ukrainischen Wirtschaftsforum zusammen, um über engere Zusammenarbeit in der Rüstungs- und Energiebranche zu sprechen. Erwartet wurden Bundeskanzler Friedrich Merz und Wirtschaftsministerin Katherina Reiche; die Delegation aus Kiew führte Ministerpräsident Serhij Korezkyj an. In Sachsen-Anhalt kündigte AfD-Politiker Ulrich Siegmund an, sich bereits am 8. Dezember im Landtag zur Wahl als Ministerpräsident zu stellen."
+   ],
+   "quellen": [
+    [
+     "news.de (dpa)",
+     "https://www.news.de/panorama/860203969/20-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-20-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+    ]
+   ],
+   "berichterstattung": [
+    "news.de"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Umwelt",
+    "USA",
+    "Ozeane"
+   ],
+   "kicker": "Vereinigte Staaten · Tiefseebergbau",
+   "titel": "Erstmals verpachten die USA Meeresboden für den Tiefseebergbau – 31,5 Millionen Acres vor Amerikanisch-Samoa",
+   "deck": "Für sechs Millionen Dollar darf ein Unternehmen zunächst kartieren; mehr als 45 Staaten fordern ein Verbot oder eine Pause.",
+   "text": [
+    "Die Vereinigten Staaten haben erstmals eine Pacht für den Tiefseebergbau vergeben. Die Behörde Marine Minerals Administration verpachtete nach Angaben der „New York Times“ 31,5 Millionen Acres Meeresboden vor Amerikanisch-Samoa an das Unternehmen Wetstone U.S. Ventures, für sechs Millionen Dollar.",
+    "Die Pacht erlaubt vorerst nur die Kartierung und vorbereitende Arbeiten, noch keinen Abbau.",
+    "International ist der Tiefseebergbau umstritten: Mehr als 45 Staaten haben sich für ein Verbot oder eine Pause ausgesprochen. Am selben Tag billigte der US-Senat parteiübergreifend ein Gesetz zur Beschleunigung von Genehmigungsverfahren, das Klagefristen begrenzt sowie Umfang und Dauer von Umweltprüfungen nach dem Clean Water Act und dem Umweltgesetz NEPA einschränkt. Kritiker sehen darin eine Schwächung des Umweltschutzes und der Rechte indigener Völker."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "justsecurity.org",
+    "nytimes.com",
+    "axios.com"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Großbritannien",
+    "Sicherheit",
+    "Cyberangriffe"
+   ],
+   "kicker": "Großbritannien · Sicherheit",
+   "titel": "Britischer General bestätigt offensive Cyberoperationen gegen Russland, China, Iran und Nordkorea",
+   "deck": "Zugleich müssen sich zwei Männer wegen eines Zwischenfalls auf dem Luftwaffenstützpunkt Fairford vor Gericht verantworten – mutmaßlich im Auftrag Irans.",
+   "text": [
+    "Großbritannien greift nach Angaben eines ranghohen Militärs aktiv in Computernetze gegnerischer Staaten ein. General Sir Rob Magowan sagte dem Sender Sky News, das Land führe offensive Cyberoperationen gegen Russland, China, Iran und Nordkorea durch.",
+    "Am selben Tag wurde bekannt, dass zwei Männer sich im November 2027 wegen eines Zwischenfalls auf dem Luftwaffenstützpunkt RAF Fairford vor Gericht verantworten müssen. Die Anklage wirft ihnen laut Reuters Verbindungen zu einem Mann namens „Ali“ vor, der im Auftrag Irans gehandelt haben soll. Teheran bestreitet jede Beteiligung. Premierminister Andy Burnham sagte, Iran sei wahrscheinlich beteiligt gewesen."
+   ],
+   "quellen": [
+    [
+     "Just Security",
+     "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "justsecurity.org",
+    "news.sky.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Übernahmen",
+    "Cybersicherheit"
+   ],
+   "kicker": "Cybersicherheit · Übernahmen",
+   "titel": "CrowdStrike verhandelt über den Kauf von Zscaler – es wäre einer der größten Deals der Branche",
+   "deck": "Nach Berichten von Bloomberg und Reuters springt die Zscaler-Aktie nachbörslich um mehr als 15 Prozent, CrowdStrike verliert rund 8 Prozent.",
+   "text": [
+    "Der Sicherheitssoftware-Konzern CrowdStrike spricht nach übereinstimmenden Medienberichten über eine Übernahme des Konkurrenten Zscaler. Bloomberg meldete am Freitagabend unter Berufung auf mit der Sache vertraute Personen, die Gespräche liefen und könnten bald zu einer Einigung führen. Reuters bestätigte die Verhandlungen kurz darauf mit Verweis auf zwei Insider. Beide Berichte betonen, dass ein Abschluss nicht sicher ist und die Gespräche noch scheitern können. Einen Kaufpreis nannten sie nicht; beide Unternehmen äußerten sich zunächst nicht.",
+    "Die Größenordnung ist dennoch beachtlich: CrowdStrike wird an der Börse mit rund 233 Milliarden Dollar bewertet, Zscaler mit etwa 32 bis 33,5 Milliarden Dollar. Ein zusammengeschlossenes Unternehmen käme laut dem Bloomberg-Bericht auf einen Marktwert von rund 265 Milliarden Dollar und wäre damit eine der größten Transaktionen in der Geschichte der Cybersicherheit. Zscaler ist auf Cloud-basierte Netzwerksicherheit spezialisiert, CrowdStrike vor allem auf den Schutz von Endgeräten; beide Firmen arbeiten bereits als Partner zusammen.",
+    "Die Anleger reagierten im nachbörslichen Handel deutlich. Die Zscaler-Aktie stieg um mehr als 15 Prozent, Reuters nannte sogar 17 Prozent, weil Investoren eine Übernahmeprämie einpreisen. CrowdStrike-Papiere fielen dagegen um rund 8 Prozent – offenbar aus Sorge vor einer Verwässerung und vor den Risiken der Integration. Zscaler hatte im laufenden Jahr zuvor 13 Prozent an Wert verloren.",
+    "Auch die Konkurrenz bewegte sich: Palo Alto Networks gab nachbörslich mehr als 3 Prozent nach, während Okta und Fortinet um 2 bis 3 Prozent zulegten."
+   ],
+   "quellen": [
+    [
+     "Reuters via Investing.com",
+     "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
+    ],
+    [
+     "Investing.com (Bloomberg-Bericht)",
+     "https://ca.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-4973207"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "cnbc.com"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Exportkontrollen",
+    "Chips",
+    "China",
+    "USA"
+   ],
+   "kicker": "Welthandel · Exportkontrollen",
+   "titel": "Neue US-Regel greift: TSMC und Samsung stoppen Teile ihrer Chiplieferungen nach China",
+   "deck": "Seit Donnerstag brauchen Auftragsfertiger mit US-Technik für chinesische Kunden eine Exportlizenz – betroffen sind auch Smartphone-Chips.",
+   "text": [
+    "Die beiden größten Auftragsfertiger der Chipindustrie, TSMC aus Taiwan und Samsung Electronics aus Südkorea, haben Lieferungen an bestimmte chinesische Kunden ausgesetzt. Das berichtete zuerst die „Financial Times“; koreanische und britische Medien griffen den Bericht am Freitag auf. Hintergrund ist eine Regel des US-Handelsministeriums, die das Bureau of Industry and Security am 16. November vorgestellt hat und die seit dem 19. November gilt.",
+    "Danach müssen Chiphersteller, die US-Technik in der Fertigung nutzen, für Aufträge chinesischer Kunden eine Exportlizenz beantragen. Gestrichen wurde eine Ausnahme, über die Foundries Chips bestimmter Entwickler ausliefern durften, wenn sie bescheinigten, dass diese nicht unter Exportkontrollen fallen. Auch der Umweg über Dritte – etwa über Verpackungs- und Testfirmen im Ausland – und der Hinweis auf zivile Verwendungen wie Smartphones reichen nicht mehr. Das Ministerium spricht von geschlossenen „Umleitungswegen“ für Hochleistungschips. Zugleich wird chinesischen Firmen verboten, im Ausland Rechenleistung starker KI-Chips zu mieten.",
+    "Betroffen sind laut den Berichten sowohl Prozessoren für Rechenzentren als auch Chips für Unterhaltungselektronik. Samsung beliefert unter anderem Baidus Rechenzentrumssparte Kunlun und den Tiktok-Konzern Bytedance, TSMC fertigt Smartphone-Chips für Xiaomi. Beide Konzerne wollen Lizenzen beantragen. In der Branche gilt eine Genehmigung für Smartphone-Chips als wahrscheinlich, das Verfahren dürfte die Produktion aber verzögern.",
+    "Die Verschärfung folgt auf eine Schmuggelaffäre um Nvidia-Chips, in der das US-Justizministerium gegen den Rechenzentrumsbetreiber Megaspeed ermittelt; das Unternehmen bestreitet Fehlverhalten. Tencent-Präsident Martin Lau sagte, die Regel werfe „alle in China zurück“."
+   ],
+   "quellen": [
+    [
+     "Seoul Economic Daily",
+     "https://en.sedaily.com/world/2026/11/20/tsmc-samsung-halt-some-chip-shipments-to-china-as-us-rules"
+    ],
+    [
+     "The Telegraph via Yahoo Finance",
+     "https://finance.yahoo.com/technology/ai/articles/chip-giants-suspend-shipments-china-142306424.html"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Konsumgüter",
+    "Stellenabbau"
+   ],
+   "kicker": "Unternehmen · Konsumgüter",
+   "titel": "Procter & Gamble will zehn Milliarden Dollar sparen – bis zu 30 Prozent der Jobs in Fabriken und Logistik fallen weg",
+   "deck": "Auf seinem Investorentag kündigt der Hersteller von Pampers und Ariel den nächsten großen Umbau an, diesmal in der Produktion.",
+   "text": [
+    "Der weltgrößte Konsumgüterkonzern Procter & Gamble plant einen tiefen Einschnitt in seiner Lieferkette. Auf dem Investorentag am Donnerstag kündigte das Unternehmen an, die Belegschaft in Produktion und Logistik einschließlich externer Vertragskräfte bis 2030 um 20 bis 30 Prozent zu verkleinern. Eine konkrete Zahl betroffener Stellen nannte P&G nicht. Produktionsvorstand Luc Reynaert stellte den Abbau als Teil einer stärker automatisierten Lieferkette vor.",
+    "Insgesamt will der Konzern in den Geschäftsjahren 2027 bis 2030 bis zu zehn Milliarden Dollar an Produktivitätsgewinnen heben, davon bis zu 1,8 Milliarden Dollar pro Jahr bei den Herstellungskosten. Finanzchef Andre Schulten sagte, das Geld solle vor allem reinvestiert werden, damit P&G schneller wachse als seine Märkte. Vorstandschef Shailesh Jejurikar verwies auf mehr Einsatz von KI für schnellere Entscheidungen und eine Datenbank mit zehn Millionen Verbraucherprofilen. Ein Analyst fragte, wie viel davon echte Effizienz sei und wie viel lediglich höhere Energie- und Frachtkosten ausgleiche.",
+    "Es ist bereits der zweite große Sparschritt in kurzer Zeit: Im Juni 2025 hatte P&G angekündigt, über zwei Jahre bis zu 7000 Stellen außerhalb der Produktion zu streichen, etwa 15 Prozent dieser Belegschaft. Die Prognose für das Geschäftsjahr 2027 bestätigte der Konzern: Der Umsatz soll um 2 bis 4 Prozent wachsen, organisch um 1 bis 3 Prozent. Höhere Rohstoffkosten belasten das Ergebnis je Aktie in diesem Jahr nach früheren Angaben mit rund 79 Cent.",
+    "Die Aktie schloss am Donnerstag 1,4 Prozent tiefer bei 167,85 Dollar, an einem insgesamt schwachen Börsentag."
+   ],
+   "quellen": [
+    [
+     "RTTNews",
+     "https://www.rttnews.com/3716658/p-g-plans-to-cut-up-to-30-product-supply-jobs-by-2030-confirms-fy27-outlook.aspx"
+    ],
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/investing/2026/11/20/procter-gamble-wants-10-billion-in-savings-and-fewer-factory-workers/"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Autoindustrie",
+    "USA",
+    "China"
+   ],
+   "kicker": "Autoindustrie · Handelspolitik",
+   "titel": "Washington will chinesische Autos verbannen – für Mercedes zeichnet sich ein Ausweg ab",
+   "deck": "Ein überparteilicher Gesetzentwurf soll BYD und Geely vom US-Markt fernhalten; Mercedes wäre wegen seiner chinesischen Großaktionäre zunächst mit betroffen gewesen.",
+   "text": [
+    "Im US-Kongress nähern sich Republikaner und Demokraten aus Autostaaten einer Einigung über ein Gesetz, das chinesische Hersteller wie BYD und Geely faktisch vom amerikanischen Markt ausschließen würde. Das berichtete Bloomberg am Freitag unter Berufung auf Beteiligte. Die Initiatoren, die Senatoren Bernie Moreno und Elissa Slotkin, wollen den Entwurf noch in der laufenden Sitzungsperiode und damit vor dem Zusammentreten des neuen Kongresses im Januar auf den Tisch von Präsident Trump bringen.",
+    "Für Mercedes-Benz ist das heikel. Rund 20 Prozent der Aktien liegen bei chinesischen Investoren: Der Staatskonzern BAIC hält 9,98 Prozent der Stimmrechte, Geely-Gründer Li Shufu über eine Beteiligungsgesellschaft 9,69 Prozent. Eine frühere Fassung, die bereits einen Senatsausschuss passiert hatte, hätte allen Herstellern mit mehr als 15 Prozent chinesischem Kapital den Verkauf vernetzter Autos untersagt – Mercedes wäre also darunter gefallen.",
+    "Die überarbeitete Fassung, die Moreno am Mittwoch Branchenvertretern vorstellte, soll nun Ausnahmen für passive Minderheitsbeteiligungen ohne Stimmrecht enthalten. Verhandelt wird auch, wie solche Anteile überprüft werden. Senatorin Katie Britt aus Alabama, wo Mercedes ein großes Werk betreibt, sagte, sie sei zuversichtlich, dass der Konzern im Bundesstaat weiter gedeihen könne, räumte aber ein, dass „einige Anpassungen“ nötig seien. Mercedes erklärte, man spreche mit allen Beteiligten, und verwies darauf, dass kein Aktionär mehr als 10 Prozent halte.",
+    "Schon heute halten Strafzölle von 100 Prozent auf chinesische Elektroautos und Software-Vorgaben des Handelsministeriums chinesische Marken weitgehend aus den USA fern. Die Mercedes-Aktie lag am Freitag zeitweise 1,3 Prozent im Minus."
+   ],
+   "quellen": [
+    [
+     "Just Auto",
+     "https://www.just-auto.com/news/us-nears-chinese-vehicle-ban/"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/stocks/article/congress-closes-in-on-chinese-car-ban-with-a-possible-way-out-for-mercedes-160342747.html"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Einzelhandel",
+    "Insolvenz"
+   ],
+   "kicker": "Handel · Insolvenz",
+   "titel": "Galeria schließt Häuser am Ku'damm, in Köln und am Münchner Rotkreuzplatz – 400 Beschäftigte betroffen",
+   "deck": "Die insolvente Warenhauskette gibt drei Standorte im Frühjahr 2027 auf, alle übrigen 83 Filialen stehen auf dem Prüfstand.",
+   "text": [
+    "Die Warenhauskette Galeria wird drei Filialen schließen: am Berliner Kurfürstendamm, an der Hohen Straße in Köln und am Rotkreuzplatz in München. Rund 400 Beschäftigte sind betroffen, teilte das Unternehmen am Freitag mit. Die Mietverträge enden nach Angaben des vorläufigen Insolvenzverwalters Frank Kebekus im Frühjahr 2027 endgültig. Mit den neuen Eigentümern der Immobilien in Berlin und München sei keine Einigung zustande gekommen, das Kölner Haus sei viel zu groß für einen wirtschaftlichen Betrieb.",
+    "Galeria hatte Anfang Oktober zum vierten Mal binnen sechs Jahren Insolvenz angemeldet und dabei auf die allgemeine Wirtschaftslage sowie hohe Mieten und Instandhaltungskosten verwiesen. Das Unternehmen beschäftigt insgesamt 11.250 Menschen. Die verbleibenden 83 Filialen laufen vorerst weiter, werden aber alle auf ihre Wirtschaftlichkeit geprüft. Nach Informationen der Deutschen Presse-Agentur könnte am Ende mehr als die Hälfte der Häuser schließen, sodass 30 bis 40 übrig blieben.",
+    "Parallel sucht Galeria einen Käufer. Die Frist für unverbindliche Angebote lief am Donnerstag ab; Berichten zufolge gibt es bis zu 20 Interessenten, deren Ernsthaftigkeit aber offen ist. Am Montag will Kebekus den Gläubigerausschuss informieren. Ziel ist ein neuer Eigentümer bis Ende Dezember. Bis dahin erhalten die Beschäftigten Insolvenzgeld, danach müssen Unternehmen oder Investor die Löhne zahlen. Fachleute schätzen den Investitionsbedarf auf mehr als zehn Millionen Euro je Haus.",
+    "Am Ku'damm plant der Eigentümer Stumpf Development ein Hochhaus und kleinere Geschäftsbauten. Der Berliner Handelsverband hält eine Zwischennutzung des 1971 von Wertheim eröffneten Gebäudes wegen des Investitionsstaus für kaum möglich."
+   ],
+   "quellen": [
+    [
+     "Tagesspiegel",
+     "https://www.tagesspiegel.de/berlin/bezirke/charlottenburg-wilmersdorf/einzelhandel-galeria-schliesst-drei-filialen--400-beschaftigte-betroffen-16306006.html"
+    ],
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/politik/deutschland/einzelhandel-galeria-schliesst-drei-filialen-400-beschaeftigte-betroffen/100271525.html"
+    ],
+    [
+     "t-online",
+     "https://www.t-online.de/finanzen/aktuelles/id_101538448/galeria-schliesst-drei-filialen-400-beschaeftigte-betroffen.html"
+    ]
+   ],
+   "berichterstattung": [
+    "tagesspiegel.de",
+    "handelsblatt.com",
+    "t-online.de"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Post"
+   ],
+   "kicker": "Post · Regulierung",
+   "titel": "Rekordspielraum für die Post: Der Standardbrief soll 2027 1,15 Euro kosten",
+   "deck": "Die Bundesnetzagentur erlaubt Preiserhöhungen von rund 20,4 Prozent für 2027 und 2028 – so viel wie nie zuvor.",
+   "text": [
+    "Briefeschreiben wird deutlich teurer. Die Bundesnetzagentur hat am Freitag in Bonn den Preiserhöhungsspielraum für die Deutsche Post endgültig festgelegt: Über alle für 2027 und 2028 erwarteten Briefsendungen hinweg dürfen die Preise um rund 20,4 Prozent steigen. Es ist der größte Spielraum in der Geschichte des Briefportos. Der bisherige Höchstwert lag 2019 bei 10,6 Prozent, 2025 waren es rund 10,5 Prozent, 2022 nur 4,6 Prozent.",
+    "Die Post plant, den Standardbrief um 20 Cent auf 1,15 Euro zu verteuern. Auch Postkarten sowie Kompakt-, Groß- und Maxibriefe sollen mehr kosten. Festsetzen kann die Post die Preise aber nicht allein: Sie muss die Tarife für jede Sendungsart beantragen, die Netzagentur muss sie freigeben. Das Unternehmen rechnet mit einer Genehmigung zum 1. Januar 2027. 2012 hatte ein Standardbrief noch 55 Cent gekostet.",
+    "Die Behörde begründet den Schritt mit steigenden Kosten und sinkenden Mengen, weil E-Mail und Messenger den Brief verdrängen. Im Entwurf vom Oktober hatte Behördenchef Klaus Müller die stark abnehmenden Briefmengen als wesentlichen Grund genannt: Sie fielen von 16,9 Milliarden Sendungen im Jahr 2005 auf rund 9,4 Milliarden im Jahr 2025. Zugleich muss die Post Briefkästen, Filialen und Zusteller vorhalten. Ein Sprecher der Post sagte, die Entscheidung berücksichtige die gestiegenen Kosten und die sinkenden Mengen.",
+    "Für Privatkunden ist der Effekt spürbar, für die Post zählen vor allem Geschäftskunden und Behörden: Auf sie entfallen nach früheren Angaben rund 85 Prozent des Briefgeschäfts."
+   ],
+   "quellen": [
+    [
+     "ad-hoc-news (dpa)",
+     "https://www.ad-hoc-news.de/wirtschaft/briefporto-steigt-2027-um-20-4-prozent-auf-1-15-euro/70539973"
+    ],
+    [
+     "boerse.de (dpa-AFX)",
+     "https://www.boerse.de/nachrichten/Behoerde-erlaubt-deutlich-hoeheres-Briefporto/38730976"
+    ],
+    [
+     "ZDFheute (Entwurf vom Oktober)",
+     "https://www.zdfheute.de/wirtschaft/unternehmen/post-briefe-porto-preis-erhoehung-bundesnetzagentur-100.html"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Quartalszahlen",
+    "Einzelhandel"
+   ],
+   "kicker": "Vereinigte Staaten · Modehandel",
+   "titel": "Gap senkt die Jahresziele – und die Aktie steigt um 17 Prozent",
+   "deck": "Die Kernmarke Gap wächst zweistellig, Athleta bricht ein und bekommt eine neue Chefin; Ross Stores enttäuscht mit dem Ausblick.",
+   "text": [
+    "Der US-Modekonzern Gap hat im dritten Quartal mehr verdient als erwartet, aber seine Jahresprognose gekappt. Der Umsatz stieg in den drei Monaten bis Ende Oktober um 2 Prozent auf 4,0 Milliarden Dollar und lag damit knapp unter den Schätzungen von 4,02 Milliarden. Die vergleichbaren Umsätze blieben stabil. Bereinigt verdiente Gap 82 Cent je Aktie, Analysten hatten 78 Cent erwartet. Der Nettogewinn lag bei 311 Millionen Dollar.",
+    "Die Marken entwickelten sich sehr unterschiedlich. Die Kernmarke Gap steigerte ihren Umsatz um 11 Prozent, flächenbereinigt um 9 Prozent – das zwölfte Plusquartal in Folge. Old Navy wuchs um 1 Prozent, Banana Republic verlor 3 Prozent. Die Sportmarke Athleta brach um 14 Prozent auf 220 Millionen Dollar ein; sie wird ab dem 14. Dezember von Ashley Kechter geführt, bislang Präsidentin beim Sportmodehersteller Vuori. Rückerstattungen früher gezahlter Zölle entlasteten die Kosten seit Jahresbeginn um 420 Millionen Dollar.",
+    "Für das Gesamtjahr erwartet Gap nun einen etwa stagnierenden Umsatz statt eines Plus von 1 bis 1,5 Prozent und einen bereinigten Gewinn je Aktie von 2,29 bis 2,34 Dollar statt 2,35 bis 2,45 Dollar. Anleger störten sich daran nicht: Die Aktie, die seit Jahresbeginn 27 Prozent verloren hatte, stieg am Freitag um rund 17 Prozent, den Daten von Bloomberg zufolge der beste Tag seit Jahren.",
+    "Weniger gut kam der Billiganbieter Ross Stores an. Er übertraf zwar mit 1,91 Dollar je Aktie die Gewinnerwartungen, hielt aber an einer Prognose für die vergleichbaren Umsätze fest, die unter den Markterwartungen liegt. Bloomberg verwies auf einen schwächeren Gewinnausblick wegen steigender Treibstoffkosten. Die Aktie fiel deutlich."
+   ],
+   "quellen": [
+    [
+     "Gap Inc.",
+     "https://www.gapinc.com/en-us/articles/2026/11/gap-inc-reports-third-quarter-fiscal-2026-results"
+    ],
+    [
+     "Investing.com",
+     "https://ca.investing.com/news/stock-market-news/gap-q3-fy26-slides-profit-beats-offset-by-flat-sales-mixed-brands-93CH-4971007"
+    ],
+    [
+     "TipRanks",
+     "https://www.tipranks.com/news/gap-stock-gap-soars-17-after-earnings-and-appointment-of-new-athleta-ceo"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Frankreich",
+    "Quartalszahlen",
+    "Videospiele"
+   ],
+   "kicker": "Unternehmen · Videospiele",
+   "titel": "Ubisoft verfehlt die Erwartungen – die Aktie bricht um mehr als 11 Prozent ein",
+   "deck": "Trotz eines erfolgreichen Assassin's-Creed-Titels schrumpfen die Buchungen, der Verlust wächst und rund 1100 Stellen sind weg.",
+   "text": [
+    "Der französische Spielehersteller Ubisoft steckt weiter tief in der Krise. Im ersten Halbjahr des Geschäftsjahres 2026/27 bis Ende September sanken die Nettobuchungen, die wichtigste Kennzahl der Branche, um 16,5 Prozent auf 644,7 Millionen Euro. Der Umsatz stieg zwar um 2,4 Prozent auf 673,6 Millionen Euro, doch operativ rutschte Ubisoft tief in die roten Zahlen: Bereinigt stand ein Verlust von 155,9 Millionen Euro, nach einem Gewinn von 27,1 Millionen Euro ein Jahr zuvor. Der bereinigte Nettoverlust wuchs auf 248,6 Millionen Euro.",
+    "Im zweiten Quartal lagen die Buchungen mit 389 Millionen Euro über dem eigenen Ziel, getragen von „Assassin's Creed Black Flag Resynced“. Für das wichtige Weihnachtsquartal stellt Ubisoft aber nur rund 250 Millionen Euro in Aussicht und verweist auf weniger Neuerscheinungen und ein hart umkämpftes Feiertagsgeschäft. An der Pariser Börse brach die Aktie am Freitag um mehr als 11 Prozent ein.",
+    "Auch die Finanzen geben Analysten Anlass zur Sorge. Der freie Mittelabfluss lag im Halbjahr bei 338 Millionen Euro. Anleihegläubiger ließen sich eine Wandelanleihe über 453 Millionen Euro vorzeitig auszahlen, im November 2027 wird eine weitere Anleihe über 675 Millionen Euro fällig. Ende September verfügte Ubisoft über 1,03 Milliarden Euro an Barmitteln; Details zu einem zweiteiligen Refinanzierungsplan nannte der Konzern nicht.",
+    "Beim Sparen kommt Ubisoft voran: Die Fixkosten sanken um 6 Prozent, die Belegschaft schrumpfte um rund 1100 Menschen. Die Jahresziele mit einem Rückgang der Buchungen um 7 bis 9 Prozent bestätigte das Management; erst 2027/28 sollen operatives Ergebnis und freier Mittelzufluss wieder positiv sein."
+   ],
+   "quellen": [
+    [
+     "BFM Bourse",
+     "https://www.tradingsat.com/ubisoft-entertain-FR0000054470/actualites/ubisoft-entertain-ubisoft-plonge-les-tensions-financieres-inquietent-les-analystes-1174156.html"
+    ],
+    [
+     "Reuters via Marketscreener",
+     "https://www.marketscreener.com/news/european-stocks-set-for-biggest-weekly-loss-since-march-ai-shares-weigh-ce785ed3db8df125"
+    ],
+    [
+     "Ubisoft (Mitteilung)",
+     "https://www.globenewswire.com/news-release/2026/11/19/3406965/0/fr/ubisoft-annonce-ses-r%C3%A9sultats-pour-le-premier-semestre-2026-27.html"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Rüstung",
+    "Frankreich"
+   ],
+   "kicker": "Rüstung · Großauftrag",
+   "titel": "Frankreich bestellt mehr als 70.000 weitere Sturmgewehre bei Heckler & Koch",
+   "deck": "Der Auftrag aus Paris läuft über zehn Jahre und baut auf den rund 100.000 Gewehren auf, die der Hersteller aus Oberndorf bereits geliefert hat.",
+   "text": [
+    "Der Waffenhersteller Heckler & Koch aus dem baden-württembergischen Oberndorf hat einen weiteren Großauftrag aus Frankreich erhalten. Die französische Rüstungsbeschaffungsbehörde DGA bestellte mehr als 70.000 Sturmgewehre samt Zubehör, die binnen zehn Jahren geliefert werden sollen. Das französische Verteidigungsministerium hatte die Bestellung am 18. November bekannt gemacht, das Unternehmen bestätigte sie am Freitag. Finanzielle Details nannte Heckler & Koch nicht. Nach Angaben des Fachportals Army Recognition handelt es sich um 72.000 Gewehre vom Typ HK416F.",
+    "Paris hatte 2016 entschieden, das in Frankreich gefertigte Famas-Gewehr durch Waffen von Heckler & Koch zu ersetzen. Seit Beginn der Lieferungen 2017 hat der Hersteller rund 100.000 Gewehre an die französischen Streitkräfte geliefert. Das neue Modell ist nach Firmenangaben leichter und ergonomischer als die bisherige Version.",
+    "Für das Unternehmen läuft es derzeit gut. Im vergangenen Jahr steigerte Heckler & Koch den Umsatz um 14,4 Prozent auf den Rekordwert von 393 Millionen Euro, der Gewinn wuchs um ein Viertel auf 39,5 Millionen Euro. Größter Kunde ist die Bundeswehr, die mehr als 250.000 Gewehre und andere Waffen bestellt hat; auch Lettland und Norwegen gehören zu den Abnehmern.",
+    "Im Wettbewerb um Militäraufträge trifft Heckler & Koch unter anderem auf Beretta aus Italien, Colt aus den USA, das zur tschechischen CZ-Gruppe gehört, Haenel aus Thüringen und Sig Sauer."
+   ],
+   "quellen": [
+    [
+     "t-online (dpa)",
+     "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101538510/frankreich-zehntausende-sturmgewehre-von-deutscher-firma-heckler-koch.html"
+    ],
+    [
+     "Army Recognition",
+     "https://www.armyrecognition.com/news/army-news/2026/france-orders-72-000-new-heckler-koch-hk416f-assault-rifles-with-suppressors-and-optical-sights"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Pharma",
+    "Regulierung"
+   ],
+   "kicker": "Unternehmen · Bilanzkontrolle",
+   "titel": "Bafin beanstandet Dermapharm-Abschluss: 70-Millionen-Darlehen an die Mutter nicht offengelegt",
+   "deck": "Die Finanzaufsicht findet zwei Fehler im Konzernabschluss 2025 des Arzneimittelherstellers.",
+   "text": [
+    "Die Finanzaufsicht Bafin hat den Konzernabschluss 2025 des Arzneimittelherstellers Dermapharm als fehlerhaft beanstandet. Das geht aus einer Bekanntmachung vom Freitag hervor. Die Prüfung hatte im Sommer begonnen.",
+    "Der erste Fehler betrifft die Angaben zu Geschäften mit nahestehenden Unternehmen im Konzernanhang. Die Transaktionen mit dem Mutterunternehmen stiegen von rund 7,0 Millionen Euro im Geschäftsjahr 2024 auf etwa 70,8 Millionen Euro im Jahr 2025. Dermapharm habe nicht angegeben, dass dieser Sprung auf ein Darlehen über 70,0 Millionen Euro an die Muttergesellschaft zurückging, stellte die Bafin fest.",
+    "Der zweite Fehler steckt in der Bilanz: Für eine Forderung über 63,2 Millionen Euro einschließlich Zinsen bildete Dermapharm keine Wertberichtigung für erwartete Kreditverluste. Die Aufsicht beziffert die zu erwartenden Verluste auf mindestens 1,9 Millionen Euro. Zu möglichen weiteren Konsequenzen machten die Berichte keine Angaben; eine Stellungnahme des Unternehmens wurde zunächst nicht bekannt.",
+    "Mit der Rüge rücken vor allem die Geschäfte zwischen Dermapharm und der eigenen Muttergesellschaft in den Blick. Den Namen der Muttergesellschaft, mögliche Sanktionen oder Folgen für die ausgewiesenen Ergebnisse nannten die Berichte nicht. Börsenberichte stellten die Aktie am Freitag unter dem Stichwort „Aktie im Blick“ in den Fokus der Anleger."
+   ],
+   "quellen": [
+    [
+     "finanzen.net (dpa-AFX)",
+     "https://www.finanzen.net/nachricht/aktien/bafin-beanstandet-abschluss-dermapharm-aktie-im-fokus-bafin-beanstandet-den-konzernabschluss-2025-als-fehlerhaft-16077758"
+    ],
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/unternehmen-branchen/bafin-beanstandet-konzernabschluss-von-dermapharm"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "USA",
+    "Aktien"
+   ],
+   "kicker": "Aktienmärkte · Wall Street",
+   "titel": "Nasdaq bricht um 5,3 Prozent ein – der S&P 500 rutscht in eine Korrektur",
+   "deck": "Der Ausverkauf bei KI- und Chipwerten beschert den US-Börsen die schlimmste Woche seit mehr als eineinhalb Jahren; Nvidia verliert an einem Tag fast 500 Milliarden Dollar Börsenwert.",
+   "text": [
+    "Die Talfahrt an der Wall Street hat sich am Freitag dramatisch beschleunigt. Der S&P 500 verlor 3,7 Prozent oder 265 Punkte und schloss bei 6.910 Punkten. Damit liegt der breite Index mehr als zehn Prozent unter seinem Rekordhoch vom 6. Oktober und befindet sich in einer Korrektur, zum ersten Mal seit März 2025. Es war der siebte Verlusttag in Folge, die längste Serie seit Beginn der Pandemie 2020. Der technologielastige Nasdaq Composite brach um 5,3 Prozent auf 22.618 Punkte ein und liegt nun auch seit Jahresbeginn im Minus. Der Dow Jones gab 1,9 Prozent auf 48.147 Punkte nach.",
+    "Auf Wochensicht summieren sich die Verluste auf 8,6 Prozent beim S&P 500, 10 Prozent beim Nasdaq und 8 Prozent beim Dow. Laut AP ist es für den S&P 500 die schlechteste Woche seit April 2025. Der Halbleiterindex der Börse Philadelphia stürzte am Freitag allein um 10,7 Prozent ab.",
+    "Im Zentrum stand erneut Nvidia. Die Aktie schloss 13,8 Prozent tiefer, es war das neunte Minus in zehn Handelstagen. Reuters hatte unter Berufung auf zwei eingeweihte Personen berichtet, dass die Börsenaufsicht SEC mögliche Bilanzierungsfragen bei dem Chipkonzern prüft; die SEC äußerte sich nicht. Nach Berechnungen des Portals Motley Fool verlor Nvidia an einem einzigen Tag rund 491 Milliarden Dollar an Marktwert. AMD sackte um 13,3 Prozent ab, Micron um 13,9 Prozent, Broadcom um 12,1 Prozent – Letzteres nach einem Bericht, Google kürze seine Pläne für KI-Chips des Herstellers.",
+    "Als Gründe nennen Händler Zweifel, ob die enormen Bewertungen und Investitionen im KI-Sektor gerechtfertigt sind, Sorgen über einen langsameren Bau von Rechenzentren sowie strengere Exportregeln für Chips. „Die Vorstellung, dass KI unbegrenzt Geld ausgeben und den Aktienmarkt stützen kann“, gehe zu Ende, sagte Baird-Stratege Michael Antonelli; das Ende der seit Oktober 2022 laufenden Hausse sehe er darin aber nicht. Abseits der Technologie stiegen viele Werte, General Mills etwa gewann 3,7 Prozent."
+   ],
+   "quellen": [
+    [
+     "AP via WISH-TV",
+     "https://www.wishtv.com/news/business/ai-stock-sell-off-sends-sp-500-into-correction-drags-nasdaq-into-the-red/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+    ],
+    [
+     "The Motley Fool",
+     "https://fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting"
+    ]
+   ],
+   "berichterstattung": [
+    "wishtv.com",
+    "cbsnews.com",
+    "fool.com",
+    "mymotherlode.com",
+    "washingtonpost.com",
+    "lanacion.com.ar",
+    "yakimaherald.com",
+    "foxbusiness.com",
+    "aol.com",
+    "nbcnews.com",
+    "finance.yahoo.com",
+    "tradingview.com",
+    "finance.biggo.com",
+    "english.gujaratsamachar.com",
+    "world-today-news.com",
+    "memesita.com",
+    "kucoin.com",
+    "247wallst.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Dax",
+    "Aktien"
+   ],
+   "kicker": "Aktienmärkte · Frankfurt",
+   "titel": "Sechster Verlusttag in Folge: Der Dax fällt unter 25.000 Punkte und verliert mehr als 7 Prozent in einer Woche",
+   "deck": "Eine Woche nach dem Rekord bei 27.001 Punkten reißt der KI-Ausverkauf auch den deutschen Leitindex unter seine 200-Tage-Linie; Infineon und Siemens Energy brechen ein.",
+   "text": [
+    "Der Dax hat am Freitag die Marke von 25.000 Punkten deutlich unterschritten. Der deutsche Leitindex schloss 2,6 Prozent tiefer bei 24.802,78 Punkten und damit nahe dem Tagestief. Es war der sechste Verlusttag in Folge. Auf Wochensicht steht ein Minus von mehr als 7 Prozent, nachdem der Index erst am Donnerstag der Vorwoche mit 27.001 Punkten ein Rekordhoch erreicht hatte. Zudem fiel der Dax unter seine 200-Tage-Linie, die viele Anleger als Trendsignal beachten. Das Jahresplus, zeitweise rund 10 Prozent, ist laut Börsen-Zeitung auf unter 2 Prozent geschmolzen.",
+    "Auch die Nebenwerte litten: Der MDax verlor 2,6 Prozent auf 28.740 Punkte, der Euro Stoxx 50 rund 2,5 bis 2,8 Prozent. Belastet wurde der Markt vom weltweiten Ausverkauf bei Technologie- und Chipwerten, von der Unsicherheit über den Ausbau von US-Rechenzentren und möglichen Folgen der Krise bei Nvidia. Hinzu kamen Zinssorgen und ein starker Dollar. Die Landesbank Baden-Württemberg beschrieb die Stimmung als „stark angeknackst“.",
+    "Unter den Einzelwerten traf es Halbleiter- und Technologiewerte am härtesten. Infineon verlor laut Kursliste mehr als 8 Prozent, Siemens Energy mehr als 6, Siemens rund 5,5 und Rheinmetall knapp 5 Prozent. Scout24 sackte um gut 8 Prozent ab, nachdem JPMorgan-Analyst Marcus Diebel seine Kaufempfehlung gestrichen hatte; er sieht durch KI-Konkurrenz Risiken für die margenstarken Werbeerlöse. Im MDax fielen Aixtron, Jenoptik und Suss Microtec um 9,5 bis 11,8 Prozent. Der niederländische Chipausrüster ASML büßte mehr als 8 Prozent ein.",
+    "Gefragt waren dagegen defensive Werte: Bayer und Hannover Rück legten jeweils gut 1 Prozent zu. Im MDax stemmten sich Freenet und Auto1 nach Kaufempfehlungen von Barclays und Berenberg gegen den Trend."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung (dpa-AFX)",
+     "https://www.boersen-zeitung.de/kapitalmaerkte/dax-schliesst-unter-25-000-punkten"
+    ],
+    [
+     "Der Aktionär",
+     "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/dax-sechster-verlusttag-in-folge-leitindex-faellt-unter-25000-punkte-20447828.html"
+    ],
+    [
+     "Ad-hoc-news",
+     "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-faellt-am-freitag-um-2-60-prozent-unter-25-000-punkte/70540897"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de",
+    "deraktionaer.de",
+    "ad-hoc-news.de",
+    "brn-ag.de",
+    "markteinblicke.de",
+    "aktiencheck.de",
+    "news.de",
+    "live.deutsche-boerse.com"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Asien",
+    "Aktien"
+   ],
+   "kicker": "Aktienmärkte · Asien",
+   "titel": "Taiwans Börse erlebt die schlimmste Woche seit 1991 – Kospi und Nikkei verlieren am Freitag rund 5 Prozent",
+   "deck": "Der Taiex büßt binnen fünf Tagen 17,5 Prozent ein, neue Leerverkaufsregeln verpuffen; in Seoul schlagen zugleich die verschärften US-Exportregeln für Chips durch.",
+   "text": [
+    "Asiens Technologiebörsen haben eine historische Verlustwoche hinter sich. Der taiwanische Leitindex Taiex fiel am Freitag um mehr als 6 Prozent auf 36.033 Punkte und verlor damit auf Wochensicht 17,5 Prozent – so viel wie seit 1991 nicht mehr. Der Chipfertiger TSMC, der mehr als 40 Prozent des Marktwerts der Börse ausmacht, gab knapp 5 Prozent nach. Technologiewerte stellen mehr als 70 Prozent des Index. Die Finanzaufsicht FSC hatte am Freitag drei weitere Beschränkungen für Leerverkäufe beschlossen, zusätzlich zu fünf Regeln vom 9. November. Den Absturz hielten sie nicht auf.",
+    "In Seoul schloss der Kospi 5,2 Prozent tiefer bei 4.869,96 Punkten. Samsung Electronics verlor 7 Prozent, SK Hynix knapp 6 Prozent. Ausländische Anleger verkauften netto Aktien für rund 1,14 Billionen Won. Laut der Wirtschaftszeitung Seoul Economic Daily haben Samsung und TSMC Lieferungen fortgeschrittener Chips an chinesische Kunden wie ByteDance und Baidus KI-Sparte Kunlun gestoppt; seit dem 19. November brauchen Chips mit US-Technologie für chinesische Abnehmer eigene Exportlizenzen.",
+    "In Tokio fiel der Nikkei 225 um 4,8 Prozent auf ein Sechsmonatstief. Nur 249 Werte stiegen, 3.400 gaben nach. Die Aktie von SoftBank brach um 14,5 Prozent ein. Der Hang Seng in Hongkong verlor 1,9 Prozent auf 22.410,80 Punkte und kam auf ein Wochenminus von 5,2 Prozent; der Technologieindex Hang Seng Tech sackte um 3,8 Prozent ab.",
+    "Analysten nennen Zweifel an der Rendite der riesigen KI-Investitionen, die Unruhe bei Nvidia und steigende US-Zinserwartungen als Gründe. „Die Beschränkung von Leerverkäufen beseitigt nicht die zugrunde liegende pessimistische Stimmung“, sagte Matthew Unterman von S3 Partners."
+   ],
+   "quellen": [
+    [
+     "Trading and Investment News",
+     "https://www.tradingandinvestmentnews.co.uk/ai-selloff-taiwan-short-curbs/"
+    ],
+    [
+     "Seoul Economic Daily",
+     "https://en.sedaily.com/society/2026/11/21/us-chip-export-curbs-widen-samsung-halts-ai-chip-shipments"
+    ],
+    [
+     "Investing.com",
+     "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477-5040783"
+    ]
+   ],
+   "berichterstattung": [
+    "tradingandinvestmentnews.co.uk",
+    "en.sedaily.com",
+    "investing.com",
+    "247wallst.com",
+    "bloomberg.com",
+    "tokenpost.com",
+    "newsbytesapp.com",
+    "startupfortune.com",
+    "superpowerdaily.com",
+    "huggingnews.com",
+    "news.sbs.co.kr",
+    "invezz.com",
+    "aol.com",
+    "en.coinotag.com",
+    "finance.biggo.com",
+    "kotakneo.com",
+    "businessupturn.com",
+    "ad-hoc-news.de",
+    "bbntimes.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Zinsen",
+    "USA",
+    "Fed"
+   ],
+   "kicker": "Notenbanken · Federal Reserve",
+   "titel": "Fed-Gouverneurin Cook: „Wir haben diesen Luxus nicht“ – Warten auf höhere Zinsen wäre riskant",
+   "deck": "Die Notenbankerin hält den Leitzins für zu niedrig, um die Inflation zu bremsen; am Terminmarkt bröckeln die Wetten auf eine Dezember-Erhöhung nach dem Börsenbeben leicht.",
+   "text": [
+    "Lisa Cook, Gouverneurin der US-Notenbank, hat sich am Freitag klar für weitere Zinserhöhungen ausgesprochen. Der aktuelle Leitzins von 3,75 bis 4,00 Prozent sei nicht hoch genug, um die Inflation einzudämmen, heißt es im Text ihrer Rede für eine Notenbankkonferenz in Chile. Die Teuerung betrachte sie mit „großer Sorge“. Geduld könne sich die Fed nicht leisten: „Wir haben diesen Luxus nicht.“",
+    "Die Anhebung um einen Viertelprozentpunkt im September habe nicht gereicht, auch die jüngsten Daten zeigten keinen Weg zurück zu einem stabilen Preisniveau. „Es gibt kaum Belege dafür, dass die Inflation sinkt“, so Cook. Wer länger warte, riskiere, „hinter die Kurve“ zu geraten – spätere, größere Schritte könnten dann das Finanzsystem belasten und Haushalten schaden. Cook hatte bei der Sitzung im Oktober, als die Fed die Zinsen unverändert ließ, gegen die Mehrheit für eine Erhöhung gestimmt. Die Finanzierungsbedingungen seien weiterhin locker, die Wirtschaft wachse „kräftig und beschleunigt“, der Arbeitsmarkt sei solide. Die Inflation liegt seit mehr als fünfeinhalb Jahren über dem Ziel von 2 Prozent.",
+    "Auch Philadelphias Fed-Präsidentin Anna Paulson zeigte sich laut Investing.com offen für Zinserhöhungen in aufeinanderfolgenden Sitzungen. Die nächste Sitzung findet am 8. und 9. Dezember statt.",
+    "Trotz der falkenhaften Töne nahmen Anleger nach dem Kurssturz an den Aktienmärkten etwas Fahrt aus ihren Erwartungen. Laut Fed-Funds-Futures lag die Wahrscheinlichkeit einer Erhöhung um einen Viertelpunkt im Dezember am Freitag bei rund 92 Prozent, nachdem eine Anhebung zuvor als nahezu sicher gegolten hatte. Auch die Chancen auf einen weiteren Schritt im Januar sanken."
+   ],
+   "quellen": [
+    [
+     "Kitco (Reuters)",
+     "https://www.kitco.com/news/off-the-wire/2026-11-20/feds-cook-says-rate-hikes-needed-lower-high-inflation"
+    ],
+    [
+     "Investing.com",
+     "https://za.investing.com/news/stock-market-news/fed-signals-and-data-what-happened-the-week-of-nov-1620-2026-93CH-4589467"
+    ],
+    [
+     "Rallies.ai",
+     "https://rallies.ai/news/treasury-yields-fall-for-day-and-week-as-ai-trade-concerns-spur-safe-haven-bid-ba86e7c888e22750"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "investing.com",
+    "rallies.ai",
+    "koreatimes.co.kr",
+    "freedom969.com",
+    "aol.com",
+    "nationalmortgagenews.com",
+    "conservativedailynews.com",
+    "mlq.ai",
+    "finance.biggo.com",
+    "ca.headtopics.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "USA",
+    "Konjunktur"
+   ],
+   "kicker": "Anleihen · Treasuries",
+   "titel": "Flucht in Staatsanleihen: Die Rendite zehnjähriger Treasuries fällt auf 4,93 Prozent",
+   "deck": "Am kurzen Ende fallen die Renditen besonders kräftig – dazu sinken die Inflationserwartungen der Verbraucher deutlich.",
+   "text": [
+    "Der Absturz an den Aktienmärkten hat am Freitag eine kräftige Rally bei US-Staatsanleihen ausgelöst. Die Rendite zehnjähriger Treasuries fiel nach Angaben der Nachrichtenagentur AP auf 4,93 Prozent, nach 5,04 Prozent am späten Donnerstag. Es war der fünfte Rückgang in Folge und laut Rallies.ai der stärkste Wochenrückgang seit Anfang April 2025. Noch deutlicher sanken die Renditen am kurzen Ende: Zweijährige Papiere rentierten je nach Zeitpunkt zwischen 4,61 und 4,65 Prozent, ein Minus von 11 bis knapp 17 Basispunkten. Die Rendite dreißigjähriger Anleihen ging um 7 bis 10 Basispunkte auf rund 5,3 Prozent zurück.",
+    "Lawrence Gillum von LPL Financial sprach von einem „klassischen Flucht-in-Sicherheit-Handel“. Sorgen über die Ausgaben und Schulden im KI-Sektor trieben Anleger aus Aktien in Staatspapiere. Dass gerade kurze Laufzeiten stark gefragt waren, spiegelt auch leicht gesunkene Zinserwartungen: Am Terminmarkt fiel die Wahrscheinlichkeit einer Fed-Anhebung im Dezember von nahezu 100 auf rund 92 Prozent.",
+    "Rückenwind gaben Konjunkturdaten. Die Universität Michigan meldete für November in ihrer finalen Erhebung einen Anstieg des Verbrauchervertrauens auf 51,5 Punkte nach 48,0 im Oktober, den höchsten Wert seit August. Vor allem aber gingen die Inflationserwartungen zurück: Für die kommenden zwölf Monate rechnen die Befragten nun mit 3,7 Prozent Teuerung nach 4,7 Prozent im Vormonat; Volkswirte hatten 4,3 Prozent erwartet. Auf Sicht von fünf Jahren sanken die Erwartungen von 3,5 auf 3,3 Prozent.",
+    "Die hohen Energiepreise infolge des Iran-Kriegs halten die Inflationssorgen aber wach. In der verkürzten Woche vor Thanksgiving stehen unter anderem die PCE-Preisdaten an."
+   ],
+   "quellen": [
+    [
+     "Rallies.ai",
+     "https://rallies.ai/news/treasury-yields-fall-for-day-and-week-as-ai-trade-concerns-spur-safe-haven-bid-ba86e7c888e22750"
+    ],
+    [
+     "TradingView (Seeking Alpha)",
+     "https://www.tradingview.com/news/seekingalpha:9cc967fe4094b:0-flight-to-safety-drives-treasury-yields-lower-as-tech-tumbles/"
+    ],
+    [
+     "Daily Economics",
+     "https://dailyeconomics.substack.com/p/sentiment-improves-as-ai-rout-deepens"
+    ]
+   ],
+   "berichterstattung": [
+    "rallies.ai",
+    "tradingview.com",
+    "dailyeconomics.substack.com",
+    "wishtv.com",
+    "kitco.com",
+    "richtv.io",
+    "stocktwits.com",
+    "investing.com",
+    "indexbox.io"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börsengang",
+    "KI",
+    "USA"
+   ],
+   "kicker": "Börsengänge · Nasdaq",
+   "titel": "Fünf Cent über dem Ausgabepreis: Die Anthropic-Aktie verliert am zweiten Handelstag 9 Prozent",
+   "deck": "Der größte Börsengang der Geschichte gerät in den Sog des KI-Ausverkaufs; vom Höchstkurs am Donnerstag sind 23 Prozent verloren.",
+   "text": [
+    "Die Anthropic-Aktie hat ihren zweiten Handelstag mit einem kräftigen Minus beendet. Das Papier schloss am Freitag laut AP bei 88,30 Dollar, 9,1 Prozent unter dem Schlusskurs vom Donnerstag von 97,17 Dollar. Damit liegt es noch rund 6 Prozent über dem Ausgabepreis von 83 Dollar. Im Tagesverlauf rutschte die Aktie zeitweise bis auf 83,05 Dollar ab, nur fünf Cent über dem Emissionspreis, und erholte sich anschließend um etwa 6 Prozent.",
+    "Zum Höchstkurs von 115,10 Dollar, den die Aktie kurz nach dem Debüt am Donnerstag erreicht hatte, beträgt der Abstand nun rund 23 Prozent. Damals war das Unternehmen kurzzeitig mehr als 2 Billionen Dollar wert. Laut CBS News fiel der Rückgang vom Höchststand damit steiler aus als bei Facebook kurz nach dessen Börsengang im Mai 2012. Allerdings schloss Facebook seinen zweiten Handelstag damals 10 Prozent unter dem Ausgabepreis, Uber 2019 sogar 18 Prozent darunter; Arm lag 2023 am zweiten Tag 19 Prozent darüber.",
+    "Der Kursrückgang fiel mit dem breiten Ausverkauf bei KI- und Chipwerten zusammen. Schon vor Handelsbeginn hatte die Aktie fast 10 Prozent verloren. Nach Angaben des Finanzportals 24/7 Wall St. stützen Konsortialbanken in den ersten Tagen nach einer Emission mitunter den Kurs durch Käufe nahe dem Ausgabepreis, weshalb Händler diesen oft als Untergrenze betrachten; ob das bei Anthropic geschehen ist, ist nicht bekannt.",
+    "Als nächste Termine gelten der erste Quartalsbericht als börsennotiertes Unternehmen und das Ende der Haltefrist für Altaktionäre, die üblicherweise 180 Tage nach dem Börsengang ausläuft. Anthropic betreibt auch die Redaktion dieser Zeitung."
+   ],
+   "quellen": [
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/investing/2026/11/20/anthropic-stock-came-within-5-cents-of-its-83-ipo-price-on-day-2-then-bounced-6-to-close-at-88-30-facebook-closed-its-day-2-10-below-its-ipo-price/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+    ],
+    [
+     "AP via WISH-TV",
+     "https://www.wishtv.com/news/business/ai-stock-sell-off-sends-sp-500-into-correction-drags-nasdaq-into-the-red/"
+    ]
+   ],
+   "berichterstattung": [
+    "247wallst.com",
+    "cbsnews.com",
+    "wishtv.com",
+    "shopifreaks.com",
+    "fourweekmba.com",
+    "thetechhacker.com",
+    "finance.biggo.com",
+    "journalarta.com",
+    "archyde.com",
+    "mexc.com",
+    "boersen-zeitung.de",
+    "deraktionaer.de",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Rohstoffe"
+   ],
+   "kicker": "Rohstoffe · Edelmetalle",
+   "titel": "Gold verliert 8,7 Prozent in einer Woche und nähert sich 3.500 Dollar",
+   "deck": "Statt als sicherer Hafen zu dienen, wird das Edelmetall im Börsenbeben zu Geld gemacht; Silber fällt auf gut 41 Dollar.",
+   "text": [
+    "Der Goldpreis hat seine Talfahrt am Freitag fortgesetzt. Eine Feinunze kostete am Abend New Yorker Zeit 3.537,90 Dollar, 86,30 Dollar oder 2,4 Prozent weniger als am Vortag. Im Tagesverlauf fiel der Preis bis auf 3.502,93 Dollar, den tiefsten Stand seit September 2025. Auf Wochensicht verlor Gold nach Berechnungen von IndexBox 8,7 Prozent. Zu Wochenbeginn hatte der Preis noch bei rund 3.869 Dollar gelegen und am Montag in der Spitze 3.901 Dollar erreicht. Silber gab am Freitag 3,8 Prozent auf 41,12 Dollar nach.",
+    "Ungewöhnlich ist, dass die Edelmetalle weder vom Aktiencrash noch von den kräftig gefallenen Anleiherenditen profitierten. Laut dem Fachportal Kitco verkauften viele Anleger Gold und Silber, um sich Liquidität zu verschaffen, statt ihre defensiven Positionen auszubauen. Belastend wirkte zudem die Erwartung einer weiteren Zinserhöhung der Fed am 8. und 9. Dezember; das Protokoll der jüngsten Sitzung hatte gezeigt, dass einige Notenbanker sogar einen Schritt um einen halben Prozentpunkt erwogen. Der Dollar-Index notierte am Morgen nahe 103,8 Punkten und damit so stark wie seit April 2025 nicht mehr. Silber litt zusätzlich unter Sorgen um die Industrienachfrage.",
+    "Die Stimmung bleibt gedrückt: In einer Kitco-Umfrage unter 15 Analysten erwarten 60 Prozent weiter fallende Preise. Als Unterstützung gelten Bereiche zwischen 3.200 und 3.450 Dollar. Gold ist damit weit von seinem Hoch entfernt: Im Januar hatte die Unze in der Spitze rund 5.600 Dollar gekostet."
+   ],
+   "quellen": [
+    [
+     "Kitco",
+     "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction"
+    ],
+    [
+     "IndexBox",
+     "https://www.indexbox.io/blog/gold-extends-steep-weekly-loss-as-hawkish-fed-bets-and-equity-rout-weigh/"
+    ],
+    [
+     "Kitco",
+     "https://www.kitco.com/news/article/2026-11-20/gold-heads-worst-week-eight-months-silver-slides-below-42-kitco-am-report"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "indexbox.io",
+    "ariva.de",
+    "finanzen.at",
+    "investing.com",
+    "en.sedaily.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "EZB",
+    "Euro",
+    "Zinsen"
+   ],
+   "kicker": "Notenbanken · EZB",
+   "titel": "Lagardes letzte Rede beim Bankenkongress: Kein Wort zum Zins – dafür ein Appell, „rechtzeitig zu handeln“",
+   "deck": "Die scheidende EZB-Präsidentin wirbt in Frankfurt für den digitalen Euro und eine echte Kapitalmarktunion; Hinweise auf die Dezember-Entscheidung bleiben aus.",
+   "text": [
+    "Wer von Christine Lagarde beim Frankfurt European Banking Congress am Freitag Signale für die Zinssitzung im Dezember erwartet hatte, wurde enttäuscht. In ihrer Rede unter dem Titel „Rechtzeitig handeln“ ging die EZB-Präsidentin auf Inflation und Leitzinsen nicht ein; Preisstabilität erwähnte sie lediglich als vorrangiges Ziel der Notenbank. Es war nach Angaben der EZB ihre achte und letzte Rede bei dem Kongress in dieser Funktion; Lagarde scheidet im Februar aus dem Amt. Im Vorfeld hatten Beobachter auf die Inflation von 4,0 Prozent und den Einlagesatz von 2,5 Prozent verwiesen.",
+    "Lagardes Kernthese: Europa handle oft erst, wenn der Schaden offensichtlich sei, weil die Kosten des Nichthandelns schleichend wüchsen. „Wenn die Notwendigkeit zum Handeln für alle zutage liegt, ist der beste Zeitpunkt dafür meist schon vorbei“, sagte sie. Bei der Kapitalmarktunion sei die Notwendigkeit seit über zehn Jahren unstrittig, die Umsetzung stocke aber. Die Position der Mitgliedstaaten zur Stärkung der europäischen Kapitalmarktaufsicht schwäche deren Entscheidungsfähigkeit und enthalte zu viele Ausnahmen.",
+    "Breiten Raum nahm der Zahlungsverkehr ein. Mehr als 60 Prozent der Kartenzahlungen in Europa liefen über internationale Systeme, 14 der 21 Euroländer hätten kein eigenes nationales System. Der digitale Euro solle als gesetzliches Zahlungsmittel überall akzeptiert werden; eine erste Ausgabe sei für 2029 geplant, wenn die Gesetzgebung bis Jahresende steht. Der Markt für tokenisierte Vermögenswerte sei mit rund 23 Milliarden Euro im März zwar noch klein, aber fünfmal so groß wie ein Jahr zuvor.",
+    "Den Investitionsbedarf für KI-Rechenkapazitäten bezifferte Lagarde auf rund 1,3 Billionen Euro bis 2030, wenn Europa seinen Anteil von etwa 5 auf 15 Prozent steigern wolle."
+   ],
+   "quellen": [
+    [
+     "EZB",
+     "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261120~e52bcc4db2.de.html"
+    ],
+    [
+     "Newzs (FAZ)",
+     "https://newzs.de/2026/11/20/ezb-praesidentin-lagarde-werden-sie-agenten-des-vertrauens/"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/lagarde-rede-am-freitag-um-9-uhr-in-frankfurt-inflation-bei-40-prozent"
+    ]
+   ],
+   "berichterstattung": [
+    "ecb.europa.eu",
+    "newzs.de",
+    "aktiencheck.de",
+    "cryptotimes.io",
+    "einpresswire.com",
+    "admiralmarkets.com",
+    "it-boltwise.de"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Euro",
+    "Devisen",
+    "Inflation"
+   ],
+   "kicker": "Devisen · Euro",
+   "titel": "Euro verharrt auf dem tiefsten Stand seit April 2025 – Erzeugerpreise steigen um 8,1 Prozent",
+   "deck": "Frankreichs Staatsfinanzen bremsen die Gemeinschaftswährung trotz Zinsfantasie; der Yen und der Franken sind im Börsenbeben als sichere Häfen gefragt.",
+   "text": [
+    "Der Euro hat sich am Freitag kaum vom Fleck bewegt und notierte am Abend in New York bei 1,0968 Dollar, auf dem tiefsten Stand seit April 2025. Die Europäische Zentralbank setzte den Referenzkurs auf 1,0990 Dollar fest, nach 1,0992 Dollar am Donnerstag. Auf Wochensicht gab die Gemeinschaftswährung leicht nach, allerdings weniger deutlich als in der Vorwoche, als steigende Zinserwartungen in den USA den Dollar gestützt hatten.",
+    "Eigentlich sprechen die Zinsaussichten für den Euro, denn auch die EZB dürfte im Dezember die Leitzinsen anheben. Doch „die Sorgen um Frankreichs Staatsfinanzen lasten offenbar so stark auf dem Euro“, dass er davon kaum profitiere, sagte Commerzbank-Devisenexpertin Thu Lan Nguyen. Das stütze die Vermutung, dass fiskalische Risiken den Euro stärker belasteten als den Dollar: Höhere Zinsen nährten Zweifel an der Tragfähigkeit der Schulden.",
+    "Den Preisdruck in Deutschland unterstrichen neue Daten des Statistischen Bundesamts. Die Erzeugerpreise gewerblicher Produkte lagen im Oktober um 8,1 Prozent über dem Vorjahresmonat, der stärkste Anstieg seit Februar 2023. Gegenüber September stiegen sie um 1,4 Prozent. Volkswirte hatten nach Angaben von Aktiencheck mit 7,4 Prozent gerechnet. Treiber war die Energie mit einem Plus von 18,7 Prozent; Mineralölprodukte verteuerten sich infolge des Kriegs im Nahen Osten um 51,9 Prozent. Ohne Energie betrug der Anstieg 3,6 Prozent. Erzeugerpreise gelten als Vorlauf für die Verbraucherpreise.",
+    "Als sichere Häfen gesucht waren der Yen und der Schweizer Franken. Ein Euro kostete am Abend 174,49 Yen und 0,9206 Franken, jeweils weniger als am Vortag. Zum Dollar legte der Yen leicht auf rund 159,2 zu."
+   ],
+   "quellen": [
+    [
+     "Finanzen.at (dpa-AFX)",
+     "https://finanzen.at/nachrichten/devisen/devisen-euro-stagniert-auf-tiefstem-stand-seit-april-2025-1036789231"
+    ],
+    [
+     "Statistisches Bundesamt",
+     "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_407_61241.html"
+    ],
+    [
+     "Ariva (dpa-AFX)",
+     "https://www.ariva.de/news/devisen-euro-etwas-gestiegen-12215457"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.at",
+    "destatis.de",
+    "ariva.de",
+    "ad-hoc-news.de",
+    "finanzen.net",
+    "de.investing.com",
+    "boerse.de",
+    "finanznachrichten.de",
+    "aktiencheck.de",
+    "hasepost.de",
+    "netz-trends.de",
+    "agrar-presseportal.de",
+    "investing.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Rohstoffe"
+   ],
+   "kicker": "Rohstoffe · Öl",
+   "titel": "Dritte Verlustwoche in Folge: Brent schließt bei 92,57 Dollar – der Blick geht auf das Opec+-Treffen",
+   "deck": "Der Ölstrom durch die Straße von Hormus ist fast wieder auf Vorkriegsniveau, das wiegt schwerer als Minen und Huthi-Raketen; im November hat Brent rund ein Fünftel verloren.",
+   "text": [
+    "Die Ölpreise haben sich am Freitag leicht erholt, die dritte Verlustwoche in Folge aber nicht verhindert. Ein Barrel der Nordseesorte Brent zur Lieferung im Januar kostete 92,57 Dollar, 0,6 Prozent mehr als am Vortag. Auf Wochensicht steht ein Minus von 3,4 Prozent. Die US-Sorte WTI verteuerte sich um rund 0,9 Prozent auf knapp 84 Dollar, verlor aber binnen einer Woche 5,2 Prozent. Seit Anfang November ist Brent nach Angaben des Portals FinanceFeeds um rund 20 Prozent gefallen.",
+    "Den Ausschlag gibt die Versorgungslage. Die Rohöllieferungen durch die Straße von Hormus haben nach Reuters-Angaben wieder ungefähr das Niveau vor dem Krieg erreicht, was Erwartungen an ein Überangebot schürt. Hinzu kam ein unerwartet starker Anstieg der US-Rohöllager um 3,4 Millionen Barrel in der Vorwoche. Analysten der Saxo Bank verweisen zudem auf Nachfragesorgen infolge der Flucht aus riskanten Anlagen und des abflauenden KI-Booms.",
+    "Gestützt wurden die Preise von anhaltenden Zwischenfällen in der Golfregion. Nach Angaben der iranischen Revolutionsgarden liefen zwei Tanker in der Meerenge auf Minen; die Bank UOB zählt im November ungefähr einen Angriff auf Tanker pro Tag. Dazu kamen Huthi-Raketen auf Riad. Diese Risiken halten Brent bislang über der Marke von 90 Dollar.",
+    "Nächster Termin ist das Ministertreffen der Opec+ am 29. November, bei dem die Förderpolitik für 2027 festgelegt wird. Analysten rechnen damit, dass die Gruppe ihre abgestimmten Förderkürzungen fortsetzt."
+   ],
+   "quellen": [
+    [
+     "RTÉ (Reuters)",
+     "https://www.rte.ie/news/business/2026/1120/1599964-world-oil-prices/"
+    ],
+    [
+     "FinanceFeeds",
+     "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
+    ],
+    [
+     "Kitco",
+     "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction"
+    ]
+   ],
+   "berichterstattung": [
+    "rte.ie",
+    "financefeeds.com",
+    "kitco.com",
+    "wishtv.com",
+    "cnbc.com",
+    "marinelink.com",
+    "live.euronext.com",
+    "bloomberg.com",
+    "mansfield.energy",
+    "aol.com",
+    "archyde.com",
+    "blog.pricegroup.com",
+    "investing.com"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "ETF"
+   ],
+   "kicker": "Krypto · Markt",
+   "titel": "Bitcoin fällt unter 60.000 Dollar – IBIT meldet den größten Tagesabfluss seit dem Start",
+   "deck": "Der Ausverkauf bei KI-Aktien reißt die Kryptowährung erstmals seit Juli unter die runde Marke, kurzfristige Anleger verkaufen mit Verlust.",
+   "text": [
+    "Bitcoin ist am Freitag erstmals seit Juli unter 60.000 Dollar gefallen. Laut Reuters notierte die älteste Kryptowährung am Vormittag (US-Zeit) bei 59.381 Dollar, 3,45 Prozent im Minus, Ether verlor 5,23 Prozent auf 1.648,91 Dollar. Im weiteren Verlauf ging es tiefer: CoinDesk meldete Kurse unter 59.000 Dollar, nur noch rund 2 Prozent über dem Tief von Juni und Juli bei 57.700 Dollar. Damit ist die Erholung vom August und September, die Bitcoin bis auf rund 87.000 Dollar geführt hatte, aufgezehrt. Ether fiel zum Handelsende auf rund 1.600 Dollar, Solana auf rund 68 Dollar.",
+    "Auslöser war erneut der Aktienmarkt: Der Nasdaq Composite verlor am Freitag mehr als 5 Prozent, der S&P 500 rund 3,7 Prozent. Fed-Gouverneur Christopher Waller brachte laut CoinDesk eine Zinserhöhung um 50 Basispunkte ins Spiel. Innerhalb von 24 Stunden wurden nach Daten von CoinGlass Derivatepositionen über rund 1,5 Milliarden Dollar zwangsweise geschlossen, ganz überwiegend Wetten auf steigende Kurse.",
+    "Die börsengehandelten Spot-Fonds verlieren weiter Geld. Am Donnerstag flossen laut Farside netto 582,3 Millionen Dollar ab, der dritte Abflusstag in Folge. Allein BlackRocks IBIT verlor 541,1 Millionen Dollar, der größte Tagesabfluss seit seinem Start. Fidelitys FBTC gab 45,9 Millionen Dollar ab, während Morgan Stanleys MSBT 49,6 Millionen Dollar einsammelte.",
+    "On-Chain-Daten zeigen Kapitulation bei kurzfristigen Haltern: Laut CryptoQuant realisieren sie im Schnitt rund 15 Prozent Verlust (gemessen am SOPR). Von den Coins, die sie am 18. November an Börsen schickten, lagen nur 2,5 Prozent im Gewinn, Mitte Oktober waren es noch etwa 60 Prozent. Santiment stuft die Stimmung in sozialen Medien als „extreme Angst“ ein. James Butterfill von CoinShares spricht von einer Fortsetzung des Bärenmarkts und erwartet für weite Teile von 2027 eine Spanne zwischen 60.000 und 90.000 Dollar."
+   ],
+   "quellen": [
+    [
+     "Investing.com (Reuters)",
+     "https://www.investing.com/news/stock-market-news/bitcoin-falls-below-60000-level-5042271"
+    ],
+    [
+     "CoinDesk",
+     "https://www.coindesk.com/de/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
+    ],
+    [
+     "crypto.news",
+     "https://crypto.news/bitcoin-below-60000-santiment-extreme-fear/"
+    ]
+   ],
+   "berichterstattung": [
+    "investing.com",
+    "coindesk.com",
+    "crypto.news",
+    "bitcoinmagazine.com",
+    "fool.com",
+    "finance.yahoo.com",
+    "startupfortune.com",
+    "invezz.com",
+    "cryptonews.net",
+    "mlq.ai",
+    "blocktrainer.de",
+    "cryptonomist.ch",
+    "cryptoticker.io",
+    "riotimesonline.com",
+    "bitbase.com",
+    "kucoin.com",
+    "news.jkn.co.kr"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Sicherheit",
+    "Deutschland"
+   ],
+   "kicker": "Krypto · Sicherheit",
+   "titel": "Spionagechips auch in Berlin: Ledger findet manipulierte Hardware-Wallets in Deutschland",
+   "deck": "Die Masche aus Südostasien erreicht Europa – Ledger bittet alle, die seit Januar in Berlin ein Gerät gekauft haben, sich zu melden.",
+   "text": [
+    "Die Affäre um präparierte Hardware-Wallets hat Deutschland erreicht. Ledger bestätigte am Mittwoch „einige“ manipulierte Geräte, die in Berlin aufgetaucht sind, ohne eine genaue Zahl zu nennen. Wer dort seit Januar 2026 ein Ledger-Gerät gekauft hat, soll sich beim Support melden. In Dubai prüft der Hersteller Berichte über zwei weitere Geräte und versucht zu klären, wie sie in Umlauf kamen. Wenige Wochen zuvor hatte Ledger noch erklärt, Stichproben in Europa, auch in Deutschland, hätten keine manipulierte Ware ergeben.",
+    "Nach Ledgers Darstellung tragen alle bestätigten Geräte dieselbe Veränderung: einen kleinen Chip mit eSIM und Mobilfunkmodul im Gehäuse, der beim Einrichten die 24 Wiederherstellungswörter abgreift und per Mobilfunk verschickt. Das Secure Element und das Betriebssystem seien nicht kompromittiert, ein auf ledger.com gekauftes Gerät sei nicht betroffen. Der eingebaute Echtheitstest („Genuine Check“) erkennt das Implantat allerdings nicht, solange der Originalchip intakt ist. Die Täter, laut Ledger eine „hoch organisierte kriminelle Gruppe“, kauften echte Geräte, bauten sie um und gaben sie über Wiederverkäufer zurück in den Handel. In Südostasien war der malaysische Händler CryptoBilis betroffen, dort fand sich nun auch ein präpariertes Exemplar des neuen Nano Gen5.",
+    "Eine offizielle Schadenssumme nennt Ledger nicht. Das Analysehaus Bitquery schätzt, dass aus 16 Wallets in Berlin und Dubai rund 1,68 Millionen Dollar abgezogen wurden, in Südostasien zuvor rund 102 Millionen Dollar aus 335 Wallets, überwiegend USDT auf Tron. Zwei Nutzer in Dubai berichteten auf X von zusammen 604.000 Dollar Verlust.",
+    "Ledger rät, verdächtige Geräte nicht mehr zu benutzen und nicht selbst zu öffnen, sondern die Bestände auf ein direkt beim Hersteller gekauftes Gerät mit neuer Seed Phrase und neuer Passphrase zu übertragen. Für begrenzte Zeit bietet das Unternehmen an, eingeschickte Geräte im Werk im französischen Vierzon zu röntgen."
+   ],
+   "quellen": [
+    [
+     "Bitcoin Magazine",
+     "https://bitcoinmagazine.com/news/ledger-tampered-wallets-berlin-dubai"
+    ],
+    [
+     "CoinCentral",
+     "https://coincentral.com/ledger-hardware-wallet-tampering-spreads-from-southeast-asia-to-berlin-and-dubai"
+    ],
+    [
+     "Yahoo Finanzen",
+     "https://de.finance.yahoo.com/nachrichten/ledger-pr%C3%BCft-verd%C3%A4chtige-hardware-wallets-135500536.html"
+    ]
+   ],
+   "berichterstattung": [
+    "bitcoinmagazine.com",
+    "coincentral.com",
+    "finance.yahoo.com",
+    "crypto.news",
+    "cryptotimes.io",
+    "cryptobriefing.com",
+    "financefeeds.com",
+    "kucoin.com",
+    "finance.biggo.com",
+    "hokanews.com",
+    "tradersunion.com",
+    "blockonomi.com",
+    "exxpress.at",
+    "newsbit.de",
+    "bitbase.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Regulierung",
+    "Derivate"
+   ],
+   "kicker": "Krypto · Regulierung",
+   "titel": "Hongkong setzt Hyperliquid auf die Warnliste – HYPE verliert mehr als zehn Prozent",
+   "deck": "Die Wertpapieraufsicht SFC führt die größte On-Chain-Derivatebörse als verdächtige, unlizenzierte Handelsplattform.",
+   "text": [
+    "Die Hongkonger Wertpapieraufsicht SFC hat Hyperliquid in ihre Liste verdächtiger Handelsplattformen für virtuelle Vermögenswerte aufgenommen. Der Eintrag vom 18. November lautet auf „Hyperliquid / Hyperliquid Hong Kong“ und nennt die Handelswebsite der dezentralen Perpetual-Börse. Die SFC begründet ihn damit, dass die Plattform in Hongkong keine Lizenz besitzt und mutmaßlich gezielt Anleger in der Stadt anspricht. Für unlizenzierte Anbieter gelte: Sie stünden „nicht unter ihrer Aufsicht“.",
+    "Rechtlich ist der Schritt begrenzt. Die Warnliste ist weder ein Betrugsbefund noch eine gerichtliche Anordnung oder Sperre, Vermögenswerte werden nicht eingefroren. Allerdings taucht Hyperliquid weder im Register der lizenzierten Anbieter noch auf der Liste der Antragsteller auf. In Hongkong sind bislang 13 Handelsplattformen lizenziert, von OSL im Dezember 2020 bis Bixin.com im Mai 2026. Die Warnliste wuchs 2026 um 14 Einträge für verdächtige Plattformen, im Schnitt etwa alle drei Wochen einer.",
+    "Der Token HYPE notierte am Freitagabend (UTC) bei 61,21 Dollar und damit 10,6 Prozent tiefer als am Vortag, die Marktkapitalisierung lag bei 14,56 Milliarden Dollar. Ein Teil des Rückgangs dürfte allerdings auf den allgemeinen Ausverkauf zurückgehen: Bitcoin und Ether gaben im selben Zeitraum rund 7 und knapp 9 Prozent ab.",
+    "In den USA zeichnet sich derweil ein anderer Weg ab. CFTC-Chef Michael Selig beschrieb am 16. November, ohne Hyperliquid zu nennen, einen „regulierten Pfad“ für Marktinfrastruktur auf der Blockchain, mit Anforderungen an Geldwäscheprävention, Trennung von Kundengeldern, Marktüberwachung, Kapitalausstattung und Risikomanagement. Einen Antrag von Hyperliquid bei der CFTC gibt es nach bisherigen Berichten nicht."
+   ],
+   "quellen": [
+    [
+     "The Defiant",
+     "https://thedefiant.io/news/regulation/hong-kong-sfc-adds-hyperliquid-to-platform-alert-list"
+    ],
+    [
+     "Blockchain Reporter",
+     "https://blockchainreporter.net/hong-kong-hyperliquid-alert-list-cftc-path/"
+    ],
+    [
+     "SFC – Warnliste",
+     "https://www.sfc.hk/en/alert-list/suspicious-virtual-asset-trading-platforms"
+    ]
+   ],
+   "berichterstattung": [
+    "thedefiant.io",
+    "blockchainreporter.net",
+    "sfc.hk",
+    "cryptobriefing.com",
+    "dimsumdaily.hk",
+    "altcoinbuzz.io",
+    "cryptonews.net",
+    "news.bitcoin.com",
+    "mlq.ai",
+    "crypto-economy.com",
+    "cryptobreaking.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Ethereum"
+   ],
+   "kicker": "Krypto · Ethereum",
+   "titel": "Gas-Neubewertung gefährdet Verträge: Ethereums Glamsterdam könnte sich bis Mai 2027 verschieben",
+   "deck": "Die Kernentwickler ringen darum, ob sie die Spezifikation ändern – jede Korrektur könnte andere Smart Contracts brechen.",
+   "text": [
+    "Das nächste große Ethereum-Upgrade Glamsterdam kommt womöglich erst im Mai 2027. Das zeichnete sich beim Treffen der Kernentwickler (All Core Developers) am Donnerstag ab. Streitpunkt ist die geplante Neubewertung der Gaskosten über EIP-8037 und EIP-8038. Das Prüfhaus ChainSecurity hatte im Oktober gewarnt, dass die Änderungen bestehende Smart Contracts brechen und angreifbar machen können. Die Gabelung des Testnetzes Hoodi, ursprünglich für den 26. Oktober angesetzt, wurde deshalb verschoben.",
+    "Forscher fanden im Oktober 13 reale Beispiele für betroffene Verträge, im November untersuchten sie acht Invarianten, also Annahmen im Vertragscode, die das Upgrade verletzen könnte. Die Ethereum Foundation, ChainSecurity und Dedaub haben mindestens 50 betroffene Unternehmen angeschrieben. Drei Projekte gelten als stark betroffen, ihre Korrekturen sind fertig oder bis Mitte Dezember zugesagt, mittelschwer betroffene Projekte nennen Fristen bis zum 10. Januar.",
+    "Der Zeitplan hängt an einer Grundsatzentscheidung. Bleibt die Spezifikation, wäre eine Aktivierung im Mainnet frühestens Mitte Januar 2027 möglich. Fällt die Entscheidung erst im Januar, rückt der Termin auf Ende Februar oder Anfang März, werden die EIPs geändert, auf April oder Mai. Ein Entwickler warnte, jede Änderung könne Invarianten brechen, die heute noch niemand kenne. Beschlossen ist nichts.",
+    "Auch das Folge-Upgrade Hegotá steht zur Debatte. Diskutiert wird, seinen Umfang zu verkleinern, um den Übergang zu Post-Quanten-Kryptografie zu beschleunigen. EIP-8151, das Konten bei der Migration schützen soll, könnte nach einer ersten Prüfung ebenfalls viele bestehende Verträge berühren. Die Client-Teams sollen ihre Positionen in etwa zwei Wochen vorlegen."
+   ],
+   "quellen": [
+    [
+     "Cointelegraph",
+     "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?amp=&amp="
+    ],
+    [
+     "The Crypto Times",
+     "https://www.cryptotimes.io/2026/11/21/ethereum-glamsterdam-upgrade-could-be-delayed-until-may-2027/"
+    ]
+   ],
+   "berichterstattung": [
+    "cointelegraph.com",
+    "cryptotimes.io",
+    "crowdfundinsider.com",
+    "chaincatcher.com",
+    "coininsider.org",
+    "techflowpost.com",
+    "thecurrencyanalytics.com",
+    "publish0x.com",
+    "finwire.io",
+    "ua.news",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Stablecoins",
+    "Regulierung",
+    "USA"
+   ],
+   "kicker": "Krypto · Stablecoins",
+   "titel": "OCC gibt Payoneer vorläufig grünes Licht für eine Stablecoin-Bank – Senatoren fürchten den Sog zur Bundesaufsicht",
+   "deck": "Der Zahlungsdienstleister will mit PAYO-USD einen eigenen Stablecoin nach dem GENIUS Act ausgeben, sechs Senatoren verlangen Schutz für Emittenten unter Landesaufsicht.",
+   "text": [
+    "Der Zahlungsdienstleister Payoneer hat von der US-Bankenaufsicht OCC eine vorläufige, an Bedingungen geknüpfte Zulassung für eine nationale Trust-Bank erhalten. Die PAYO Digital Bank unter Chef Rob Morgan darf damit in die Gründungsphase eintreten, für den Betrieb braucht sie noch die endgültige Genehmigung. Danach will Payoneer PAYO-USD ausgeben, einen voll gedeckten Stablecoin, der den Anforderungen des GENIUS Act entsprechen soll.",
+    "Ungewöhnlich ist das Modell: PAYO-USD soll nicht an Börsen gelistet werden, sondern als Guthabenart im Payoneer-Netz dienen. Kunden sollen Stablecoin-Guthaben in von der Bank zugelassenen Wallets halten, mit Stablecoins anderer Emittenten zahlen und Zahlungen empfangen sowie in Landeswährung tauschen können. Nach Unternehmensangaben nutzt schon mehr als ein Drittel der Payoneer-Kunden Stablecoins, das Netz wickelt Zahlungen in mehr als 190 Märkten ab.",
+    "Genau dieser Weg über die Bundesaufsicht bereitet einer überparteilichen Gruppe im Senat Sorgen. Cynthia Lummis, Kirsten Gillibrand, Angela Alsobrooks, Kevin Cramer, Pete Ricketts und Mark Warner schrieben an Finanzminister Scott Bessent. Dessen Entwurf sieht eine Übergangsregel („Safe Harbor“) für Emittenten mit laufendem Bundesantrag vor, aber keine gleichwertige für Emittenten unter Landesaufsicht. Das könne Anbieter zur OCC drängen, „das Gegenteil unserer Absicht“ beim Gesetz. Die Senatoren fordern, den Schutz auf Bundesstaaten auszudehnen, die bis zum 18. Januar 2028 einen gleichwertigen Rahmen haben dürften.",
+    "Nach dem GENIUS Act dürfen Emittenten mit bis zu 10 Milliarden Dollar umlaufenden Stablecoins grundsätzlich unter Landesaufsicht bleiben. Kevin Wysocki von Anchorage Digital bezweifelt, dass ein erweiterter Safe Harbor viel ändert: Viele wählten die Bundesaufsicht, weil sie beim Überschreiten der Schwelle sonst die Aufsicht wechseln müssten."
+   ],
+   "quellen": [
+    [
+     "KuCoin News (Pressemitteilung)",
+     "https://www.kucoin.com/news/flash/payoneer-granted-conditional-approval-to-establish-stablecoin-national-trust-bank-by-occ"
+    ],
+    [
+     "Securities.io",
+     "https://www.securities.io/payoneer-advances-stablecoin-bank-plan-with-conditional-occ-approval/"
+    ],
+    [
+     "Cointelegraph",
+     "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers"
+    ]
+   ],
+   "berichterstattung": [
+    "kucoin.com",
+    "securities.io",
+    "uk.advfn.com",
+    "cointelegraph.com",
+    "bitcoinworld.co.in",
+    "tronweekly.com",
+    "coinpedia.org"
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Übernahmen",
+    "USA"
+   ],
+   "kicker": "Vermögen · Private Equity",
+   "titel": "50 Milliarden Dollar für Global Payments? GTCR prüft einen der größten Buyouts der Geschichte",
+   "deck": "Der größte Aktionär des Zahlungsabwicklers sucht Partner für eine Übernahme – die Aktie springt um rund elf Prozent.",
+   "text": [
+    "Der Finanzinvestor GTCR erwägt mit weiteren Private-Equity-Häusern eine Übernahme des US-Zahlungsabwicklers Global Payments. Das berichtete Bloomberg am Freitag unter Berufung auf Eingeweihte. Inklusive Schulden und Aufschlag könnte das Geschäft das Unternehmen mit rund 50 Milliarden Dollar bewerten, es wäre eine der größten fremdfinanzierten Übernahmen überhaupt. Eine Entscheidung sei noch nicht gefallen, die möglichen Partner wurden nicht genannt.",
+    "GTCR ist mit rund 16 Prozent bereits größter Aktionär von Global Payments. Der Anteil stammt aus dem Verkauf von 55 Prozent an Worldpay an Global Payments. Mitte November hatten GTCR und Clayton, Dubilier & Rice (CD&R) frühere Gespräche über einen Rückzug von der Börse abgebrochen, laut Investing.com wegen der Schwierigkeit, ein Geschäft dieser Größe zu finanzieren. Nun kommt der Plan offenbar in neuer Besetzung zurück.",
+    "Die Aktie stieg am Nachmittag um rund 11 Prozent und wurde nach dem Bericht kurz vom Handel ausgesetzt, das Tageshoch lag bei 95,50 Dollar. Das geschah an einem Tag, an dem der S&P 500 deutlich nachgab. Vor dem Sprung lag der Börsenwert bei rund 22,5 Milliarden Dollar.",
+    "Die Finanzierung bleibt der heikle Punkt. Die Fed hat die Zinsen in diesem Jahr angehoben und tagt am 8. und 9. Dezember, eine weitere Erhöhung gilt an den Terminmärkten als wahrscheinlich. Weder Global Payments noch GTCR äußerten sich, einen Preis je Aktie gibt es bislang nicht."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://de.investing.com/news/stock-market-news/global-payments-im-hohenflug-bericht-uber-50milliardendollarubernahme-beflugelt-aktie-93CH-3780499"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/global-payments-aktie-gtcr-prueft-uebernahme-fuer-rund-50-milliarden-dollar-wie"
+    ],
+    [
+     "Reuters via TradingView",
+     "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4711H5:0-gtcr-considering-possible-50-billion-global-payments-buyout-bloomberg-news-reports/"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "investing.com",
+    "aktiencheck.de",
+    "tradingview.com",
+    "gurufocus.com",
+    "seekingalpha.com",
+    "aol.com",
+    "it-boltwise.de"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Schweiz",
+    "Infrastruktur"
+   ],
+   "kicker": "Vermögen · Private Equity",
+   "titel": "Lukrativer Ausstieg für Partners Group: KKR verhandelt über EdgeCore – bis zu 10 Milliarden Dollar",
+   "deck": "Das KI-Vehikel Helix unter Ex-AWS-Chef Adam Selipsky will die Mehrheit am Rechenzentrumsentwickler übernehmen.",
+   "text": [
+    "KKR verhandelt über den Kauf einer Mehrheit an EdgeCore Digital Infrastructure, dem US-Rechenzentrumsentwickler im Besitz der Schweizer Partners Group. Laut Bloomberg könnte das Geschäft EdgeCore mit 8 bis 10 Milliarden Dollar bewerten. Die Gespräche laufen noch und könnten auch ohne Einigung enden.",
+    "Käufer wäre Helix Digital Infrastructure, das KI-Investmentvehikel von KKR. Es startete im Juni unter dem früheren Chef von Amazon Web Services, Adam Selipsky, und erhielt rund 11 Milliarden Dollar aus der KKR-Bilanz sowie von Nvidia und der Kuwait Investment Authority. EdgeCore wäre die erste große Investition. KKR besitzt mit CyrusOne bereits einen großen Rechenzentrumsbetreiber.",
+    "Für Partners Group wäre es ein einträglicher Exit. Die Schweizer hatten EdgeCore 2022 mit einer anfänglichen Kapitalzusage von 1,2 Milliarden Dollar übernommen und später weitere 1,9 Milliarden Dollar Eigenkapital nachgeschossen. EdgeCore hat laut dem Bericht mehr als 2,27 Gigawatt Kapazität vermietet oder in Entwicklung, in Virginia, Arizona, Nevada und Kalifornien. Herzstück ist ein Campus im Louisa County in Virginia mit mehr als 1,1 Gigawatt.",
+    "Ein Verkauf käme für Partners Group zu einem günstigen Zeitpunkt. Der Vermögensverwalter steht wegen Rücknahmebeschränkungen in seinem Evergreen-Fonds Global Value unter Druck und will den Fonds in einen ausschüttenden und einen thesaurierenden Teil aufspalten. Belastend für das Umfeld sind laut Investing.com vorsichtigere Banken bei KI-bezogenen Krediten und eine strengere Regulierung nach den Zugewinnen der Demokraten bei den Zwischenwahlen."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://investing.com/news/stock-market-news/kkr-weighs-8b-to-10b-deal-for-partners-groups-edgecore--bloomberg-5042338"
+    ],
+    [
+     "MLQ",
+     "https://mlq.ai/news/kkr-in-talks-to-buy-a-majority-stake-in-data-center-developer-edgecore-at-up-to-10-billion/"
+    ],
+    [
+     "Ad-hoc-news",
+     "https://www.ad-hoc-news.de/boerse/news/corporate-news/partners-group-aktie-fondsaufteilung-soll-liquiditaet-entlasten/70526131"
+    ]
+   ],
+   "berichterstattung": [
+    "investing.com",
+    "gurufocus.com",
+    "tradingview.com",
+    "mlq.ai"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Banking",
+    "Studie",
+    "Deutschland"
+   ],
+   "kicker": "Vermögen · Studie",
+   "titel": "Erbe mit fünf bis acht Millionen Euro: Rothschild gewinnt den Fuchsbriefe-Test, Liechtenstein dominiert",
+   "deck": "Von 178 getesteten Banken und Vermögensverwaltern schaffen es 16 ins Finale – die Schweiz schneidet schwach ab.",
+   "text": [
+    "Die Fuchsbriefe-Prüfinstanz hat in Berlin ihr Ranking „Tops 2027“ vorgestellt, zum 24. Mal. Sieger ist die Rothschild & Co Vermögensverwaltung aus Frankfurt mit 84 von 100 Punkten, vor der Neuen Bank (83) und der Kaiser Partner Privatbank (82), beide aus Vaduz. Es folgen die österreichische Alpen Privatbank (81) sowie die Deutsche Apotheker- und Ärztebank und das Salzburger Bankhaus Carl Spängler mit je 79 Punkten. Zwischen Platz eins und sechs liegen nur fünf Punkte.",
+    "Getestet wurde verdeckt mit einem Erbfall: Ein Kunde mit 5 bis 8 Millionen Euro und einem vermieteten Mehrfamilienhaus sucht Rat. Die Tester sprachen 178 Banken, Private-Banking-Einheiten und Vermögensverwalter an, so viele wie nie, 130 durchliefen die gesamte Beratung, 16 erreichten das Finale. Gewichtet werden das Beratungsgespräch (40 Prozent), der Anlagevorschlag (10), die Präsentation vor einer Jury (20), die Anlagekompetenz (15) und die Transparenz (15). Erfolgreich war laut den Prüfern, wer gründlich nach den Bedürfnissen fragte und verständliche Strategien vorlegte. Schwächere Häuser griffen früh zu Standardportfolios oder Renditeversprechen.",
+    "Die Mediane zeigen das Gefälle: Liechtenstein 45,96 Punkte, Deutschland 36,37, Österreich 34,45, Schweiz 30,61. Einziges Schweizer Haus im Finale ist die Frankfurter Bankgesellschaft (Schweiz), die zur Sparkassen-Finanzgruppe gehört, auf Platz zehn mit 71 Punkten. Reichmuth & Co und die Acrevis Bank folgen mit weniger als der Hälfte der Punkte.",
+    "Kritik an der Methode gibt es auch: 5 der 15 Transparenzpunkte bekommt nur, wer an hauseigenen Formaten des Verlags teilnimmt. Der Verlag, eine Tochter von Springer Nature, nimmt nach eigenen Angaben keine Teilnahmegebühren, verdient aber an Lizenzen für das Prüfsiegel. Schweizer Häuser sehen laut einem Branchenkenner vor allem die Jury-Präsentation skeptisch."
+   ],
+   "quellen": [
+    [
+     "Private Banking Magazin",
+     "https://www.private-banking-magazin.de/tops-2027-der-fuchsbriefe-pruefinstanz-rothschild-apobank-millionenerbe/"
+    ],
+    [
+     "Finews",
+     "https://www.finews.com/news/english-news/74583-fuchsbriefe-tops-2027-wealth-manager-ranking-switzerland-liechtenstein"
+    ]
+   ],
+   "berichterstattung": [
+    "private-banking-magazin.de",
+    "finews.com",
+    "finews.ch",
+    "fuchsbriefe.de"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Übernahmen",
+    "Europa"
+   ],
+   "kicker": "Vermögen · Private Equity",
+   "titel": "KKR steht vor dem Kauf von Logoplaste – Ontario Teachers steigt beim portugiesischen Verpackungshersteller aus",
+   "deck": "Der Pensionsfonds verkauft seine 60 Prozent, die beiden Altaktionäre bleiben mit 40 Prozent an Bord.",
+   "text": [
+    "KKR steht laut Bloomberg kurz vor der Übernahme der Mehrheit am portugiesischen Verpackungshersteller Logoplaste. Verkäufer ist der kanadische Pensionsfonds Ontario Teachers’ Pension Plan, der seine 60 Prozent nach einem formellen Verkaufsprozess abgibt. Der Vertrag könnte binnen Tagen unterzeichnet werden. KKR verhandelte seit September exklusiv, nachdem der Konkurrent Apax ausgestiegen war.",
+    "Zum Wert gibt es unterschiedliche Angaben: Bloomberg spricht in der Überschrift von mehr als 1,7 Milliarden Euro, die Zusammenfassung von Investing.com nennt mehr als 1,2 Milliarden Euro einschließlich Schulden. Ontario Teachers hatte die Mehrheit 2021 von Carlyle übernommen, damals bei einer Bewertung von rund 1,4 Milliarden Euro einschließlich Schulden.",
+    "Logoplaste-Präsident Filipe de Botton und Verwaltungsratsmitglied Alexandre Relvas bringen ihre gemeinsamen 40 Prozent über ihre Beteiligungsgesellschaft Nikky Investments in die neue Struktur ein und bleiben neben KKR investiert. Das 1976 gegründete Unternehmen stellt starre Kunststoffverpackungen her, betreibt mehr als 60 Werke in 16 Ländern und setzt rund eine Milliarde Euro im Jahr um. Bekannt ist es für das „Wall-to-Wall“-Modell: Die Produktion steht direkt in den Werken der Kunden, zu denen Kraft Heinz, Diageo und L’Oréal gehören."
+   ],
+   "quellen": [
+    [
+     "Investing.com",
+     "https://www.investing.com/news/stock-market-news/kkr-set-to-acquire-majority-stake-in-portugals-logoplaste-bloomberg-reports-5042304"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-20/kkr-is-said-to-seal-pact-to-purchase-portugal-s-logoplaste"
+    ],
+    [
+     "Briefs",
+     "https://www.briefs.co/news/kkr-in-exclusive-talks-to-buy-portuguese-packager-logoplaste/"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "investing.com",
+    "dealroom.co"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Übernahmen",
+    "EQT"
+   ],
+   "kicker": "Vermögen · Private Equity",
+   "titel": "Apax gibt Pickles an EQT weiter – der australische Online-Auktionator wechselt den Besitzer",
+   "deck": "Der Fonds BPEA IX kauft die Plattform für Unfallwagen, Gebrauchtautos und Industriemaschinen, der Preis bleibt geheim.",
+   "text": [
+    "Der schwedische Finanzinvestor EQT übernimmt den australischen Online-Auktionator Pickles von den Fonds von Apax Partners. Die Verträge sind unterzeichnet, finanzielle Details nannten die Parteien nicht. Käufer ist der Asien-Fonds BPEA Private Equity Fund IX, der nach dem Geschäft einschließlich abgeschlossener und unterzeichneter Deals zu 15 bis 20 Prozent investiert sein soll. Der Abschluss steht unter dem Vorbehalt der üblichen Bedingungen und behördlicher Genehmigungen.",
+    "Pickles wurde 1964 von der gleichnamigen Familie in Sydney gegründet und verkauft Unfallfahrzeuge, Gebrauchtwagen und Industrieausrüstung, in Australien und Malaysia mit führenden Marktanteilen. Kunden sind Versicherer, Flottenbetreiber, Finanzinstitute, Unternehmen und Behörden. Im Geschäftsjahr bis Juni 2026 setzte die Plattform Vermögenswerte im Bruttowert von mehr als drei Milliarden australischen Dollar um.",
+    "Apax war 2022 eingestiegen und hat die Versteigerungen in der Haltezeit vollständig ins Netz verlegt, eine neue Datenplattform aufgebaut und das Angebot erweitert. EQT will auf Erfahrungen mit Marktplätzen wie PropertyGuru, Idealista und Adevinta Spain aufbauen und mehr Daten, Analysen und Dienste anbieten. „Ein solches Geschäft ist schwer nachzubauen, und wir bewundern es seit einiger Zeit“, sagte Frank Heckes, Leiter von EQT Private Capital Australia. EQT ließ sich von UBS, JWS und Clifford Chance beraten, Apax von Barrenjoey, Barclays und Mallesons."
+   ],
+   "quellen": [
+    [
+     "EQT",
+     "https://eqtgroup.com/news/eqt-to-acquire-a-leading-australian-digital-auction-marketplace-pickles-from-the-apax-funds-2026-11-19"
+    ],
+    [
+     "DealStreetAsia",
+     "https://www.dealstreetasia.com/stories/eqt-to-acquire-pickles-501707"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "eqtgroup.com",
+    "dealstreetasia.com",
+    "pulse2.com",
+    "peinsights.substack.com",
+    "manilatimes.net",
+    "law360.com",
+    "news.europawire.eu"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Chips",
+    "China",
+    "Regulierung"
+   ],
+   "kicker": "KI · Chips",
+   "titel": "Fast 900.000 KI-Chips für China genehmigt: Kongressunterlagen bringen das Handelsministerium in Erklärungsnot",
+   "deck": "Dokumente aus dem Auswärtigen Ausschuss des US-Repräsentantenhauses zeigen, wie großzügig Washington Exporte von KI-Beschleunigern nach China freigegeben hat.",
+   "text": [
+    "Das US-Handelsministerium hat bis Mai 2026 den Verkauf von mehr als 879.000 KI-Chips an chinesische Unternehmen genehmigt, darunter an Alibaba und Tencent. Das geht nach Angaben von CNBC aus Unterlagen hervor, die der Auswärtige Ausschuss des Repräsentantenhauses veröffentlicht hat. Die Nachrichtenagentur Reuters beziffert die Freigaben auf knapp 900.000 fortgeschrittene Chips, die zwischen Dezember 2025 und Mai 2026 an vier chinesische Firmen mit Verbindungen zum Militär gegangen seien. Beantragt hatten die Unternehmen demnach mehr als 3,4 Millionen Chips.",
+    "Der demokratische Abgeordnete Gregory Meeks kritisierte die Arbeit des Bureau of Industry and Security (BIS), der für Exportkontrollen zuständigen Behörde im Handelsministerium. Der frühere Regierungsbeamte Chris McGuire bezweifelte gegenüber Reuters, dass die nationale Sicherheit bei den Genehmigungen gründlich geprüft worden sei.",
+    "Nvidia hatte zuletzt 2,4 Milliarden Dollar Quartalsumsatz mit dem KI-Beschleuniger H200 und verwandten China-Geschäften ausgewiesen, die Lieferungen des H200 nach China inzwischen aber gestoppt. Die Folgen neuer US-Regeln zeigen sich auch außerhalb Chinas: Das chinesische KI-Start-up Moonshot AI hat laut The Information einen 150-Millionen-Dollar-Vertrag über Nvidia-Chips in einem Rechenzentrum in Indonesien aufgekündigt, nachdem Washington den Fernzugriff auf fortgeschrittene Chips eingeschränkt hatte. Gemeint ist die Nutzung von Rechenleistung im Ausland über die Cloud, mit der Exportverbote bislang umgangen werden konnten."
+   ],
+   "quellen": [
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+    ],
+    [
+     "Rio Rundown (Zusammenfassung des Reuters-Berichts)",
+     "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
+    ],
+    [
+     "The Neuron (Zusammenfassung des Berichts von The Information)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Cybersicherheit",
+    "EU"
+   ],
+   "kicker": "KI · Cyberangriffe",
+   "titel": "KI-gestützter Angriff auf die EU-Kommission: Gehaltsabrechnung und Arzterstattungen zeitweise gestört",
+   "deck": "Brüssel kämpft mit den Folgen eines Cyberangriffs, bei dem nach ersten Erkenntnissen ein KI-gestütztes Testwerkzeug zum Einsatz kam.",
+   "text": [
+    "Die Europäische Kommission ist Ziel eines Cyberangriffs geworden, bei dem künstliche Intelligenz eine Rolle gespielt haben soll. Wie das britische IT-Portal The Register berichtet, legte der Angriff zeitweise die Systeme für die Gehaltsabrechnung und für die Erstattung medizinischer Kosten der Beschäftigten lahm.",
+    "Die Ermittler sind demnach auf ein Werkzeug namens ARTEX gestoßen, ein KI-gestütztes Programm für Sicherheitstests. Solche Werkzeuge werden eigentlich für sogenannte Penetrationstests eingesetzt: Dabei greifen beauftragte Fachleute die eigenen Systeme gezielt an, um Schwachstellen zu finden, bevor Kriminelle es tun. In falschen Händen können sie Angreifern dieselbe Arbeit abnehmen.",
+    "Der Vorfall trifft Brüssel an einer empfindlichen Stelle. Im Juli hatte die Kommission einen Plan vorgestellt, der Risiken und Chancen fortgeschrittener KI für die Cybersicherheit angehen soll. Der Fall dürfte die Debatte darüber verstärken, wie sich frei verfügbare KI-Angriffswerkzeuge kontrollieren lassen."
+   ],
+   "quellen": [
+    [
+     "The Register",
+     "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"
+    ],
+    [
+     "The Neuron (Zusammenfassung)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ],
+    [
+     "Europäische Kommission (KI-Cybersicherheitsplan, Juli 2026)",
+     "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_el"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Agenten",
+    "Google",
+    "Apple"
+   ],
+   "kicker": "KI · Agenten",
+   "titel": "Der Assistent übernimmt die Maus: Gemini steuert jetzt den Mac – Apple arbeitet an einem eigenen Agenten",
+   "deck": "Google, Apple und OpenAI treiben KI-Agenten voran, die nicht nur antworten, sondern selbst Programme bedienen.",
+   "text": [
+    "Google hat seiner Gemini-App für macOS die Fähigkeit zur sogenannten Computersteuerung gegeben. Gemeint ist ein KI-Agent, der wie ein Mensch Programme bedient, klickt und tippt. Gemini kann nun laut Google lokale Dateien ordnen, Formulare ausfüllen und Mac-Programme sowie Websites im Hintergrund bedienen. Nutzer sehen eine Live-Vorschau und können Aktionen anhalten, stoppen oder freigeben. Die Funktion gibt es zunächst nur auf Englisch in den USA und nur für zahlende Kunden der Abos Google AI Plus, Pro und Ultra.",
+    "Apple arbeitet offenbar an einem eigenen Gegenstück. Bloomberg entdeckte eine Stellenanzeige für einen leitenden Entwicklungsmanager, der einen KI-Agenten bauen soll, der einen Computer bedienen, im Web surfen und programmieren kann. Das Projekt steht demnach noch am Anfang, ein Start sei frühestens Ende kommenden Jahres denkbar. Zugleich soll macOS 27.3 Nutzer davor warnen, Agenten anderer Anbieter vollen Zugriff auf den Rechner zu geben.",
+    "OpenAI testet unterdessen eine neue Gestaltung der mobilen ChatGPT-App. Darin bekommt „dot“, ein ständig aktiver persönlicher Agent, einen eigenen Reiter, dazu kommt ein Raster mit Werkzeugen wie Codex und Images. Der Test beginnt mit Pro-Kunden außerhalb der EU, Großbritanniens, der Schweiz und Südkoreas."
+   ],
+   "quellen": [
+    [
+     "TechCrunch (Gemini für Mac)",
+     "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    ],
+    [
+     "TechCrunch (Apple-Agent, nach Bloomberg)",
+     "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    ],
+    [
+     "The Verge (ChatGPT-Neugestaltung)",
+     "https://www.theverge.com/ai-artificial-intelligence/1038334/openai-is-testing-a-new-design-for-mobile-chatgpt"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Rechenzentren",
+    "Energie",
+    "Google"
+   ],
+   "kicker": "KI · Rechenzentren",
+   "titel": "Server im Orbit, Strafsteuer für Auslandsbauten: Der Kampf um Platz und Strom für KI wird schärfer",
+   "deck": "Google bucht Blue Origin für Rechenzentrums-Satelliten, Trump droht Firmen mit Rechenzentren im Ausland – und eine Analyse zeigt den Stromhunger der US-Anlagen.",
+   "text": [
+    "Google hat Blue Origin ausgewählt, um im ersten Quartal 2029 Satelliten mit KI-Servern ins All zu bringen. Das Vorhaben läuft unter dem Namen Project Suncatcher. Jeder Satellit soll laut dem Bericht von The Verge so viel Rechenleistung bieten wie ein Serverschrank in einem Rechenzentrum.",
+    "Auf der Erde wird der Streit um KI-Rechenzentren politischer. US-Präsident Donald Trump kündigte nach einem Bericht des südkoreanischen Senders SBS an, Unternehmen, die Rechenzentren im Ausland bauen, müssten mit „hohen Steuern“ rechnen. Einzelheiten nannte er demnach nicht.",
+    "Wie groß der Energiebedarf schon ist, zeigt eine Auswertung, über die das Portal Semafor berichtet: 403 Rechenzentren in den USA verbrauchten zusammen fast zwei Prozent des Stroms des Landes, ein großer Teil davon stammt aus fossilen Quellen. Der Ausbau geht dennoch weiter, auch außerhalb der USA: Der Cloud-Anbieter Nebius mietet in Israel zusätzliche 134 Megawatt in zwei Anlagen in Beit Schemesch und Masmiya, die eine im Bau, die andere geplant. Der Vertrag läuft sieben Jahre mit einer Verlängerungsoption um fünf Jahre."
+   ],
+   "quellen": [
+    [
+     "The Verge",
+     "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"
+    ],
+    [
+     "SBS News",
+     "https://news.sbs.co.kr/english/article.do?news_id=N1008856598"
+    ],
+    [
+     "Semafor",
+     "https://www.semafor.com/article/11/17/2026/us-data-center-emissions-rival-entire-countries"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Open Source",
+    "Modelle"
+   ],
+   "kicker": "KI · Open Source",
+   "titel": "Modelle zum Herunterladen: Tencent, Cloudflare und Orange veröffentlichen offene KI-Gewichte",
+   "deck": "Eine Reihe neuer Modelle lässt sich lokal betreiben – vom chinesischen Tencent bis zu einem Sprachmodell für das westafrikanische Wolof.",
+   "text": [
+    "Mehrere Anbieter haben in dieser Woche sogenannte Open-Weight-Modelle veröffentlicht. Dabei stellen sie die trainierten Parameter, die Gewichte, zum Download bereit, sodass Firmen und Entwickler die Modelle auf eigener Hardware betreiben können, ohne Daten an einen Cloud-Dienst zu schicken. Der chinesische Konzern Tencent gab die Gewichte seines Modells Hy4 Flash frei. Es verarbeitet laut Bericht des Portals TechNode bis zu eine Million Token im Kontext, also sehr lange Dokumente auf einmal.",
+    "Cloudflare hat sein offenes Modell Clairic überarbeitet. Es liest nun bis zu vier Seiten oder Bilder pro Anfrage. Nach Angaben des Unternehmens sank die Zahl der Fehler beim Lesen von Bildern in einem internen Test von 207 auf null; eine unabhängige Prüfung dieser Herstellerangabe gibt es nicht. Dazu kommt die kleinere Variante Clairic-flash mit neun Milliarden Parametern.",
+    "Der französische Telekomkonzern Orange stellte fünf Modelle für die in Westafrika verbreitete Sprache Wolof vor. Sie bauen auf Qwen3 von Alibaba auf und sind auf der Plattform Hugging Face für nichtkommerzielle Zwecke kostenlos. Wie weit lokale KI inzwischen auf gewöhnlichen Rechnern reicht, zeigt ein Test mit der Software Unsloth Desktop auf AMD-Laptops mit eigenem KI-Rechenwerk (NPU): Das Modell Qwen3.6-35B-A3B erreichte dort 17,2 Token pro Sekunde bei 20,6 Gigabyte Arbeitsspeicher. Als Engpass gilt laut dem Bericht vor allem die Speicherbandbreite."
+   ],
+   "quellen": [
+    [
+     "The Neuron (Übersicht mit Tencent und Orange)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ],
+    [
+     "Cloudflare",
+     "https://blog.cloudflare.com/open-clairic/"
+    ],
+    [
+     "Rio Rundown (Unsloth auf AMD-Laptops)",
+     "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Mathematik",
+    "KI"
+   ],
+   "kicker": "Köpfe · Mathematik",
+   "titel": "Levent Alpöge: Der Anthropic-Mathematiker will die Riemannsche Vermutung bewiesen haben – mit Claude",
+   "deck": "Ein Beweis für das berühmteste offene Problem der Mathematik, erstellt mit einem KI-Modell: Die Behauptung ist spektakulär, bestätigt ist sie nicht.",
+   "text": [
+    "Levent Alpöge, Mathematiker beim KI-Unternehmen Anthropic, sagt, er habe mithilfe des hauseigenen KI-Modells Claude einen Beweis der Riemannschen Vermutung erstellt. Den Beweis hat er in der Sprache Lean veröffentlicht, wie das Magazin Scientific American berichtet. Unabhängig bestätigt ist er bislang nicht.",
+    "Die Riemannsche Vermutung, 1859 von Bernhard Riemann formuliert, betrifft die Nullstellen der sogenannten Zetafunktion und damit die Frage, wie regelmäßig die Primzahlen unter den natürlichen Zahlen verteilt sind. Sie gilt als das berühmteste ungelöste Problem der Mathematik. Lean ist ein Beweisassistent: eine Software, in der jeder logische Schritt eines Beweises formal aufgeschrieben und vom Computer nachgeprüft wird. Ob die formale Fassung wirklich die Vermutung abbildet und der Beweis trägt, müssen nun andere Mathematiker prüfen.",
+    "Die Behauptung fällt in eine Woche, in der Anthropic mit seinem Börsengang ohnehin im Mittelpunkt steht. Anthropic betreibt auch diese Redaktion; der Weltbote gibt die Angaben deshalb ausdrücklich als unbestätigte Behauptung wieder."
+   ],
+   "quellen": [
+    [
+     "Scientific American",
+     "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+    ],
+    [
+     "AI Frontier Daily (Übersicht)",
+     "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-20"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Südkorea",
+    "Justiz"
+   ],
+   "kicker": "Köpfe · Politik",
+   "titel": "Kim Keon Hee: Südkoreas frühere First Lady will ihre Verurteilung „niemals“ akzeptieren",
+   "deck": "Einen Tag nachdem das Oberste Gericht ihre vierjährige Haftstrafe bestätigt hat, macht die Ehefrau von Ex-Präsident Yoon Suk Yeol ihrem Ärger Luft.",
+   "text": [
+    "Kim Keon Hee, die Ehefrau des früheren südkoreanischen Präsidenten Yoon Suk Yeol, hat nach der Bestätigung ihrer Haftstrafe mit scharfen Worten reagiert. Das Oberste Gericht hatte am Donnerstag die vierjährige Haftstrafe wegen Korruption rechtskräftig gemacht.",
+    "Einen Tag später trat Kim in einem anderen Verfahren vor Gericht auf. Dort sagte sie nach einem Bericht des Senders SBS, sie könne den Schuldspruch niemals akzeptieren. Zugleich fragte sie, wie lange die Justiz noch auf Zehenspitzen um die Politik herumschleichen wolle.",
+    "Der Fall gehört zu einer ganzen Reihe von Verfahren gegen das Umfeld des früheren Präsidenten. Am selben Tag hatte das Oberste Gericht in der Affäre um das kurzzeitig verhängte Kriegsrecht das 15-Jahre-Urteil gegen den früheren Premierminister Han Duck-soo aufgehoben."
+   ],
+   "quellen": [
+    [
+     "SBS News",
+     "https://news.sbs.co.kr/english/article.do?news_id=N1008856598"
+    ],
+    [
+     "Korea Times (Urteile vom Donnerstag)",
+     "https://www.koreatimes.co.kr/southkorea/law-crime/20261119/top-court-overturns-15-year-prison-term-for-ex-pm-han-over-martial-law-role"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Cloudflare",
+    "KI",
+    "Urheberrecht"
+   ],
+   "kicker": "Köpfe · Konzernchef",
+   "titel": "Matthew Prince: Der Cloudflare-Chef lässt OpenAI für Hinweise auf geänderte Webseiten bezahlen",
+   "deck": "Statt dass KI-Crawler das ganze Netz immer wieder absuchen, verkauft Cloudflare ihnen nun Informationen darüber, was sich geändert hat – und Prince erwartet Nachahmer.",
+   "text": [
+    "Matthew Prince, Mitgründer und Chef des Netzwerkdienstleisters Cloudflare, hat einen ersten zahlenden Kunden für ein neues Geschäftsmodell gewonnen: OpenAI. Der ChatGPT-Anbieter zahlt Cloudflare künftig für Hinweise, welche Webseiten sich verändert haben. So kann sein Crawler, also das Programm, das automatisch Webseiten abruft und für das Training und die Suche sammelt, unveränderte Seiten überspringen.",
+    "Prince sagte Investoren, das Geschäft habe in diesem Quartal bereits Umsatz gebracht, und sagte voraus, dass andere KI-Firmen folgen würden.",
+    "Die Frage, was KI-Firmen für Inhalte aus dem Netz zahlen sollen, beschäftigt die Branche seit Langem. Eine am Donnerstag veröffentlichte Studie des Beratungshauses Mather Economics schätzt, lizenzierter Zugang zu Inhalten könne 15 bis 35 Prozent der Umsätze von KI-Firmen wert sein, das wären 15 bis 35 Milliarden Dollar im Jahr. Als Basis nimmt die Studie gerundet 100 Milliarden Dollar annualisierten Umsatz von OpenAI und Anthropic. Zur Methode macht sie nur wenige Angaben."
+   ],
+   "quellen": [
+    [
+     "Cloudflare-Blog",
+     "https://blog.cloudflare.com/tag/ai/"
+    ],
+    [
+     "AI Frontier Daily (Übersicht)",
+     "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-20"
+    ],
+    [
+     "Mather Economics (Pressemitteilung)",
+     "https://www.globenewswire.com/news-release/2026/11/19/3407080/0/en/collective-content-licensing-for-ai-poised-to-be-a-tens-of-billions-dollar-market-mather-economics-report-finds.html"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Philosophie",
+    "KI"
+   ],
+   "kicker": "Köpfe · Philosophie",
+   "titel": "Nick Bostrom: Der Philosoph hält mit KI eine Lebensspanne von 1.400 Jahren für denkbar",
+   "deck": "Der Autor von „Superintelligence“ entwirft ein optimistisches Szenario – zur gleichen Zeit skizzieren DeepMind-Forscher den Weg zur Superintelligenz.",
+   "text": [
+    "Nick Bostrom, der schwedische Philosoph, der mit seinem Buch „Superintelligence“ die Debatte über die Risiken künstlicher Intelligenz geprägt hat, sieht in der Technik auch eine Chance für ein sehr langes Leben. Nach einem Bericht von Business Insider hält er es für möglich, dass Menschen eines Tages 1.400 Jahre alt werden, falls KI große Durchbrüche gegen das Altern ermöglicht. Das Magazin stellt die Aussage ausdrücklich als Spekulation dar.",
+    "Bostrom äußerte sich in einer Woche, in der auch Forscher von Google DeepMind über die Zeit nach der allgemeinen künstlichen Intelligenz (AGI, eine KI auf menschlichem Niveau) nachdenken. In einem Essay beschreiben sie vier mögliche Wege zur Superintelligenz: größere Modelle, neue technische Ansätze, die Zusammenarbeit vieler Agenten und Systeme, die sich selbst verbessern. Superintelligenz definieren sie als KI, die Gruppen menschlicher Experten durchgängig und mit weniger Aufwand übertrifft.",
+    "Bostrom gilt seit Jahren als einer der einflussreichsten Denker zu den langfristigen Folgen der KI, seine Szenarien reichen von Warnungen vor Kontrollverlust bis zu Visionen eines radikal verlängerten Lebens."
+   ],
+   "quellen": [
+    [
+     "Business Insider",
+     "https://www.businessinsider.com/nick-bostrom-says-ai-could-unlock-lifespans-over-1000-years-2026-11"
+    ],
+    [
+     "Google DeepMind (Essay)",
+     "https://institute.deepmind.com/essays/what-comes-after-agi/"
+    ],
+    [
+     "The Neuron (Übersicht)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "businessinsider.com"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Target",
+    "Handel",
+    "KI"
+   ],
+   "kicker": "Köpfe · Konzernchef",
+   "titel": "Michael Fiddelke: Der Target-Chef sieht doppelt so viele Käufe über den KI-Assistenten",
+   "deck": "Seit Februar führt Fiddelke den US-Einzelhändler – nun setzt er im Weihnachtsgeschäft auch auf einen Einkaufsassistenten mit KI.",
+   "text": [
+    "Michael Fiddelke, seit Februar Chef der US-Handelskette Target, hat dem hauseigenen KI-Einkaufsassistenten ein gutes Zeugnis ausgestellt. In der Testversion von „Ask Target“ kauften Kunden etwa doppelt so häufig wie über andere Kanäle, sagte er in der Telefonkonferenz zu den Quartalszahlen. Neue Funktionen sollen in den kommenden Monaten folgen. Unabhängig überprüfbar sind die Angaben nicht.",
+    "Fiddelke kann sich auf starke Zahlen stützen: Target hatte im dritten Geschäftsquartal das stärkste Umsatzwachstum seit mehr als fünf Jahren erzielt, der Umsatz stieg um 7,1 Prozent auf 27,1 Milliarden Dollar. Es war das dritte Wachstumsquartal in Folge unter seiner Führung. Er setzt auf ein besseres Sortiment, renovierte Filialen und mehr Personal.",
+    "Wie wichtig KI im Weihnachtsgeschäft wird, zeigt eine Umfrage des Bewertungsdienstes Bazaarvoice: 72 Prozent der Käufer wollen KI nutzen, 15 Prozent wollen KI-Werkzeuge sogar Geschenke für sich kaufen lassen. Die meisten prüfen vor dem Kauf aber weiterhin Kundenbewertungen."
+   ],
+   "quellen": [
+    [
+     "Rio Rundown (Zusammenfassung des Retail-Dive-Berichts)",
+     "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
+    ],
+    [
+     "CNBC (Quartalszahlen)",
+     "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html"
+    ],
+    [
+     "Bazaarvoice (Pressemitteilung)",
+     "https://www.globenewswire.com/news-release/2026/11/19/3406384/19098/en/72-of-holiday-shoppers-will-use-ai-but-almost-all-still-pair-it-with-customer-reviews-before-buying.html"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com"
+   ]
+  },
+  {
+   "id": "wiss-01",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Klima",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Glaziologie · Erkenntnis",
+   "titel": "Hohe Eisklippen in der Antarktis brechen schnell ab – und fangen sich dann wieder",
+   "deck": "Satellitendaten von mehr als 15.000 Eisklippen stellen eine gefürchtete Kettenreaktion am Südpol infrage, entwarnen aber nicht.",
+   "text": [
+    "Einer der beunruhigendsten Mechanismen in Modellen zum Meeresspiegelanstieg könnte weniger durchschlagend sein als befürchtet. Das berichtet ein Team um die Doktorandin Caroline Needell vom gemeinsamen Programm des Massachusetts Institute of Technology und der Woods Hole Oceanographic Institution in der Fachzeitschrift „Science“. Beteiligt waren auch die Glaziologin Catherine Walker von der Woods Hole Oceanographic Institution und Jeremy Bassis von der University of Michigan.",
+    "Es geht um die sogenannte Eiskliff-Instabilität, in der Fachsprache MICI. Nach dieser Vorstellung werden Eisklippen am Rand der Gletscher instabil, sobald sie eine kritische Höhe von etwa 100 Metern überschreiten. Dann sollen sie immer wieder abbrechen, und hinter jeder abgebrochenen Wand käme eine noch höhere zum Vorschein – ein sich selbst verstärkender Rückzug. Um das zu überprüfen, werteten die Forscher Messungen des Nasa-Lasersatelliten ICESat-2 aus den Jahren 2019 bis 2023 aus, für mehr als 15.000 Eisklippen in Abständen von drei Monaten. Im Mittel sind die Klippen rund 30 Meter hoch; vier Orte mit den höchsten Wänden um 100 Meter, die höchste mit 127 Metern, nahmen sie genauer unter die Lupe.",
+    "Das Ergebnis ist zwiespältig. Die hohen Klippen brachen tatsächlich ab, und die Gletscher zogen sich sogar schneller zurück, als die Modelle vorhersagen. Doch der Rückzug hielt nicht an: Die Gletscher stabilisierten sich, manche rückten später wieder vor. Als mögliche Bremsen nennt das Team einen dickeren Brei aus Meereis und Eisbergtrümmern vor den Klippen, tieferes Wasser, das stützenden Druck ausübt, Rücken im Untergrund und das schnellere Ausdünnen hoher Klippen, die so zu niedrigeren, stabileren Wänden werden.",
+    "Die Autoren betonen, dass der Eisschild damit nicht in Sicherheit ist. Die Detailanalyse beruht auf nur vier Orten, und für verlässliche Prognosen fehlen bessere Daten zur Form des Felsbetts und dazu, wie schnell das Eis ausdünnt. Gerade das Ausdünnen sei entscheidend, wenn es um den künftigen Meeresspiegel gehe, sagt Needell. Gefördert wurde die Arbeit unter anderem von der Nasa und der US-Wissenschaftsstiftung NSF."
+   ],
+   "quellen": [
+    [
+     "Science, DOI 10.1126/science.aee0658",
+     "https://doi.org/10.1126/science.aee0658"
+    ],
+    [
+     "ScienceDaily",
+     "https://www.sciencedaily.com/releases/2026/11/261117033925.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-02",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Medizin",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Psychiatrie · Erkenntnis",
+   "titel": "Antidepressiva auf lange Sicht: Escitalopram und Duloxetin schneiden besser ab als Fluoxetin",
+   "deck": "Eine Auswertung von 115 Studien mit mehr als 30.000 Teilnehmern vergleicht Mittel gegen Depression über mindestens sechs Monate – mit deutlichen Einschränkungen.",
+   "text": [
+    "Wer wegen einer Depression über längere Zeit Medikamente nimmt, ist mit manchen Wirkstoffen womöglich besser bedient als mit anderen. Zu diesem vorsichtigen Ergebnis kommt eine systematische Übersichtsarbeit mit Netzwerk-Metaanalyse in der Fachzeitschrift „The Lancet Psychiatry“. Zu den Autoren gehören unter anderen Paul van Haaren, Andrea Cipriani, Toshi Furukawa und Henricus Ruhé.",
+    "Die Forscher werteten 115 randomisierte kontrollierte Studien mit mehr als 30.000 Teilnehmern aus, in denen Antidepressiva über mindestens sechs Monate gegeben wurden. Die Hauptanalyse stützt sich auf 35 Studien, die zwei Medikamente direkt miteinander verglichen. Gemessen wurde, wie häufig die Wirkung anhielt, und als Maß für die Verträglichkeit, wie viele Patienten die Behandlung aus irgendeinem Grund abbrachen.",
+    "Escitalopram, Duloxetin und Agomelatin gingen demnach häufiger mit einem dauerhaften Ansprechen einher als Fluoxetin, einer der am längsten eingesetzten Wirkstoffe. Patienten unter Escitalopram und Duloxetin brachen die Behandlung zudem seltener ab als jene unter Fluoxetin.",
+    "Die Aussagekraft ist allerdings begrenzt, wie auch die Fachleute betonen, die die Studie bei „The Conversation“ eingeordnet haben. Mehr als die Hälfte der Studien der Hauptanalyse wies ein hohes Risiko für Verzerrungen auf, manche Unterschiede könnten also auf Mängel der Einzelstudien zurückgehen. Für einige Mittel gab es nur sehr wenige Studien, die meisten direkten Vergleiche liefen nur etwa sechs Monate, lediglich sechs länger. Zudem handelt es sich um Durchschnittswerte, die nicht vorhersagen, was einem einzelnen Menschen hilft, und Therapieabbrüche sind nur ein grobes Maß für Verträglichkeit. Wer mit einem Medikament gut zurechtkommt, sollte es allein wegen dieser Ergebnisse nicht wechseln, schon gar nicht ohne ärztlichen Rat."
+   ],
+   "quellen": [
+    [
+     "The Lancet Psychiatry, DOI 10.1016/S2215-0366(26)00326-3",
+     "https://doi.org/10.1016/S2215-0366(26)00326-3"
+    ],
+    [
+     "The Conversation",
+     "https://theconversation.com/some-antidepressants-may-work-better-than-others-long-term-new-study-296151"
+    ],
+    [
+     "ScienceDaily",
+     "https://www.sciencedaily.com/releases/2026/11/261118065515.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "theconversation.com",
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-03",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Astronomie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Astronomie · Erkenntnis",
+   "titel": "Futter für das Schwarze Loch: Ein enges Sternenpaar könnte die rätselhaften Gaswolken im Zentrum der Milchstraße erzeugen",
+   "deck": "Garchinger Astronomen führen die Wolken G1, G2 und G2t auf einen gemeinsamen Ursprung zurück – einen Doppelstern, dessen Winde Gas zu Klumpen pressen.",
+   "text": [
+    "Seit Jahren verfolgen Astronomen kleine Gas- und Staubwolken, die auf engen Bahnen um Sagittarius A* kreisen, das supermassereiche Schwarze Loch im Zentrum der Milchstraße. Woher sie stammen, war umstritten. Ein internationales Team unter Leitung des Max-Planck-Instituts für extraterrestrische Physik (MPE) in Garching schlägt nun in der Fachzeitschrift „Astronomy & Astrophysics“ eine Erklärung vor. Erstautor ist Stefan Gillessen, zu den Mitautoren gehören Frank Eisenhauer und Nobelpreisträger Reinhard Genzel.",
+    "Die Forscher beobachteten die Wolken mit den Infrarot-Spektrografen SINFONI und ERIS, die mit adaptiver Optik das Flimmern der Atmosphäre ausgleichen. Aus dem Leuchten von Wasserstoff bestimmten sie Positionen und Geschwindigkeiten und rekonstruierten die Bahnen. Dabei zeigte sich: Die Wolken G1, G2 und G2t laufen auf nahezu gleich geformten und gleich ausgerichteten Bahnen – ein Hinweis auf eine gemeinsame Herkunft.",
+    "Als Quelle kommt demnach IRS 16SW infrage, ein massereiches Kontaktdoppelsternsystem aus zwei sehr eng beieinander stehenden Sternen. Es gehört zu einer Scheibe junger Sterne, die das Schwarze Loch im Uhrzeigersinn umkreist. Die aufeinanderprallenden Sternwinde der beiden Partner erzeugen eine Stoßfront, die Gas zu dichten Klumpen verdichtet. Diese können sich lösen und nach innen fallen. Das Team spricht vom „Gasstrom G1-2-3“. Computersimulationen der Gasströmung stützen das Bild.",
+    "Bewiesen ist der Mechanismus noch nicht. Die Forscher bezeichnen die Herkunft als plausibel; andere Erklärungen, etwa Novae, wurden erwogen, aber nicht ausdrücklich ausgeschlossen. Interessant ist die Größenordnung: G2 enthält mehrere Erdmassen Gas. Rechnerisch würde etwa eine Erdmasse alle zehn Jahre genügen, um die derzeitige Aktivität von Sagittarius A* aufrechtzuerhalten – eine Abschätzung, keine gemessene Zufuhr."
+   ],
+   "quellen": [
+    [
+     "Astronomy & Astrophysics, DOI 10.1051/0004-6361/202555808",
+     "https://doi.org/10.1051/0004-6361/202555808"
+    ],
+    [
+     "Max-Planck-Institut für extraterrestrische Physik",
+     "https://www.mpe.mpg.de/8191695/tracing-the-origins-of-mysterious-gas-clouds-near-the-galactic-center"
+    ],
+    [
+     "ScienceDaily",
+     "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-04",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Paläontologie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Paläoanthropologie · Erkenntnis",
+   "titel": "Das Kind von Taung steht womöglich allein: Hinter „Australopithecus africanus“ könnten mehrere Arten stecken",
+   "deck": "Zähne und Wachstumsmuster deuten darauf hin, dass Südafrikas Vormenschen vor drei Millionen Jahren vielfältiger waren als gedacht.",
+   "text": [
+    "Das Kind von Taung ist eines der berühmtesten Fossilien der Menschheitsgeschichte. Der 1924 in Südafrika entdeckte Schädel eines Kindes ist das Typusexemplar der Art Australopithecus africanus und nach Angaben der Forscher das einzige Fossil, das sich ihr mit Sicherheit zuordnen lässt. Eine in „npj Palaeoecosystems“ veröffentlichte Studie unter Leitung von Gabriele Macho von der Vrije Universiteit Brussel stellt nun infrage, ob alle anderen Funde, die man dieser Art zurechnet, wirklich dazugehören.",
+    "Das Team verglich den Bau der Zähne sowie die Muster, nach denen sich Gehirn und Gebiss während des Heranwachsens entwickelten. Mehrere erwachsene Fossilien, die bisher als Australopithecus africanus gelten, folgten demnach anderen Entwicklungsmustern als das Kind von Taung, das auf 2,96 bis 3,03 Millionen Jahre datiert wird. Besonders aufschlussreich seien die Unterschiede in der Hirnentwicklung. Die Autoren schließen daraus, dass in der Region um Sterkfontein mehrere verschiedene Vormenschenarten gelebt haben könnten, gleichzeitig oder nacheinander.",
+    "Dazu passt das Bild der damaligen Landschaft. Fossiler Pollen zeigt, dass das südliche Afrika vor drei Millionen Jahren feuchter und stärker bewaldet war als heute; manche der damaligen Baumarten wachsen heute Hunderte Kilometer weiter nordöstlich. Wiederholte Wechsel zwischen feuchten und trockenen Phasen könnten Populationen voneinander getrennt, wieder zusammengeführt und gelegentlich auch vermischt haben. Der Stammbaum des Menschen sei kein gerader Stamm gewesen, sondern ein „chaotischer, verworrener Busch“, sagt Macho.",
+    "Vorsicht ist angebracht: Die Autoren formulieren die These mehrerer Arten und möglicher Vermischungen als Vermutung, nicht als gesicherten Befund. Die Zuordnung der südafrikanischen Australopithecinen ist seit Langem umstritten, und die Befunde beruhen auf wenigen, oft bruchstückhaften Fossilien."
+   ],
+   "quellen": [
+    [
+     "npj Palaeoecosystems, DOI 10.1038/s44513-026-00008-2",
+     "https://doi.org/10.1038/s44513-026-00008-2"
+    ],
+    [
+     "ScienceDaily",
+     "https://www.sciencedaily.com/releases/2026/11/261118065531.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-05",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Chemie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Chemie · Erkenntnis",
+   "titel": "Mal orange, mal fast unsichtbar: Salz aus dem Meer bestimmt, wie hell eine Wasserstoffflamme leuchtet",
+   "deck": "Australische Forscher zeigen, dass Natrium in der Luft die Farbe von Wasserstoffflammen stark schwanken lässt – ein Sicherheitsthema für künftige Gasherde.",
+   "text": [
+    "Wasserstoff gilt als möglicher Ersatz für Erdgas, auch in Küchen und Heizungen. Eine Eigenschaft macht ihn aber tückisch: Seine Flamme ist oft kaum zu sehen. Warum sie an einem Tag kräftig orange leuchtet und am nächsten fast unsichtbar ist, erklärt eine Studie in der Fachzeitschrift „Next Energy“. Das Team um Paul Medwell von der Adelaide University, mit Beteiligung der University of New South Wales und des Branchenforschungsverbunds Gas Infrastructure Research Australia, macht Natrium in der Umgebungsluft verantwortlich.",
+    "Die Forscher kombinierten Laborversuche mit Messungen im Freien rund um Adelaide. Zwei Wochen lang zeichneten sie das Licht von Wasserstoffflammen auf, ohne die Einstellungen des Brenners zu verändern, und verglichen es mit einem herkömmlichen Erdgas-Kochfeld. Das auf Natrium zurückgehende Lichtsignal schwankte zwischen niedrigstem und höchstem Wert um mehr als das 28-Fache. Luft, die zuvor über das Meer gezogen war, trug mehr Natrium aus Meersalz mit sich und ließ die Flammen stärker orange leuchten.",
+    "Im Durchschnitt strahlten die Wasserstoffflammen selbst unter günstigen Bedingungen weniger sichtbares Licht ab als Erdgasflammen. Das schwache blaue und rote Eigenleuchten der Wasserstoffverbrennung war am besten in abgedunkelter Umgebung zu erkennen – bei normaler Beleuchtung taugt es kaum als Hinweis, dass ein Brenner brennt.",
+    "Die Forscher raten Geräteherstellern daher, sich nicht auf die Farbe der Flamme zu verlassen, sondern Ultraviolett- oder Infrarot-Flammenmelder und Temperatursensoren einzusetzen. Das Potenzial von Wasserstoff stellten die Ergebnisse nicht infrage, betont Medwell. Einschränkend gilt: Die Freilandmessungen stammen von einem einzigen Ort und aus zwei Wochen, und Natrium ist ein wichtiger, aber nicht unbedingt der einzige Einflussfaktor."
+   ],
+   "quellen": [
+    [
+     "Next Energy, DOI 10.1016/j.nxener.2026.100962",
+     "https://doi.org/10.1016/j.nxener.2026.100962"
+    ],
+    [
+     "ScienceDaily",
+     "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+    ],
+    [
+     "Adelaide University",
+     "https://adelaide.edu.au/about/news/2026/making-hydrogen-flames-easier-to-see-could-help-power-a-cleaner-/"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "fuss-01",
+   "rubrik": "fussball",
+   "status": "fix",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "Mainz 05"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Mainz verlängert vorzeitig mit Abwehrtalent Potulski",
+   "deck": "Der 19 Jahre alte Innenverteidiger bleibt den Rheinhessen langfristig erhalten.",
+   "text": [
+    "Der 1. FSV Mainz 05 hat den Vertrag mit Kacper Potulski vorzeitig verlängert, das gab der Klub am Donnerstag bekannt. Der 19 Jahre alte polnische Innenverteidiger gilt in Mainz als Top-Talent. Zur neuen Laufzeit machte der Verein laut Kicker keine Angaben. Trainer Urs Fischer lobte den jungen Abwehrspieler am Freitag und attestierte ihm großes Potenzial."
+   ],
+   "transfer": {
+    "spieler": "Kacper Potulski",
+    "von": "1. FSV Mainz 05",
+    "nach": "1. FSV Mainz 05 (Verlängerung)"
+   },
+   "quellen": [
+    [
+     "Kicker",
+     "https://www.kicker.de/potulski-verlaengert-in-mainz-1273047/artikel"
+    ],
+    [
+     "Ligainsider",
+     "https://ligainsider.de/kacper-potulski_38608/"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-02",
+   "rubrik": "fussball",
+   "status": "fix",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "VfB Stuttgart"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Per Klausel: Bredlow bleibt bis 2028 beim VfB",
+   "deck": "Der Vertrag des Stuttgarter Ersatztorwarts hat sich automatisch um ein Jahr verlängert.",
+   "text": [
+    "Fabian Bredlow bleibt dem VfB Stuttgart ein weiteres Jahr erhalten. Wie der Kicker berichtet, hat eine an Einsätze gekoppelte Klausel den Vertrag des Torhüters bis Juni 2028 verlängert. Damit verlängert sich Bredlows Kontrakt beim VfB erneut. Der Kicker berichtete am Dienstag über die Verlängerung."
+   ],
+   "transfer": {
+    "spieler": "Fabian Bredlow",
+    "von": "VfB Stuttgart",
+    "nach": "VfB Stuttgart (Verlängerung per Klausel)",
+    "vertrag": "bis Juni 2028"
+   },
+   "quellen": [
+    [
+     "Kicker",
+     "https://www.kicker.de/per-klausel-bredlow-verlaengert-erneut-beim-vfb-1272361/artikel"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-03",
+   "rubrik": "fussball",
+   "status": "verhandlung",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "Paris Saint-Germain"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Dembélé vor neuem Vertrag bei PSG bis 2030",
+   "deck": "Fabrizio Romano und Canal+ berichten übereinstimmend von einer Einigung, offiziell ist sie noch nicht.",
+   "text": [
+    "Ousmane Dembélé steht offenbar vor einer langfristigen Bindung an Paris Saint-Germain. Laut Fabrizio Romano ist der Franzose nah an einem neuen Vertrag bis 2030, die formalen Schritte laufen. Auch der Sender Canal+, zitiert von Le Figaro, meldet eine Einigung; demnach hat PSG zudem neue Verträge mit Désiré Doué, Chwitscha Kwarazchelia und Torwart Matwei Safonow vereinbart. Der Verein hat noch nichts verkündet, und auch mit Kapitän Marquinhos, Vitinha und Achraf Hakimi soll über Verlängerungen gesprochen werden."
+   ],
+   "transfer": {
+    "spieler": "Ousmane Dembélé",
+    "von": "Paris Saint-Germain",
+    "nach": "Paris Saint-Germain (Verlängerung)",
+    "vertrag": "bis 2030 (laut Romano und Canal+)"
+   },
+   "quellen": [
+    [
+     "FootballTransfers (Fabrizio Romano)",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-benjamin-sesko-man-utd-martin-zubimendi-arsenal-chelsea-ousmane-dembele-psg"
+    ],
+    [
+     "SoccerNews",
+     "https://www.soccernews.com/psg-reportedly-agrees-to-new-deals-with-dembele-doue-kvaratskhelia-and-safonov/408664/"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-04",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "RB Leipzig"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Galatasaray erwägt, Leipzigs Leihgabe Bitshiabu im Winter zurückzuschicken",
+   "deck": "Der Verteidiger kam in Istanbul bisher nur auf 22 Minuten – die Kaufoption über 28 Millionen Euro gilt als unwahrscheinlich.",
+   "text": [
+    "Laut der türkischen Zeitung Milliyet denkt Galatasaray darüber nach, die Leihe von El Chadaille Bitshiabu im Januar vorzeitig zu beenden. Der 21 Jahre alte Innenverteidiger, der bis 2029 an RB Leipzig gebunden ist, kam unter Trainer Okan Buruk bislang nur 22 Minuten zum Einsatz. Galatasaray wolle seinen Platz für einen anderen ausländischen Profi freimachen, die Kaufoption über 28 Millionen Euro werde kaum gezogen. Nach Angaben der Bild gibt es zwischen den Klubs aber noch keine Gespräche; bei einer Rückkehr würde Leipzig ihn wohl erneut verleihen."
+   ],
+   "transfer": {
+    "spieler": "El Chadaille Bitshiabu",
+    "von": "Galatasaray (Leihe)",
+    "nach": "RB Leipzig",
+    "vertrag": "in Leipzig bis 2029",
+    "abloese": "Kaufoption laut Bild 28 Mio. €"
+   },
+   "quellen": [
+    [
+     "Kicker",
+     "https://www.kicker.de/galatasaray-will-offenbar-bitshiabu-loswerden-4000000079269/transfermeldung"
+    ],
+    [
+     "Ligainsider",
+     "https://www.ligainsider.de/el-chadaille-bitshiabu_24578/bitshiabu-koennte-im-winter-nach-leipzig-zurueckkehren-420818/"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-05",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "Borussia Dortmund"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Dortmund beobachtet laut Kicker zwei Nürnberger",
+   "deck": "Fynn Otto und Alexios Kalogeropoulos stehen beim BVB auf der Liste.",
+   "text": [
+    "Borussia Dortmund hat laut Kicker zwei Spieler des 1. FC Nürnberg im Blick: Fynn Otto und Alexios Kalogeropoulos. Von beiden gilt Otto demnach als derjenige, der besser zum bevorzugten Spielstil der Dortmunder passt. Konkrete Gespräche oder eine Ablösesumme nennt der Bericht nicht. Zuletzt hatte der Kicker bereits über Dortmunder Interesse an Herthas Linus Gechter berichtet."
+   ],
+   "transfer": {
+    "spieler": "Fynn Otto, Alexios Kalogeropoulos",
+    "von": "1. FC Nürnberg",
+    "nach": "Borussia Dortmund"
+   },
+   "quellen": [
+    [
+     "Kicker",
+     "https://www.kicker.de/bvb-hat-zwei-nuernberger-auf-dem-zettel-1272658/artikel"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-06",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "FC Bayern"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Bayern droht laut Sky ein ablösefreier Abgang von Torwarttalent Prescott",
+   "deck": "Die Vertragsgespräche mit dem 17-Jährigen stocken, Chelsea lockt mit einer Zwischenstation in Straßburg.",
+   "text": [
+    "Beim FC Bayern sind laut Sky Sport die Vertragsgespräche mit Nachwuchstorwart Leonard Prescott festgefahren. Der Vertrag des 17-Jährigen läuft im Sommer 2027 aus, ein ablösefreier Abgang wird demnach wahrscheinlicher. Interesse melden unter anderem Arsenal, Brighton, Aston Villa, Chelsea und mehrere Bundesligisten an. Chelsea werbe mit einer Zwischenstation beim Partnerklub Racing Straßburg."
+   ],
+   "transfer": {
+    "spieler": "Leonard Prescott",
+    "von": "FC Bayern",
+    "vertrag": "beim FC Bayern bis Sommer 2027"
+   },
+   "quellen": [
+    [
+     "Sky Sport",
+     "https://sport.sky.de/fussball/artikel/fc-bayern-tresoldi-gruda-ngumoha-co-die-transferkandidaten-im-check/13612896/34132"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-07",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "1. FC Köln"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Zieler könnte ein weiteres Jahr in Köln bleiben",
+   "deck": "Der Vertrag des Weltmeisters von 2014 läuft im Sommer aus – ein Gespräch ist für Januar denkbar.",
+   "text": [
+    "Beim 1. FC Köln deutet sich laut Kicker ein Verbleib von Ron-Robert Zieler an. Der Vertrag des Torhüters endet im kommenden Sommer, ein weiteres Jahr als Nummer zwei gilt demnach als möglich. Ein Gespräch zwischen Spieler und Verein könnte im Januar stattfinden."
+   ],
+   "transfer": {
+    "spieler": "Ron-Robert Zieler",
+    "von": "1. FC Köln",
+    "nach": "1. FC Köln (mögliche Verlängerung)",
+    "vertrag": "bisher bis Sommer 2027"
+   },
+   "quellen": [
+    [
+     "Kicker",
+     "https://www.kicker.de/zieler-verbleib-in-koeln-deutet-sich-an-1272527/artikel"
+    ]
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Sport",
+    "FC Bayern"
+   ],
+   "kicker": "München · Sport · Tickets",
+   "titel": "Pokal gegen Hertha im freien Online-Verkauf, Paderborn und Slavia nur noch über den Zweitmarkt: So stehen Bayerns Dezember-Karten",
+   "deck": "Für die vier Heimspiele der Profis bis Weihnachten sind die Verlosungen gelaufen – wer leer ausging, hat je nach Spiel noch zwei Wege in die Allianz Arena.",
+   "text": [
+    "Vier Heimspiele bestreitet der FC Bayern im Dezember in der Allianz Arena, und für alle sind die Ticket-Anfragen inzwischen ausgewertet. Den Auftakt macht am Dienstag, 1. Dezember, um 20.45 Uhr das DFB-Pokalspiel gegen Hertha BSC. Laut der Statusseite des Vereins sind die Zusagen verschickt und das Online-Ticketing ist geöffnet; die Karten werden über die FC-Bayern-App oder die Allianz-Arena-App ausgegeben. Es folgen in der Bundesliga am Freitag, 4. Dezember, um 20.30 Uhr der SC Paderborn, in der Champions League am Dienstag, 8. Dezember, um 21 Uhr Slavia Prag und zum Jahresabschluss am Freitag, 18. Dezember, um 20.30 Uhr Werder Bremen.",
+    "Für Paderborn und Slavia hat der Klub Zusagen, Absagen und Wartelisten erstellt. Wer keine Zusage bekommen hat, kann auf den offiziellen Zweitmarkt ausweichen, der Mitgliedern vorbehalten ist; für die Bundesligaspiele gegen Paderborn und Bremen nennt der Verein bis zu vier Tickets pro Person. Als ausverkauft ist auf der Statusseite keines der Spiele markiert. Die Nachfrage ist dennoch enorm: Schon Ende August meldete der Klub, dass alle Bundesliga-Partien der Saison überbucht seien und jede Heimpartie mindestens doppelt so viele Anfragen erhalten habe, wie die Arena Plätze hat – für das Spiel gegen Dortmund waren es mehr als 330.000.",
+    "Die Preise sind gestaffelt: In Bundesliga und Pokal kostet ein Platz der Kategorie 1 regulär 80 Euro, Kategorie 2 70, Kategorie 3 50, Kategorie 4 40 und Kategorie 5 15 Euro. Mitglieder sparen 2,50 Euro, allerdings nicht im Pokal und nicht bei Stehplätzen. Für die Champions-League-Partie gegen Slavia reicht die Spanne von 100 Euro in Kategorie 1 bis 19 Euro in Kategorie 5. Kinder unter 14, Senioren ab 65 und Schwerbehinderte zahlen jeweils die Hälfte; der Nachweis muss am Spieltag dabei sein.",
+    "Hinzu kommen Gebühren: eine Systemgebühr von 2, 5 oder 8 Euro je nach Ticketwert und 1 Euro Vorverkaufsgebühr pro Vollpreiskarte. Auf dem Zweitmarkt fällt statt dessen eine Vorverkaufsgebühr von 15 Prozent des Ticketwerts an. Zurückgeben lassen sich Karten in der Regel nicht."
+   ],
+   "quellen": [
+    [
+     "FC Bayern – Status Ticketing",
+     "https://fcbayern.com/de/tickets/status-ticketing"
+    ],
+    [
+     "FC Bayern – Preise und Ermäßigungen",
+     "https://fcbayern.com/de/tickets/info/preise-und-ermaessigungen"
+    ],
+    [
+     "FC Bayern – Rekord-Anfrage",
+     "https://fcbayern.com/de/news/2026/08/alle-spiele-ueberbucht-rekord-anfrage-auf-bundesliga-spiele-des-fc-bayern"
+    ]
+   ],
+   "berichterstattung": [
+    "fcbayern.com"
+   ],
+   "karten": {
+    "vorverkauf": "Pokal gegen Hertha: Online-Ticketing geöffnet · Paderborn, Slavia, Bremen: Zweitmarkt für Mitglieder",
+    "termin": "Di, 1.12., 20.45 Uhr (Hertha) · Fr, 4.12., 20.30 Uhr (Paderborn) · Di, 8.12., 21 Uhr (Slavia Prag) · Fr, 18.12.2026, 20.30 Uhr (Bremen)",
+    "ort": "Allianz Arena",
+    "preise": "Bundesliga/Pokal 15–80 € · Champions League gegen Slavia 19–100 € · zzgl. Gebühren",
+    "stelle": "FC Bayern (App, Ticketportal, Zweitmarkt)",
+    "link": "https://fcbayern.com/de/tickets/status-ticketing"
+   }
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Feste",
+    "Tickets"
+   ],
+   "kicker": "München · Feste · Starkbierzeit",
+   "titel": "Starkbierfest 2027: Der Nockherberg verkauft schon – ein Tisch für zehn kostet 195 Euro samt Biermarken",
+   "deck": "Vom 26. Februar bis 21. März wird am Nockherberg ausgeschenkt, der Augustinerkeller beginnt schon eine Woche früher.",
+   "text": [
+    "Die nächste Starkbierzeit ist noch drei Monate entfernt, doch wer am Nockherberg einen Tisch will, kann schon jetzt buchen. Das Starkbierfest im Paulaner am Nockherberg dauert 2027 vom 26. Februar bis 21. März, wie der Wirt auf seiner Website angibt. Laut dem Stadtmagazin IN München hat der Ticketvorverkauf bereits begonnen. Für Montag, 8. März, ist dort ein eigener Themenabend, der Rosa Montag, ausgewiesen.",
+    "Verkauft wird vor allem tischweise: Eine Reservierung kostet 195 Euro und umfasst einen Tisch mit zehn Eintrittskarten. Jede Karte setzt sich aus 3,60 Euro Eintritt, 1 Euro Vorverkaufsgebühr und einer Biermarke im Wert von 14,90 Euro zusammen, die am Eingang ausgegeben wird. Einzelkarten gibt es für 22,50 Euro an der Abendkasse, aber nur, solange Plätze frei sind. Montags bis freitags gilt die Reservierung von 16 bis 22.30 Uhr; an Wochenenden gibt es zwei Schichten von 11 bis 16 Uhr und von 16.30 bis 22.30 Uhr, zwischen denen die Halle geräumt wird. Reservierte Plätze müssen bis 21 Uhr eingelöst werden und werden unter der Woche 15, freitags und samstags 30 Minuten über die gebuchte Zeit hinaus freigehalten.",
+    "Die Teile der FAQ zur Gültigkeit der Biermarken beziehen sich noch auf das Fest 2026; Einzelheiten sollte man daher vor der Buchung beim Veranstalter prüfen. Das traditionelle Derblecken, bei dem seit 2023 Maxi Schafroth als Fastenprediger auftritt, erwähnt die Ticketseite nicht.",
+    "Auch andere Häuser haben ihre Termine genannt. Im Augustinerkeller an der Arnulfstraße läuft die Starkbierzeit laut IN München vom 19. Februar bis 20. März, Karten gibt es über dessen Website; 2026 kostete der Donnerstagseintritt 10 Euro. Der Haderner Bockbieranstich ist für Samstag, 6. März, angesetzt, im Vorjahr kostete der Abend 54,50 Euro mit Buffet und einer halben Maß Bockbier. Für Löwenbräukeller, Hofbräukeller, Giesinger Bräu und weitere Feste stehen die Daten 2027 noch aus."
+   ],
+   "quellen": [
+    [
+     "Paulaner am Nockherberg",
+     "https://paulaner-nockherberg.com/strong-beer-festival/"
+    ],
+    [
+     "IN München – Starkbierfeste",
+     "https://www.in-muenchen.de/stadtleben/starkbierfeste.html"
+    ],
+    [
+     "München Tourismus – Starkbierzeit",
+     "https://www.muenchen.travel/artikel/maerkte-feste/muenchen-starkbierzeit"
+    ]
+   ],
+   "berichterstattung": [
+    "paulaner-nockherberg.com",
+    "in-muenchen.de",
+    "muenchen.travel",
+    "munich.travel",
+    "rausgegangen.de",
+    "festivalsindeutschland.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft (laut IN München)",
+    "termin": "26.2.–21.3.2027",
+    "ort": "Paulaner am Nockherberg, Hochstraße 77",
+    "preise": "Tisch mit 10 Karten 195 € (inkl. Biermarken à 14,90 €) · Einzelkarte Abendkasse 22,50 €",
+    "stelle": "Ticketshop des Nockherbergs (verlinkt auf der Festseite)",
+    "link": "https://paulaner-nockherberg.com/strong-beer-festival/"
+   }
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Vorverkauf",
+   "titel": "Noga Erez seit Freitag im Verkauf, Meshuggah ab 66,15 Euro – für Deryck Whibley im Nachtwerk gibt es noch keine Karten",
+   "deck": "Ein Überblick über frisch gestartete und bald erwartete Vorverkäufe für Club- und Hallenkonzerte 2027.",
+   "text": [
+    "Seit diesem Freitag, 20. November, läuft der allgemeine Vorverkauf für das Konzert der israelischen Musikerin Noga Erez am Mittwoch, 5. Mai 2027, um 20 Uhr in der TonHalle. Vorausgegangen waren laut Ticketpiloten vier Presale-Stufen: ein Artist-Presale für eingeladene Fans am 17. November, Prio-Tickets für Telekom- und PayPal-Kunden am 18. November und ein Ticketmaster-Presale am 19. November. Karten gibt es bei Ticketmaster, Eventim und weiteren Shops; Preise hatte Ticketmaster bei der Ankündigung noch nicht veröffentlicht.",
+    "Ebenfalls in der TonHalle spielt am Dienstag, 16. Februar 2027, um 20 Uhr der US-Musiker Dominic Fike; hier läuft der Verkauf schon seit dem 23. Oktober über Eventim. Die Preise hängen von der Kategorie ab und stehen im Saalplan des Shops.",
+    "Bereits erhältlich sind laut Pressure Magazine fünf weitere Termine: Meshuggah mit Periphery und Vildhjarta kommen am 16. Oktober 2027 um 19 Uhr ins Zenith, Karten bei Eventim ab 66,15 Euro. Die Band Juli spielt am 3. Dezember 2027 um 20 Uhr in der TonHalle ab 52 Euro, Avralize am 24. November 2027 in der Backstage Halle ab 31,30 Euro. Über Live Nation gibt es IDER am 16. April 2027 im Ampere ab 30 Euro und Meltt am 1. Februar 2027 im Feierwerk ab 23 Euro, jeweils zuzüglich Gebühren; bei Meltt ist laut Bericht noch unklar, in welcher Halle des Feierwerks.",
+    "Noch warten müssen Fans von Deryck Whibley. Der Sum-41-Sänger kommt mit seiner „Diamonds of the Night“-Tour am Freitag, 16. April 2027, in den Nachtwerk Club. Der Vorverkauf ist laut Festivalisten noch nicht gestartet; auf der offiziellen Seite läuft eine Anmeldung für einen VIP-Vorverkauf, dessen Termin noch nicht feststeht. Bei Eventim war die Tour am 19. November noch nicht gelistet."
+   ],
+   "quellen": [
+    [
+     "Ticketpiloten – Noga Erez",
+     "https://www.ticketpiloten.de/noga-erez-tickets/"
+    ],
+    [
+     "Pressure Magazine – Konzerte München 2027",
+     "https://www.pressure-magazine.de/news/konzerte-muenchen-2027-meshuggah-juli-ider-290192/"
+    ],
+    [
+     "Festivalisten – Deryck Whibley",
+     "https://festivalisten.de/deryck-whibley-diamonds-of-the-night-tour-2027/"
+    ]
+   ],
+   "berichterstattung": [
+    "ticketpiloten.de",
+    "pressure-magazine.de",
+    "festivalisten.de"
+   ],
+   "karten": {
+    "vorverkauf": "Noga Erez: allgemein seit Fr, 20.11.2026 · Fike, Meshuggah, Juli, IDER, Meltt, Avralize: läuft · Whibley: noch nicht gestartet",
+    "termin": "Noga Erez Mi, 5.5.2027, 20 Uhr · Dominic Fike Di, 16.2.2027, 20 Uhr · Meshuggah 16.10.2027, 19 Uhr · Juli 3.12.2027, 20 Uhr · Whibley Fr, 16.4.2027",
+    "ort": "TonHalle, Zenith, Ampere, Feierwerk, Backstage Halle, Nachtwerk Club",
+    "preise": "Meshuggah ab 66,15 € · Juli ab 52 € · Avralize ab 31,30 € · IDER ab 30 € · Meltt ab 23 €",
+    "stelle": "Ticketmaster, Eventim, Live Nation",
+    "link": "https://www.ticketpiloten.de/noga-erez-tickets/"
+   }
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Muffatwerk",
+   "titel": "Belle & Sebastian, Mighty Oaks und Frank Turners Revival Tour ausverkauft – zwei Muffathallen-Abende fallen aus",
+   "deck": "Im Muffatwerk und seinen Nebenbühnen ist die Adventszeit dicht belegt; wer noch Karten will, findet sie vor allem im Ampere.",
+   "text": [
+    "Das Muffatwerk an der Isar meldet für die kommenden Wochen eine ganze Reihe ausverkaufter Abende. Bereits am Montag, 23. November, gibt es für Erra und Currents in der Muffathalle keine Karten mehr. Ausverkauft sind außerdem Belle & Sebastian am 1. Dezember, die Revival Tour am 2. Dezember und Mighty Oaks am 7. Dezember, jeweils in der Muffathalle. Beim türkischen Rockquartett Mor ve Ötesi ist der Abend am 13. Dezember vergriffen, für den Folgetag nennt die Seite keinen Status. Im Technikum ist Mika Noé am 15. Dezember ausverkauft, im Ampere Saustoimusi am 20. Dezember.",
+    "Die Revival Tour wird traditionell von Frank Turner angeführt. Wer den Briten verpasst, hat 2027 zwei weitere Gelegenheiten: Am 19. und 20. Oktober 2027 spielt er zweimal in der TonHalle. Karten dafür gibt es laut Pressure Magazine seit dem 30. Oktober bei Eventim und den übrigen CTS-Vorverkaufsstellen, ab 45 Euro zuzüglich Gebühren.",
+    "Es gibt auch Absagen und Verlegungen. Am Samstag, 28. November, fallen in der Muffathalle die Konzerte von Zuna und La Sonora Santanera aus, im Strom ist CassMae am 2. Dezember abgesagt. Dominik Hartz ist von der Muffathalle ins Hansa 39 verlegt, das Konzert von Kwam.E im Technikum am 5. Dezember auf den 23. September 2027. Chapo102 spielt am 27. November statt im Backstage Werk in der TonHalle – auch dieser Abend ist ausverkauft.",
+    "Freie Karten meldet das Muffatwerk dagegen unter anderem für Dreiviertelblut an diesem Samstag in der Muffathalle, für Tayc am 24. November, Mother’s Finest am 30. November, Kodaline am 8. Dezember und Blackout Problems am 19. Dezember sowie für zahlreiche Abende im Ampere, etwa Jazzanova mit Wayne Snow am 6. Dezember."
+   ],
+   "quellen": [
+    [
+     "Muffatwerk – Programm",
+     "https://www.muffatwerk.de/de/events"
+    ],
+    [
+     "Pressure Magazine – Frank Turner",
+     "https://www.pressure-magazine.de/news/frank-turner-tour-2027-termine-tickets-280674/"
+    ]
+   ],
+   "berichterstattung": [
+    "muffatwerk.de",
+    "pressure-magazine.de",
+    "munichcityofmusic.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft; ausverkauft u. a. 23.11. (Erra), 1.12. (Belle & Sebastian), 2.12. (Revival Tour), 7.12. (Mighty Oaks), 13.12. (Mor ve Ötesi)",
+    "termin": "23.11.–20.12.2026; Frank Turner 19. und 20.10.2027",
+    "ort": "Muffathalle, Ampere, Technikum; Frank Turner TonHalle",
+    "preise": "Frank Turner 2027 ab 45 € zzgl. Gebühren",
+    "stelle": "Muffatwerk-Ticketlinks; Frank Turner: Eventim/CTS",
+    "link": "https://www.muffatwerk.de/de/events"
+   }
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Sport",
+    "Eishockey"
+   ],
+   "kicker": "München · Sport · Eishockey",
+   "titel": "Derby gegen Straubing am Familienspieltag: Vier EHC-Heimspiele bis Nikolaus – am 4. Dezember wechselt das Motto",
+   "deck": "Nach dem Köln-Spiel stehen im SAP Garden binnen zwölf Tagen vier Partien an, jede mit eigenem Spieltagsmotto.",
+   "text": [
+    "Der EHC Red Bull München spielt in den kommenden zwei Wochen viermal zu Hause im SAP Garden. Am Mittwoch, 25. November, kommen um 19.30 Uhr die Grizzlys Wolfsburg; die Partie ist als „After Work“-Spieltag mit vergünstigten Abendkarten ausgeschrieben. Am Sonntag, 29. November, folgt um 16.30 Uhr das bayerische Derby gegen die Straubing Tigers, angelegt als Familienspieltag. Familientag ist auch am Sonntag, 6. Dezember, um 16.30 Uhr gegen die Pinguins Bremerhaven.",
+    "Beim Spiel gegen die Schwenninger Wild Wings am Freitag, 4. Dezember, um 19.30 Uhr lohnt ein genauer Blick. Bei der Ankündigung im September hatte der Verein den Abend als „Mädelsabend“ mit Sitzplätzen der Kategorien 3 bis 5 für 19 Euro beworben. Auf der aktuellen Heimspielübersicht steht die Partie nun als „Student Hockey Night“. Bei diesen Abenden bekommen Auszubildende, Schüler und Studierende über 18 nach früheren Vereinsangaben einen Sitzplatz für 20 Euro. Welche Aktion am 4. Dezember gilt, sollte man vor dem Kauf im Ticketshop prüfen.",
+    "Für die Familienspieltage gewährt der Klub nach früheren Angaben einen Rabatt für zwei Erwachsene mit Kind; konkrete Beträge nennt die aktuelle Ankündigung nicht. Laut September-Ankündigung folgen bis Jahresende noch Eisbären Berlin am 11. Dezember, Krefeld am 20. Dezember und am 23. Dezember ein Sonderspieltag gegen Schwenningen, zu dem Details noch ausstehen; diese drei Spiele führt die aktuelle Übersicht nicht auf.",
+    "Karten verkauft der Verein über seinen Ticketshop. Angaben zur Verfügbarkeit oder zu ausverkauften Spielen enthält die Heimspielübersicht nicht."
+   ],
+   "quellen": [
+    [
+     "EHC Red Bull München – Heimspiele",
+     "https://www.redbullmuenchen.de/de/tickets/heimspiele/alle"
+    ],
+    [
+     "EHC Red Bull München – Vorverkauf bis Jahresende",
+     "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-ticket-vorverkauf-fuer-spiele-bis-jahresende-gestartet"
+    ],
+    [
+     "EHC Red Bull München – Zweite Vorverkaufsphase",
+     "https://www.redbullmuenchen.de/en/news/ehc-red-bull-muenchen-zweite-phase-ticket-vorverkauf-startet"
+    ]
+   ],
+   "berichterstattung": [
+    "redbullmuenchen.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft",
+    "termin": "Mi, 25.11., 19.30 Uhr (Wolfsburg) · So, 29.11., 16.30 Uhr (Straubing) · Fr, 4.12., 19.30 Uhr (Schwenningen) · So, 6.12.2026, 16.30 Uhr (Bremerhaven)",
+    "ort": "SAP Garden",
+    "preise": "Student Hockey Night: Sitzplatz 20 € (Azubis, Schüler, Studierende über 18, laut früheren Vereinsangaben)",
+    "stelle": "Ticketshop des EHC Red Bull München",
+    "link": "https://www.redbullmuenchen.de/de/tickets/heimspiele/alle"
+   }
+  }
+ ],
+ "vortrag": {
+  "id": "vortrag",
+  "fachgebiet": "Neurowissenschaft",
+  "tags": [
+   "Vortrag",
+   "Neurowissenschaft"
+  ],
+  "titel": "Spuren im Netz der Nervenzellen: Wie entsteht ein Gedächtnis?",
+  "einstieg": "Wer sich morgen an diesen Satz erinnert, hat über Nacht sein Gehirn ein klein wenig umgebaut.",
+  "text": [
+   "Ein Gedächtnis ist keine Schublade, in der fertige Erinnerungen liegen. Es steckt in den Verbindungen zwischen Nervenzellen, den Synapsen. Unser Gehirn hat davon unvorstellbar viele, und jede kann stärker oder schwächer werden. Lernen heißt im Kern: Bestimmte Verbindungen werden dauerhaft verändert, sodass später dasselbe Muster von Nervenzellen wieder gemeinsam anspringt. Dieses Muster nennen Fachleute Engramm, die körperliche Spur einer Erinnerung.",
+   "Schon 1949 vermutete der kanadische Psychologe Donald Hebb, dass Zellen, die immer wieder gleichzeitig aktiv sind, ihre Verbindung verstärken. Später fand man genau das im Labor: Werden Nervenzellen im Hippocampus kurz und heftig gereizt, reagieren sie danach über Stunden bis Wochen stärker. Dieser Effekt heißt Langzeitpotenzierung. Der Neurobiologe Eric Kandel zeigte an der Meeresschnecke Aplysia, dass ein kurzfristiges Gedächtnis auf chemischen Veränderungen an bestehenden Synapsen beruht, ein langfristiges dagegen neue Eiweiße und sogar neue Synapsen braucht. Dafür erhielt er im Jahr 2000 den Nobelpreis.",
+   "Wie wichtig der Hippocampus ist, lehrte ein berühmter Patient: Henry Molaison, in der Forschung lange nur H. M. genannt. Ärzte entfernten ihm 1953 wegen schwerer Epilepsie Teile beider Schläfenlappen samt Hippocampus. Danach konnte er sich keine neuen Ereignisse oder Gesichter mehr merken. Neue Bewegungsabläufe lernte er aber weiterhin, etwa das Zeichnen im Spiegel, ohne sich an das Üben zu erinnern. Das Gedächtnis ist also kein einheitliches System: Wissen und Erlebnisse laufen über andere Wege als Fertigkeiten wie Radfahren.",
+   "Frische Erinnerungen sind zunächst zerbrechlich. Erst nach und nach werden sie gefestigt, Fachleute sprechen von Konsolidierung. Dabei hilft der Schlaf: Im Tiefschlaf spielt der Hippocampus Aktivitätsmuster des Tages erneut ab, und die Großhirnrinde übernimmt die Inhalte allmählich in ihre Langzeitspeicher. Man kann sich den Hippocampus wie einen Notizblock vorstellen, dessen Einträge nachts ins Archiv übertragen werden.",
+   "Vieles ist noch offen. Wie genau ein Engramm über Jahrzehnte stabil bleibt, obwohl die Eiweiße in den Synapsen ständig erneuert werden, ist nicht geklärt. Und jedes Erinnern macht eine Erinnerung offenbar wieder veränderbar, bevor sie erneut abgespeichert wird. Deshalb sind Erinnerungen keine exakten Aufzeichnungen, sondern immer auch Rekonstruktionen, die sich im Laufe der Zeit wandeln können."
+  ],
+  "merksaetze": [
+   "Erinnerungen stecken in veränderten Verbindungen zwischen Nervenzellen, den Synapsen.",
+   "Der Hippocampus ist für neue Erlebnisse und Fakten unverzichtbar, für Bewegungsfertigkeiten aber nicht.",
+   "Im Schlaf werden frische Erinnerungen gefestigt und in die Großhirnrinde übertragen."
+  ],
+  "begriffe": [
+   [
+    "Synapse",
+    "Kontaktstelle, an der eine Nervenzelle Signale an eine andere weitergibt."
+   ],
+   [
+    "Hippocampus",
+    "Hirnstruktur im Schläfenlappen, die neue Erinnerungen an Ereignisse und Fakten bildet."
+   ],
+   [
+    "Langzeitpotenzierung",
+    "Dauerhafte Verstärkung einer Synapse nach intensiver gemeinsamer Aktivität."
+   ],
+   [
+    "Konsolidierung",
+    "Allmähliche Festigung einer frischen Erinnerung zu einer stabilen Langzeiterinnerung."
+   ]
+  ],
+  "quellen": [
+   [
+    "Wikipedia: Gedächtnis",
+    "https://de.wikipedia.org/wiki/Gedächtnis"
+   ],
+   [
+    "Wikipedia (englisch): Memory consolidation",
+    "https://en.wikipedia.org/wiki/Memory_consolidation"
+   ]
+  ]
+ },
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Bayern-Frauen gegen Barcelona: Karten für das Champions-League-Finale der Ligaphase sind im Verkauf",
+   "satz": "Gespielt wird am 16. Dezember um 21 Uhr im Sportpark Unterhaching; Tickets gibt es im Online-Shop des FC Bayern.",
+   "quelle": "FC Bayern",
+   "url": "https://fcbayern.com/frauen/de/news/2026/11/jetzt-tickets-fuer-den-cl-kracher-vs-barcelona-in-unterhaching-sichern"
+  },
+  {
+   "titel": "Berq legt im Zenith nach: Zusatzkonzert am Dienstag, tags darauf der zweite Abend",
+   "satz": "Laut Veranstaltungskalender der Stadt beginnen beide Konzerte am 24. und 25. November um 20 Uhr.",
+   "quelle": "IN München",
+   "url": "https://www.in-muenchen.de/events/berq.html"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-22T14:00",
+   "veranstaltung": "Carolin Kebekus – „Inferna“",
+   "termin": "16. und 17.9.2028",
+   "ort": "Circus-Krone-Bau",
+   "stelle": "Ticketmaster",
+   "url": "https://blog.ticketmaster.de/musik/carolin-kebekus-tour-2028-drohnen-show-koeln-termine-tickets-vorverkauf-19755/",
+   "hinweis": "allgemeiner Vorverkauf (Artist-Presale lief am 20.11.); Preise noch nicht genannt; Angaben aus der Ausgabe vom 20.11."
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Starkbierfest 2027 am Nockherberg: Tische reservieren",
+   "anbieter": "Paulaner am Nockherberg",
+   "angebot": "Tischreservierung für 10 Personen 195 €, darin pro Karte 3,60 € Eintritt, 1 € Vorverkaufsgebühr und eine Biermarke über 14,90 €; Einzelkarten 22,50 € nur an der Abendkasse.",
+   "wann": "Fest 26.2.–21.3.2027; Vorverkauf läuft",
+   "buchen_bis": "2027-03-21",
+   "hinweis": "Wochenenden in zwei Schichten (11–16 und 16.30–22.30 Uhr); Reservierung bis 21 Uhr einlösen. FAQ teils noch auf 2026 bezogen. Am 21.11. auf der Festseite geprüft; Vorverkaufsbeginn laut IN München.",
+   "frueh": true,
+   "url": "https://paulaner-nockherberg.com/strong-beer-festival/"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC: After-Work-Spieltag gegen Wolfsburg",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Vergünstigte Abendkarten für das Heimspiel gegen die Grizzlys Wolfsburg im SAP Garden.",
+   "wann": "Mi, 25.11.2026, 19.30 Uhr",
+   "buchen_bis": "2026-11-25",
+   "hinweis": "Höhe des Rabatts nennt der Verein nicht. Am 21.11. auf redbullmuenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.redbullmuenchen.de/de/tickets/heimspiele/alle"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Christkindltram: Online-Vorverkauf läuft",
+   "anbieter": "Landeshauptstadt München / muenchen.de",
+   "angebot": "Halbstündige Adventsrundfahrt ab Sendlinger Tor über Isartor, Maximilianstraße und Stachus; ab 15 Jahren 5 €, Kinder 6–14 Jahre 3 €, unter 6 frei.",
+   "wann": "Fahrten Fr, Sa, So vom 27.11. bis 20.12.2026",
+   "buchen_bis": "2026-12-20",
+   "hinweis": "Höchstens 10 Karten pro Buchung; kleines Restkontingent vor Ort ca. 45 Minuten vor Abfahrt, nur bar. Zuletzt am 20.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachten/christkindltram"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Sommernachtstraum 2027: Early-Bird-Tickets",
+   "anbieter": "Sommernachtstraum (laut IN München)",
+   "angebot": "Festival im Olympiapark mit zwei Bühnen, Streetfood und Drohnen-Feuerwerk; Frühbucherkarten ab 29 €.",
+   "wann": "Festival Sa, 17.7.2027; Early Bird bis 31.12.",
+   "buchen_bis": "2026-12-31",
+   "hinweis": "Jahr der Frist aus dem Kontext abgeleitet; Künstler noch nicht bekannt. Zuletzt am 20.11. auf in-muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.in-muenchen.de/verlosungen/test-sommernachtstraum-olympiapark.html"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Tollwood-Winterfestival: Zirkusshows und Talks",
+   "anbieter": "Tollwood",
+   "angebot": "Grand Chapiteau: „Ten Thousand Hours“ (25.–29.11.), „Triptych“ (2.–9.12.), „Mad in Finland“ (12.–20.12.); Gelände frei, rund 90 % der Veranstaltungen kostenlos.",
+   "wann": "24.11.–23.12.2026, Silvesterparty 31.12.",
+   "buchen_bis": "2026-12-31",
+   "hinweis": "Preise nennt muenchen.de nicht; Habeck-Talk am 21.12. ausverkauft. Zuletzt am 20.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/tollwood-winterfestival-2026"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Himmelswerkstatt am Christkindlmarkt: Gratis-Basteln für Kinder",
+   "anbieter": "Landeshauptstadt München / Kindermuseum",
+   "angebot": "Kostenloses Geschenkebasteln für Kinder von 6 bis 12 Jahren in der Ratstrinkstube, täglich 14.30–16 und 16.30–18 Uhr.",
+   "wann": "26.11.–13.12.2026",
+   "buchen_bis": "2026-12-13",
+   "hinweis": "Buchung beim Kindermuseum frühestens zehn Tage vor dem Wunschtermin, höchstens zwei Termine pro Kind. Zuletzt am 20.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/kinder/himmelswerkstatt-christkindlmarkt-2026"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Harry-Potter-Weihnachtsmarkt auf der Praterinsel",
+   "anbieter": "muenchen.de",
+   "angebot": "Themen-Weihnachtsmarkt mit Fotokulissen, Mitmachaktionen und Themen-Essen; Eintritt frei.",
+   "wann": "28.11.–6.12.2026, unterschiedliche Öffnungszeiten",
+   "buchen_bis": "2026-12-06",
+   "hinweis": "Ob Tickets nötig sind, sagt die Seite nicht. Zuletzt am 20.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/harry-potter-weihnachtsmarkt"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Adventsmusik live vom Rathausbalkon",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Kostenlose Chor- und Bläsermusik vom Balkon des Neuen Rathauses, rund 30 Minuten.",
+   "wann": "bis 24.12.2026, sonntags bis donnerstags 17.15 Uhr; 24.12. ab 12 Uhr",
+   "buchen_bis": "2026-12-24",
+   "hinweis": "Eintritt frei, keine Anmeldung. Zuletzt am 20.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/konzerte/adventsmusik-live-vom-rathausbalkon"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Singen unterm Christbaum vor der Michaelskirche",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Kostenloses gemeinsames Singen vor der Michaelskirche in der Fußgängerzone.",
+   "wann": "Mi, 25.11., und Mi, 2./9./16.12.2026, jeweils 16.30 Uhr",
+   "buchen_bis": "2026-12-16",
+   "hinweis": "Keine Anmeldung genannt. Zuletzt am 20.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/christkindlmarkt"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Familienspieltage",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Rabatt für Familien an ausgewählten Sonntagsheimspielen, nächste am 29.11. und 6.12.",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://www.redbullmuenchen.de/de/tickets/heimspiele/alle"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Student Hockey Nights",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Vergünstigte Sitzplätze für Azubis, Schüler und Studierende bei ausgewählten Heimspielen",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-ticket-vorverkauf-fuer-spiele-bis-jahresende-gestartet"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern: Halber Preis für Kinder und Senioren",
+   "anbieter": "FC Bayern",
+   "angebot": "50 % Ermäßigung für Kinder unter 14, Senioren ab 65 und Schwerbehinderte",
+   "wann": "alle Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/de/tickets/info/preise-und-ermaessigungen"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Kids Club: eigene Zone in der Allianz Arena",
+   "anbieter": "FC Bayern",
+   "angebot": "Kids-Club-Zone Nordkurve: Kinder 25 €, Begleitperson 50 €, per Verlosung",
+   "wann": "Bundesliga-Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/kidsclub/de/tickets"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Amateure: Karten ab 5 Euro",
+   "anbieter": "FC Bayern",
+   "angebot": "Grünwalder Stadion: Stehplatz 5 €, Sitzplatz 10–15 €, nur online",
+   "wann": "alle Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/de/news/ticketing/2026/ticket-infos-fuer-heimspiele-der-fc-bayern-amateure"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "SQAD Futsal Challenge: Deutschland gegen Weltmeister Brasilien",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 VIP-Tickets für Mi, 9.12.2026, 18 Uhr, SAP Garden",
+   "bis": "2026-11-30",
+   "teilnahme": "Online-Formular ausfüllen",
+   "pruefung": "etabliertes Stadtmagazin, Teilnahmebedingungen verlinkt, keine Kosten oder Kaufpflicht genannt; als Anzeige gekennzeichnet. Zuletzt am 20.11. geprüft.",
+   "url": "https://www.in-muenchen.de/verlosungen/sqad-futsal-challenge-deutschland-vs-weltmeister-brasilien-am-9-dezember.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Sommernachtstraum 2027 im Olympiapark",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Tickets für Sa, 17.7.2027",
+   "bis": "2026-12-15",
+   "teilnahme": "Online-Formular ausfüllen",
+   "pruefung": "etabliertes Stadtmagazin, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten oder Kaufpflicht genannt. Zuletzt am 20.11. geprüft.",
+   "url": "https://www.in-muenchen.de/verlosungen/test-sommernachtstraum-olympiapark.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "GOP Varieté-Theater: Show mit Drei-Gänge-Menü",
+   "anbieter": "IN München",
+   "gewinn": "1 Gutschein für 2 Personen: Show nach Wahl mit Drei-Gänge-Menü, einlösbar 23.1.–30.10.2027",
+   "bis": "2026-12-23",
+   "teilnahme": "Online-Formular ausfüllen",
+   "pruefung": "etabliertes Stadtmagazin, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten oder Kaufpflicht genannt. Zuletzt am 20.11. geprüft.",
+   "url": "https://www.in-muenchen.de/verlosungen/test-gop-variete-menu.html"
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Anfang des Unheils",
+   "zitat": "„Das war ein Vorspiel nur, dort wo man Bücher verbrennt, verbrennt man auch am Ende Menschen.“",
+   "urheber": "Heinrich Heine, Almansor (1821)",
+   "text": "Heine legt den Satz in seiner frühen Tragödie einem Mauren in den Mund, der von der Verbrennung des Korans in Granada berichtet. Der Vers gilt bis heute als Mahnung, dass die Verachtung des Wortes oft der Verachtung des Menschen vorausgeht."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Wochenendplanung",
+   "text": "Fragt die Nachbarin am Samstagmorgen: „Und, was haben Sie heute vor?“ – „Ausschlafen.“ – „Aber es ist doch schon acht Uhr!“ – „Eben. Ich bin schon spät dran mit dem Ausschlafen.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Äpfel und Birnen auf dem Viktualienmarkt",
+   "text": "Drei Äpfel kosten genauso viel wie zwei Birnen. Eine Birne ist 30 Cent teurer als ein Apfel. Was kostet ein Apfel?",
+   "loesung": "60 Cent. Drei Äpfel kosten so viel wie zwei Äpfel plus zweimal 30 Cent; ein Apfel kostet also 60 Cent, eine Birne 90 Cent – drei Äpfel wie zwei Birnen ergeben 1,80 Euro."
+  }
+ ]
+}
