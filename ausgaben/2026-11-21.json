@@ -2275,6 +2275,365 @@
    ]
   },
   {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Neue Tablette gegen Brustkrebs, der der Hormontherapie entkommt",
+   "deck": "Die FDA hat Giredestrant zugelassen – zusammen mit Everolimus senkte es das Risiko für Fortschreiten oder Tod um 62 Prozent.",
+   "text": [
+    "Frauen mit fortgeschrittenem, hormonempfindlichem Brustkrebs bekommen in den USA eine neue Behandlung in Tablettenform. Die Arzneimittelbehörde FDA hat am Montag, 16. November, Giredestrant zugelassen, das Genentech, eine Tochter von Roche, unter dem Namen Wilserdly anbietet. Es ist für Erwachsene mit östrogenrezeptor-positivem, HER2-negativem Brustkrebs bestimmt, der sich ausgebreitet hat und dessen Tumor eine Veränderung im Gen ESR1 trägt.",
+    "Solche ESR1-Mutationen entstehen oft erst unter einer Hormontherapie und helfen dem Tumor, ihr zu entkommen; nach Angaben von Roche betrifft das bis zu 40 Prozent der Patientinnen mit dieser Krebsform. Giredestrant gehört zu den sogenannten SERD: Es blockiert den Östrogenrezeptor und sorgt dafür, dass er abgebaut wird. Kombiniert wird es mit Everolimus, das einen zweiten Wachstumsweg der Krebszellen hemmt. Ob ein Tumor die Mutation trägt, zeigt ein ebenfalls zugelassener Bluttest.",
+    "Grundlage ist die Phase-III-Studie evERA mit 373 Erwachsenen, von denen 207 eine ESR1-Mutation hatten. In dieser Gruppe senkte die Kombination das Risiko, dass die Krankheit fortschreitet oder die Patientin stirbt, um 62 Prozent gegenüber einer herkömmlichen Hormontherapie mit Everolimus. Es ist der vierte Wirkstoff dieser Klasse in Tablettenform in den USA. Über einen Einsatz schon im Frühstadium will die FDA bis Ende November entscheiden."
+   ],
+   "quellen": [
+    [
+     "AJMC",
+     "https://www.ajmc.com/view/fda-approves-oral-giredestrant-regimen-for-esr1-mutated-breast-cancer"
+    ],
+    [
+     "Oncology Nursing Society",
+     "https://www.ons.org/publications-research/voice/news-views/11-2026/fda-approves-giredestrant-combination-everolimus-er-positive-her2-negative-esr1-variant-locally"
+    ],
+    [
+     "HealthDay/MedicineNet",
+     "https://www.medicinenet.com/new_pill_combo_approved_for_breast_cancer/news.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "ajmc.com",
+    "ons.org",
+    "medicinenet.com",
+    "healio.com",
+    "fiercepharma.com",
+    "statnews.com",
+    "curetoday.com",
+    "ascopost.com",
+    "webmd.com",
+    "drugs.com"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Wald",
+    "Kanada"
+   ],
+   "kicker": "Gute Nachrichten · Waldschutz",
+   "titel": "Bis zu 560 Millionen Dollar: Kanada steigt in Brasiliens Tropenwaldfonds ein",
+   "deck": "Der Fonds soll Länder dafür bezahlen, dass ihre Wälder stehen bleiben – Kanadas Zusage rückt ihn näher an den Start.",
+   "text": [
+    "Kanada beteiligt sich an dem internationalen Fonds, der tropische Länder für den Erhalt ihrer Wälder belohnen soll. Premierminister Mark Carney sagte am Sonntag, 15. November, bis zu 560 Millionen kanadische Dollar über vier Jahre für die Tropical Forest Forever Facility zu, nach Angaben von Reuters umgerechnet etwa 392,5 Millionen US-Dollar. Angekündigt hat er die Zusage nach einem Treffen mit Brasiliens Präsident Luiz Inácio Lula da Silva am Rande des ASEAN-Gipfels in Manila.",
+    "Der Fonds wurde bei der Klimakonferenz COP30 in Brasilien gestartet und wird von Brasilien und Norwegen geführt. Er soll Geld von Staaten und privaten Anlegern bündeln und anlegen; aus den Erträgen erhalten tropische Länder Zahlungen, wenn nachgewiesen ist, dass sie ihre Wälder erhalten. Langfristig soll er auf 125 Milliarden US-Dollar wachsen und mehr als eine Milliarde Hektar Tropenwald sichern.",
+    "Kanadas Beitrag kommt als Darlehen und stammt aus dem bestehenden Budget für internationale Klimafinanzierung, das bis 2031 mehr als 13 Milliarden kanadische Dollar umfassen soll. Vor Kanadas Zusage hatten acht Länder zusammen 7,8 Milliarden US-Dollar zugesagt. Bis zum Jahresziel der Geldgeber fehlen dem Fonds nach Berichten noch rund zwei Milliarden US-Dollar."
+   ],
+   "quellen": [
+    [
+     "Regierung Kanadas",
+     "https://www.pm.gc.ca/en/node/54553"
+    ],
+    [
+     "TimesLIVE/Reuters",
+     "https://www.timeslive.co.za/news/world/2026-11-15-canada-pledges-up-to-3925m-for-brazil-led-tropical-forest-fund/"
+    ],
+    [
+     "Nature World News",
+     "https://www.natureworldnews.com/articles/73862/20261116/canada-pledges-c560-million-toward-global-tropical-forest-protection-fund.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "pm.gc.ca",
+    "timeslive.co.za",
+    "ctvnews.ca",
+    "cp24.com",
+    "jpost.com",
+    "trtworld.com",
+    "natureworldnews.com",
+    "carboncredits.com",
+    "econotimes.com",
+    "greenme.it"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "Kambodscha"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "Ein Pieks gegen Gebärmutterhalskrebs: Kambodscha impft Mädchen mehrerer Jahrgänge auf einmal",
+   "deck": "Die landesweite Kampagne holt Mädchen nach, die die HPV-Impfung bisher verpasst haben.",
+   "text": [
+    "Kambodscha schützt deutlich mehr Mädchen vor Gebärmutterhalskrebs. Das Gesundheitsministerium hat am 10. November eine landesweite Impfkampagne gegen humane Papillomviren (HPV) gestartet, bei der mehrere Altersgruppen jugendlicher Mädchen gleichzeitig geimpft werden. Dazu kommt eine Nachholimpfung für alle, die bisher nicht geimpft wurden. Die Kampagne läuft in zwei Phasen von November bis Dezember.",
+    "Gebärmutterhalskrebs ist in Kambodscha die zweithäufigste Krebsart bei Frauen. Fast alle Fälle gehen auf eine dauerhafte Infektion mit Hochrisiko-HPV-Typen zurück, weshalb die Impfung vor der ersten Ansteckung als eine der wirksamsten Vorsorgemaßnahmen gilt. Nach Empfehlung der Weltgesundheitsorganisation genügt eine einzige Dosis für einen starken und dauerhaften Schutz.",
+    "Kambodscha hat die HPV-Impfung 2023 in sein Routineprogramm für neunjährige Mädchen aufgenommen; die neue Kampagne schließt die Lücken bei den älteren Jahrgängen. Unterstützt wird sie von der Impfallianz Gavi und Unicef. Gavi hat bis Ende 2025 nach eigenen Angaben 53 Ländern geholfen, nationale HPV-Programme einzuführen."
+   ],
+   "quellen": [
+    [
+     "Gavi",
+     "https://www.gavi.org/news/media-room/cambodia-accelerates-cervical-cancer-prevention-through-hpv-vaccination"
+    ],
+    [
+     "Unicef Kambodscha",
+     "https://www.unicef.org/cambodia/press-releases/cambodia-accelerates-cervical-cancer-prevention-through-hpv-multi-age-cohort"
+    ]
+   ],
+   "berichterstattung": [
+    "gavi.org",
+    "unicef.org"
+   ]
+  },
+  {
+   "id": "gut-04",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "Südsudan"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "Endlich echte Zahlen: Südsudan bekommt sein erstes Krebsregister",
+   "deck": "Bisher wurde die Krebslast nur geschätzt – jetzt erfasst ein Register in Juba die Fälle direkt.",
+   "text": [
+    "Südsudan hat sein erstes bevölkerungsbezogenes Krebsregister eröffnet. Es wurde am 5. November am Lehrkrankenhaus in der Hauptstadt Juba in Betrieb genommen, aufgebaut vom Gesundheitsministerium und dem South Sudan Cancer Network mit Unterstützung der Weltgesundheitsorganisation, der Internationalen Agentur für Krebsforschung (IARC) und des Afrikanischen Krebsregister-Netzwerks.",
+    "Das Register soll erfassen, welche Krebsarten wie häufig auftreten, wo und bei wem. Bislang beruhte das Bild der Krebslast im Land auf Modellrechnungen statt auf beobachteten Daten. Die IARC schätzte für 2024 mehr als 8.000 neue Krebsfälle und über 5.000 Todesfälle; Krebs gehört damit zu den häufigsten Ursachen für frühen Tod und Behinderung im Land.",
+    "Gesundheitsminister Dak Duop Bichok sagte, Krankenhäuser stellten zwar Diagnosen, die Daten seien aber bisher kaum gesammelt und ausgewertet worden. Mit dem Register könnten Regierung und Partner nun gezielter über Vorsorge, Diagnose, Behandlung und Investitionen entscheiden. Zudem kann Südsudan erstmals verlässliche Daten an internationale Datenbanken liefern."
+   ],
+   "quellen": [
+    [
+     "WHO-Regionalbüro Afrika (APO)",
+     "https://africa.com/ama/a-landmark-step-for-public-health-south-sudan-launches-first-ever-cancer-registry"
+    ],
+    [
+     "The Star/Xinhua",
+     "https://www.thestar.com.my/news/world/2026/11/06/south-sudan-launches-first-cancer-registry"
+    ]
+   ],
+   "berichterstattung": [
+    "africa.com",
+    "thestar.com.my"
+   ]
+  },
+  {
+   "id": "gut-05",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Weniger Kortison bei Polymyalgie: FDA lässt Secukinumab zu",
+   "deck": "Mit dem Antikörper erreichten doppelt so viele Patienten eine dauerhafte Remission wie mit Placebo.",
+   "text": [
+    "Menschen mit Polymyalgia rheumatica haben in den USA eine weitere Behandlung, die ihnen helfen kann, von Kortison loszukommen. Die FDA hat am 17. November den Antikörper Secukinumab (Cosentyx) von Novartis in der Dosis von 150 Milligramm für Erwachsene zugelassen, bei denen Kortison nicht ausreichend wirkt oder die das schrittweise Absetzen nicht vertragen.",
+    "Die entzündliche Erkrankung trifft vor allem Menschen über 50 und verursacht Schmerzen und Steifheit in Schultern, Nacken und Hüften; in den USA leben nach Angaben aus der Fachpresse rund 966.000 Betroffene. Behandelt wird sie meist lange mit Kortison, das bei älteren Menschen Osteoporose, Diabetes und Herz-Kreislauf-Risiken fördern kann. Rückfälle sind häufig. Secukinumab ist nach Sarilumab, das 2023 zugelassen wurde, das zweite Biologikum für diese Krankheit und das erste, das den Botenstoff Interleukin-17 hemmt.",
+    "In der Phase-III-Studie REPLENISH in 27 Ländern setzten alle Teilnehmenden ihr Kortison über 24 Wochen ab. Nach einem Jahr waren 40,5 Prozent der mit Secukinumab Behandelten in anhaltender Remission, gegenüber 20,5 Prozent mit Placebo. Sie brauchten zudem weniger Kortison. In der Studie traten unter anderem Hautausschläge und Harnwegsinfekte auf; in der Secukinumab-Gruppe gab es eine schwere Harnwegsinfektion und einen tödlichen Fall einer Pilz-Hirnhautentzündung."
+   ],
+   "quellen": [
+    [
+     "Healio",
+     "https://www.healio.com/news/rheumatology/20261117/fda-approves-cosentyx-for-adults-with-polymyalgia-rheumatica"
+    ],
+    [
+     "Managed Healthcare Executive",
+     "https://www.managedhealthcareexecutive.com/view/fda-approves-cosentyx-as-first-anti-il-17-biologic-for-polymyalgia-rheumatica"
+    ],
+    [
+     "Pharmaceutical Executive",
+     "https://www.pharmexec.com/view/fda-approves-cosentyx-polymyalgia-rheumatica-wilserdly-er-positive-esr1-mutated-advanced-breast-cancer"
+    ]
+   ],
+   "berichterstattung": [
+    "healio.com",
+    "managedhealthcareexecutive.com",
+    "pharmexec.com",
+    "ajmc.com",
+    "pharmacytimes.com",
+    "biopharminternational.com",
+    "fiercepharma.com",
+    "webmd.com",
+    "finviz.com"
+   ]
+  },
+  {
+   "id": "gut-06",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "Vier Spritzen im Jahr: Erstes siRNA-Mittel gegen Myasthenie zugelassen",
+   "deck": "Cemdisiran schaltet die Bildung eines Immuneiweißes ab – drei Viertel der Behandelten spürten eine deutliche Besserung.",
+   "text": [
+    "Für Menschen mit generalisierter Myasthenia gravis gibt es in den USA eine Behandlung, die nur alle drei Monate unter die Haut gespritzt wird. Die FDA hat am 18. November Cemdisiran (Livsayis) von Regeneron für Erwachsene zugelassen, die Antikörper gegen den Acetylcholin-Rezeptor haben. Es ist das erste zugelassene Mittel dieser Art gegen die Krankheit.",
+    "Bei der Autoimmunkrankheit ist die Signalübertragung zwischen Nerven und Muskeln gestört; Betroffene ermüden schnell, haben Probleme beim Sprechen, Kauen, Schlucken, Sehen und Atmen. In den USA sind nach Unternehmensangaben etwa 85.000 Menschen betroffen. Cemdisiran ist eine kleine interferierende RNA (siRNA): Sie sorgt dafür, dass die Leber weniger Komplementfaktor C5 bildet, ein Eiweiß des Immunsystems, das an der Schädigung der Nerv-Muskel-Verbindung beteiligt ist.",
+    "In der Phase-III-Studie NIMBLE mit 284 Erwachsenen an 86 Zentren in 13 Ländern verbesserte sich der Alltagswert (MG-ADL) nach 24 Wochen um 4,5 Punkte, mit Placebo um 2,2 Punkte. 76,6 Prozent der Behandelten erreichten eine Besserung um mindestens drei Punkte, gegenüber 44,1 Prozent. Wie andere C5-Hemmer trägt das Mittel einen Warnhinweis wegen des Risikos von Meningokokken-Infektionen. In der EU wird eine Entscheidung im zweiten Halbjahr 2027 erwartet."
+   ],
+   "quellen": [
+    [
+     "Pharmacy Times",
+     "https://www.pharmacytimes.com/view/cemdisiran-approved-as-first-sirna-therapy-for-myasthenia-gravis"
+    ],
+    [
+     "AJMC",
+     "https://www.ajmc.com/view/fda-approves-first-sirna-therapy-for-achr-positive-myasthenia-gravis"
+    ],
+    [
+     "Pharmaceutical Executive",
+     "https://www.pharmexec.com/view/fda-approves-livsayis-first-sirna-therapy-myasthenia-gravis"
+    ]
+   ],
+   "berichterstattung": [
+    "pharmacytimes.com",
+    "ajmc.com",
+    "pharmexec.com",
+    "neurologylive.com",
+    "biopharminternational.com",
+    "pharmaphorum.com",
+    "drugs.com"
+   ]
+  },
+  {
+   "id": "gut-07",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "Großbritannien"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "Windpocken-Schutz zum Nachholen: Britische Hausärzte impfen jetzt auch Vier- bis Sechsjährige",
+   "deck": "Seit 1. November bekommen ältere Kinder ohne Windpocken eine Dosis des Vierfach-Impfstoffs MMRV.",
+   "text": [
+    "In Großbritannien können seit dem 1. November auch ältere Kleinkinder gegen Windpocken geimpft werden. Kinder, die zwischen dem 1. Januar 2020 und dem 31. August 2022 geboren sind und weder Windpocken hatten noch zweimal dagegen geimpft wurden, erhalten bis zum 31. März 2028 eine Dosis des kombinierten Impfstoffs MMRV. Er schützt gegen Masern, Mumps, Röteln und Windpocken. Die Hausarztpraxen laden die Familien per Brief, SMS, Anruf oder E-Mail ein.",
+    "Seit Januar 2026 ersetzt MMRV im regulären Impfplan für Ein- und Anderthalbjährige den bisherigen Dreifach-Impfstoff gegen Masern, Mumps und Röteln. Die Nachholaktion soll die Ausbreitung der Windpocken zusätzlich bremsen. Auch Wales setzt sie im selben Zeitraum um.",
+    "Wie nötig der Schutz ist, zeigen Zahlen der Gesundheitsbehörde UKHSA vom 30. Oktober: 2025, also vor Einführung der Impfung, wurden 3.037 Kinder und Jugendliche unter 18 Jahren wegen Windpocken im Krankenhaus behandelt. Die Behörde ruft Eltern berechtigter Kinder auf, das Angebot zu nutzen."
+   ],
+   "quellen": [
+    [
+     "UK Health Security Agency",
+     "https://www.gov.uk/government/news/new-report-shows-toll-of-chickenpox-with-over-3000-infants-hospitalised-last-year"
+    ],
+    [
+     "Welsh Government",
+     "https://www.gov.wales/selective-varicella-chickenpox-catch-vaccination-programme-1-november-2026-whc2026032-html"
+    ],
+    [
+     "Open Access Government",
+     "https://www.openaccessgovernment.org/?p=216024"
+    ]
+   ],
+   "berichterstattung": [
+    "gov.uk",
+    "gov.wales",
+    "openaccessgovernment.org"
+   ]
+  },
+  {
+   "id": "gut-08",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Klima",
+    "Entwicklung"
+   ],
+   "kicker": "Gute Nachrichten · Klima",
+   "titel": "200 Millionen Dollar mehr für Klimaanpassung in den ärmsten Ländern – auch Deutschland zahlt ein",
+   "deck": "Dänemark, Südkorea, Belgien und Deutschland stocken auf der COP31 die Fonds der Globalen Umweltfazilität auf.",
+   "text": [
+    "Auf der Weltklimakonferenz in Antalya haben vier Staaten am 17. November zusätzlich 200 Millionen US-Dollar für die Fonds der Globalen Umweltfazilität (GEF) zugesagt. Dänemark kündigte 800 Millionen Kronen, umgerechnet rund 107 Millionen Euro, und Südkorea zehn Milliarden Won für die neunte Auffüllung des GEF-Treuhandfonds an.",
+    "Belgien sagte 50 Millionen Euro und Deutschland 18 Millionen Euro für den Fonds für die am wenigsten entwickelten Länder (LDCF) und den Sonderfonds für Klimawandel (SCCF) zu. Der deutsche Beitrag teilt sich in zehn Millionen Euro für den LDCF und acht Millionen Euro für den SCCF; er steht noch unter dem Vorbehalt des Bundestags. Norwegen bekräftigte zudem einen Beitrag von 780 Millionen Kronen, etwa 82 Millionen US-Dollar, zum GEF-Treuhandfonds.",
+    "Der LDCF ist auf die Anpassung an den Klimawandel in den ärmsten Ländern ausgerichtet, etwa auf Schutz vor Dürren und Überschwemmungen. Bis August 2026 hatte er 2,47 Milliarden US-Dollar für 446 Projekte bereitgestellt, der SCCF 457,8 Millionen US-Dollar für 138 Projekte."
+   ],
+   "quellen": [
+    [
+     "DevelopmentAid/GEF",
+     "https://www.developmentaid.org/news-stream/post/214993/governments-pledge-additional-200-million-to-gef-family-of-funds-at-cop31"
+    ],
+    [
+     "TradeArabia",
+     "https://tradearabia.com/News/489867/Govts-pledge-additional-%24200m-to-boost-climate-action-at-COP31"
+    ]
+   ],
+   "berichterstattung": [
+    "developmentaid.org",
+    "tradearabia.com"
+   ]
+  },
+  {
+   "id": "gut-09",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz",
+    "Großbritannien"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "Ausgebrütet von einer Pflegemutter: Chester Zoo zieht seltene Malaien-Pfaufasane groß",
+   "deck": "Die zwei Küken sind die einzigen ihrer bedrohten Art, die in diesem Jahr in einem europäischen Zoo geschlüpft sind.",
+   "text": [
+    "Im Zoo von Chester im Nordwesten Englands wachsen zwei Küken des Malaien-Pfaufasans heran. Es sind nach Angaben des Zoos die einzigen Jungvögel dieser stark gefährdeten Art, die in diesem Jahr in einem europäischen Zoo geschlüpft sind. In der europäischen Zoopopulation leben bisher nur 15 Vögel dieser Art. Der Zoo gab den Zuchterfolg am 12. November bekannt.",
+    "Der Erfolg war keine Selbstverständlichkeit: Eine junge Henne legte zum ersten Mal Eier, gab ihr erstes Ei aber kurz darauf auf. Die Pfleger griffen ein und legten es einer erfahrenen Bronzeschwanz-Pfaufasanen-Henne unter, die es als Pflegemutter erfolgreich ausbrütete. So sollte das Küken auch lernen, sich wie ein Fasan zu verhalten. Zeitweise wärmten die Pfleger einen Jungvogel im Brutkasten mit einem Gummihandschuh, den sie zur Wärmflasche umfunktioniert hatten.",
+    "Der Malaien-Pfaufasan lebt in den Wäldern der malaiischen Halbinsel und steht auf der Roten Liste der Weltnaturschutzunion als stark gefährdet. Der starke Verlust seines Lebensraums hat die Bestände nach Angaben des Zoos an den Rand gebracht."
+   ],
+   "quellen": [
+    [
+     "ECOticias",
+     "https://www.ecoticias.com/en/?p=54429"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/endangered-species-peacock-pheasant-chicks"
+    ]
+   ],
+   "berichterstattung": [
+    "ecoticias.com",
+    "goodgoodgood.co"
+   ]
+  },
+  {
+   "id": "gut-10",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Tierschutz",
+    "Italien"
+   ],
+   "kicker": "Gute Nachrichten · Tierschutz",
+   "titel": "Zweite Chance für Kampfhunde: Italien übernimmt die Kosten für ihre Pflege",
+   "deck": "Ein neues Dekret regelt, wie Tierschutzorganisationen Geld für die Betreuung beschlagnahmter Hunde bekommen.",
+   "text": [
+    "Hunde, die in Italien aus illegalen Hundekämpfen befreit werden, sollen künftig besser versorgt werden. Das italienische Arbeitsministerium hat ein Dekret veröffentlicht, das regelt, wie Geld aus dem Haushaltsgesetz 2026 beantragt und ausgezahlt wird. Damit werden die Kosten für Pflege und Unterbringung von Tieren gedeckt, die bei Hundekämpfen beschlagnahmt wurden, sowie von Tieren mit Verhaltensproblemen, die Einrichtungen des gemeinnützigen Sektors anvertraut sind. Nach Angaben von Good Good Good geht es um umgerechnet 2,2 Millionen US-Dollar.",
+    "Hunde aus Kampfringen sind oft schwer traumatisiert und brauchen lange Verhaltenstherapien, bevor sie in Familien vermittelt werden können. Diese Arbeit leisten bisher vor allem Tierschutzvereine aus eigener Tasche. Für die Erstattung müssen sie künftig nachweisen, dass ihnen die Tiere anvertraut wurden. Die Ausschreibung wird bis Jahresende erwartet; Anträge sind jeweils bis zum 31. Januar des Folgejahres möglich.",
+    "Die Organisationen Humane World for Animals Italien und Fondazione Cave Canem, die seit fünf Jahren mit dem Projekt „Io non combatto“ („Ich kämpfe nicht“) gegen Hundekämpfe vorgehen, begrüßten das Dekret. Sie hoffen, dass auch die Ausbildung von Polizeikräften gegen Tierkämpfe gestärkt wird."
+   ],
+   "quellen": [
+    [
+     "Humane World for Animals",
+     "https://www.humaneworld.org/en/Italy-funds-for-dogfighting-animal-survivors"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/dogfighting-rings-italy-rescue-rehabilitation"
+    ]
+   ],
+   "berichterstattung": [
+    "humaneworld.org",
+    "goodgoodgood.co"
+   ]
+  },
+  {
    "id": "muc-01",
    "rubrik": "muenchen",
    "tags": [
@@ -2557,6 +2916,24 @@
    "satz": "Laut Veranstaltungskalender der Stadt beginnen beide Konzerte am 24. und 25. November um 20 Uhr.",
    "quelle": "IN München",
    "url": "https://www.in-muenchen.de/events/berq.html"
+  },
+  {
+   "titel": "A99 bis Montag voll gesperrt: Zwischen München-Ost und München-Süd geht 57 Stunden nichts",
+   "satz": "Grund ist der Abriss der B304-Brücke bei Haar; Autofahrer sollen auf Bus und Bahn ausweichen oder Fahrten verschieben.",
+   "quelle": "WEB.DE/dpa",
+   "url": "https://web.de/magazine/auto/a99-sperrung-muenchen-umleitungen-super-stau-wochenende-droht-42962540"
+  },
+  {
+   "titel": "U3: Samstagabend bis Sonntag Busse statt U-Bahn zwischen Implerstraße und Fürstenried West",
+   "satz": "Wegen Stellwerksarbeiten an der Aidenbachstraße gilt der Ersatzverkehr von Samstag, 22. November, ca. 22 Uhr, bis Sonntag, Betriebsschluss.",
+   "quelle": "SWM/MVG",
+   "url": "https://www.swm.de/unternehmen/presse/pressemitteilungen/2026/11-2026/mvg-sperreung-u3-sued"
+  },
+  {
+   "titel": "U3 und U6: Ab 28. November keine Sperrungen mehr wegen der Sanierung an Poccistraße und Goetheplatz",
+   "satz": "Die aktuelle Bauphase endet voraussichtlich am 27. November; bis 11. April 2027 sind dort keine Streckensperrungen geplant.",
+   "quelle": "muenchen.de",
+   "url": "https://www.muenchen.de/verkehr/aktuell/u-bahn-einschraenkungen-fuer-u3-und-u6-von-18-mai-bis-2027"
   }
  ],
  "vorverkauf": [
