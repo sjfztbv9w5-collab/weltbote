@@ -1,0 +1,2616 @@
+{
+ "datum": "2026-11-22",
+ "datumszeile": "Sonntag, den 22. November 2026",
+ "redaktionsschluss": "7 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom Freitag, Bitcoin Sonntag 4 Uhr MEZ",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 22. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "24.803",
+   "veraenderung": "−2,6 %",
+   "richtung": "down"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "6.910",
+   "veraenderung": "−3,7 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "22.618",
+   "veraenderung": "−5,3 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Brent",
+   "wert": "92,57 $",
+   "veraenderung": "+0,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.538 $",
+   "veraenderung": "−2,4 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "59.360 $",
+   "veraenderung": "+1,4 %",
+   "richtung": "up"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,097",
+   "veraenderung": "±0,0 %",
+   "richtung": "flat"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,93 %",
+   "veraenderung": "−0,11",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "Polen",
+    "Russland",
+    "Nato",
+    "Sicherheit"
+   ],
+   "kicker": "Osteuropa · Nato-Ostflanke",
+   "titel": "Ein Marschflugkörper 50 Kilometer hinter der Grenze: Tusk spricht von „gezielter Provokation“, Rutte reist nach Polen",
+   "deck": "Zwei russische Raketen und eine Düsendrohne gingen während einer Übung der „Koalition der Willigen“ auf polnischem Boden nieder – Warschau verlangt mehr Schutz von der Nato, verzichtet aber vorerst auf Artikel 4.",
+   "text": [
+    "Nach der schweren russischen Angriffswelle auf die Ukraine in der Nacht zum 20. November ist inzwischen klarer, was auf polnisches Gebiet gefallen ist. Verteidigungsminister Władysław Kosiniak-Kamysz sprach von zwei Raketen und einer düsengetriebenen Drohne. Die Flugkörper gingen bei Nowy Lipowiec und Rudnik nad Sanem im Südosten des Landes nieder, die Drohne bei Molodycz. Einer der Flugkörper war nach Angaben von Al Jazeera ein Marschflugkörper vom Typ Ch-101, er stürzte rund 50 Kilometer von der ukrainischen Grenze entfernt ab. Verletzte oder Schäden meldete Polen zunächst nicht.",
+    "Brisant ist der Zeitpunkt: Seit dem 9. November üben Streitkräfte aus elf Staaten der „Koalition der Willigen“ in Polen für einen möglichen Einsatz in der Ukraine nach einem Kriegsende. Eine der Raketen schlug etwa 35 Kilometer vom Übungsgelände entfernt ein. Ministerpräsident Donald Tusk nannte den Vorfall eine „gezielte Provokation“, die wohl bewusst auf das Manöver abgestimmt gewesen sei. Warschau bittet um mehr Unterstützung im Rahmen der bestehenden Nato-Mission „Eastern Sentry“. Anders als im September 2025, als russische Drohnen in den polnischen Luftraum eindrangen, hat Polen diesmal keine Konsultationen nach Artikel 4 des Nato-Vertrags beantragt.",
+    "Nato-Generalsekretär Mark Rutte sprach von einer „schweren Verletzung“ des polnischen Luftraums, die „eindeutig gefährlich“ sei; er wird an diesem Wochenende in Polen erwartet. Der britische Premierminister Andy Burnham nannte den Vorfall „völlig inakzeptabel“, das Auswärtige Amt in Berlin sprach von einem weiteren Beispiel für „Russlands fortgesetzte Provokationen“. US-Präsident Donald Trump hatte frühere Vorfälle heruntergespielt und erklärt, Putin lande Drohnen und Raketen in Polen „aus Versehen“. Eine russische Stellungnahme zu dem Vorfall lag zunächst nicht vor.",
+    "Fachleute sehen darin einen Test der Bündnisreaktion. Der Politologe Scott Lucas vom University College Dublin sagte, Russland gehe diesmal „ein Stück weiter“ als bei früheren Luftraumverletzungen; einen Bündnisfall nach Artikel 5 hält er nur bei einem anhaltenden Angriff auf Polen für denkbar. Harry Nedelcu von Rasmussen Global erwartet, dass Moskau die Schwelle der Nato weiter austestet. Analysten bringen den Zeitpunkt auch mit den von Jared Kushner und Steve Witkoff vorangetriebenen Friedensgesprächen in Verbindung. Russlands Vizeaußenminister Sergej Rjabkow wies zugleich jede Form einer „Quasi-Mitgliedschaft“ der Ukraine in der Nato zurück. Bei den Angriffen auf die Ukraine setzte Russland nach Angaben von Präsident Wolodymyr Selenskyj mehr als 400 Drohnen und mindestens 110 Raketen ein; mindestens acht Zivilisten wurden getötet."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "USA",
+    "Iran-Krieg",
+    "Straße von Hormus"
+   ],
+   "kicker": "Nahost · Iran-Krieg",
+   "titel": "Drohnenabschüsse über Hormus, Mine trifft Tanker, Angriff auf Radaranlagen in Bahrain – Araghchi nennt sieben Bedingungen",
+   "deck": "Während Washington vier mutmaßliche „Öl-Treuhänder“ mit Sanktionen belegt, meldet Teheran einen der intensivsten Einsätze in der Meerenge seit Langem.",
+   "text": [
+    "Die Revolutionsgarden (IRGC) haben am Samstag nach eigenen Angaben zwei US-Drohnen abgeschossen: eine MQ-9 über der Straße von Hormus mit einem neuen Flugabwehrsystem und später eine MQ-1 über der Insel Qeschm. Das Staatsfernsehen IRIB sprach vom 58. abgeschossenen US-Drohnenflugzeug seit Kriegsbeginn vor fast neun Monaten. Das US-Militär äußerte sich zunächst nicht. Die iranische Armee behauptete zudem, ein US-Kampfflugzeug vom Typ F-16 über dem Golf beschädigt und zur Landung gezwungen zu haben.",
+    "Auch die Schifffahrt geriet erneut unter Beschuss. Nach Angaben der iranischen Marine geriet ein Öltanker in Brand, nachdem er in einem Sperrgebiet östlich der Meerenge auf eine Seemine gelaufen war. Die britische Seesicherheitsbehörde meldete, zwei Tanker seien nördlich und östlich des omanischen Chasab von „unbekannten Geschossen“ getroffen worden. Die Revolutionsgarden gaben außerdem an, Radaranlagen der US-Luftabwehr auf den bahrainischen Stützpunkten Al-Rafa und Awali angegriffen zu haben. Bahrains Behörden meldeten den Brand einer Industrieanlage, Verletzte gab es nach ihren Angaben nicht.",
+    "Diplomatisch bewegt sich wenig. Die im Juni unterzeichnete Absichtserklärung zwischen beiden Ländern wurde nie vollständig umgesetzt. Außenminister Abbas Araghchi nannte sieben Bedingungen für eine Öffnung der Meerenge, darunter ein Kriegsende, die Aufhebung der Sanktionen und der US-Seeblockade gegen Irans Südhäfen. Eine Ausfuhr des auf 60 Prozent angereicherten Urans lehnte er ab, hält aber eine „faire Lösung“ für möglich. Trump sagte am Freitag, Iran wolle zwar ein Abkommen, aber keines, das für ihn annehmbar sei: „Wir wollen einen echten Deal, keinen falschen.“",
+    "Das US-Finanzministerium belegte am Freitag vier Iraner mit Sanktionen, die als „Öl-Treuhänder“ Einnahmen aus illegalen Ölverkäufen eingesammelt haben sollen, darunter Majid Taj, Bruder des Präsidenten des iranischen Fußballverbands. Im Kongress forderten die Demokraten Yassamin Ansari und Ro Khanna, keinen Haushalt zu billigen, der offensive Einsätze gegen Iran weiter finanziert. Bis zum 11. Dezember muss ein Haushaltsgesetz stehen, sonst droht ein Stillstand der Regierungsgeschäfte."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    ],
+    [
+     "Al Jazeera (Liveblog)",
+     "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Jemen",
+    "Saudi-Arabien",
+    "Huthi",
+    "Krieg"
+   ],
+   "kicker": "Nahost · Krieg im Jemen",
+   "titel": "Dritter Alarmtag in Folge: Saudische Koalition fängt drei Huthi-Raketen auf Riad ab",
+   "deck": "Nach Luftschlägen auf Hodeida und Sanaa drohen die Huthi nun auch Dschidda und den Häfen am Roten Meer – mehr als 350.000 Menschen sind auf der Flucht.",
+   "text": [
+    "Die von Saudi-Arabien geführte Militärkoalition im Jemen hat nach eigenen Angaben am frühen Samstagmorgen drei ballistische Raketen der Huthi abgefangen, die auf Riad gerichtet waren. Zuvor hatten in der saudischen Hauptstadt wiederholt Warnsysteme ausgelöst – bereits den dritten Tag in Folge. Allein in den 24 Stunden ab Freitagmorgen gab der Zivilschutz acht öffentliche Notfallwarnungen heraus. Stunden später meldete die Koalition, sie habe eine weitere Drohne auf dem Weg in den Süden des Königreichs zerstört; auch für die Provinz Dschasan wurde Alarm gegeben und wieder aufgehoben.",
+    "Zwei Tage zuvor hatte ein Huthi-Angriff den Turm des Staatsfonds PIF beschädigt, das höchste Gebäude Riads. Am Freitag flog die Koalition nach eigenen Angaben eine „Sonderoperation“ gegen den Hafen Hodeida und „militärische Ziele“ in Sanaa. Sprecher Turki al-Malki sagte, getroffen worden seien Einrichtungen, über die Waffen und ballistische Raketen geschmuggelt würden; in Sanaa sei eines der wichtigsten Nachschublager zerstört worden. Huthi-nahe Medien meldeten zudem einen Luftangriff auf den Hafen Mokka.",
+    "Die Huthi drohten daraufhin mit Angriffen auf Dschidda und andere saudische Häfen am Roten Meer, auf das Finanzzentrum Riads und ein Kraftwerk in Al-Schukaik. Fluggesellschaften warnten sie, der saudische Luftraum sei „unsicher“. Am Boden meldeten Regierungstruppen Luftschläge nördlich von Marib und „heftige Gefechte“ in der südlichen Provinz Lahdsch.",
+    "Pakistans Außenminister Mohammad Ishaq Dar verurteilte den Angriff auf Riads Finanzviertel „aufs Schärfste“. Die Vereinten Nationen verfolgen die Eskalation nach eigenen Worten „mit Sorge“ und warnen, dass die Kämpfe wichtige Versorgungswege für Hilfsgüter gefährden. Mehr als 350.000 Menschen wurden durch die jüngste Eskalation vertrieben, die meisten von ihnen fanden in Taiz Zuflucht."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
+    ],
+    [
+     "Al Jazeera (Liveblog)",
+     "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Russland",
+    "Finnland",
+    "Schifffahrt",
+    "Sicherheit"
+   ],
+   "kicker": "Ostsee · Angriff auf See",
+   "titel": "Drohnen treffen Frachter auf dem Weg nach Kaliningrad – Finnland sperrt Luft- und Seeraum im östlichen Finnischen Meerbusen",
+   "deck": "Das Schiff brannte nur drei Seemeilen vor der russischen Grenze; wer angegriffen hat, ist offiziell noch unklar.",
+   "text": [
+    "Im Finnischen Meerbusen ist am Samstagmorgen ein Frachtschiff, das auf dem Weg in die russische Exklave Kaliningrad war, von zwei Drohnen getroffen worden. Das teilte der Gouverneur des Leningrader Gebiets, Alexander Drosdenko, mit. Der Angriff ereignete sich in internationalen Gewässern westlich der Insel Gogland, nach seinen Worten „drei Seemeilen von der Grenze der Russischen Föderation“ entfernt. Die Besatzung werde in Sicherheit gebracht, das Ausmaß der Schäden sei noch nicht vollständig bekannt.",
+    "Finnlands Verteidigungsministerium erklärte, die eigenen Streitkräfte hätten den Drohnenangriff erfasst, das Schiff sei beschädigt worden. Helsinki entsandte Einheiten des Grenzschutzes, informierte die Verbündeten und verhängte vorsorglich Beschränkungen für den Luft- und Schiffsverkehr im östlichen Teil des Meerbusens, um sich gegen weitere Drohnen zu wappnen. Der finnische Grenzschutz, der die Seenotrettung leitet, meldete einen brennenden russischen Frachter und bereitet sich auf mögliche Umweltschäden in seinem Zuständigkeitsgebiet vor.",
+    "Wer hinter dem Angriff steckt, war zunächst nicht bekannt. Kaliningrads Gouverneur Alexej Besprosvannych versicherte, die Versorgung der Exklave sei nicht gefährdet. Der schmale Meeresarm zwischen den Nato-Staaten Finnland und Estland verbindet St. Petersburg auf dem Seeweg mit Kaliningrad.",
+    "Ukraine und Russland greifen seit Kriegsbeginn gegenseitig Schiffe an, bislang vor allem im Schwarzen Meer. Anfang November hatte Finnlands Militär jedoch bereits einen Angriff auf ein russisches Kriegsschiff im Finnischen Meerbusen gemeldet, zu dem sich die Ukraine bekannte. Helsinki hatte daraufhin in Kiew Bedenken gegen Angriffe in dem Seegebiet angemeldet."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Russland",
+    "Europa",
+    "Spionage",
+    "Sicherheit"
+   ],
+   "kicker": "Dänemark · Geheimdienste",
+   "titel": "Mordkomplott gegen ukrainischen Rapper: Dänemark weist Russlands Militärattaché aus",
+   "deck": "Der Geheimdienst PET wirft russischen Diensten vor, mit Hilfe einer verbotenen Bande eine „Hinrichtung“ bei einem Konzert nahe Kopenhagen geplant zu haben.",
+   "text": [
+    "Dänemark weist den Verteidigungsattaché der russischen Botschaft aus; er muss das Land binnen sieben Tagen verlassen. Außenminister Lars Løkke Rasmussen gab die Entscheidung am Freitag bekannt, nachdem er den russischen Botschafter einbestellt hatte. Die Regierung erwägt zudem, Schengen-Visa für Russen auszusetzen.",
+    "Hintergrund ist ein mutmaßlicher Anschlagsplan auf den ukrainischen Rapper Kyivstoner, der laut dem Sender DR die ukrainische und die US-Staatsbürgerschaft besitzt. Er sollte am 25. September in einem Vorort Kopenhagens auftreten. Fünf Minuten vor Konzertbeginn stoppte die Polizei nahe dem Veranstaltungsort drei Personen in einem Auto und fand Schusswaffen und Messer; einer der Verdächtigen hatte eine Eintrittskarte gekauft. Das Konzert wurde abgesagt. Zwei Dänen standen am Freitag vor Gericht, angeklagt wegen versuchten Mordes und Unterstützung eines fremden Nachrichtendienstes. Polizei und Geheimdienst vermuten, dass die seit 2021 verbotene Bande Loyal to Familia an der Planung beteiligt war.",
+    "PET-Chef Rasmus Kieffer-Kristensen sagte, russische Dienste hätten versucht, „in Dänemark eine Hinrichtung auszuführen“ – ein solcher Versuch sei für das Land neu und Zeichen eines „zunehmend aggressiven und risikofreudigen Russlands“. Ministerpräsidentin Mette Frederiksen sagte, Russland sei „in die Enge getrieben“; die stärkste Antwort sei die weitere Unterstützung der Ukraine. EU-Kommissionspräsidentin Ursula von der Leyen sprach von einem Angriff auf die EU, Ratspräsident António Costa nannte den Plan „inakzeptabel“, er werde „nicht unbeantwortet bleiben“.",
+    "Moskau kündigte laut der Nachrichtenagentur Tass eine „angemessene Antwort“ an. Die russische Botschaft nannte die Ausweisung „rachsüchtig“ und erklärte, Dänemark habe keine Beweise für eine russische Beteiligung vorgelegt."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Gaza",
+    "Israel",
+    "Nahost"
+   ],
+   "kicker": "Nahost · Gaza und Westjordanland",
+   "titel": "Drohne trifft Lieferwagen mit Essen für Vertriebene – in Hebron sollen erstmals Wohnhäuser in der A-Zone fallen",
+   "deck": "Seit Beginn der Waffenruhe zählt Gazas Gesundheitsministerium 1.671 Tote; im Westjordanland setzt Israel Abrissbescheide in einem Gebiet unter palästinensischer Kontrolle.",
+   "text": [
+    "Im Gazastreifen sind am Samstag trotz der seit Oktober 2025 geltenden Waffenruhe mindestens vier Palästinenser durch israelische Angriffe getötet worden. Drei von ihnen starben, als eine Drohne im Viertel Tal al-Hawa in Gaza-Stadt einen Lieferwagen traf, der Essen an Vertriebene verteilen sollte. Ein Augenzeuge sagte, der Wagen habe gerade halten wollen, um Kindern Essen und Getränke zu geben. Papiere im Fahrzeug trugen laut einem Zeugen das Logo von World Central Kitchen; die Organisation erklärte, das Fahrzeug gehöre nicht zu ihr. Ein weiterer Mann wurde im Lager Halawa östlich von Dschabalia erschossen.",
+    "Nach Angaben des Gesundheitsministeriums in Gaza wurden seit Beginn der Waffenruhe 1.671 Menschen getötet, seit Kriegsbeginn vor drei Jahren insgesamt 74.736. Das Welternährungsprogramm warnte, Menschen verbrennten Müll zum Kochen – „jetzt ist selbst der Müll nass“, sagte Landesdirektor Shaun Hughes mit Blick auf den Winterregen. Nach Angaben der Internationalen Organisation für Migration warten mehr als 100.000 Zelte in Ägypten, weil Israel unter anderem den Durchmesser der Zeltstangen begrenzt.",
+    "Im Westjordanland hat die israelische Armee Abrissbescheide für zwei Wohnhäuser im Viertel Dairat al-Seer in Hebron ausgehängt, mit 25 und 40 Wohnungen sowie einem angrenzenden Haus. Sie liegen in der A-Zone, die nach den Oslo-Verträgen vollständig unter palästinensischer Kontrolle steht. Israel verweist auf die Nähe zur „Siedlerstraße 35“, die Eigentümer auf Genehmigungen der Palästinensischen Autonomiebehörde. Die Bewohner haben eine Woche Zeit für Einsprüche. Stadtrat Muammar al-Oweiwi spricht von einem Präzedenzfall und „Kollektivstrafe“.",
+    "Nördlich von Ramallah erschossen Wachleute einer israelischen Siedlung am Freitagabend nach palästinensischen Angaben einen 42-jährigen Mann. Großbritannien verurteilte die Siedlergewalt erneut."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Israel",
+    "Wahlen",
+    "Nahost"
+   ],
+   "kicker": "Israel · Regierungsbildung",
+   "titel": "Zweieinhalb Stunden mit Bennett: Netanjahu treibt einen Keil in das Oppositionslager",
+   "deck": "Zwei Wochen vor der ersten Frist zur Regierungsbildung zeigen sich Risse im „Lager des Wandels“ um Gadi Eisenkot.",
+   "text": [
+    "Israels geschäftsführender Ministerpräsident Benjamin Netanjahu hat sich am Mittwoch zweieinhalb Stunden lang mit seinem Vorgänger Naftali Bennett getroffen – ohne dass das Treffen vorher angekündigt worden war. Netanjahus Büro sprach von einem „Sicherheitsbriefing“. Oppositionskreise nannten die Begegnung israelischen Medien zufolge ein „strategisches Desaster“. Nach Angaben von Ynet hatte Bennett Oppositionsführer Gadi Eisenkot nicht vorab informiert; bei einem späteren Treffen der Opposition warb er laut Kanal 12 sogar für eine Einheitsregierung mit Netanjahu.",
+    "„Netanjahu versucht, über Bennett das Lager des Wandels zu sprengen“, sagte ein führendes Mitglied aus Eisenkots Bündnis zu Ynet. Die Lage ist ohnehin heikel: Eisenkots Block kommt nach der Wahl im Oktober auf 48 der 120 Sitze in der Knesset und liegt damit 13 Sitze unter der Mehrheit. Die erste Frist für die Regierungsbildung läuft am 6. Dezember ab.",
+    "Innerhalb des Lagers gibt es mehrere Bruchlinien. Jair Golan traf sich mit Vertretern der Parteien arabischer Israelis, was der Rest des Bündnisses ablehnt. Avigdor Lieberman, dessen Partei Jisrael Beitenu sieben Sitze hält, scheint seinen Widerstand gegen Ausnahmen vom Wehrdienst für Ultraorthodoxe zu lockern – deren Parteien Schas und Vereinigtes Torah-Judentum könnten mit zusammen 13 Sitzen den Ausschlag geben. Lieberman nannte Eisenkot zugleich „Gantz 2.0“ und warf ihm vor, insgeheim eine Einigung mit Netanjahu anzustreben.",
+    "Bennett und Jair Lapid hatten 2021 Netanjahus zwölfjährige Amtszeit beendet. Netanjahu ist der am längsten amtierende Regierungschef Israels."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Klima",
+    "COP31",
+    "UN"
+   ],
+   "kicker": "Klima · Weltklimakonferenz",
+   "titel": "Verlängerung in Antalya: Fast 200 Staaten streiten über einen Entwurf ohne fossile Brennstoffe",
+   "deck": "Panama und ein Dutzend weiterer Länder drohen mit Auszug, das Ziel von 120 Milliarden Dollar für Klimaanpassung ist aus dem Text verschwunden.",
+   "text": [
+    "Die Weltklimakonferenz COP31 im türkischen Antalya ist in die Verlängerung gegangen. Die zweiwöchigen Verhandlungen hätten am Freitag enden sollen, doch eine späte Schlusssitzung billigte nur technische Beschlüsse, nicht aber die politische Gesamterklärung. Nach Angaben der Nachrichtenagentur AFP sollte am Samstag ein dritter Entwurf vorgelegt werden. „Wir sind nah an der Ziellinie, aber noch nicht da“, sagte Konferenzpräsident Murat Kurum, der türkische Umweltminister.",
+    "Kern des Streits ist die Sprache zu Öl, Gas und Kohle. Australien, Mitgastgeber und Verhandlungsführer, hatte am Montag einen ersten Entwurf mit der Forderung nach einem schnelleren Ausstieg aus fossilen Brennstoffen vorgelegt. Nach Einwänden Saudi-Arabiens und anderer Förderländer fehlt im schlankeren Entwurf vom Donnerstag jeder Hinweis darauf. Die EU warnte, die Konferenz drohe zu einem „fossilen Gipfel“ zu werden. Panama hat mit einem Dutzend weiterer Staaten einen Brief unterzeichnet, der einen klaren Ausstieg verlangt, und mit dem Verlassen der Konferenz gedroht. Es sei inakzeptabel, dass das Abschlussdokument fossile Brennstoffe gar nicht erwähne, sagte Umweltminister Juan Carlos Navarro.",
+    "Auch beim Geld gibt es Rückschritte: Der überarbeitete Text streicht ein Ziel von 120 Milliarden Dollar, mit dem ärmeren Ländern die Anpassung an den Klimawandel erleichtert werden sollte. Vorgesehen ist, den Anteil von Strom am Endenergieverbrauch bis 2035 auf 35 Prozent zu steigern, ohne dass dieser aus erneuerbaren Quellen stammen muss. Umstritten ist zudem der Ausbau der CO2-Abscheidung. Mohamed Adow vom Thinktank Power Shift Africa sprach von der „schlechtesten COP aller Zeiten“.",
+    "Die USA nehmen das zweite Jahr in Folge nicht teil. Ein UN-Bericht hatte im Oktober festgestellt, dass die Welt die 1,5-Grad-Grenze des Pariser Abkommens überschreiten wird."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "UN",
+    "Diplomatie",
+    "Sicherheit"
+   ],
+   "kicker": "Genf · Rüstungskontrolle",
+   "titel": "Killerroboter: 128 Staaten einigen sich nach durchverhandelter Nacht auf ein Mandat bis 2028",
+   "deck": "Statt über ein Abkommen zu „verhandeln“, wollen die Staaten es nun „ausarbeiten“ – Menschenrechtsgruppen sprechen von einem verwässerten Ergebnis.",
+   "text": [
+    "Die 128 Staaten, die in Genf im Rahmen des UN-Waffenübereinkommens CCW über autonome Waffensysteme beraten haben, haben sich am Samstag auf einen nächsten Schritt geeinigt. In den kommenden zwei Jahren soll ein mögliches Regelwerk für sogenannte Killerroboter – Waffen, die ohne letzte menschliche Entscheidung töten können – „ausgearbeitet“ werden. Das Wort „verhandeln“ wurde gestrichen, weil einige Staaten es ablehnten. Über die Schlussformulierung wurde bis in die Nacht gerungen; Russland hatte mit Verfahrenseinwänden dafür gesorgt, dass formelle Sitzungen ausfielen.",
+    "Fast 100 Staaten hatten auf eine rasche Annahme rechtlich bindender Regeln gedrungen. Große Rüstungsproduzenten wie die USA, Russland und Israel lehnten dies ab. Da im CCW alle Entscheidungen einstimmig fallen müssen, konnte eine kleine Zahl von Ländern das Ergebnis prägen.",
+    "Der Schweizer Diplomat Julien Thoeni, der die Konferenz leitete, sprach nach mehr als zehn Jahren Gesprächen von einem bedeutenden Schritt für die humanitäre Abrüstung. Der Prozess solle klären, welche Waffen nach dem humanitären Völkerrecht verboten und welche erlaubt, aber reguliert werden könnten. „Es zeigt, dass multilaterale Diplomatie auch in einer tief gespaltenen Welt konkrete Ergebnisse liefern kann“, sagte er.",
+    "Das Bündnis Stop Killer Robots, in dem sich 300 Organisationen zusammengeschlossen haben, nannte das Mandat „verwässert“, es weise keinen klaren Weg zu verbindlichen Regeln. Geschäftsführerin Nicole van Rooijen verwies darauf, dass autonome Waffen bereits im Kampf eingesetzt würden, darunter KI-Systeme, die Ziele auswählen. Verity Coyle von Human Rights Watch sprach von einem enttäuschenden Ergebnis: „Die Technik rast davon.“"
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Frankreich",
+    "Justiz",
+    "Europa"
+   ],
+   "kicker": "Frankreich · Polizeigewalt",
+   "titel": "Fall Michel Zecler: Pariser Gericht verurteilt drei Polizisten – Rassismus als strafverschärfend gewertet",
+   "deck": "Sechs Jahre nach dem gefilmten Angriff auf den schwarzen Musikproduzenten erhalten die Beamten je fünf Jahre Haft, größtenteils zur Bewährung.",
+   "text": [
+    "Ein Strafgericht in Paris hat drei Polizisten wegen des Angriffs auf den schwarzen Musikproduzenten Michel Zecler im Jahr 2020 verurteilt und dabei Rassismus als strafverschärfenden Umstand gewertet. Urteile dieser Art sind in Fällen von Polizeigewalt in Frankreich selten. Die Beamten hatten Zecler am 21. November 2020, mitten in der Corona-Pandemie, vor seinem Studio angegriffen. Sie gaben an, ihn wegen einer fehlenden Maske kontrolliert zu haben; er habe nach einer ihrer Waffen gegriffen. Die Ermittlungen ergaben dagegen, dass sie in den Eingang seines Büros eindrangen und ihn schlugen – Überwachungskameras zeichneten alles auf. Zecler erlitt unter anderem Kopfverletzungen und einen Riss der Bizepssehne.",
+    "Alle drei erhielten fünf Jahre Haft, der größte Teil davon zur Bewährung: Aurélien Lapersonne (29) muss zwei Jahre verbüßen, Philippe Tondeux (50) anderthalb Jahre, Pierre Plantier (37) ein Jahr, das er mit elektronischer Fußfessel statt im Gefängnis ableisten soll. Das Gericht hielt Zeclers Schilderung für schlüssig; er hatte die rassistischen Beleidigungen schon bei der Festnahme, auf der Wache und im Krankenhaus angegeben. Die Glaubwürdigkeit der Beamten litt dagegen darunter, dass sie den Polizeibericht gefälscht hatten.",
+    "Die drei Polizisten entschuldigten sich am Freitag bei Zecler, Plantier soll dabei geweint haben. Zecler wurde beim Verlassen des Saals mit Applaus empfangen. Sein Anwalt Serge Money sagte, der Gerechtigkeit sei Genüge getan und Zecler habe seine Würde zurückerhalten.",
+    "Opfer und Forscher beschreiben Polizeigewalt in Frankreich als strukturelles Problem. Nach einem Bericht der französischen Bürgerrechtsbeauftragten werden junge Männer, die als arabisch, schwarz oder nordafrikanisch wahrgenommen werden, viermal so häufig kontrolliert wie der Rest der Bevölkerung."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "EU",
+    "Handelsabkommen",
+    "Indonesien"
+   ],
+   "kicker": "Welthandel · Freihandelsabkommen",
+   "titel": "Nach fast zehn Jahren: EU und Indonesien unterzeichnen ihr Freihandelsabkommen – Autozölle von bis zu 50 Prozent fallen",
+   "deck": "Brüssel verspricht europäischen Exporteuren jährlich rund 600 Millionen Euro weniger Zölle und sichert sich Zugang zu Nickel und Kobalt.",
+   "text": [
+    "Die Europäische Union und Indonesien haben am Samstag ein Freihandelsabkommen und ein Investitionsschutzabkommen unterzeichnet. Damit endet ein Prozess, der fast zehn Jahre gedauert hat: Die Verhandlungen hatten 2016 begonnen und waren im September 2025 politisch abgeschlossen worden. Kommissionspräsidentin Ursula von der Leyen sprach in Brüssel von einem der ehrgeizigsten Handelsabkommen, das die EU in Asien geschlossen habe. „In einer Zeit, in der andere ihre Türen schließen, halten wir unsere offen“, sagte sie – ein kaum verhüllter Seitenhieb auf die Zollpolitik von US-Präsident Donald Trump.",
+    "Inhaltlich sollen die Zölle auf nahezu alle zwischen beiden Seiten gehandelten Waren schrittweise verschwinden. Ist das Abkommen vollständig umgesetzt, entfallen sie auf bis zu 98,5 Prozent der Warengruppen. Die Kommission rechnet damit, dass europäische Exporteure so jährlich rund 600 Millionen Euro an Zöllen sparen. Besonders bedeutsam für die deutsche Industrie: Indonesiens Einfuhrzölle auf europäische Autos, derzeit bis zu 50 Prozent, sollen binnen fünf Jahren wegfallen.",
+    "Ein zweiter Schwerpunkt sind Rohstoffe. Indonesien zählt zu den weltweit wichtigsten Produzenten von Nickel und Kobalt, die für Batterien gebraucht werden. Das Abkommen enthält ein Verbot von Exportmonopolen für Rohstoffe und Regeln gegen diskriminierende Preise. Das Land ist mit rund 290 Millionen Einwohnern die größte Volkswirtschaft Südostasiens und Mitglied der G20. Kritiker wie die Organisation Attac hatten bereits beim Verhandlungsabschluss vor fehlendem Schutz vor Entwaldung und Umweltschäden gewarnt.",
+    "In Kraft ist der Vertrag noch nicht: Das Europäische Parlament muss zustimmen. Nach Abschluss der internen Verfahren ist eine vorläufige Anwendung geplant, die die Kommission Anfang 2027 erhofft. Der SPD-Europaabgeordnete Bernd Lange, Vorsitzender des Handelsausschusses, sagte, in einer zersplitterten Welt liege Stärke in verlässlichen Partnern, nicht in den höchsten Mauern. Am 11. Dezember will von der Leyen Präsident Prabowo Subianto in Brüssel empfangen."
+   ],
+   "quellen": [
+    [
+     "t-online (dpa)",
+     "https://www.t-online.de/finanzen/aktuelles/id_101540006/eu-und-indonesien-unterzeichnen-weitreichenden-handelsdeal.html"
+    ],
+    [
+     "ORF (Abschluss 2025)",
+     "https://orf.at/stories/3406246/"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de",
+    "orf.at",
+    "tagesspiegel.de",
+    "boersen-zeitung.de",
+    "taz.de",
+    "trend.at"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Tarifstreit",
+    "IG Metall",
+    "Industrie"
+   ],
+   "kicker": "Arbeitsmarkt · Tarifstreit",
+   "titel": "151.000 Beschäftigte in mehr als 100 Betrieben: Die ersten 24-Stunden-Streiks der Metallbranche seit acht Jahren",
+   "deck": "Schwerpunkte waren die bayerischen Autowerke und die Werften im Norden – die Arbeitgeber drängen auf neue Gespräche, die Gewerkschaft will mehr als ein „Minus-Angebot“.",
+   "text": [
+    "Die IG Metall hat am Freitag ihre Drohung wahrgemacht und erstmals seit acht Jahren ganztägige Warnstreiks in der Metall- und Elektroindustrie organisiert. Nach Angaben der Gewerkschaft legten rund 151.000 Beschäftigte in mehr als 100 Betrieben für 24 Stunden die Arbeit nieder. Schwerpunkte waren nach Angaben der Nachrichtenagentur dpa-AFX die Autoindustrie in Bayern, unter anderem bei BMW und Audi, sowie die Werften an der Küste. Ein neues Gesprächsangebot der Arbeitgeber hielt die Gewerkschaft nicht davon ab.",
+    "Die Fronten sind verhärtet. Die IG Metall fordert 5 Prozent mehr Entgelt bei einer Laufzeit von zwölf Monaten, dazu Zusagen zur Beschäftigungs- und Standortsicherung sowie eine Gewinnbeteiligung in gut laufenden Unternehmen. Die Arbeitgeber bieten eine Einmalzahlung von 1 Prozent im Juli 2027, die je nach Betrieb gekürzt werden kann, und eine Erhöhung um 1,3 Prozent ab Juli 2028, bei einer Laufzeit von 26 Monaten. Die Gewerkschaft rechnet das auf 0,6 Prozent im Jahr herunter. Zudem wollen die Arbeitgeber Abweichungen vom Flächentarif mit den Betriebsräten statt mit der IG Metall vereinbaren.",
+    "„Die Beschäftigten sind sauer über das Minus-Angebot“, sagte IG-Metall-Chefin Christiane Benner. Tarifvorständin Nadine Boguslawski erklärte, nur stundenweise Warnstreiks hätten die Arbeitgeber „offensichtlich nicht ernst genommen“. Die Gewerkschaft verweist auf eine eigene Umfrage, nach der 62 Prozent der Betriebe gut bis sehr gut ausgelastet seien. Aus dem Maschinenbau kam am Freitag die Forderung, der Staat solle die Metallbranche entlasten.",
+    "Bereits in der ersten Novemberwoche hatten nach Gewerkschaftsangaben mehr als 400.000 Beschäftigte an kürzeren Warnstreiks teilgenommen. Die dritte Verhandlungsrunde Anfang November war in allen Tarifgebieten ohne Ergebnis geblieben. Von den rund 3,7 Millionen Beschäftigten der Branche verhandeln 15 Tarifgebiete getrennt – ein Pilotabschluss ist nicht in Sicht."
+   ],
+   "quellen": [
+    [
+     "IG Metall",
+     "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/aktionen-zur-metall-tarifrunde"
+    ],
+    [
+     "dpa-AFX via boerse.de",
+     "https://www.boerse.de/nachrichten/dpa-AFX-Ueberblick-UNTERNEHMEN-vom-20112026-1515-Uhr/38731071"
+    ],
+    [
+     "DGB",
+     "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-metall-und-elektro-ueber-400000-beschaeftigte-im-warnstreik/"
+    ]
+   ],
+   "berichterstattung": [
+    "igmetall.de",
+    "boerse.de",
+    "dgb.de",
+    "zdfheute.de",
+    "infranken.de",
+    "ms-aktuell.de"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "USA",
+    "Häfen",
+    "Tarifstreit",
+    "Logistik"
+   ],
+   "kicker": "Welthandel · Häfen",
+   "titel": "Streik in letzter Minute abgewendet: Wachleute in Los Angeles und Long Beach einigen sich mit den Hafenbetreibern",
+   "deck": "Die Einigung für 250 Beschäftigte kam nach erneuten Gesprächen mit einem Bundesvermittler – an ihnen hing ein Drittel des US-Containerverkehrs.",
+   "text": [
+    "An den Häfen von Los Angeles und Long Beach, dem größten Hafenkomplex der Vereinigten Staaten, ist ein Streik in letzter Minute abgewendet worden. Die Pacific Maritime Association (PMA), die die Terminalbetreiber vertritt, und die Gewerkschaft ILWU Local 26 erzielten eine vorläufige Tarifeinigung. Der alte Vertrag war um 0.01 Uhr in der Nacht zum Samstag ausgelaufen, die Mitglieder hatten bereits Ende Oktober einen Streik genehmigt. Die Gespräche waren am Freitag mit Hilfe eines Bundesvermittlers wieder aufgenommen worden – zwei Tage, nachdem sie ins Stocken geraten waren.",
+    "Die Gewerkschaft vertritt nur rund 250 unbewaffnete Wachleute, die an sechs Containerterminals Zufahrten kontrollieren, Ausweise prüfen und Streife gehen. Das sind etwa 2 Prozent der ILWU-Beschäftigten in den beiden Häfen. Ihre Bedeutung ist dennoch groß: Die betroffenen Terminals wickeln rund 85 Prozent der Fracht in Long Beach und 33 Prozent in Los Angeles ab. Die PMA hatte gewarnt, dass Tausende Hafenarbeiter, Tallymänner und Vorarbeiter die Streikposten respektieren würden. Die beiden Häfen fertigen mehr als 31 Prozent der Containerwaren der USA ab.",
+    "Einzelheiten der Einigung wurden nicht veröffentlicht. Das letzte bekannte Angebot der Arbeitgeber sah eine Einmalprämie von 3.200 Dollar je Mitglied vor und sollte das durchschnittliche Jahreseinkommen der Vollzeit-Wachleute von mehr als 170.000 auf 198.000 Dollar anheben. Die voll vom Arbeitgeber bezahlte Krankenversicherung im Wert von mehr als 62.000 Dollar im Jahr sollte erhalten bleiben, die Betriebsrente für die dienstältesten Beschäftigten auf bis zu 93.200 Dollar jährlich steigen.",
+    "Die Mitglieder von Local 26 müssen der Einigung noch zustimmen; bis dahin gilt der bisherige Vertrag weiter. Der Vertrag war bereits im Juli 2025 ausgelaufen und seither immer wieder verlängert worden. Die Gewerkschaft äußerte sich zunächst nicht."
+   ],
+   "quellen": [
+    [
+     "FreightWaves",
+     "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach"
+    ],
+    [
+     "NBC Los Angeles",
+     "https://www.nbclosangeles.com/news/local/tentative-deal-port-watchmen/3973800/"
+    ],
+    [
+     "Reuters via WHBL",
+     "https://whbl.com/2026/11/21/southern-california-port-employers-watchmen-union-reach-tentative-deal/"
+    ]
+   ],
+   "berichterstattung": [
+    "freightwaves.com",
+    "nbclosangeles.com",
+    "whbl.com",
+    "mynewsla.com",
+    "wwd.com",
+    "yahoo.com",
+    "laist.com"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Kanada",
+    "USA",
+    "Zölle"
+   ],
+   "kicker": "Welthandel · Zollstreit",
+   "titel": "Trump nennt Kanada „ermutigt“ – verhandeln will er erst, wenn das Handelsdefizit bei null liegt",
+   "deck": "Seit der Niederlage der Republikaner bei den Zwischenwahlen klingt Washington milder, doch eine Lösung im Zollstreit ist nicht in Sicht.",
+   "text": [
+    "US-Präsident Donald Trump hat sich am Freitag erneut zum Handelskonflikt mit Kanada geäußert. Das Nachbarland fühle sich „ermutigt“, sagte er bei einer fast 90-minütigen Pressekonferenz im Weißen Haus; seine Regierung arbeite an einem Abkommen, das „fair“ sei. Mit Premierminister Mark Carney habe er am Rande des Apec-Gipfels im chinesischen Shenzhen gesprochen und ihn als „sehr nett“ erlebt. Zugleich nannte Trump eine hohe Hürde: Gesprächsbereit sei er, wenn Kanadas Handelsdefizit mit den USA bei null liege. Das Defizit beruht vor allem auf den US-Käufen kanadischen Öls und anderer Energieprodukte.",
+    "Der Konflikt war eskaliert, nachdem die Verhandlungen im August abgebrochen worden waren. Washington verhängte Zölle von 50 Prozent auf eine ganze Reihe kanadischer Waren und verbot die Einfuhr anderer, Ottawa antwortete mit Gegenzöllen. Das Nordamerika-Abkommen CUSMA verlängerte Trump im Juli nicht; damit beginnt eine jährliche Überprüfung über bis zu zehn Jahre, an deren Ende der Vertrag ohne Einigung ausläuft.",
+    "Nach der deutlichen Niederlage der Republikaner bei den Zwischenwahlen hat sich der Ton allerdings verändert. Der Handelsbeauftragte Jamieson Greer hatte am 12. November erklärt, die USA wollten ein Abkommen, das für beide Seiten funktioniere. Die Demokraten wollen das Ende des Handelskriegs mit Kanada zur Priorität machen, wenn sie im Januar den Kongress übernehmen, dürften aber keine Mehrheit haben, um ein Veto zu überstimmen.",
+    "In Ottawa stellt man sich auf eine längere Durststrecke ein. Carney sagte am Mittwoch, ein gutes Arrangement mit den USA sei möglich, Kanada werde aber nicht warten, und verwies auf neue Abkommen mit den Philippinen und dem Asean-Verbund. Chefunterhändlerin Janice Charette sagte im Unterhaus, Kanada müsse sich auf eine Welt einstellen, in der zollfreier Handel womöglich nicht mehr möglich sei."
+   ],
+   "quellen": [
+    [
+     "BNN Bloomberg (Canadian Press)",
+     "https://bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/16/carney-says-us-tariffs-could-push-canadian-carmakers-towards-china"
+    ]
+   ],
+   "berichterstattung": [
+    "bnnbloomberg.ca",
+    "euronews.com"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Katar",
+    "Investitionen"
+   ],
+   "kicker": "Außenwirtschaft · Investitionen",
+   "titel": "Katar will 15 Milliarden Euro mehr in Deutschland investieren – Merz nennt KI, Halbleiter und Luftfahrt",
+   "deck": "Beim Besuch des Emirs in Berlin warb der Kanzler zudem für eine engere Sicherheitszusammenarbeit.",
+   "text": [
+    "Katar will sein wirtschaftliches Engagement in Deutschland deutlich ausbauen. Das Emirat kündigte nach Angaben von Bundeskanzler Friedrich Merz an, seine Investitionen in die deutsche Wirtschaft um 15 Milliarden Euro zu erhöhen. Merz begrüßte das am Freitag bei einem Treffen mit dem Emir von Katar, Tamim bin Hamad Al Thani, in Berlin und sprach von Vorteilen für beide Seiten.",
+    "Als mögliche Felder nannte Merz künstliche Intelligenz, Halbleiter und Luftfahrt. Über welchen Zeitraum das Geld fließen soll und in welche Unternehmen, wurde zunächst nicht bekannt.",
+    "Der Besuch stand zugleich im Zeichen des Iran-Konflikts. Beide Länder warben für eine diplomatische Lösung, während Spekulationen über neue Angriffe der USA und Israels auf Iran anhalten. „Eine diplomatische Lösung bleibt möglich“, sagte Merz. Er strebt außerdem eine engere Zusammenarbeit beider Länder in Sicherheitsfragen an."
+   ],
+   "quellen": [
+    [
+     "dpa-AFX via boerse.de",
+     "https://www.boerse.de/nachrichten/dpa-AFX-Ueberblick-KONJUNKTUR-vom-20112026-1700-Uhr/38731117"
+    ],
+    [
+     "dpa-AFX via finanznachrichten.de",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70191895-dpa-afx-ueberblick-konjunktur-vom-20-11-2026-17-00-uhr-016.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "boerse.de",
+    "finanznachrichten.de",
+    "finanzen.net",
+    "ariva.de"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Luftfahrt",
+    "Lufthansa",
+    "Tarifstreit"
+   ],
+   "kicker": "Luftfahrt · Tarifstreit",
+   "titel": "Die Frist der Piloten läuft am Montag ab – und Lufthansa streicht parallel 1.000 Stellen an den Drehkreuzen",
+   "deck": "Die Vereinigung Cockpit wirft dem Konzern vor, die Belegschaft mit seinen Sparplänen gezielt zu verunsichern; neue Streiks werden wahrscheinlicher.",
+   "text": [
+    "Für die Lufthansa wird der Montag zum Stichtag. Bis zum 23. November soll der Konzern nach dem Willen der Vereinigung Cockpit (VC) erklären, ob er auf Grundlage des Vorschlags des Mediators weiterverhandeln will. Die Vermittlung war am Dienstag nach sieben Monaten und 18 Gesprächsrunden ohne Ergebnis zu Ende gegangen; die Gewerkschaft sieht sich seither nicht mehr an die Friedenspflicht gebunden. Eine konkrete Streikankündigung gibt es bislang nicht.",
+    "Verschärft hat sich der Ton durch die Sparpläne der Kernmarke. Nach einem internen Schreiben, über das die Tagesschau berichtete, will Lufthansa Airlines an den Drehkreuzen Frankfurt und München rund 1.000 Vollzeitstellen streichen und die Kapazität weiter senken. Die Kernmarke verlor laut Reuters von Januar bis September im Schnitt 20 Millionen Euro im Monat. Die VC warf dem Unternehmen am Freitag vor, die Belegschaft mit diesen Plänen gezielt zu verunsichern; unklar sei, ob der Abbau zusätzlich zu früheren Ankündigungen komme. Laut Handelsblatt will Lufthansa zudem einen Teil ihrer A320-Flotte durch kleinere A220 ersetzen.",
+    "In der Sache liegen die Positionen weit auseinander. Lufthansa hat ein eigenes Angebot vorgelegt, das sich auf Empfehlungen der Schlichter Roland Koch und Bodo Ramelow stützt: bis zu 1.000 Neueinstellungen im Cockpit bis Ende 2033, jährlich bis zu 150 zusätzliche Kapitänsbeförderungen, Einmalzahlungen für 2027 und 2028 und Gehaltserhöhungen erst ab 2029. Die VC will dagegen mit dem Mediatorenvorschlag weiterarbeiten, der Nullrunden und Einschnitte bei der variablen Vergütung vorsieht, im Gegenzug aber Schutz vor Stellenabbau. Lufthansa komme, „als hätte es sieben Monate Gespräche nicht gegeben“, kritisierte VC-Tarifchef Arne Karstens.",
+    "Die Piloten haben in diesem Jahr bereits an sieben Tagen gestreikt, zuletzt im April während der Feiern zum 100. Jahrestag der Lufthansa, als Hunderte Flüge ausfielen."
+   ],
+   "quellen": [
+    [
+     "Hessenschau",
+     "https://www.hessenschau.de/wirtschaft/neue-lufthansa-streik-moeglich-piloten-setzen-frist-bis-montag-v1,lufthansa-piloten-104.html"
+    ],
+    [
+     "dpa-AFX via boerse.de",
+     "https://www.boerse.de/nachrichten/dpa-AFX-Ueberblick-UNTERNEHMEN-vom-20112026-1515-Uhr/38731071"
+    ],
+    [
+     "Börse Express",
+     "https://boerse-express.com/news/articles/lufthansa-aktie-a220-soll-a320-teilweise-ersetzen-964842"
+    ]
+   ],
+   "berichterstattung": [
+    "hessenschau.de",
+    "boerse.de",
+    "boerse-express.com",
+    "stock-world.de",
+    "trading-treff.de",
+    "theflightbrief.com",
+    "ad-hoc-news.de",
+    "cash-online.de",
+    "aerocorner.com",
+    "infranken.de"
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Frankreich",
+    "Pharma",
+    "Übernahmen"
+   ],
+   "kicker": "Pharma · Übernahmen",
+   "titel": "Sanofi prüft laut Bloomberg den Kauf von Insmed – es wäre der größte Biopharma-Deal seit Jahren",
+   "deck": "Der US-Hersteller ist an der Börse rund 30 Milliarden Dollar wert; die Insmed-Aktie springt um bis zu 24 Prozent, Sanofi verliert knapp 4 Prozent.",
+   "text": [
+    "Der französische Pharmakonzern Sanofi prüft nach einem Bericht der Nachrichtenagentur Bloomberg eine Übernahme des US-Arzneimittelherstellers Insmed. Die Gespräche liefen noch, Sanofi lasse sich von Beratern unterstützen, hieß es. Eine Einigung könne noch Wochen entfernt sein, auch andere Bieter könnten sich melden. Sanofi wollte Marktgerüchte nicht kommentieren, Insmed äußerte sich zunächst nicht.",
+    "Insmed wird an der Börse mit rund 30 Milliarden Dollar bewertet, ein Kaufpreis dürfte darüber liegen. Die Aktie stieg nach dem Bericht zeitweise um bis zu 24 Prozent, der Handel wurde wegen der starken Schwankungen kurz unterbrochen; am Freitag legte sie weiter zu. Sanofi-Papiere verloren in Paris knapp 4 Prozent. Jefferies-Analyst Michael Leuten hält eine solche Summe für finanzierbar, aber am oberen Rand der Möglichkeiten von Sanofi. Bei einem Aufschlag von 30 Prozent ergäben sich nach einer Modellrechnung rund 31 Milliarden Euro.",
+    "Hinter dem Interesse steht ein strategisches Problem: Das Patent für Sanofis umsatzstärkstes Medikament Dupixent läuft aus, der Konzern braucht neue Umsatzbringer. Konzernchefin Belén Garijo, die Anfang des Jahres auf Paul Hudson gefolgt war, hatte im Oktober Übernahmen als Wachstumshebel angekündigt. Insmed hat mit Brinsupri ein Mittel gegen Bronchiektasen, eine chronische Lungenerkrankung, im Markt und kam im dritten Quartal auf 524,4 Millionen Dollar Umsatz, davon 400,1 Millionen mit Brinsupri.",
+    "Ob Insmed verkaufen will, ist offen. Mizuho-Analyst Graig Suvannavej verwies auf frühere Aussagen des Managements, die nicht auf Verkaufsbereitschaft hindeuteten."
+   ],
+   "quellen": [
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/unternehmen/industrie/pharma-sanofi-erwaegt-uebernahme-des-us-pharmakonzerns-insmed/100271371.html"
+    ],
+    [
+     "Börse Express",
+     "https://www.boerse-express.com/news/articles/insmed-aktie-sanofi-prueft-uebernahme-kurs-springt-964760"
+    ]
+   ],
+   "berichterstattung": [
+    "handelsblatt.com",
+    "boerse-express.com"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Russland",
+    "Sanktionen",
+    "Onlinehandel"
+   ],
+   "kicker": "Unternehmen · Sanktionen",
+   "titel": "Wenige Tage nach den EU-Sanktionen: Wildberries-Gründerin Tatjana Kim gibt die Führung ab",
+   "deck": "Brüssel wirft Russlands größtem Onlinehändler vor, als Versorgungsnetz für das Militär zu dienen; Kim gilt als reichste Frau des Landes.",
+   "text": [
+    "Tatjana Kim, Gründerin und Chefin des größten russischen Onlinehändlers Wildberries, hat ihren Posten an der Unternehmensspitze aufgegeben. Das berichteten russische Medien am Samstag, wie die Nachrichtenagentur Reuters meldete. Der Schritt kommt nur wenige Tage, nachdem die Europäische Union Kim auf ihre Russland-Sanktionsliste gesetzt hatte. Gründe für den Rückzug wurden zunächst nicht genannt.",
+    "Die EU-Außenminister hatten am 16. November Sanktionen gegen 145 Personen und Organisationen mit Verbindungen nach Russland beschlossen, darunter 50 russische Banken und Helfer der sogenannten Schattenflotte. Für Kim gelten seither ein Einfrieren von Vermögen in der EU sowie Einreise- und Transaktionsverbote. Brüssel begründet die Listung damit, dass Wildberries zu den größten Steuerzahlern Russlands gehöre und über den Verkauf militärischer und doppelt verwendbarer Güter als Versorgungsnetz für die Armee fungiere. Im Katalog finden sich neben Kleidung, Kosmetik und Elektronik auch Nachtsichtgeräte, Munitionstaschen und Helme.",
+    "Wildberries hatte erklärt, die Sanktionen hätten keine Auswirkungen auf das Geschäft, da der Konzern weder Vermögen noch Geschäfte in der EU habe. Kim hatte im Juli den Vorwurf zurückgewiesen, das Unternehmen biete Waren an, die es nicht auch bei Amazon oder Alibaba gebe. Die Ukraine greift seit dem Hochsommer immer wieder Lager des Konzerns an; Präsident Wolodymyr Selenskyj sagte, in Logistikzentren von Wildberries seien Drohnenteile gelagert worden.",
+    "Kim gründete Wildberries 2004 mit ihrem damaligen Ehemann Wladislaw Bakaltschuk zunächst aus der eigenen Wohnung im Moskauer Umland. Forbes schätzt ihr Vermögen auf rund 5 Milliarden Dollar."
+   ],
+   "quellen": [
+    [
+     "Reuters via CTV News",
+     "https://www.ctvnews.ca/world/article/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report-says/"
+    ],
+    [
+     "Reuters via Business Day",
+     "https://www.businessday.co.za/world/europe/2026-11-16-eu-adds-online-retailer-wildberries-ceo-to-russia-sanctions-list/"
+    ],
+    [
+     "Meduza",
+     "https://meduza.io/en/news/2026/11/16/eu-sanctions-tatyana-kim-founder-of-russian-e-commerce-giant-wildberries-over-alleged-military-supply-ties"
+    ]
+   ],
+   "berichterstattung": [
+    "ctvnews.ca",
+    "businessday.co.za",
+    "meduza.io",
+    "devdiscourse.com",
+    "interfax.com",
+    "united24media.com",
+    "turkiyetoday.com"
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Energie",
+    "Außenhandel"
+   ],
+   "kicker": "Energie · Außenhandel",
+   "titel": "Ein Viertel mehr Strom ins Ausland: Deutschlands Exporte steigen auf 48,8 Terawattstunden",
+   "deck": "Der Wert der Stromausfuhren wächst in den ersten drei Quartalen sogar um mehr als die Hälfte auf 4,3 Milliarden Euro.",
+   "text": [
+    "Deutschland hat in den ersten drei Quartalen 2026 deutlich mehr Strom ins Ausland verkauft als ein Jahr zuvor. Nach Angaben des Statistischen Bundesamts vom Freitag stieg die Exportmenge gegenüber dem Vorjahreszeitraum um 25,5 Prozent auf 48,8 Terawattstunden. Noch stärker legte der Wert zu: Er wuchs um 51,3 Prozent auf 4,3 Milliarden Euro.",
+    "Die Zahlen sind mit Vorsicht zu lesen. Die Behörde betont, dass für die Außenhandelsstatistik Handelsdaten ausgewertet werden, „nicht der physikalische Stromfluss“. Sie zeigen also, wie viel Strom gehandelt wurde, nicht, wie viel tatsächlich über die Grenzen geflossen ist. Seit 2023 ist Deutschland in der Bilanz Netto-Importeur von Strom, kauft also mehr ein, als es verkauft.",
+    "Am selben Tag meldeten die Statistiker auch, dass die Erzeugerpreise im Oktober um 8,1 Prozent über dem Vorjahr lagen, getrieben vor allem durch teureres Öl."
+   ],
+   "quellen": [
+    [
+     "dpa-AFX via boerse.de",
+     "https://www.boerse.de/nachrichten/dpa-AFX-Ueberblick-KONJUNKTUR-vom-20112026-1700-Uhr/38731117"
+    ],
+    [
+     "dpa-AFX via finanznachrichten.de",
+     "https://www.finanznachrichten.de/nachrichten-2026-11/70191895-dpa-afx-ueberblick-konjunktur-vom-20-11-2026-17-00-uhr-016.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "boerse.de",
+    "finanznachrichten.de",
+    "finanzen.net",
+    "ariva.de"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Mittelstand",
+    "Einzelhandel"
+   ],
+   "kicker": "Mittelstand · Interview",
+   "titel": "„In Deutschland geht keiner einkaufen, weil er friert“: Olymp-Chef Bezner klagt über Kaufzurückhaltung und Reformstau",
+   "deck": "Der größte deutsche Hemdenhersteller hat seit 2023 13 Prozent Umsatz verloren und sucht sein Wachstum nun verstärkt in den USA.",
+   "text": [
+    "Mark Bezner, Chef des Hemdenherstellers Olymp, zeichnet ein düsteres Bild der Konsumstimmung in Deutschland. Die Kunden seien verunsichert, fürchteten um ihren Arbeitsplatz und kauften deshalb weniger Kleidung, sagte er im Interview mit t-online. Die Kaufzurückhaltung sei enorm. „In Deutschland geht keiner einkaufen, weil er friert“, sagte Bezner.",
+    "Die Zahlen des Familienunternehmens aus Bietigheim-Bissingen spiegeln das wider. Der Umsatz ist seit 2023 um 13 Prozent gesunken. Für dieses Jahr erwartet Bezner nur ein leichtes Wachstum um einige Millionen Euro, im Vorverkauf für das Frühjahr 2027 verzeichne Olymp aber ein deutliches Plus. Wachstum sucht das Unternehmen verstärkt im Ausland, zuletzt in den USA, wo Bezner eine bessere Konsumstimmung als in Europa sieht. Genäht werden die Hemden seit Langem bei Partnern in Bangladesch, Vietnam, China und Indonesien.",
+    "Mit der Bundesregierung geht der 63-Jährige, der Olymp in dritter Generation führt, hart ins Gericht. „Viele Beschlüsse der Bundesregierung sind faule, harmlose Minimalkompromisse“, sagte er. Union und SPD fehle eine Vision, die Energiepreise seien ein großer Wettbewerbsnachteil für die Industrie. Sorgen bereitet ihm auch das Erstarken der AfD in Baden-Württemberg: Die Partei mache den Standort für Investoren und Fachkräfte weniger attraktiv."
+   ],
+   "quellen": [
+    [
+     "t-online",
+     "https://t-online.de/finanzen/aktuelles/wirtschaft/id_101538174/olymp-chef-bezner-in-deutschland-geht-keiner-einkaufen-weil-er-friert-.html"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "USA",
+    "Aktien"
+   ],
+   "kicker": "Aktienmärkte · Wochenausblick Wall Street",
+   "titel": "Dreieinhalb Handelstage, ein Datenberg: Der Mittwoch entscheidet, ob die Wall Street Halt findet",
+   "deck": "In der Thanksgiving-Woche ballen sich PCE-Inflation, Wachstumszahl und Beige Book an einem einzigen Tag – bei dünnem Handel und einem Angstbarometer, das sich binnen einer Woche fast verdoppelt hat.",
+   "text": [
+    "Nach der schwächsten Woche seit dem Zollbeben im April 2025 geht die Wall Street in eine verkürzte Feiertagswoche. Am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen, am Freitag endet der Handel bereits um 13 Uhr New Yorker Zeit. Der S&P 500 hatte die Vorwoche mit einem Minus von 8,6 Prozent bei 6.910 Punkten beendet, der Nasdaq Composite verlor 10 Prozent und liegt seit Jahresbeginn im Minus. Der Volatilitätsindex VIX stieg laut Charles Schwab von rund 20 am Montag auf über 37 Punkte am Freitag.",
+    "Der wichtigste Tag ist der Mittwoch. Dann erscheinen gleich der Preisindex der privaten Konsumausgaben (PCE) für Oktober, das bevorzugte Inflationsmaß der Notenbank, die zweite Schätzung des Wachstums im dritten Quartal, die Auftragseingänge langlebiger Güter, die Erstanträge auf Arbeitslosenhilfe und am Abend das Konjunkturbuch Beige Book der Fed. Für die Kernrate des PCE-Index erwarten Ökonomen ein Plus von 0,3 Prozent zum Vormonat und 3,2 Prozent zum Vorjahr. Zuvor stehen am Montag die vorläufigen Einkaufsmanagerindizes und am Dienstag das Verbrauchervertrauen des Conference Board an.",
+    "Die Schwab-Analysten erwarten wegen des dichten Kalenders bei zugleich verkürzter Woche weiter erhöhte Schwankungen. Der Marktdienst The Closing Print rechnet eher mit einer Erholung zu Wochenbeginn, die bis zu den PCE-Daten aber nicht halten müsse; er beziffert die Wahrscheinlichkeit einer Entlastungsrally auf 40 Prozent, einer zähen Bodenbildung auf 35 Prozent und eines weiteren Einbruchs auf 25 Prozent.",
+    "Wie breit der Schaden ist, zeigt ein Blick unter die Oberfläche: Laut Schwab notierten am Freitag nur noch 46 Prozent der Werte im S&P 500 über ihrer 200-Tage-Linie, rund 43 Prozent über der 50-Tage-Linie. Einziger Sektor im Plus war am Freitag der Basiskonsum."
+   ],
+   "quellen": [
+    [
+     "Charles Schwab",
+     "https://www.schwab.com/learn/story/market-volatility"
+    ],
+    [
+     "The Closing Print",
+     "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/us-market-wrap-aggressive-equity-sell-off-sees-spx-enter-correction-and-ndx-test-bear-market"
+    ]
+   ],
+   "berichterstattung": [
+    "schwab.com",
+    "theclosingprint.net",
+    "newsquawk.com",
+    "cnbc.com",
+    "journalarta.com",
+    "openoutcrytrade.substack.com",
+    "yakimaherald.com",
+    "cbsnews.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Dax",
+    "Aktien"
+   ],
+   "kicker": "Aktienmärkte · Wochenausblick Frankfurt",
+   "titel": "„Handelswoche des Grauens“: Analysten trauen dem Dax vorerst keine Jahresendrally zu",
+   "deck": "Ohne Rückenwind aus New York hängt der deutsche Leitindex an Frankreichs Einkaufsmanagern, am Ifo-Index und an der US-Inflation; dazu laden BASF und Rheinmetall zum Kapitalmarkttag.",
+   "text": [
+    "Eine Woche nach dem Rekord knapp über 27.000 Punkten hat der Dax seinen Jahresgewinn binnen weniger Tage weitgehend aufgezehrt. Er schloss am Freitag bei 24.802,78 Punkten, ein Wochenminus von 7,3 Prozent. Die Aussichten auf eine Jahresendrally haben sich nach Einschätzung vieler Analysten deutlich eingetrübt, die Landesbank Baden-Württemberg bezeichnet die Stimmung als „stark angeknackst“. Timo Emden vom Broker Captrader sprach von einer „Handelswoche des Grauens“: Nach dem Konfettiregen rund um den Anthropic-Börsengang sei der Alltag an die Börsen zurückgekehrt.",
+    "Die Frage sei nun, ob die Umschichtung aus Technologiewerten in defensive oder vernachlässigte Branchen nur eine Korrektur oder das Ende des KI-Hypes markiere, sagte Helaba-Stratege Markus Reinwand; Anleger suchten derzeit Sicherheit statt einer Jahresendrally. Andreas Lipkow von CMC Markets erwartet, dass sich der Dax schwertut, solange die Anleger kein Vertrauen in die geldpolitischen und wirtschaftlichen Rahmenbedingungen fassen. Weil die US-Börsen am Donnerstag wegen Thanksgiving geschlossen sind und am Freitag nur kurz handeln, dürften Impulse aus New York begrenzt bleiben.",
+    "Am Montag stehen die Einkaufsmanagerindizes der Eurozone im Blick, vor allem jene aus Frankreich. Erholten sie sich nicht von ihrem Einbruch im Oktober, steige das Rezessionsrisiko, warnt Commerzbank-Ökonom Martin Roth. Am Dienstag folgt der Ifo-Geschäftsklimaindex, von dem die Commerzbank kein Signal einer Wende erwartet, am Mittwoch die zweite Schätzung des deutschen Wachstums im dritten Quartal und am Freitag die Arbeitsmarktdaten für November.",
+    "Für Unternehmensnachrichten sorgen Kapitalmarkttage: BASF am Dienstag, Hannover Rück am Mittwoch, Rheinmetall am Donnerstag und Freitag. Charttechnisch verweist Finanzmarktwelt auf eine Unterstützung bei 24.850 bis 24.800 Punkten, die am Freitag erreicht wurde; die 200-Tage-Linie lag zuletzt knapp unter 25.000 Punkten."
+   ],
+   "quellen": [
+    [
+     "dpa-AFX via t-online",
+     "https://www.t-online.de/finanzen/boerse/ticker/wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax/0DBAE80092645A25/"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-wochenausblick-ifo-einkaufsmanager-bip-und-zwei-kapitalmarkttage-welche"
+    ],
+    [
+     "Broker-Test",
+     "https://broker-test.de/trading-news/wochenausblick-dax-infineon-basf-und-rheinmetall-unter-der-lupe-nvidia-stuerzt-um-14-ab/"
+    ]
+   ],
+   "berichterstattung": [
+    "t-online.de",
+    "aktiencheck.de",
+    "broker-test.de",
+    "finanzmarktwelt.de",
+    "finanzen.net",
+    "finanzen.at",
+    "ariva.de",
+    "ad-hoc-news.de",
+    "de.marketscreener.com",
+    "finanzen.ch"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "USA",
+    "Aktien",
+    "KI"
+   ],
+   "kicker": "Analysten · Wall Street",
+   "titel": "Panik verkaufen oder durchhalten? Die Strategen sind sich nach dem KI-Ausverkauf uneins",
+   "deck": "Zwischen „Ende des Glaubens an grenzenlose KI-Ausgaben“ und „falscher Schritt“: Was Marktbeobachter zum Wochenende über die Korrektur sagen.",
+   "text": [
+    "Nach sieben Verlusttagen in Folge – der längsten Serie des S&P 500 seit Februar 2020 – überwiegt unter Marktstrategen die Vorsicht, aber nicht das Schwarzsehen. Kevin Gordon vom Schwab Center for Financial Research beschreibt die Lage als Klemme: Die Märkte preisten zugleich eine Notenbank ein, die gegen hartnäckige Inflation kämpft, und ein schwächeres Wachstum, falls die KI-Investitionen zurückgehen. Baird-Stratege Michael Antonelli sieht den Glauben schwinden, dass KI unbegrenzt Geld ausgeben und so den Markt tragen könne; das Ende der seit Oktober 2022 laufenden Hausse bedeute dies aber nicht.",
+    "CBS News fasst sechs Gründe für den Ausverkauf zusammen: Zweifel an der Rendite der KI-Milliarden, drohende Auflagen für Rechenzentren nach dem Wahlsieg der Demokraten, steigende Zinsen, schärfere Chip-Exportregeln, die Furcht vor einer neuen Eskalation mit Iran und ein möglicher Haushaltsstreit vor der Finanzierungsfrist am 11. Dezember. Adam Crisafulli von Vital Knowledge sagte, die neuen Exportbeschränkungen wirkten sich „weit stärker“ aus als erwartet. Nigel Green, Chef der Beratungsgruppe deVere, verwies auf rund 104 Milliarden Dollar Verlust, die Anthropic in den ersten neun Monaten ausgewiesen habe – diese Zahlen erklärten „sowohl die Raserei als auch die Nervosität“.",
+    "Dagegen hält Dan Ives von Yorkville Ives einen Ausstieg jetzt für „den falschen Schritt“: Der Ausverkauf preise eine mehrjährige KI-Umwälzung zu stark ab. Auch CBS erinnert daran, dass Anleger, die im Februar 2020 in Panik verkauften, die anschließende Erholung verpassten.",
+    "Ein mögliches Gegensignal sehen Charttechniker in der Stimmung: Schon vor dem jüngsten Einbruch hatten sich in der Umfrage der Kleinanlegervereinigung AAII 51,4 Prozent pessimistisch gezeigt, was HSBC-Analyst Jörg Scherer als kurzfristig stützendes Kontrasignal wertete."
+   ],
+   "quellen": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
+    ],
+    [
+     "Charles Schwab",
+     "https://www.schwab.com/learn/story/market-volatility"
+    ],
+    [
+     "AP via Spectrum News",
+     "https://spectrumlocalnews.com/nc/coastal/business/2026/11/20/wall-street-nov-20-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "cbsnews.com",
+    "schwab.com",
+    "spectrumlocalnews.com",
+    "cnbc.com",
+    "yakimaherald.com",
+    "finchannel.com",
+    "stockinvest.us",
+    "stl.news",
+    "longtermedge.substack.com",
+    "live.deutsche-boerse.com"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Zinsen",
+    "USA",
+    "Fed"
+   ],
+   "kicker": "Notenbanken · Federal Reserve",
+   "titel": "Letzte Woche vor der Schweigepflicht: Williams spricht, der Markt hat die Dezember-Erhöhung fast sicher eingepreist",
+   "deck": "Nach dem Börsenbeben bröckeln nur die Wetten auf einen großen Zinsschritt; Ökonomen rechnen mit mindestens zwei weiteren Erhöhungen.",
+   "text": [
+    "Für die Mitglieder der US-Notenbank beginnt am kommenden Wochenende die übliche Schweigephase vor der Zinssitzung am 8. und 9. Dezember. Die Woche ist damit die letzte Gelegenheit, die Erwartungen zu lenken. Für Montag ist ein Auftritt von Fed-Vertreter Williams angesetzt. Die Spanne des Leitzinses liegt derzeit bei 3,75 bis 4,00 Prozent.",
+    "An den Terminmärkten gilt eine Erhöhung um einen Viertelpunkt im Dezember als nahezu sicher. Laut CME FedWatch lag die Wahrscheinlichkeit zuletzt bei 92 Prozent, für zwei oder mehr Erhöhungen bis Juni 2027 bei über 80 Prozent. Der Börsenausverkauf hat allerdings die Spekulation auf einen größeren Schritt um einen halben Punkt aufgelöst: Nach Berechnungen von Newsquawk waren für Dezember am Freitag noch 23,9 Basispunkte eingepreist, für März 48,1 nach zuvor 59,2 Basispunkten.",
+    "Das Protokoll der Oktobersitzung habe eine Dezember-Erhöhung „so gut wie sichergestellt“, sagte Cooper Howard vom Schwab Center for Financial Research; er erwartet in diesem Zyklus zwei weitere Schritte, im Dezember und Anfang 2027. Chicagos Fed-Präsident Austan Goolsbee hatte zuvor erklärt, die Daten deuteten ohne Eingreifen der Notenbank nicht auf einen Weg zurück zu zwei Prozent Inflation hin.",
+    "Entscheidend für die Tonlage dürfte der PCE-Preisindex am Mittwoch werden. Die Commerzbank rechnet für Oktober mit einem Anstieg der Gesamtrate auf 3,8 Prozent und einer Kernrate von 3,2 Prozent – beides deutlich über dem Zwei-Prozent-Ziel. Am selben Abend veröffentlicht die Fed ihr Beige Book mit Berichten aus den zwölf Bezirken."
+   ],
+   "quellen": [
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/us-market-wrap-aggressive-equity-sell-off-sees-spx-enter-correction-and-ndx-test-bear-market"
+    ],
+    [
+     "Charles Schwab",
+     "https://www.schwab.com/learn/story/market-volatility"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
+    ]
+   ],
+   "berichterstattung": [
+    "newsquawk.com",
+    "schwab.com",
+    "cbsnews.com",
+    "kitco.com",
+    "openoutcrytrade.substack.com",
+    "t-online.de",
+    "nordfx.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "USA"
+   ],
+   "kicker": "Anleihen · Treasuries und Bunds",
+   "titel": "Neue Schulden für 211 Milliarden Dollar in der Feiertagswoche – Treasuries kommen von der Fünf-Prozent-Marke",
+   "deck": "Das US-Finanzministerium versteigert Papiere mit zwei, fünf und sieben Jahren Laufzeit, Berlin legt eine Zehnjährige auf; die Renditen sind binnen einer Woche kräftig gefallen.",
+   "text": [
+    "Die Flucht in sichere Häfen hat die Renditen von Staatsanleihen in der vergangenen Woche deutlich gedrückt. Die zehnjährige US-Rendite schloss am Freitag nach AP-Angaben bei 4,93 Prozent, nach 5,04 Prozent am Vorabend; eine Woche zuvor hatte sie noch bei 5,15 Prozent gelegen. Am kurzen Ende fiel die zweijährige Rendite laut Newsquawk um 15,5 Basispunkte auf 4,62 Prozent. Die Rendite zehnjähriger Bundesanleihen sank im Wochenvergleich von 3,38 auf 3,30 Prozent.",
+    "In der verkürzten Woche muss der Markt nun ein dichtes Angebot aufnehmen. Das US-Finanzministerium versteigert am Montag zweijährige Notes über 69 Milliarden Dollar, am Dienstag fünfjährige über 70 Milliarden Dollar sowie variabel verzinste Zweijährige über 28 Milliarden Dollar und am Mittwoch siebenjährige Papiere über 44 Milliarden Dollar, hinzu kommen kurzlaufende Bills. Die Nachfrage gilt als Gradmesser dafür, wie viel Gewicht Anleger der Konjunkturangst gegenüber der Zinsangst beimessen.",
+    "Auffällig war in der Vorwoche, dass die Renditen fielen, obwohl der Markt weiter fest mit einer Zinserhöhung der Fed im Dezember rechnet. Nach Einschätzung von Kitco sprechen die Bewegungen eher für breite Umschichtungen und Wachstumssorgen als für eine Wende in der Zinserwartung. Die zweite Schätzung des US-Wachstums und die PCE-Inflation am Mittwoch dürften zeigen, welche Lesart sich durchsetzt.",
+    "In Deutschland stockt die Finanzagentur am Mittwoch eine Bundesanleihe mit Fälligkeit August 2036 um 5 Milliarden Euro auf. Am Freitag steht zudem die turnusmäßige Überprüfung der Bonität Frankreichs durch die Ratingagentur S&P an."
+   ],
+   "quellen": [
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/us-market-wrap-aggressive-equity-sell-off-sees-spx-enter-correction-and-ndx-test-bear-market"
+    ],
+    [
+     "AP via Spectrum News",
+     "https://spectrumlocalnews.com/nc/coastal/business/2026/11/20/wall-street-nov-20-2026"
+    ],
+    [
+     "Broker-Test",
+     "https://broker-test.de/trading-news/wochenausblick-dax-infineon-basf-und-rheinmetall-unter-der-lupe-nvidia-stuerzt-um-14-ab/"
+    ]
+   ],
+   "berichterstattung": [
+    "newsquawk.com",
+    "spectrumlocalnews.com",
+    "broker-test.de",
+    "aktiencheck.de",
+    "kitco.com",
+    "longbridge.com",
+    "openoutcrytrade.substack.com",
+    "theclosingprint.net"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Rohstoffe",
+    "Opec"
+   ],
+   "kicker": "Rohstoffe · Opec+",
+   "titel": "Opec+ muss am 29. November über die Quoten für 2027 entscheiden – „eine äußerst schwierige Entscheidung“",
+   "deck": "Alle 21 Mitglieder legen den Förderrahmen fest; die Lage an der Straße von Hormus und eine drohende Ölschwemme im kommenden Jahr machen die Planung zur Gratwanderung.",
+   "text": [
+    "In einer Woche, am Sonntag, 29. November, kommt die Ölallianz Opec+ zu einem Ministertreffen aller 21 Mitglieder zusammen, um den Förderrahmen für 2027 festzulegen. Bei ihrer Videokonferenz am 1. November hatten die sieben Kernländer Saudi-Arabien, Russland, Irak, Kuwait, Kasachstan, Algerien und Oman ihre Förderziele für Dezember unverändert gelassen. Die Vereinigten Arabischen Emirate sind seit ihrem Austritt aus der Opec im Mai nicht mehr dabei.",
+    "Jorge León vom Analysehaus Rystad Energy hatte das Novembertreffen schon damals als den eigentlichen Test bezeichnet: Opec+ stehe für 2027 vor einer „äußerst schwierigen Entscheidung“, weil unklar sei, wie sich der Krieg zwischen den USA und Iran entwickle und wie schnell sich der Verkehr durch die Straße von Hormus erhole. Grundlage der neuen Quoten soll eine Überprüfung der Förderkapazitäten sein, die sich wegen kriegsbedingt verzögerter Ausbauprojekte am Golf bis Mitte November hingezogen hatte. Die Internationale Energieagentur und andere Prognostiker warnen vor einem Überangebot im kommenden Jahr, sollten die Golfexporte zur Normalität zurückkehren.",
+    "Der Markt geht mit Abschlägen in die Entscheidung. Brent beendete die Woche bei 92,57 Dollar je Barrel, ein Minus von rund 3,4 Prozent; Ende Oktober hatte der Preis noch bei rund 118 Dollar gelegen. Die Opec selbst senkte ihre Prognose für das Nachfragewachstum 2026 zum sechsten Mal, auf 400.000 Barrel pro Tag.",
+    "Charttechniker sehen Unterstützungen bei 90 und 89,20 Dollar und Widerstände bei 93,50 und 95 Dollar. Der Devisenbroker NordFX erwartet für die kommende Woche eine von Schlagzeilen getriebene Spanne zwischen 87 und 97 Dollar."
+   ],
+   "quellen": [
+    [
+     "Opec",
+     "https://www.opec.org/pr-detail/2033620-1-november-2026.html"
+    ],
+    [
+     "Reuters via Devdiscourse",
+     "https://www.devdiscourse.com/article/international/4000316-opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027"
+    ],
+    [
+     "Open Outcry",
+     "https://openoutcrytrade.substack.com/p/weekly-market-wrap-up-and-look-ahead-1aa"
+    ]
+   ],
+   "berichterstattung": [
+    "opec.org",
+    "devdiscourse.com",
+    "openoutcrytrade.substack.com",
+    "staradvertiser.com",
+    "nordfx.com",
+    "spectrumlocalnews.com",
+    "newsquawk.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Rohstoffe"
+   ],
+   "kicker": "Rohstoffe · Edelmetalle",
+   "titel": "Gold am 3.500-Dollar-Boden: Fällt die Marke, sehen Charttechniker Raum bis 3.400 Dollar",
+   "deck": "Nach dem tiefsten Stand seit 14 Monaten gilt das Edelmetall als überverkauft – doch ohne Entspannung bei den Zinsen rechnen Analysten eher mit verkauften Erholungen.",
+   "text": [
+    "Gold geht mit dem Rücken zur Wand in die neue Woche. Die Feinunze kostete am Freitag um 17 Uhr New Yorker Zeit rund 3.538 Dollar, 2,4 Prozent weniger als am Vortag; im Tagesverlauf war der Preis bis auf 3.502,93 Dollar gefallen. Auf Wochensicht summiert sich das Minus auf rund 9 Prozent, es ist der tiefste Stand seit 14 Monaten. Silber verlor in der Woche fast 16 Prozent und kostete zuletzt rund 41,10 Dollar.",
+    "Bemerkenswert ist, dass selbst fallende Anleiherenditen und ein etwas schwächerer Dollar dem Metall nicht halfen. Kitco wertet das als Zeichen, dass Anleger im Börsenbeben breit Positionen auflösen und Wachstumssorgen den üblichen Zinszusammenhang überlagern. Spannungen um die Straße von Hormus sorgten zwar für etwas defensive Nachfrage, wogen aber weniger schwer als die Verkäufe und die Zinserwartungen.",
+    "Für die neue Woche nennt Kitco Widerstände bei 3.597 und 3.699 Dollar. Nach unten liegen Unterstützungen bei 3.475 und 3.447 Dollar; ein nachhaltiger Bruch der Marke von 3.500 Dollar öffne den Weg bis in die Zone zwischen 3.400 und 3.420 Dollar. Der Broker NordFX hält Gold nach dem Absturz für überverkauft und schließt kräftige Gegenbewegungen nicht aus, setzt die Spanne aber weit zwischen 3.350 und 3.750 Dollar an. Ohne Aussicht auf eine weniger straffe Geldpolitik dürften Erholungen eher zum Verkauf genutzt werden.",
+    "Im Blick stehen am Montag die Einkaufsmanagerindizes und weitere Äußerungen von Fed-Vertretern, am Mittwoch die PCE-Inflation."
+   ],
+   "quellen": [
+    [
+     "Kitco",
+     "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction"
+    ],
+    [
+     "NordFX",
+     "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-23-27-2026"
+    ],
+    [
+     "Open Outcry",
+     "https://openoutcrytrade.substack.com/p/weekly-market-wrap-up-and-look-ahead-1aa"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "nordfx.com",
+    "openoutcrytrade.substack.com",
+    "schwab.com",
+    "ad-hoc-news.de",
+    "coindesk.com",
+    "investorideas.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Zinsen",
+    "EZB",
+    "Notenbanken"
+   ],
+   "kicker": "Notenbanken · Termine der Woche",
+   "titel": "EZB-Protokoll, Bank of Korea, Reden aus London und Ottawa: Die Zinswoche jenseits der Fed",
+   "deck": "Am Donnerstag zeigt die EZB, wie sie im Oktober diskutiert hat; Seoul entscheidet über den Leitzins, Australien und Tokio liefern Inflationsdaten.",
+   "text": [
+    "Auch außerhalb der USA stehen in der Feiertagswoche wichtige Notenbanktermine an. Am Donnerstag um 13.30 Uhr veröffentlicht die Europäische Zentralbank die Zusammenfassung ihrer Ratssitzung vom 28. und 29. Oktober. Die Märkte suchen darin Hinweise auf die Dezember-Entscheidung. Die Daten der Woche und das Protokoll würden zeigen, ob die Debatte über weitere Zinserhöhungen an Kraft gewinne oder verliere, schreibt Aktiencheck. Zudem ist in der Woche ein Auftritt von EZB-Vertreter Lane angekündigt.",
+    "In London spricht am Montag Pill von der Bank of England. Das Pfund war in der Vorwoche um rund 1 Prozent auf etwa 1,31 Dollar gefallen, den tiefsten Stand des Jahres. Am Dienstag äußert sich der Gouverneur der Bank of Canada, Macklem.",
+    "In Asien entscheidet am Donnerstag die Bank of Korea über ihren Leitzins. Die Börse in Seoul war am Freitag wie der Nikkei um mehr als 5 Prozent eingebrochen. Am Mittwoch veröffentlicht Australien seine Verbraucherpreise, am Freitag folgt die Teuerung im Großraum Tokio für November, die als Frühindikator für ganz Japan gilt. Die Börse in Tokio bleibt am Montag wegen des Feiertags „Tag des Dankes für die Arbeit“ geschlossen.",
+    "In Europa erscheinen am Freitag die vorläufigen Inflationsraten Frankreichs und Spaniens für November, Deutschland folgt am 30. November. Sie liefern der EZB die letzten Puzzleteile vor ihrer Sitzung im Dezember."
+   ],
+   "quellen": [
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-wochenausblick-ifo-einkaufsmanager-bip-und-zwei-kapitalmarkttage-welche"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/us-market-wrap-aggressive-equity-sell-off-sees-spx-enter-correction-and-ndx-test-bear-market"
+    ],
+    [
+     "NordFX",
+     "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-23-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "aktiencheck.de",
+    "newsquawk.com",
+    "nordfx.com",
+    "openoutcrytrade.substack.com",
+    "broker-test.de",
+    "spectrumlocalnews.com"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Euro",
+    "Devisen"
+   ],
+   "kicker": "Devisen · Wochenausblick",
+   "titel": "Euro unter 1,10 Dollar, Pfund auf Jahrestief: Devisenhändler erwarten eine Woche im Bann der Fed-Wetten",
+   "deck": "Der Dollar profitiert von der Aussicht auf höhere US-Zinsen; für Euro und Pfund stehen Konjunkturdaten und Frankreichs Rating im Kalender.",
+   "text": [
+    "Der Euro geht knapp unter der Marke von 1,10 Dollar in die neue Woche. Er beendete den Freitag bei rund 1,0968 Dollar, ein Wochenminus von etwa einem halben Prozent; eine Woche zuvor hatte er noch bei 1,1022 Dollar gestanden. Den Referenzkurs setzte die EZB am Freitag bei 1,0990 Dollar fest. Am Freitag selbst bewegte sich der Kurs kaum, der Dollarindex schloss unverändert.",
+    "Deutlich schwächer zeigte sich das britische Pfund, das in der Woche rund 1 Prozent auf etwa 1,3098 Dollar verlor, den tiefsten Stand des Jahres 2026. Der Dollar notierte zum Yen kaum verändert bei rund 159 Yen, der kanadische Dollar gab nach. Zum Euro kostete der Yen laut EZB-Referenzkurs 174,35 Yen, der Franken 0,9223 Franken je Euro.",
+    "Der Broker NordFX sieht für den Euro eine leicht negative Tendenz, solange der Markt an den Zinserhöhungen der Fed festhält, und nennt als Basisszenario eine Spanne zwischen 1,0850 und 1,1040 Dollar. Ausschlaggebend seien die Einkaufsmanagerindizes am Montag, der Ifo-Index am Dienstag und vor allem die US-Inflation am Mittwoch.",
+    "Für den Euro könnte zudem Frankreich zum Belastungsfaktor werden: Am Freitag steht die Überprüfung der Kreditwürdigkeit des Landes durch S&P an. Commerzbank-Ökonom Martin Roth warnt, schwache französische Einkaufsmanagerdaten würden das Rezessionsrisiko erhöhen und auf die Staatsfinanzen durchschlagen."
+   ],
+   "quellen": [
+    [
+     "Open Outcry",
+     "https://openoutcrytrade.substack.com/p/weekly-market-wrap-up-and-look-ahead-1aa"
+    ],
+    [
+     "NordFX",
+     "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-23-27-2026"
+    ],
+    [
+     "EZB",
+     "https://www.ecb.europa.eu/stats/shared/pdf/eurofxref.pdf"
+    ]
+   ],
+   "berichterstattung": [
+    "openoutcrytrade.substack.com",
+    "nordfx.com",
+    "ecb.europa.eu",
+    "newsquawk.com",
+    "broker-test.de",
+    "t-online.de"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "USA",
+    "Aktien",
+    "KI"
+   ],
+   "kicker": "Aktienmärkte · Quartalszahlen",
+   "titel": "Dell, Analog Devices, HP: Die letzten Techzahlen des Jahres sollen den Chipwerten Halt geben",
+   "deck": "Nach dem Einbruch der Halbleiteraktien ruhen die Hoffnungen auf Dell und Analog Devices; dazu legen Händler und Deere in der Feiertagswoche Zahlen vor.",
+   "text": [
+    "Die Berichtssaison läuft aus, doch in der verkürzten Woche stehen noch einige Technologiekonzerne an, die nach dem Chip-Ausverkauf genau beobachtet werden. Am Montag nach Börsenschluss legen Hewlett Packard Enterprise und Zoom ihre Zahlen vor, am Dienstag vorbörslich Analog Devices und nachbörslich Dell, Autodesk, Workday und HP Inc. Anleger hofften, dass Dell und Analog Devices die angeschlagenen Technologiewerte stabilisieren, schreibt Charles Schwab.",
+    "Die Erwartungen sind hoch. Für Dell rechnen Analysten mit einem bereinigten Gewinn je Aktie von 6,62 Dollar, ein Plus von 156 Prozent, bei einem Umsatz von 49,32 Milliarden Dollar, 83 Prozent mehr als vor einem Jahr. Analog Devices soll den bereinigten Gewinn im vierten Geschäftsquartal um 72 Prozent steigern, bei 41 Prozent mehr Umsatz. Beim Chipentwickler Semtech, dessen Aktie im November 31 Prozent verloren hat, wird mehr als eine Verdopplung des Gewinns erwartet.",
+    "Wie tief das Misstrauen sitzt, zeigt Nvidia: Trotz eines Umsatzsprungs um 103 Prozent auf 115,8 Milliarden Dollar verlor die Aktie in der Woche rund 23 Prozent und schloss am Freitag bei 125,53 Dollar. Micron gab in der Woche rund 24 Prozent nach, AMD rund 20 Prozent. Der Technologiesektor war mit einem Minus von gut 12 Prozent der schwächste Bereich des S&P 500.",
+    "Außerhalb der Technik berichten Best Buy, Dollar Tree, Burlington, Dick's Sporting Goods und Medtronic am Dienstag, Deere am Mittwoch. Für den Landmaschinenhersteller, dessen Aktie 2026 rund 30 Prozent gestiegen ist, zeichnet sich der erste Gewinnanstieg seit Ende 2023 ab. Am Black Friday stehen keine großen Berichte mehr an."
+   ],
+   "quellen": [
+    [
+     "Charles Schwab",
+     "https://www.schwab.com/learn/story/market-volatility"
+    ],
+    [
+     "Journal Arta",
+     "https://journalarta.com/en/2026/11/21/stock-market-week-ahead-inflation-earnings-nasdaq/"
+    ],
+    [
+     "Broker-Test",
+     "https://broker-test.de/trading-news/wochenausblick-dax-infineon-basf-und-rheinmetall-unter-der-lupe-nvidia-stuerzt-um-14-ab/"
+    ]
+   ],
+   "berichterstattung": [
+    "schwab.com",
+    "journalarta.com",
+    "broker-test.de",
+    "theclosingprint.net",
+    "newsquawk.com",
+    "openoutcrytrade.substack.com"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Sicherheit",
+    "Binance"
+   ],
+   "kicker": "Krypto · Sicherheit",
+   "titel": "Binance-Beute im Mixer: 2.310 Bitcoin laufen durch Coinjoins – 90 Prozent davon seit dem 17. November",
+   "deck": "Laut Elliptic beschleunigt der mutmaßlich nordkoreanische Angreifer die Geldwäsche, im Umfeld des Diebstahls liegen noch rund 2,35 Milliarden Dollar.",
+   "text": [
+    "Die Geldwäsche nach dem Rekorddiebstahl bei Binance hat in der vergangenen Woche deutlich an Tempo gewonnen. Nach dem jüngsten Stand der Blockchain-Analysefirma Elliptic vom Freitag (20. November, 12 Uhr UTC) sind seit dem 1. November mindestens 2.310 Bitcoin, rund 149 Millionen Dollar, durch Coinjoins geflossen – etwa 90 Prozent davon erst seit dem 17. November. Den Großteil wickelte der Coordinator Kruw ab. Bis zum 12. November waren erst rund 135 BTC gemischt worden, Anfang November meldete Elliptic noch etwa 33 BTC.",
+    "Beim Angriff am 29. Oktober wurden laut Elliptic Werte von 6,43 Milliarden Dollar auf elf Blockchains entwendet, 54 Prozent davon in Stablecoins. Rund 2,85 Milliarden Dollar sind eingefroren oder beschlagnahmt, vor allem Stablecoins, die Emittenten wie Tether und Circle kurz nach der Tat sperrten. Das FBI schreibt den Diebstahl der nordkoreanischen Gruppe TraderTraitor zu, Pjöngjang bestreitet das.",
+    "Seit dem 17. November hat der Angreifer zudem rund 39.000 ETH (etwa 70 Millionen Dollar) in ungefähr 1.100 BTC getauscht. Fünf der neun größten Ether-Adressen wurden geleert, dabei bewegten sich rund 488.000 ETH im Wert von etwa 860 Millionen Dollar, die meist in unberührten Paketen zu je 12.000 ETH liegen. Gestohlene XRP, TRX und SOL sind fast vollständig getauscht, wichtig war dabei THORChain. Nach Tornado Cash flossen bis zum 10. November geschätzt 11.000 ETH. Die 18.270 BTC, die direkt bei Binance abgezogen wurden, haben sich dagegen seit der Tat nicht bewegt.",
+    "Insgesamt zählt Elliptic inzwischen mehr als 27.000 Wallets, mindestens 16 Blockchains, rund 55 Dienste und etwa 90.000 Transaktionen. In Adressen mit Bezug zum Diebstahl liegen noch rund 2,35 Milliarden Dollar, Anfang November waren es 3,11 Milliarden. Einen Ausstieg in Fiatgeld hat Elliptic bisher kaum beobachtet. Die Analysten erwarten wie nach dem Bybit-Hack 2025, dass die Mittel über Monate bei OTC-Händlern und Börsen landen – für Compliance-Teams heißt das: Coinjoin-Ausgänge der kommenden Wochen genau prüfen."
+   ],
+   "quellen": [
+    [
+     "Elliptic",
+     "https://elliptic.co/insights/how-north-korea-is-laundering-the-6-4-billion-stolen-from-binance/"
+    ],
+    [
+     "Decrypt",
+     "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
+    ],
+    [
+     "crypto.news",
+     "https://crypto.news/binance-hacker-bitcoin-coinjoin-stolen-funds/"
+    ]
+   ],
+   "berichterstattung": [
+    "elliptic.co",
+    "decrypt.co",
+    "crypto.news",
+    "theblock.co",
+    "news.bitcoin.com",
+    "blockonomi.com"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Regulierung",
+    "Derivate",
+    "USA"
+   ],
+   "kicker": "Krypto · Regulierung",
+   "titel": "CFTC-Chef Selig zeigt Hyperliquid den Weg in die USA: eigene Lizenz oder Partner-Börse",
+   "deck": "On-Chain-Handelsplätze dürfen ihre Technik behalten, müssen aber dieselben Regeln erfüllen wie andere Derivatebörsen.",
+   "text": [
+    "Der Vorsitzende der US-Derivateaufsicht CFTC, Michael Selig, hat skizziert, wie On-Chain-Handelsplätze wie Hyperliquid Derivate an amerikanische Privatanleger anbieten könnten. Sie müssten sich entweder selbst als Börse registrieren oder mit einer registrierten Börse zusammenarbeiten, sagte Selig auf dem Capitol Crypto Forum von The Hill und The Block. „Ihr werdet kommen und mit einer Börse kooperieren oder eine eigene Börse bekommen müssen“, so Selig. Die On-Chain-Technik dürften die Plattformen weiter nutzen, die Regeln seien aber dieselben wie für alle anderen.",
+    "Als Beispiel für den ersten Weg nannte er Backpack. Die Plattform hatte in derselben Woche drei Lizenzen für den US-Markteintritt erhalten: als Futures Commission Merchant, als Designated Contract Market und als Derivatives Clearing Organization. Andere Anbieter verfolgen stattdessen Partnerschaften.",
+    "Für Händler von Einzelaktien-Perpetuals ist eine weitere Aussage wichtig: Dass solche Kontrakte kein Verfallsdatum haben, mache sie nicht zu wertpapierbezogenen Swaps, die in die Zuständigkeit der SEC fielen. Die täglichen Funding-Zahlungen verglich Selig mit dem Variation Margin anderer Futures. Damit stützt er die Einordnung als Terminkontrakt unter CFTC-Aufsicht.",
+    "Bei Prognosemärkten kündigte Selig an, gemeinsam mit dem Justizministerium gegen Bundesstaaten vorzugehen, die bundesweit registrierte Plattformen verklagen. Die CFTC und die US-Regierung hatten im Oktober Utah verklagt, am 13. November folgten Klagen gegen Arkansas und Louisiana. „Wenn es ein legales Derivat ist, sollte es vom Marktregulierer beaufsichtigt werden“, sagte Selig und grenzte das von staatlich lizenzierten Glücksspielangeboten ab. Ob ein Ereigniskontrakt zulässig ist, prüft die Behörde unter anderem nach seiner Anfälligkeit für Manipulation; die vorgeschlagene Regel 40.11 listet die Kriterien des öffentlichen Interesses auf."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106"
+    ],
+    [
+     "PrimeXBT News",
+     "https://primexbt.com/news/cftc-chair-selig-says-hyperliquid-and-other-onchain-venues-must-register-or-part/"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "primexbt.com",
+    "kucoin.com",
+    "coinfomania.com"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "USA",
+    "Regulierung"
+   ],
+   "kicker": "KI · Regulierung",
+   "titel": "„Nationale Champions“ und ein Amt für KI-Pannen: Washington ringt um seinen Kurs",
+   "deck": "Während das Weiße Haus führende KI-Firmen offenbar zu nationalen Champions erklären will, suchen Abgeordnete beider Parteien nach Wegen, Ausfälle und Risiken besser aufzuklären.",
+   "text": [
+    "Die US-Regierung will Berichten zufolge führende KI-Unternehmen zu „nationalen Champions“ erklären; nach Angaben des „Wall Street Journal“ soll Nvidia dazugehören. Präsident Donald Trump sagte nach einem Bericht von Bloomberg vor den Staats- und Regierungschefs der Apec, er werde KI-Regeln verhindern, die die Entwicklung bremsen. Zugleich warnte er, KI-Rechenzentren müssten in den Vereinigten Staaten bleiben. Das Weiße Haus richtete außerdem ein Zentrum zur Abwehr von Cyberkriminalität ein, die „Threat Disruption Center“.",
+    "Im Kongress formieren sich derweil Gegenbewegungen. Mehr als 24 Abgeordnete des Repräsentantenhauses aus beiden Parteien gründeten laut Politico einen „AI Safety and Innovation Caucus“, also einen überparteilichen Arbeitskreis. Den Vorsitz teilen sich George Whitesides, Don Beyer und Nathaniel Moran; die Gruppe will schneller auf KI-Zwischenfälle reagieren können.",
+    "Die Abgeordneten Morgan Luttrell und Ritchie Torres brachten zudem den „ROOT CAUSE Act“ ein. Er sieht bei der Cybersicherheitsbehörde CISA eine neue Untersuchungsstelle vor, die schwere Ausfälle durch Cyberangriffe und KI-Systeme aufarbeiten soll – ähnlich wie Unfallermittler nach Flugzeugabstürzen. Geheime Netze der nationalen Sicherheit wären ausgenommen. Im Senat legten vier Senatoren beider Parteien einen Gesetzentwurf vor, nach dem börsennotierte Unternehmen mehr Angaben zu KI offenlegen müssten; Anlass war laut Semafor die gewachsene Aufmerksamkeit für den Börsengang von Anthropic.",
+    "Auch aus den Bundesstaaten kommt Druck: Illinois' Gouverneur JB Pritzker forderte bundesweite Regeln für KI, Datenschutz und Rechenzentren. Ob die Vorstöße im Kongress Mehrheiten finden, ist offen."
+   ],
+   "quellen": [
+    [
+     "Bitdigest (Übersicht mit WSJ- und Bloomberg-Berichten)",
+     "https://bitdigest.substack.com/p/saturday-november-21-2026"
+    ],
+    [
+     "Rio Rundown (Zusammenfassung von Politico und PYMNTS)",
+     "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
+    ],
+    [
+     "The Neuron (Zusammenfassung des Semafor-Berichts)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "wsj.com",
+    "bloomberg.com",
+    "politico.com",
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Chips",
+    "OpenAI",
+    "AMD"
+   ],
+   "kicker": "KI · Chips",
+   "titel": "KI entwirft Chips mit: OpenAI meldet bis zu 14 Prozent Verbesserung an AMDs Grafikprozessor",
+   "deck": "Laut OpenAI haben seine Modelle in knapp fünf Monaten so viel Fortschritt im Chipdesign gebracht wie sonst in einem Jahr – die Zahlen stammen vor allem vom Unternehmen selbst.",
+   "text": [
+    "OpenAI hat seine KI-Modelle an den Bauplänen eines der wichtigsten Chips von AMD arbeiten lassen. Nach Angaben von OpenAI verbesserten die Modelle den Entwurf des künftigen Spitzen-Grafikprozessors um bis zu 14 Prozent bei „PPA“. Das Kürzel steht für Power, Performance und Area, also Stromverbrauch, Leistung und Chipfläche – die drei Größen, zwischen denen Chipentwickler stets abwägen müssen. OpenAI-Präsident Greg Brockman sprach von „ungefähr einem zusätzlichen Jahr Fortschritt“, erreicht in weniger als fünf Monaten.",
+    "Die Modelle schrieben dabei Code in der Hardwarebeschreibungssprache SystemVerilog um, die festlegt, wie die Schaltkreise eines Chips rechnen und Daten bewegen. Werkzeuge des Chipdesign-Softwareanbieters Synopsys prüften, ob jede Änderung die ursprüngliche Funktion erhält, und maßen die Wirkung. Einige Änderungen stecken laut den Berichten bereits in einem Entwurf, der an die Fertigung ging; andere wurden für künftige Versionen übernommen. Bei AMDs nächster Spitzen-CPU bestätigte AMD nach Darstellung von OpenAI Verbesserungen im einstelligen Prozentbereich in wichtigen Baugruppen.",
+    "Auch OpenAIs eigener Chip namens Jalapeño profitierte demnach: Er sei in neun Monaten vom Entwurf zur Fertigung gelangt, zwei Kernbausteine seien durch Modellvorschläge um etwa 13 und 10 Prozent kleiner geworden. Als Nächstes trainiert OpenAI mit Synopsys ein Modell namens „GPT-Synopsys“, das die gängigen Entwurfswerkzeuge selbst bedienen soll.",
+    "Einordnung: Die 14 Prozent sind ein Bestwert, kein Durchschnitt, und stammen aus OpenAIs eigener Darstellung; eine unabhängige Prüfung oder eine detaillierte Methodik liegt nicht vor. OpenAIs Chipchef Richard Ho hatte im Oktober gesagt, er vertraue KI-Änderungen am Design nicht vollständig – deshalb werde jede einzelne geprüft."
+   ],
+   "quellen": [
+    [
+     "The Next Web",
+     "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent"
+    ],
+    [
+     "Analytics India Magazine",
+     "https://analyticsindiamag.com/ai-news/openai-and-amd-achieve-a-year-of-chip-design-progress-in-under-five-months"
+    ],
+    [
+     "YourStory",
+     "https://yourstory.com/ai-story/ai-chip-design-openai-amd-gpu-ip"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Produkte",
+    "OpenAI",
+    "Google"
+   ],
+   "kicker": "KI · Produkte",
+   "titel": "Diktieren ohne Zeitlimit, Welten auf Abruf: OpenAI und Google legen bei Sprache und Agenten nach",
+   "deck": "ChatGPT schreibt nun live mit, Googles Weltmodell Genie 4 ist für Entwickler zugänglich – und mehrere kleinere Neuerungen sollen KI-Agenten günstiger machen.",
+   "text": [
+    "OpenAI hat ChatGPT ein Live-Diktat spendiert: Gesprochene Eingaben erscheinen schon während des Sprechens als Text und lassen sich vor dem Abschicken bearbeiten. Die bisherige Grenze von zehn Minuten pro Aufnahme fällt weg. Die Funktion wird weltweit in allen Tarifen ausgerollt, im Browser, in den Desktop-Programmen sowie unter iOS und Android. Für Entwickler von Sprachanwendungen bietet OpenAI zudem über seine Programmierschnittstelle (API) das Sprachmodell GPT-Live-1.1 an. Es soll Akzente über Sprachen hinweg einheitlicher halten, Aufgaben zuverlässiger erledigen und einen günstigeren Bereitschaftsmodus haben.",
+    "Google öffnet sein Weltmodell Genie 4 über die Gemini-API. Ein Weltmodell erzeugt keine Texte, sondern begehbare, interaktive Umgebungen: Genie 4 liefert sie in 720p-Auflösung mit 24 Bildern pro Sekunde, mit eigenem Ton, Steuerung per Tastatur und Änderungen der Szene über Textbefehle.",
+    "Kleinere Neuerungen zielen auf die Kosten von KI-Agenten. Mit „Tool Retrieval“, derzeit als Vorschau, müssen Entwickler die Beschreibungen aller verfügbaren Werkzeuge nicht mehr vorab an das Modell schicken; es fordert sie erst bei Bedarf namentlich an. Das spart nach Googles Angaben Eingabe-Token – die Texteinheiten, nach denen KI-Dienste abrechnen – und Wartezeit. Auf der Google-Startseite erscheint außerdem weltweit am Desktop eine einklappbare Seitenleiste mit den letzten Suchen im KI-Modus, wie Produktmanager Robby Stein mitteilte.",
+    "Die Angaben zu Leistung und Einsparungen stammen von den Herstellern; unabhängige Tests liegen bislang nicht vor."
+   ],
+   "quellen": [
+    [
+     "The Neuron (Übersicht)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ],
+    [
+     "Sam on AI (Übersicht)",
+     "https://samonai.substack.com/p/ai-brief-november-20-2026"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Forschung",
+    "Benchmarks"
+   ],
+   "kicker": "KI · Forschung",
+   "titel": "Agenten, die sich selbst verbessern: Neue Studien testen Alltagsaufgaben und lernendes Gedächtnis",
+   "deck": "Ein neuer Test mit 77 Alltagsaufgaben zeigt große Unterschiede zwischen Spitzenmodellen, Meta lässt einen Agenten sein Gedächtnis selbst optimieren – und die Debatte über eine sich selbst beschleunigende KI geht weiter.",
+   "text": [
+    "Forscher haben mit „EverydayBench“ einen neuen Benchmark vorgestellt, also einen standardisierten Leistungstest für KI-Modelle. Er umfasst 77 Aufgaben aus acht Lebens- und Arbeitsbereichen. Nach der Auswertung erreichten Claude Opus 5.5 und Claude Fable 5.1 von Anthropic gleichauf eine strenge Erfolgsquote von 54,55 Prozent; OpenAIs GPT-6 Sol kam je nach eingestellter Rechenintensität auf 29,87 bis 45,45 Prozent. Die Arbeit ist als Preprint auf arXiv erschienen und noch nicht von Fachkollegen begutachtet; selbst die besten Modelle scheitern an fast der Hälfte der Aufgaben.",
+    "Metas Forschungsabteilung FAIR zeigte einen Agenten, der eigenständig nach geeigneten Anweisungen für sein Gedächtnis sucht und diese dann in sogenannte LoRA-Adapter überführt – kleine Zusatzmodule, mit denen sich ein großes Sprachmodell günstig nachtrainieren lässt. Auf drei Aufgaben eines Tests für fortlaufendes Lernen kam das Verfahren im Schnitt auf 56,0 Punkte, von Menschen geschriebene Strategien auf 44,6. Als Basis diente Kimi-K2.6, ein Modell des chinesischen Anbieters Moonshot AI.",
+    "Eine weitere Studie ließ 150 KI-Agenten Analysen durchspielen, um sichtbar zu machen, wie stark methodische Entscheidungen wissenschaftliche Ergebnisse verändern. Die Methode reproduzierte die Schätzungen aus zehn veröffentlichten Replikationspaketen.",
+    "Solche Fortschritte befeuern die Debatte, ob KI bald an ihrer eigenen Verbesserung mitarbeitet. Laut IEEE Spectrum warnte der Anthropic-Forscher Jacob Coxon, Anthropic und OpenAI lieferten sich ein Rennen hin zu einer sich selbst verbessernden Superintelligenz. Ein Seminar an der Georgetown University kam dagegen zu dem Schluss, eine solche rekursive Selbstverbesserung sei weiterhin spekulativ. OpenAI hat sich das Ziel gesetzt, bis März 2028 einen automatisierten Forscher zu haben."
+   ],
+   "quellen": [
+    [
+     "Rio Rundown (Übersicht mit arXiv, MarkTechPost und IEEE Spectrum)",
+     "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
+    ],
+    [
+     "The Neuron (Übersicht)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Google",
+    "Bildung",
+    "Produkte"
+   ],
+   "kicker": "KI · Nutzer",
+   "titel": "Recht auf Suche ohne KI: Hunderte Google-Beschäftigte stellen sich für Schulen gegen den eigenen Konzern",
+   "deck": "Mehr als 500 Mitarbeiter wollen, dass Schulen die klassische Google-Suche ohne KI-Antworten nutzen können – und Canva führt einen Ausschalter für viele seiner KI-Werkzeuge ein.",
+   "text": [
+    "Bei Google regt sich intern Widerstand gegen die Allgegenwart von KI in der Suche. Mehr als 500 Beschäftigte forderten die Konzernführung nach einem Bericht von Bloomberg auf, Schulen die herkömmliche Google-Suche getrennt von den KI-Funktionen anbieten zu dürfen. So könnten Schulen selbst entscheiden, ob Schülerinnen und Schüler KI-erzeugte Antworten zu sehen bekommen.",
+    "Einen anderen Weg geht der Grafikdienst Canva. Nutzer können dort nach einem Bericht von The Verge jetzt viele generative KI-Werkzeuge abschalten, darunter den Textgenerator Magic Write und die Funktion Magic Expand. Zudem lässt sich der Anteil KI-erzeugter Inhalte in den Suchergebnissen der Plattform verringern. Einige KI-gestützte Bearbeitungsfunktionen bleiben allerdings auch dann aktiv.",
+    "Beide Fälle zeigen eine wachsende Gegenbewegung: Nach Jahren, in denen Anbieter KI-Funktionen möglichst überall einbauten, rückt die Frage in den Vordergrund, ob Nutzer – und Einrichtungen wie Schulen – sie auch ablehnen können."
+   ],
+   "quellen": [
+    [
+     "The Neuron (Übersicht)",
+     "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-19/google-workers-urge-bosses-to-let-schools-have-search-without-ai"
+    ],
+    [
+     "The Verge",
+     "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "China",
+    "KI",
+    "Start-ups"
+   ],
+   "kicker": "Köpfe · Gründer",
+   "titel": "Lin Junyang: Der frühere Qwen-Chef verdoppelt den Wert seines Start-ups auf fünf Milliarden Dollar",
+   "deck": "Kaum ein halbes Jahr nach der Gründung ist Pragmatik Labs in Shanghai laut Bloomberg zweieinhalbmal so viel wert wie bei der ersten Finanzierung im August.",
+   "text": [
+    "Lin Junyang hat bei Alibaba die Entwicklung der Qwen-Modelle mitgeprägt, einer der bekanntesten chinesischen KI-Modellfamilien. Im März verließ er den Konzern, im Sommer gründete er in Shanghai sein eigenes Unternehmen: Pragmatik Labs. Nun hat das Start-up nach einem Bericht von Bloomberg, der sich auf mit der Sache vertraute Personen beruft, frisches Geld zu einer Bewertung von fünf Milliarden Dollar eingesammelt.",
+    "Die Runde ist mit einem Volumen im zweistelligen Millionen-Dollar-Bereich vergleichsweise klein. Neu eingestiegen sind HyT Capital, CDH Investments und der Autobauer Geely. Bei der ersten Finanzierung im August hatte Pragmatik mehrere Hundert Millionen Dollar eingeworben, damals zu einer Bewertung von zwei Milliarden Dollar. Diese Runde hatten Gaorong Ventures und HSG angeführt, beteiligt waren auch Tencent und ein von der Stadt Shanghai unterstützter Investitionsfonds.",
+    "Pragmatik entwickelt nach eigener Beschreibung KI-Agenten der nächsten Generation – Programme, die selbstständig Aufgaben erledigen, und zwar sowohl in digitalen als auch in physischen Umgebungen. Konkrete Produkte hat das Unternehmen bislang nicht vorgestellt.",
+    "Dass Investoren das junge Unternehmen binnen weniger Monate so viel höher bewerten, zeigt, wie begehrt erfahrene Modellentwickler wie Lin in China sind."
+   ],
+   "quellen": [
+    [
+     "TechNode",
+     "https://technode.com/2026/11/20/ex-qwen-chiefs-pragmatik-labs-raises-funding-at-5-billion-valuation/"
+    ],
+    [
+     "Bloomberg",
+     "https://bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Nvidia",
+    "USA"
+   ],
+   "kicker": "Köpfe · Konzernchef",
+   "titel": "Jensen Huang: Trump fordert die Rückkehr des „brillanten“ Nvidia-Gründers – der Verwaltungsrat bleibt hart",
+   "deck": "Der US-Präsident hat sich in den Machtkampf beim Chipkonzern eingeschaltet, doch das Gremium will nach Berichten über eine Wiedereinsetzung nicht nachdenken.",
+   "text": [
+    "Der Streit um Jensen Huang hat das Weiße Haus erreicht. Präsident Donald Trump forderte Nvidia auf, seinen Mitgründer und früheren Chef wieder einzusetzen, und nannte ihn „brillant“. „Ich würde ihn gern zurück sehen“, zitierte ihn die pakistanische Zeitung Dawn. Seit Huangs Abgang führt Colette Kress den Chipkonzern übergangsweise.",
+    "Finanzminister Scott Bessent stellte klar, dass Huang bei Trumps Gesprächen mit Chinas Staatschef Xi Jinping in Shenzhen kein Thema gewesen sei. Die Frage lag nahe, weil Nvidia unter der Übergangsführung die Lieferungen von KI-Chips nach China gestoppt hat.",
+    "Der Verwaltungsrat ließ sich von Trumps Vorstoß bislang nicht beeindrucken. Nach einem Bericht des „Wall Street Journal“ erwägt das Gremium nicht, Huang zurückzuholen. Stattdessen richtete es einen eigenen Ausschuss für nationale Sicherheit und Exportkontrolle ein. Zudem will Nvidia dem Bericht zufolge seine Finanzierungen für KI-Firmen zurückfahren.",
+    "Für Huang steht der nächste öffentliche Auftritt bereits fest: Am 1. Dezember soll er vor dem US-Kongress aussagen. Für sein Comeback waren zuvor rund 180.000 Unterschriften zusammengekommen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
+    ],
+    [
+     "Dawn",
+     "https://www.dawn.com/news/2045939/i-would-love-to-see-him-be-back-trump-urges-nvidia-to-give-jensen-huang-second-chance"
+    ],
+    [
+     "Bitdigest (Übersicht mit WSJ-Bericht)",
+     "https://bitdigest.substack.com/p/saturday-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "wsj.com"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "USA",
+    "Cybersicherheit"
+   ],
+   "kicker": "Köpfe · Regierung",
+   "titel": "Sean Cairncross: Der Cyber-Direktor des Weißen Hauses muss nach der Pannenwelle gehen",
+   "deck": "Nach einer Welle von Störungen bei Flugverkehr, Banken und Sicherheitssystemen verliert der oberste Cyberbeamte der US-Regierung seinen Posten – ob gefeuert oder zurückgetreten, wird unterschiedlich berichtet.",
+   "text": [
+    "Sean Cairncross ist nicht mehr National Cyber Director der Vereinigten Staaten. Er war im Weißen Haus für die Koordination der Cybersicherheitspolitik zuständig. Nach Berichten von Reuters und Euronews wurde er gefeuert, das Technikportal TechCrunch berichtet dagegen, er trete zurück. Die Darstellungen über die genauen Umstände gehen damit auseinander.",
+    "Hintergrund ist eine Serie von Technikausfällen in den USA, die den Flugverkehr, Banken und Sicherheitssysteme gestört hatten und der Regierung Kritik einbrachten. Über die Ursachen wurde viel spekuliert. Geheimdienstkoordinator Jay Clayton erklärte laut „New York Post“, die Ausfälle seien nicht koordiniert gewesen; er führte sie auf Aktualisierungen veralteter Systeme zurück. Zuvor hatte Heimatschutzminister Markwayne Mullin mit der Bemerkung Aufsehen erregt, eine „Superintelligenz“ könne dahinterstecken.",
+    "Zeitgleich kündigte das Weiße Haus nach einem Bericht von Bloomberg ein neues „Threat Disruption Center“ an, das Cyberkriminalität bekämpfen soll."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages"
+    ],
+    [
+     "TechCrunch",
+     "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"
+    ],
+    [
+     "Bitdigest (Übersicht)",
+     "https://bitdigest.substack.com/p/saturday-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com",
+    "reuters.com",
+    "nypost.com",
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "USA",
+    "Deepfakes",
+    "Politik"
+   ],
+   "kicker": "Köpfe · Politik",
+   "titel": "Alexandria Ocasio-Cortez: Ihr Gesetz gegen sexuelle Deepfakes hängt im Repräsentantenhaus fest",
+   "deck": "Der Senat hat den DEFIANCE Act einstimmig verabschiedet, doch die Republikaner im Repräsentantenhaus setzen ihn nicht auf die Tagesordnung – nach anonymen Quellen auch aus politischem Kalkül.",
+   "text": [
+    "Die demokratische Abgeordnete Alexandria Ocasio-Cortez kämpft seit Monaten für den DEFIANCE Act. Das Gesetz soll Opfern von nicht einvernehmlich erstellten, sexuellen KI-Bildern erlauben, Urheber, Verbreiter und Plattformen auf Schadenersatz zu verklagen. Gerichte könnten pauschal bis zu 150.000 Dollar zusprechen, in schweren Fällen bis zu 250.000 Dollar. Ocasio-Cortez sagt, sie sei selbst Ziel solcher Bilder geworden, erzeugt mit Grok, dem KI-Programm auf der Plattform X.",
+    "Der Senat hat den Entwurf am 13. Januar einstimmig angenommen, bereits zum zweiten Mal nach 2024. Im Repräsentantenhaus liegt das Gegenstück aber weiter im Ausschuss, die Führung hat keine Abstimmung angesetzt. Vier ungenannte Quellen sagten Politico, republikanische Fraktionsführer hielten das Gesetz bewusst zurück, um Ocasio-Cortez vor einer möglichen Präsidentschaftskandidatur 2028 keinen Erfolg zu gönnen. Bestätigt ist das nicht; Speaker Mike Johnson hat sich öffentlich für das Gesetz ausgesprochen.",
+    "Unterstützung bekommt Ocasio-Cortez von Paris Hilton, die mit ihr auftrat und sagt, im Netz kursierten mehr als 100.000 explizite Deepfakes von ihr. Ocasio-Cortez hat eine Kandidatur 2028 nicht ausgeschlossen; in einer Umfrage der University of New Hampshire vom Juli lag sie unter wahrscheinlichen demokratischen Vorwahlwählern mit 22 Prozent knapp vor Pete Buttigieg mit 21 Prozent.",
+    "Seit Mai 2025 gilt bereits der TAKE IT DOWN Act, der solche Bilder unter Strafe stellt und Plattformen zur Löschung binnen 48 Stunden verpflichtet. Ein eigenes Klagerecht für Opfer enthält er nicht."
+   ],
+   "quellen": [
+    [
+     "Latin Times",
+     "https://latintimes.com/defiance-act-house-delay-aoc-deepfake-protections-601543"
+    ]
+   ],
+   "berichterstattung": [
+    "politico.com"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Australien",
+    "China"
+   ],
+   "kicker": "Köpfe · Regierungschef",
+   "titel": "Anthony Albanese: Australiens Premier holt sich bei Xi die „umfassende Wende“ ab",
+   "deck": "Nach Jahren der Handelssanktionen vereinbaren Albanese und Chinas Staatschef in Shenzhen einen KI-Dialog, mehr Klimaschutz-Kooperation und ein gemeinsames Tourismusjahr.",
+   "text": [
+    "Für Anthony Albanese war es ein Treffen mit Symbolkraft. Am Rande des Apec-Gipfels traf der australische Premierminister am Freitag in Shenzhen Chinas Staatschef Xi Jinping, anschließend sprach er in Peking mit Ministerpräsident Li Qiang. Xi sprach nach Angaben von Reuters von einer „umfassenden Wende“ in den Beziehungen. Beide Länder sollten Partner sein, die einander vertrauen und zum Erfolg verhelfen, zwischen ihnen gebe es keine historische Feindschaft, zitierte ihn die Nachrichtenagentur Xinhua.",
+    "Albanese nannte die Gespräche konstruktiv und freundlich. Unterschiede solle man ansprechen, ohne dass sie die Beziehung bestimmen. In einer gemeinsamen Erklärung, die die australische Regierung am Samstag veröffentlichte, vereinbaren beide Seiten einen Dialog über künstliche Intelligenz – zu Sicherheit, Regulierung und Anwendungen, aber ohne gemeinsame Technologieentwicklung. Hinzu kommen engere Zusammenarbeit bei Klimaschutz und Energiewende, mehr Handel mit Energie und Rohstoffen sowie ein gemeinsames Tourismusjahr 2027, in dem sich die diplomatischen Beziehungen zum 55. Mal jähren.",
+    "Für Albanese ist die Annäherung wirtschaftlich gewichtig: Rund ein Viertel der australischen Exporte geht nach China, das damit größter Handelspartner ist. Die Handelsschranken der Jahre 2020 bis 2022 waren bis Ende 2024 aufgehoben worden. Offen bleibt etwa Rindfleisch: Die chinesische Einfuhrquote für Australien von 205.000 Tonnen war schon im Juni ausgeschöpft, darüber hinaus fallen 55 Prozent Zoll an.",
+    "Zugleich hält Albanese die Bindung an Washington: Wenige Tage zuvor hatte Australien mit den USA und acht weiteren Staaten die „San Francisco Declaration“ zur Sicherung von KI-Lieferketten unterzeichnet."
+   ],
+   "quellen": [
+    [
+     "Berliner Zeitung",
+     "https://berliner-zeitung.de/article/china-australien-xi-jinping-ki-dialog-pazifik-10621517"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "wiss-01",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Physik",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Teilchenphysik · Erkenntnis",
+   "titel": "Einmal unter zehn Milliarden: LHCb findet Belege für einen extrem seltenen Teilchenzerfall",
+   "deck": "Nach mehr als 40 Jahren Suche zeigt ein einzelnes Experiment am Cern erstmals deutliche Hinweise darauf, dass ein B-Meson in zwei Myonen zerfällt – die Arbeit ist noch nicht begutachtet.",
+   "text": [
+    "Physiker der LHCb-Kollaboration am europäischen Forschungszentrum Cern bei Genf haben mit ihrem modernisierten Detektor Belege für einen der seltensten Zerfälle gefunden, die das Standardmodell der Teilchenphysik vorhersagt. Dabei wandelt sich ein neutrales B-Meson, ein Teilchen mit einem Bottom- oder Beauty-Quark, in ein Myon und dessen Antiteilchen um. Myonen sind schwerere Verwandte des Elektrons. Nach der Theorie sollte das nur etwa einmal unter zehn Milliarden solcher Zerfälle geschehen. Gesucht wird der Prozess seit 1984; eine gemeinsame Auswertung von LHCb und dem Experiment CMS hatte 2015 erste Hinweise geliefert, die spätere Analysen nicht bestätigten.",
+    "Grundlage sind Kollisionsdaten aus den Jahren 2024 und 2025, die das Team mit den Messungen von 2011 bis 2018 kombinierte. Die Aufrüstung des Detektors hat rund 15 Jahre Planung und Bau gekostet, er zeichnet nun bis zu fünfmal so schnell Daten auf wie zuvor. Ein Siliziumpixeldetektor sitzt nur etwa fünf Millimeter neben den Teilchenstrahlen. Beim Aussortieren von Störereignissen half maschinelles Lernen. Zusammen ergibt sich ein Signal mit einer Signifikanz von 3,2 Standardabweichungen. Die gemessene Häufigkeit liegt bei rund 1,1 Zerfällen pro zehn Milliarden, die Vorhersage bei 1,03. Zugleich verbesserte das Team die Messung eines verwandten, häufigeren Zerfalls des Bs-Mesons.",
+    "Drei Standardabweichungen gelten in der Teilchenphysik als Beleg, von einer Entdeckung sprechen Physiker erst ab fünf. Das Ergebnis passt zum Standardmodell, neue Teilchen oder Kräfte zeigt es nicht. Interessant ist der Zerfall, weil schwere, bislang unbekannte Teilchen seine Rate verändern könnten, selbst wenn der Beschleuniger sie nicht direkt erzeugen kann. Conor Fitzpatrick von der Universität Manchester nennt ihn einen „goldenen Kanal“ für neue Physik.",
+    "Die Arbeit liegt als Vorabveröffentlichung vor und ist bei der Fachzeitschrift „Physical Review X“ eingereicht, aber noch nicht von unabhängigen Gutachtern geprüft. LHCb soll bis in die frühen 2030er Jahre weiter Daten sammeln; dann soll sich zeigen, ob das Signal hält und wie genau sich seine Rate bestimmen lässt."
+   ],
+   "quellen": [
+    [
+     "arXiv, LHCb-Kollaboration (Preprint 2611.00230)",
+     "https://arxiv.org/pdf/2611.00230"
+    ],
+    [
+     "ScienceDaily (Universität Manchester)",
+     "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+    ],
+    [
+     "Journal du Geek",
+     "https://www.journaldugeek.com/2026/11/12/le-cern-se-rapproche-du-zeptoverse-grace-a-une-transformation-rarissime/"
+    ]
+   ],
+   "berichterstattung": [
+    "arxiv.org",
+    "sciencedaily.com",
+    "journaldugeek.com",
+    "digg.com"
+   ]
+  },
+  {
+   "id": "wiss-02",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Raumfahrt",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Raumfahrt · Erkenntnis",
+   "titel": "Erster Blick nach acht Jahren Flug: BepiColombos Röntgenteleskop sieht scharf",
+   "deck": "Das Instrument MIXS hat bei Tests am Krebsnebel besser abgeschnitten als im Labor – just als die europäisch-japanische Sonde in die Umlaufbahn um Merkur einschwenken sollte.",
+   "text": [
+    "Auf der europäisch-japanischen Merkursonde BepiColombo hat das Röntgenteleskop MIXS seine ersten Beobachtungen hinter sich. Nach rund acht Jahren im All und etwa zehn Milliarden Kilometern Flug nahm es Röntgenstrahlung des Krebsnebels auf, eines der hellsten Röntgenobjekte am Himmel, rund 6.500 Lichtjahre entfernt. Das berichtet die Universität Leicester, die das Instrument mit einem europäischen Konsortium gebaut hat. Beteiligt sind auch deutsche Einrichtungen, darunter das Max-Planck-Institut für Sonnensystemforschung und das Max-Planck-Institut für extraterrestrische Physik. MIXS ist nach Angaben der Universität das erste abbildende Röntgenteleskop auf einer planetaren Mission.",
+    "Ins All blicken konnte das Teleskop erst seit September. Bis dahin verdeckte das Transfermodul, das die Sonde angetrieben hatte, die Sicht; es wurde am 3. September abgetrennt. Am 11. und 12. September beobachtete MIXS den Krebsnebel insgesamt 39 Stunden lang, die Sonde änderte dabei 55-mal gezielt ihre Ausrichtung. Die Winkelauflösung war etwas schärfer als bei Labortests im Jahr 2015, störendes Streulicht trat nicht auf, und der Detektor zeigt nach acht Jahren keine Strahlenschäden. Effekte der kosmischen Strahlung und ein schwaches Eigenleuchten der Optik im Sonnenlicht kennt das Team und will sie herausrechnen.",
+    "Am Merkur soll MIXS Röntgenstrahlen auffangen, die die Sonne im Gestein der Oberfläche anregt. Jedes chemische Element sendet dabei eine eigene Signatur aus, sodass eine Karte der Zusammensetzung des kleinsten Planeten entstehen kann. Die Forscher erhoffen sich daraus Hinweise auf seine Entstehung und geologische Geschichte.",
+    "Noch sind das Prüfdaten von einem einzigen Vergleichsobjekt, Messungen vom Merkur gibt es nicht, und eine begutachtete Veröffentlichung liegt nicht vor. Laut Esa sollte die Sonde am 21. November in die Umlaufbahn um Merkur einschwenken; eine Bestätigung lag der Redaktion bis Redaktionsschluss nicht vor. Am 9. und 10. Dezember sollen sich der europäische Orbiter MPO und der japanische Orbiter Mio trennen, die wissenschaftliche Arbeit soll im April 2027 beginnen."
+   ],
+   "quellen": [
+    [
+     "ScienceDaily (Universität Leicester)",
+     "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+    ],
+    [
+     "Esa: Latest updates – BepiColombo's arrival at Mercury",
+     "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "esa.int"
+   ]
+  },
+  {
+   "id": "wiss-03",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Paläontologie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Paläontologie · Erkenntnis",
+   "titel": "Beide Nasenlöcher links: Ein Zwergpottwal aus Peru hatte das schiefste Gesicht aller bekannten Wale",
+   "deck": "Ein sechs Millionen Jahre alter Schädel zeigt eine extreme Asymmetrie – die Forscher vermuten einen Jäger, der am Meeresboden nach Beute suchte.",
+   "text": [
+    "Zahnwale haben oft leicht schiefe Schädel, weil ihre Nasenregion der Erzeugung von Klicklauten dient. Ein Fossil aus Peru treibt diese Eigenheit aber auf die Spitze. Der Paläontologe Aldo Benites-Palomino, heute am GeoZentrum Nordbayern der Universität Erlangen-Nürnberg, und Gabriel Aguirre-Fernández von der Universität Zürich beschreiben in der Fachzeitschrift „Communications Biology“ die bislang unbekannte Art Scaphokogia huachafo, einen ausgestorbenen Verwandten der heutigen Zwergpottwale. Der Artname stammt aus dem peruanischen Spanisch und bedeutet so viel wie schrill oder übertrieben.",
+    "Der nahezu vollständige Schädel wurde bereits Mitte der 1990er Jahre im Sacaco-Becken in der Region Arequipa im Süden Perus gefunden, in Schichten der Pisco-Formation, die 6,3 bis 5,6 Millionen Jahre alt sind. Das Tier war etwa 2,7 Meter lang. Beide knöchernen Nasenöffnungen liegen links der Mittellinie, die linke ist deutlich größer als die rechte, und auch die Knochen um die Augenhöhlen unterscheiden sich. Mit neuen 3D-Messungen verglichen die Forscher 31 Arten; Scaphokogia war die asymmetrischste Walgruppe der Stichprobe. Es sei die stärkste bekannte Gesichtsasymmetrie bei Walen, womöglich sogar bei Säugetieren.",
+    "Zunächst prüften die Autoren, ob der Schädel bei der Versteinerung verformt wurde. Dagegen sprechen ihnen zufolge die vollständig geschlossenen Knochennähte und das Fehlen von Brüchen oder Verformungen an anderen Stellen. „Das war echte Biologie, keine Folge schlechter Erhaltung“, sagt Benites-Palomino.",
+    "Die röhrenförmige Schnauze aus dichtem Knochen ist um etwa 31 Grad nach unten geneigt, und ein zweites Fundstück mit dem ersten Halswirbel deutet an, dass das Tier den Kopf stark senken konnte. Daraus schließen die Forscher auf einen Jäger, der in flachen Küstengewässern am Meeresboden nach Nahrung suchte und die Beute im weichen Sediment womöglich mit Echoortung aufspürte. Diese Lebensweise ist allerdings aus dem Körperbau abgeleitet und nicht direkt belegt."
+   ],
+   "quellen": [
+    [
+     "Communications Biology, DOI 10.1038/s42003-026-11074-2",
+     "https://doi.org/10.1038/s42003-026-11074-2"
+    ],
+    [
+     "EurekAlert (Universität Zürich)",
+     "https://www.eurekalert.org/news-releases/1151087"
+    ],
+    [
+     "IFLScience",
+     "https://www.iflscience.com/bizarre-wonky-whale-with-nostrils-on-one-side-of-its-face-swam-around-the-oceans-6-million-years-ago-85151"
+    ]
+   ],
+   "berichterstattung": [
+    "eurekalert.org",
+    "iflscience.com",
+    "sci.news",
+    "scitechdaily.com",
+    "sciencedaily.com",
+    "techlicious.com",
+    "thebrighterside.news",
+    "heraldcorp.com"
+   ]
+  },
+  {
+   "id": "wiss-04",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Medizin",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Ernährungsmedizin · Erkenntnis",
+   "titel": "Gleich viel abgenommen, mehr Leberfett verloren: Kleine Studie vergleicht Keto, Mittelmeerkost und Pflanzenkost",
+   "deck": "Bei 42 Menschen mit Fettleber und Prädiabetes schnitt die kohlenhydratarme Diät am besten ab – die Autoren mahnen größere und längere Studien an.",
+   "text": [
+    "Welche Ernährung hilft der Leber am meisten, wenn Menschen abnehmen? Ein Team um Max Petersen und Samuel Klein von der Washington University School of Medicine in St. Louis hat dazu in der Fachzeitschrift „Cell Metabolism“ eine randomisierte Studie veröffentlicht. Die 42 Teilnehmenden hatten Adipositas, Prädiabetes und eine Fettleber. Sie wurden per Los einer von drei Kostformen zugeteilt: einer ketogenen Diät mit 4 Prozent der Kalorien aus Kohlenhydraten und 73 Prozent aus Fett, einer Mittelmeerkost oder einer fettarmen, pflanzenbetonten Ernährung mit 70 Prozent Kohlenhydraten.",
+    "Das Besondere: Die Forscher stellten alle Mahlzeiten und passten die Kalorien so an, dass jede Gruppe etwa 10 Prozent ihres Ausgangsgewichts verlor. So ließ sich vergleichen, was die Zusammensetzung der Nahrung bei gleichem Gewichtsverlust bewirkt. Nach etwa vier bis fünf Monaten war das Leberfett in der Keto-Gruppe im Mittel um 67 Prozent gesunken, in den beiden anderen Gruppen um je 45 Prozent. Rund die Hälfte der Keto-Gruppe erfüllte danach nicht mehr die Kriterien für Prädiabetes, bei der Mittelmeerkost waren es 29 Prozent, bei der fettarmen Kost 7 Prozent.",
+    "Als Erklärung verweisen die Forscher auf Hormone: In der Keto-Gruppe stieg das Hormon Glukagon am stärksten, das Insulin sank am deutlichsten. Überrascht habe sie, dass Blutfette und Cholesterin trotz des hohen Fettanteils nicht stiegen. Alle drei Gruppen verloren Körperfett und reagierten danach besser auf Insulin.",
+    "Die Aussagekraft ist begrenzt. Die Studie ist klein und kurz, und die Autoren schreiben selbst, dass längere Untersuchungen mit mehr Teilnehmenden nötig seien. Ob die Vorteile nach dem Ende der streng kontrollierten Diät anhalten, ist offen; auch zeigt die Arbeit nicht, dass man mit Keto mehr abnimmt als mit anderen Kostformen. Gefördert wurde sie von den US-Gesundheitsinstituten NIH."
+   ],
+   "quellen": [
+    [
+     "Cell Metabolism, DOI 10.1016/j.cmet.2026.07.020",
+     "https://doi.org/10.1016/j.cmet.2026.07.020"
+    ],
+    [
+     "ScienceDaily (Cell Press)",
+     "https://www.sciencedaily.com/releases/2026/11/261120070904.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-05",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Psychologie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Psychologie · Erkenntnis",
+   "titel": "Lieber oft als hart: Für die Psyche von Studierenden zählt vor allem, wie häufig sie Sport treiben",
+   "deck": "Eine norwegische Befragung von mehr als 10.000 Studierenden findet einen Zusammenhang zwischen Bewegung und späteren Angststörungen und Depressionen – ein Beweis für Ursache und Wirkung ist sie nicht.",
+   "text": [
+    "Wer regelmäßig Sport treibt, hat ein Jahr später seltener eine Angststörung oder Depression – und dabei scheint es mehr auf die Häufigkeit als auf die Härte des Trainings anzukommen. Zu diesem Ergebnis kommt ein Team um Michael Grasdalsmoen von der Western Norway University of Applied Sciences in der Fachzeitschrift „PLOS One“. Die Daten stammen aus der landesweiten norwegischen Studierendenbefragung SHoT.",
+    "Befragt wurden 10.460 Vollzeitstudierende zwischen 18 und 35 Jahren. Zu Beginn gaben sie an, wie oft, wie intensiv und wie lange sie trainieren und wie viele Stunden sie pro Woche aktiv sind. Ein Jahr später füllten sie einen Fragebogen aus, mit dem sich häufige psychische Störungen erfassen lassen. Wer anfangs weniger aktiv war, erfüllte danach häufiger die Kriterien für eine Angststörung oder Depression. Am beständigsten war der Zusammenhang mit der Trainingshäufigkeit. Bei Frauen ging zudem eine geringere Intensität mit einem höheren Risiko einher, bei Männern eine geringere Gesamtstundenzahl. Das Risiko sank mit zunehmender Bewegung bis zu etwa zehn Stunden pro Woche.",
+    "Die Autoren sehen ihre Befunde im Einklang mit der Empfehlung der Weltgesundheitsorganisation, sich mindestens 150 Minuten pro Woche mäßig bis intensiv zu bewegen. Für Hochschulen könne es sich lohnen, niedrigschwellige Angebote für regelmäßige Bewegung zu schaffen.",
+    "Allerdings handelt es sich um eine Beobachtungsstudie. Sie zeigt einen Zusammenhang, aber nicht, dass Sport die Erkrankungen verhindert; denkbar ist etwa auch, dass beginnende psychische Probleme Menschen vom Training abhalten. Die Angaben zum Sport beruhen auf Selbstauskunft, und der Fragebogen ersetzt keine ärztliche Diagnose. Finanziert wurde die Befragung von zwei norwegischen Ministerien, die an Auswertung und Veröffentlichung nicht beteiligt waren."
+   ],
+   "quellen": [
+    [
+     "PLOS One, DOI 10.1371/journal.pone.0353787",
+     "https://doi.org/10.1371/journal.pone.0353787"
+    ],
+    [
+     "ScienceDaily (PLOS)",
+     "https://www.sciencedaily.com/releases/2026/11/261119194601.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "fuss-01",
+   "rubrik": "fussball",
+   "status": "verhandlung",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "FC Arsenal"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Arsenal und Rice einig über Vertrag bis 2031",
+   "deck": "Der englische Nationalspieler soll sich für fünf weitere Jahre an den Meister binden – offiziell ist es noch nicht.",
+   "text": [
+    "Der FC Arsenal hat sich laut David Ornstein von The Athletic mit Declan Rice auf einen neuen Vertrag bis Sommer 2031 verständigt; zuvor hatte auch BBC-Reporter Sami Mokbel über die Gespräche berichtet. Der bisherige Kontrakt des Mittelfeldspielers läuft bis 2028 mit Option auf ein weiteres Jahr. Fabrizio Romano meldet inzwischen, Rice habe bereits unterschrieben, eine Verkündung des Vereins steht aber noch aus. Trainer Mikel Arteta sagte, es sei nur eine Frage der Zeit. Laut Romano ist auch die Verlängerung von Torwart David Raya bis 2030 vereinbart, aber noch nicht unterzeichnet."
+   ],
+   "transfer": {
+    "spieler": "Declan Rice",
+    "von": "FC Arsenal",
+    "nach": "FC Arsenal (Verlängerung)",
+    "vertrag": "bis 2031 (laut The Athletic)"
+   },
+   "quellen": [
+    [
+     "Daily Cannon (über The Athletic)",
+     "https://dailycannon.com/2026/11/rice-new-contract-agreed-arsenal/"
+    ],
+    [
+     "FootballTransfers (Fabrizio Romano)",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-jj-gabriel-official-balde-exit-arsenal-contract-updates"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-02",
+   "rubrik": "fussball",
+   "status": "verhandlung",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "FC Arsenal"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Ex-Leverkusener Hincapié verlängert offenbar bis 2032 in London",
+   "deck": "Ein knappes halbes Jahr nach der festen Verpflichtung soll der Ecuadorianer schon einen verbesserten Vertrag haben.",
+   "text": [
+    "Piero Hincapié hat laut The Athletic einen neuen, besser dotierten Vertrag beim FC Arsenal unterschrieben, der ihn um zwölf Monate bis 2032 bindet. Auch Fabrizio Romano berichtet von dem Abschluss bis 2032. Der Verteidiger war im September 2025 von Bayer Leverkusen zunächst ausgeliehen worden, im Sommer 2026 machte Arsenal den Wechsel fest. Eine offizielle Bestätigung des Klubs gibt es bislang nicht, Romano rechnet mit einer gemeinsamen Verkündung mehrerer Verlängerungen."
+   ],
+   "transfer": {
+    "spieler": "Piero Hincapié",
+    "von": "FC Arsenal",
+    "nach": "FC Arsenal (Verlängerung)",
+    "vertrag": "bis 2032 (laut The Athletic)"
+   },
+   "quellen": [
+    [
+     "Daily Cannon (über The Athletic)",
+     "https://dailycannon.com/2026/11/arsenal-hincapie-new-contract-signed/"
+    ],
+    [
+     "FootballTransfers (Fabrizio Romano)",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/arsenal-new-contracts-rice-hincapie-timber-raya"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-03",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "RB Leipzig"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Arsenal wirbt um Nusa – Leipzig will im Januar nicht verkaufen",
+   "deck": "Der norwegische Flügelspieler ist eines der begehrtesten Talente der Liga, doch ein Winterwechsel gilt als unwahrscheinlich.",
+   "text": [
+    "Der FC Arsenal interessiert sich für Antonio Nusa von RB Leipzig, laut TEAMtalk gab es bereits Gespräche mit der Spielerseite. Laut Fabrizio Romano verlangt Leipzig als Ausgangspunkt rund 70 bis 75 Millionen Euro und drängt nicht auf einen Verkauf im Januar; wahrscheinlicher sei ein Wechsel im Sommer, sofern kein außergewöhnliches Angebot kommt. Ähnlich äußerte sich Sky-Reporter Philipp Hinze, der einen realistischen Preis von 70 bis 90 Millionen Euro nennt. Eine Ausstiegsklausel hat Nusa demnach nicht."
+   ],
+   "transfer": {
+    "spieler": "Antonio Nusa",
+    "von": "RB Leipzig",
+    "nach": "FC Arsenal (Interesse)",
+    "abloese": "laut Fabrizio Romano Forderung ca. 70–75 Mio. €"
+   },
+   "quellen": [
+    [
+     "TEAMtalk",
+     "https://www.teamtalk.com/arsenal/antonio-nusa-arsenal-rb-leipzig-january-2027-transfer-latest"
+    ],
+    [
+     "FootballTransfers",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/antonio-nusa-arsenal-rb-leipzig-january-summer-state-of-play"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-04",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "FC Bayern"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Zweitligisten werben um Bayern-Talent Tim Binder",
+   "deck": "Braunschweig, Dresden und Karlsruhe sollen den 19-Jährigen im Blick haben.",
+   "text": [
+    "Um Tim Binder vom FC Bayern bemühen sich laut Sky mehrere Klubs aus der 2. Bundesliga, genannt werden Eintracht Braunschweig, Dynamo Dresden und der Karlsruher SC. Laut transfermarkt.de gibt es zudem Interesse aus der Bundesliga. Der 19-Jährige steht in München bis 2030 unter Vertrag. Bild zufolge war schon im Sommer eine Leihe nach Dresden nahe; ob die Bayern ihn im Winter abgeben, ist offen."
+   ],
+   "transfer": {
+    "spieler": "Tim Binder",
+    "von": "FC Bayern München",
+    "nach": "offen (Interesse aus der 2. Bundesliga)",
+    "vertrag": "in München bis 2030"
+   },
+   "quellen": [
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/bundesliga/fc-bayern-muenchen-talent-erhaelt-wohl-bald-profivertrag-transfer-news-im-ticker-81602"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-05",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "FC Bayern"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Hainer zu Real-Interesse an Olise: „Wir sind kein Verkäuferklub“",
+   "deck": "Der Bayern-Präsident schließt einen Verkauf des Franzosen aus – selbst bei Angeboten in Rekordhöhe.",
+   "text": [
+    "Real Madrid interessiert sich laut AS für Michael Olise, der FC Bayern könne demnach bis zu 300 Millionen Euro verlangen. Bayern-Präsident Herbert Hainer schloss einen Verkauf laut t-online aus, auch bei Angeboten in dieser Größenordnung. „Wir sind kein Verkäuferklub, sondern ein Käuferklub“, sagte Hainer. Olises Vertrag in München läuft bis 2029."
+   ],
+   "transfer": {
+    "spieler": "Michael Olise",
+    "von": "FC Bayern München",
+    "nach": "Real Madrid (Interesse)",
+    "vertrag": "in München bis 2029"
+   },
+   "quellen": [
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/bundesliga/fc-bayern-muenchen-talent-erhaelt-wohl-bald-profivertrag-transfer-news-im-ticker-81602"
+    ],
+    [
+     "FootballTransfers",
+     "https://www.footballtransfers.com/us/transfer-news/uk-premier-league/2026/11/transfer-rumours-final-nico-paz-decision-as-arsenal-receive-clear-real-madrid-message"
+    ]
+   ]
+  },
+  {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz",
+    "Tschad"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "Von 25 auf rund 700: Die Säbelantilope ist zurück im Tschad",
+   "deck": "Im Jahr 2000 galt die Art in freier Wildbahn als ausgestorben – heute lebt im Tschad die größte Herde der Welt.",
+   "text": [
+    "Die Säbelantilope, eine Oryx-Art mit langen, nach hinten gebogenen Hörnern, durchstreift wieder die Steppen des Tschad. Im Wildreservat Ouadi Rimé–Ouadi Achim, dem größten Schutzgebiet des Landes, ist die Herde von 25 Tieren im Jahr 2016 auf heute rund 700 angewachsen. Das berichtet das Umweltportal Mongabay. Es ist nach diesen Angaben die größte Herde dieser Antilope weltweit.",
+    "Der Weg dorthin war weit. Im Tschad war die Säbelantilope bis Ende der 1980er-Jahre verschwunden, im Jahr 2000 wurde sie weltweit als in freier Wildbahn ausgestorben eingestuft. Die Wende brachte ein Wiederansiedlungsprogramm der Naturschutzorganisation Sahara Conservation im Tschad.",
+    "Der Erfolg schlägt sich auch in der Roten Liste nieder: Die Art gilt dank des Programms inzwischen nur noch als „stark gefährdet“ statt als in der Wildnis ausgestorben. Gesichert ist die Rückkehr damit nicht. Lange Dürren, ein sich wandelndes Klima und die Konkurrenz mit Viehherden um Weideland bleiben nach Angaben von Mongabay die größten Gefahren für die Herde."
+   ],
+   "quellen": [
+    [
+     "Mongabay",
+     "https://news.mongabay.com/short-article/2026/11/the-scimitar-horned-oryx-is-back-in-chad/"
+    ]
+   ],
+   "berichterstattung": [
+    "mongabay.com"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz",
+    "Großbritannien"
+   ],
+   "kicker": "Gute Nachrichten · Meeresschutz",
+   "titel": "Erste wilde Austernbabys im Dornoch Firth seit mehr als 100 Jahren",
+   "deck": "Zwölf Jahre und 140.000 ausgesetzte Austern nach dem Start eines Projekts vermehren sich die Muscheln in Schottland wieder selbst.",
+   "text": [
+    "Im Dornoch Firth im Norden Schottlands sind zum ersten Mal seit über einem Jahrhundert wieder junge Europäische Austern auf natürliche Weise entstanden. Forschende der Heriot-Watt University entdeckten die winzigen Jungmuscheln an ihrer Feldstation in Dornoch; Fachleute der National Museums Scotland und des walisischen Nationalmuseums bestätigten die Bestimmung anhand von Fotos. Bei einem späteren Besuch waren einige der Tiere bereits etwa so groß wie eine 50-Pence-Münze. Die Universität gab den Fund am 16. November bekannt.",
+    "Die ursprünglichen Austernbänke im Dornoch Firth wurden vermutlich Ende des 19. Jahrhunderts leergefischt, wie fast überall in Europa. Seit 2017 versucht das Dornoch Environmental Enhancement Project, kurz DEEP, das Riff wiederherzustellen. Damals kamen die ersten 300 Austern aus dem Loch Ryan auf den Meeresgrund. Bis Oktober 2026 haben Freiwillige und Wissenschaftler mehr als 140.000 junge Austern gezüchtet, von Hand gereinigt und ausgesetzt. Rund 3.000 Tiere in zwei Bänken nähern sich der Geschlechtsreife.",
+    "Getragen wird das Projekt von der Universität, der Meeresschutzorganisation Marine Conservation Society und der Whiskybrennerei Glenmorangie. Bis 2031 sollen etwa vier Millionen Austern im Firth leben. Der Fund sei der Beweis, dass gezielte Wiederherstellung funktionieren könne, sagte DEEP-Forscher Gurjameer Ramday. Die Erfahrungen sollen in andere Austernprojekte in Großbritannien einfließen."
+   ],
+   "quellen": [
+    [
+     "Heriot-Watt University",
+     "https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years"
+    ],
+    [
+     "Irish News/PA",
+     "https://www.irishnews.com/news/uk/native-oysters-born-in-firth-for-first-time-in-more-than-100-years-TK73VTXMLZOBTPJST433UCGS5E/"
+    ]
+   ],
+   "berichterstattung": [
+    "hw.ac.uk",
+    "irishnews.com",
+    "expressandstar.com",
+    "theguardian.com"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "Nigeria"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "1,8 Millionen Impfdosen: Nigeria schützt Kleinkinder gegen Malaria",
+   "deck": "Im Land mit den meisten Malariatoten der Welt sind fast 250.000 Kinder vollständig geimpft – in Bayelsa sinkt die Zahl der Erkrankten.",
+   "text": [
+    "Nigeria kommt bei der Malaria-Impfung von Kleinkindern voran. Seit die ersten Impfstoffe gegen die Krankheit Ende 2024 im Land eintrafen, wurden nach einem Bericht der Nachrichtenagentur AFP 1,8 Millionen Dosen verabreicht, fast 250.000 Kinder sind vollständig geimpft. Dazu sind vier Dosen in den ersten 15 Lebensmonaten nötig. Bisher wird in 4 der 36 Bundesstaaten geimpft; zu den Pilotstaaten Bayelsa und Kebbi kamen in diesem Jahr Bauchi und Ondo hinzu.",
+    "Erste Wirkungen sind messbar. Im Bundesstaat Bayelsa im Nigerdelta ist der Anteil der Kinder unter fünf Jahren, die zu einem bestimmten Zeitpunkt an Malaria erkrankt sind, um 18 Prozent gesunken, wie die Gesundheitsorganisation PATH ermittelt hat. Seit Einführung der Impfung habe man keinen Todesfall eines Kindes mehr verzeichnet, sagte Elizabeth Ogisi, Leiterin der Basisgesundheitsversorgung im Bezirk Ogbia.",
+    "Der Bedarf ist gewaltig: Nach den Zahlen im AFP-Bericht starben 2024 fast 200.000 Menschen in Nigeria an Malaria, weltweit waren es rund 600.000. Kinder unter fünf Jahren machen laut WHO mehr als drei Viertel der Malariatoten in Afrika aus. Der Impfstoff sei ein Durchbruch, biete aber keinen hundertprozentigen Schutz, sagte Hadiza Hussayn Jibril von PATH. Ausgeweitet auf weitere Bundesstaaten wird die Impfung schrittweise."
+   ],
+   "quellen": [
+    [
+     "EWN/AFP",
+     "https://www.ewn.co.za/2026/11/12/jab-by-jab-house-by-house-nigeria-slowly-rolls-out-malaria-vaccine"
+    ],
+    [
+     "Malay Mail/AFP",
+     "https://www.malaymail.com/news/life/2026/11/13/the-tears-come-first-then-hope-as-nigeria-vaccinates-against-malaria/242977"
+    ],
+    [
+     "Arise News",
+     "https://www.arise.tv/nigeria-scales-up-malaria-vaccination-as-msf-warns-of-deadly-link-with-child-malnutrition/"
+    ]
+   ],
+   "berichterstattung": [
+    "ewn.co.za",
+    "malaymail.com",
+    "modernghana.com",
+    "enca.com",
+    "ghanamma.com",
+    "bssnews.net",
+    "arise.tv",
+    "path.org",
+    "gavi.org"
+   ]
+  },
+  {
+   "id": "gut-04",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Umwelt",
+    "Großbritannien"
+   ],
+   "kicker": "Gute Nachrichten · Gewässerschutz",
+   "titel": "Weniger Ewigkeitschemikalien: Englands Flüsse werden sauberer",
+   "deck": "Seit 2016 sind die Werte von PFOS und PFOA in Flüssen um knapp ein Drittel gesunken, in Fischen sogar um die Hälfte.",
+   "text": [
+    "Verbote wirken: In Englands Flüssen sind zwei der bekanntesten sogenannten Ewigkeitschemikalien deutlich seltener geworden. Zwischen 2016 und 2025 fiel die Belastung mit PFOS um etwa 30 Prozent und mit PFOA um 29 Prozent. In Süßwasserfischen sank die PFOS-Konzentration sogar um rund 49 Prozent. Das geht aus einem Bericht der Umweltbehörde Environment Agency hervor, den sie am 12. November veröffentlicht hat.",
+    "PFAS sind eine Gruppe von mehr als 10.000 Industriechemikalien, die etwa in wasserabweisender Kleidung oder Löschschaum stecken und sich in der Natur kaum abbauen. PFOS und PFOA gelten als besonders problematisch und sind seit Jahren beschränkt. Die Behörde führt den Rückgang ausdrücklich auf diese Regeln zurück. Die Ergebnisse zeigten, dass Regulierung „funktionieren kann“, sagte ihr Chefwissenschaftler Robert Bradburne.",
+    "Entwarnung gibt die Behörde nicht. Die Rückgänge betreffen nur zwei ältere Stoffe, PFAS sind wegen jahrzehntelanger Nutzung weiterhin weit verbreitet, und Ersatzstoffe werfen neue Fragen auf. Die Überwachung umfasst inzwischen mehr als 60 PFAS im Wasser. Die Regierung prüft zudem ein Verbot von PFAS in Feuerlöschschaum; ihr erster PFAS-Plan sieht außerdem mehr Messungen in Flussmündungen und Küstengewässern vor."
+   ],
+   "quellen": [
+    [
+     "Environment Agency",
+     "https://gov.uk/government/news/new-report-shows-progress-in-cutting-levels-of-forever-chemicals-in-englands-rivers"
+    ],
+    [
+     "LBC",
+     "https://www.lbc.co.uk/article/forever-chemicals-england-rivers-5HjdmGx_2/"
+    ],
+    [
+     "Water Magazine",
+     "https://www.watermagazine.co.uk/2026/11/12/pfas-levels-fall-in-englands-rivers-environment-agency-report-finds/"
+    ]
+   ],
+   "berichterstattung": [
+    "gov.uk",
+    "lbc.co.uk",
+    "watermagazine.co.uk",
+    "lexisnexis.co.uk",
+    "global-agriculture.com",
+    "goodnewsnetwork.org",
+    "thecooldown.com",
+    "bbc.com"
+   ]
+  },
+  {
+   "id": "gut-05",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Sicherheit",
+    "Südkorea"
+   ],
+   "kicker": "Gute Nachrichten · Katastrophenschutz",
+   "titel": "Von 25 Toten auf einen: Südkorea übersteht die Regenzeit fast ohne Opfer",
+   "deck": "Frühere Evakuierungen, KI-Prognosen und Sperren an Unterführungen – die Zahl der Hochwassertoten sank um 96 Prozent.",
+   "text": [
+    "Südkorea hat seine Regenzeit in diesem Jahr weit glimpflicher überstanden als 2025. Bei Sturm- und Hochwasserereignissen zwischen Mitte Mai und Mitte Oktober kam nach Angaben des Innenministeriums ein Mensch ums Leben, im Vorjahr waren es 25. Das ist ein Rückgang um 96 Prozent und liegt auch weit unter dem Zehnjahresmittel von 9,9 Toten. Die Sachschäden sanken von 1,13 Billionen Won auf 120,9 Milliarden Won, umgerechnet etwa 90 Millionen US-Dollar.",
+    "Ein Teil des Unterschieds geht auf das Wetter zurück: Im Landesdurchschnitt fiel mit 558,6 Millimetern weniger Regen als üblich. Örtlich gab es aber Rekordgüsse, im südlichen Geoje etwa 124,5 Millimeter in einer Stunde. Die Regierung verweist vor allem auf neue Vorsorge. Bei bestimmten Regenmengen müssen Anwohner nun sofort ihre Häuser verlassen, Dorf- und Gemeindevorsteher dürfen Evakuierungen anordnen, und die Helferteams wurden um 30 Prozent auf mehr als 97.000 Mitglieder vergrößert.",
+    "Hinzu kommen technische Maßnahmen: An 520 gefährdeten Unterführungen wurden Sperren für Autos installiert, viele Souterrainwohnungen erhielten Hochwasserschutz. Eine KI berechnet laut Umweltministerium alle zehn Minuten die Pegel an 223 Messpunkten, Fachleute prüfen die Ergebnisse. Zudem schufen die Behörden in Stauseen und Wasserkraftwerken zusätzlichen Rückhalteraum für 1,04 Milliarden Tonnen Wasser, ohne neue Dämme zu bauen."
+   ],
+   "quellen": [
+    [
+     "Herald Corp",
+     "https://biz.heraldcorp.com/article/10903980"
+    ],
+    [
+     "Korea Policy Briefing",
+     "https://www.korea.kr/multi/visualNewsView.do?newsId=148975180"
+    ]
+   ],
+   "berichterstattung": [
+    "heraldcorp.com",
+    "korea.kr",
+    "fakti.bg"
+   ]
+  },
+  {
+   "id": "gut-06",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "New York verzeichnet so wenige Drogentote wie seit 2019 nicht mehr",
+   "deck": "Im zweiten Quartal 2026 starben 359 Menschen an einer Überdosis – 58 Prozent weniger als auf dem Höhepunkt Ende 2022.",
+   "text": [
+    "In New York sterben deutlich weniger Menschen an einer Überdosis. Zwischen April und Juni 2026 zählte die Gesundheitsbehörde der Stadt 359 Drogentote. Das ist der niedrigste Wert für ein Quartal seit 2019. Bekannt gegeben hat die Zahlen Bürgermeister Zohran Mamdani am 13. November.",
+    "Auf dem Höhepunkt der Krise, von Oktober bis Dezember 2022, waren in der Stadt 859 Menschen an einer Überdosis gestorben, so viele wie nie zuvor in drei Monaten. Seither ist die Zahl um 58 Prozent zurückgegangen.",
+    "Welche Maßnahme den größten Anteil am Rückgang hat, ist in den Angaben der Stadt nicht aufgeschlüsselt. Mamdani nannte als Ansatz, Menschen schnell mit Hilfe zu verbinden und Suchtbehandlung für alle zugänglich zu machen. „Jeder Tod durch eine Überdosis ist ein verlorenes Leben und eine Mahnung, wie viel Arbeit noch vor uns liegt“, sagte er. Wer Hilfe sucht, kann sich in New York an die Krisennummer 988 wenden."
+   ],
+   "quellen": [
+    [
+     "NY1",
+     "https://ny1.com/nyc/all-boroughs/news/2026/11/13/nyc-overdose-deaths-fall-to-lowest-level-since-2019--mamdani-says"
+    ]
+   ],
+   "berichterstattung": [
+    "ny1.com"
+   ]
+  },
+  {
+   "id": "gut-07",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Naturschutz",
+    "Peru"
+   ],
+   "kicker": "Gute Nachrichten · Naturschutz",
+   "titel": "Zehn Brillenbären erkannt: Eine Quechua-Gemeinde schützt ihren eigenen Nebelwald",
+   "deck": "Mit Kamerafallen dokumentiert die Gemeinde Pillco Grande am Rand des Manú-Nationalparks die gefährdeten Bären.",
+   "text": [
+    "Am Ostrand der Anden im Süden Perus hat eine indigene Gemeinde ihre Wälder zum eigenen Schutzgebiet gemacht und beobachtet dort systematisch die bedrohten Brillenbären. Die Quechua-Gemeinde Pillco Grande besitzt und verwaltet das kleine Nebelwaldreservat Pumataki in der Pufferzone des Manú-Nationalparks in der Region Cusco. Mit Kamerafallen hat ihr Team bisher zehn Bären identifiziert, die sich an ihrer jeweils eigenen Gesichtszeichnung unterscheiden lassen. Darüber berichtet Mongabay.",
+    "Geleitet wird das Projekt von Maribel Pacco, die keine Biologin ist. Seit dem Start 2023 mit Geld eines Programms der Umweltrechtsorganisation SPDA hat die San Diego Zoo Wildlife Alliance das Team im Umgang mit Kamerafallen und GPS geschult. Neben den Bären fingen die Kameras auch Pumas, Spießhirsche und Nasenbären ein. Die Gemeinde bietet zudem Umweltunterricht auf Quechua an und legte einen Schulgarten an.",
+    "Pumataki ist als private Schutzfläche anerkannt, ein Verwaltungskomitee wird gerade eingerichtet. Der Brillenbär gilt laut Weltnaturschutzunion als gefährdet; in Peru leben schätzungsweise 5.000 Tiere. Weil das Geld knapp ist, musste das Projekt Pläne zurückstellen, die Beobachtung geht aber weiter: Gemeindemitglieder wechseln sich in Gruppen zu fünft ab."
+   ],
+   "quellen": [
+    [
+     "Mongabay",
+     "https://news.mongabay.com/2026/11/quechua-community-in-peru-builds-up-andean-bear-camera-trap-project-on-their-own-reserve/"
+    ]
+   ],
+   "berichterstattung": [
+    "mongabay.com"
+   ]
+  },
+  {
+   "id": "gut-08",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Landwirtschaft",
+    "Mexiko"
+   ],
+   "kicker": "Gute Nachrichten · Ernährung",
+   "titel": "100.000 Euro für Mexikos uralte Kanalgärten: Lucio Usobiaga erhält den „Nobelpreis der Gastronomie“",
+   "deck": "Sein Netzwerk Arca Tierra hilft Bauern, die uralten Chinampas von Xochimilco zu erhalten – und bringt ihr Gemüse in die Restaurants.",
+   "text": [
+    "Der Mexikaner Lucio Usobiaga ist mit dem Basque Culinary World Prize 2026 ausgezeichnet worden, der oft als „Nobelpreis der Gastronomie“ bezeichnet wird. Der Preis ist mit 100.000 Euro dotiert, die in ein Projekt nach Wahl des Preisträgers fließen. Usobiaga erhält ihn für Arca Tierra, ein Netzwerk aus Bauern und Köchen, das die Chinampas im Süden von Mexiko-Stadt unterstützt. Das meldete Mongabay am 18. November.",
+    "Chinampas sind künstlich angelegte Beete zwischen Kanälen in den Feuchtgebieten von Xochimilco, deren Ursprünge vor die Zeit der Azteken zurückreichen. Die Bauern, Chinamperos genannt, ziehen dort Blumen, Mais, Bohnen und Gemüse auf nährstoffreichem Seeschlamm. Die Kanäle sind zudem der letzte Lebensraum des wilden Axolotls. Usobiaga zufolge gehen die Chinampas durch Verstädterung und Aufgabe der Felder verloren.",
+    "Arca Tierra bewirtschaftet selbst sechs Hektar in den Chinampas und arbeitet mit 50 Bauernfamilien in Xochimilco, Puebla, Hidalgo und dem Bundesstaat México zusammen. Ihre Ernte geht an rund 60 Restaurants in Mexiko-Stadt. Der Preis wurde 2016 von der baskischen Regionalregierung und dem Basque Culinary Center ins Leben gerufen."
+   ],
+   "quellen": [
+    [
+     "Mongabay",
+     "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/"
+    ]
+   ],
+   "berichterstattung": [
+    "mongabay.com",
+    "foodandwine.com"
+   ]
+  },
+  {
+   "id": "gut-09",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Naturschutz",
+    "China"
+   ],
+   "kicker": "Gute Nachrichten · Küstenschutz",
+   "titel": "Mangroven fast verdreifacht – und mit ihnen die Vogelvielfalt an Chinas Küsten",
+   "deck": "Seit 1998 wuchs Chinas Mangrovenfläche um 166 Prozent; die Zahl der erfassten Küstenvogelarten stieg von 148 auf 397.",
+   "text": [
+    "Chinas Anstrengungen, seine Mangrovenwälder zurückzuholen, zeigen Wirkung über die Bäume hinaus. Zwischen 1998 und 2020 wuchs die Mangrovenfläche des Landes von 10.617 auf 28.194 Hektar, ein Plus von 166 Prozent. Im selben Zeitraum stieg die Zahl der an den Küsten nachgewiesenen Vogelarten von 148 auf 397, darunter 21 statt zuvor 11 Arten der Roten Liste. Das zeigt eine Auswertung von mehr als 13.000 Satellitenbildern und Vogelbeobachtungen durch Forschende der Universität Ningbo in der Fachzeitschrift The Innovation.",
+    "Fast neun Zehntel des Zuwachses entfielen auf Guangdong, Hongkong, Macau und Guangxi. Am schnellsten wuchsen die Wälder zwischen 2003 und 2008 – nach dem Aktionsplan zum Schutz der Feuchtgebiete von 2000 und der Reform des Meeresschutzgesetzes. Größere und dichtere Wälder verbesserten laut Studie die Wasserqualität und das Plankton, was wiederum den Vögeln Nahrung bot.",
+    "Die Autoren nennen selbst Einschränkungen: Ein Teil des Anstiegs könne daher rühren, dass heute mehr beobachtet wird. Zudem verdrängen dichte Mangroven offene Wattflächen, auf die Zugvögel wie Strandläufer und Regenpfeifer angewiesen sind. Sie raten deshalb, ganze Küstenfeuchtgebiete wiederherzustellen statt nur Bäume zu pflanzen."
+   ],
+   "quellen": [
+    [
+     "EurekAlert/Universität Ningbo",
+     "https://www.eurekalert.org/news-releases/1150053"
+    ],
+    [
+     "Nature World News",
+     "https://www.natureworldnews.com/articles/73770/20261109/satellite-record-shows-chinas-mangroves-grew-166-percent-recorded-bird-species-nearly-tripled.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "eurekalert.org",
+    "natureworldnews.com",
+    "notre-planete.info",
+    "e360.yale.edu"
+   ]
+  },
+  {
+   "id": "gut-10",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Mitmenschlichkeit",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Mitmenschlichkeit",
+   "titel": "„Freundlichkeit kostet nichts“: Warren Buffett verschenkt 5,5 Milliarden Dollar",
+   "deck": "Der Investor überträgt zu Thanksgiving Berkshire-Aktien an vier Familienstiftungen – viermal so viel wie vor einem Jahr.",
+   "text": [
+    "Warren Buffett hat zu Thanksgiving erneut einen großen Teil seines Vermögens weitergegeben. Der Investor überträgt Aktien seiner Holding Berkshire Hathaway im Wert von rund 5,5 Milliarden US-Dollar an vier von seiner Familie geführte Stiftungen. Dazu wandelte er 6.150 A-Aktien in 9.225.000 B-Aktien um, wie aus seinem Thanksgiving-Brief vom 16. November hervorgeht. Ein Jahr zuvor hatte er denselben Stiftungen Aktien im Wert von etwa 1,3 Milliarden Dollar übertragen.",
+    "Empfänger sind die Susan Thompson Buffett Foundation sowie die Sherwood Foundation, die Howard G. Buffett Foundation und die NoVo Foundation. Nach einem Bericht von Forbes will Buffett seine übrigen Berkshire-Aktien bis Ende 2034 an diese vier Stiftungen geben.",
+    "In seinem Brief knüpfte Buffett an das Vorjahr an: Damals habe er geschrieben, Freundlichkeit koste nichts und sei doch unbezahlbar. Sie vermehre sich wie Zinseszins, nur zu einem besseren Satz. Ein großer Teil seines Glücks sei ihm in Gestalt von Menschen begegnet, die freundlich zu ihm gewesen seien und nichts dafür erwartet hätten."
+   ],
+   "quellen": [
+    [
+     "Berkshire Hathaway",
+     "https://www.berkshirehathaway.com/news/nov1626.pdf"
+    ],
+    [
+     "Forbes",
+     "https://www.forbes.com/sites/siladityaray/2026/11/16/warren-buffett-announces-55-billion-thanksgiving-gift-four-times-bigger-than-last-year/"
+    ]
+   ],
+   "berichterstattung": [
+    "berkshirehathaway.com",
+    "forbes.com",
+    "goodnewsnetwork.org"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Feste",
+    "Tickets"
+   ],
+   "kicker": "München · Feste · Frühbucher",
+   "titel": "Sommernachtstraum 2027: Ab Montag eine Woche lang Festivalkarten ab 19 Euro",
+   "deck": "Der Olympiapark startet den Vorverkauf für den 17. Juli 2027 mit einem Black-Week-Preis – günstiger als die bisher genannten Frühbucherkarten.",
+   "text": [
+    "Wer im kommenden Sommer zum Sommernachtstraum in den Olympiapark will, sollte sich die nächsten Tage vormerken. Wie die Olympiapark München GmbH auf ihrer Website ankündigt, startet der Vorverkauf für den Festivaltag am Samstag, 17. Juli 2027, mit einer „Black Week“: Von Montag, 23. November, bis Montag, 30. November, gibt es Karten ab 19 Euro. Zuvor waren Frühbucherkarten ab 29 Euro genannt worden, wie diese Zeitung am Freitag berichtete.",
+    "Künstler für 2027 nennt der Veranstalter noch nicht. Das Format dürfte sich an den Vorjahren orientieren: Für die Ausgabe 2026 spielte die Musik laut Pressemitteilung ab 16 Uhr auf zwei Bühnen, dem Hans-Jochen-Vogel-Platz und der Halbinsel, mit einer Mischung aus Pop, Indie, Electro und Funk. Höhepunkt war am Abend eine der nach Angaben des Olympiaparks größten Pyroshows Deutschlands über dem Olympiasee.",
+    "Auch der Ablauf des Vorverkaufs hat ein Vorbild. Für 2026 lief der Early-Bird-Tarif vom 26. November bis 31. Dezember und brachte laut Veranstalter bis zu 7 Euro Preisvorteil pro Karte gegenüber dem regulären Vorverkauf; Rollstuhlfahrer samt Begleitperson zahlten im Aktionszeitraum ebenfalls weniger. Verkauft wurde über München Ticket und Eventim, VIP-Karten mit Verpflegung im Restaurant „Coubertin“, Dachterrasse und Plattform am See gab es nur bei München Ticket.",
+    "Welche Stellen 2027 verkaufen und was die Karten nach der Black Week kosten, steht auf der Startseite des Olympiaparks noch nicht. Wer den günstigsten Preis will, sollte vor dem Kauf auf der Festivalseite prüfen, ob die 19 Euro für alle Kategorien gelten oder nur für ein Kontingent."
+   ],
+   "quellen": [
+    [
+     "Olympiapark München",
+     "https://www.olympiapark.de/de"
+    ],
+    [
+     "Olympiapark – Pressemitteilung Vorverkauf 2026 (PDF)",
+     "https://cdn.uc.assets.prezly.com/2e70ad7c-edca-4e24-ab1b-895ed0c6ce17/-/inline/no/PM-Sommernachtstraum-VVK-2026.pdf"
+    ]
+   ],
+   "berichterstattung": [
+    "olympiapark.de"
+   ],
+   "karten": {
+    "vorverkauf": "Black Week Mo, 23.11., bis Mo, 30.11.2026",
+    "termin": "Sa, 17.7.2027",
+    "ort": "Olympiapark",
+    "preise": "Festivaltag ab 19 € (Black Week)",
+    "link": "https://www.olympiapark.de/de"
+   }
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · K-Pop",
+   "titel": "Stray Kids: IN München listet nun zwei Abende in der Allianz Arena – Weiterverkauf erst 72 Stunden nach Verkaufsstart",
+   "deck": "Nach den Presales und dem freien Verkauf am Donnerstag führt das Stadtmagazin neben dem 17. auch den 18. Juli 2027.",
+   "text": [
+    "Nach dem Ansturm auf die Karten für die K-Pop-Band Stray Kids gibt es einen neuen Stand. Das Stadtmagazin IN München führt auf seiner am Samstag aktualisierten Eventseite nun zwei Termine in der Allianz Arena: Samstag, 17. Juli 2027, und Sonntag, 18. Juli 2027, beide mit Ticketlink zu Eventim. Als Beginn nennt die Seite 19 beziehungsweise 19.30 Uhr, schreibt an anderer Stelle aber, die Startzeit stehe noch nicht fest. Zum Zeitpunkt der Presales war nur ein Konzert bekannt: Das Musikportal Inspired by Beatz schrieb am Mittwoch, Stray Kids spielten am 17. Juli nur einmal in Deutschland.",
+    "Verkauft wurde in drei Stufen: Am Mittwoch, 18. November, lief von 11 bis 14 Uhr der Presale für Mitglieder des Fanclubs STAY, ab 15 Uhr der Artist-Presale für registrierte Fans, jeweils mit höchstens vier Karten pro Käufer. Der freie Verkauf begann am Donnerstag um 15 Uhr. Ob einer der Termine ausverkauft ist, geht aus den Seiten nicht hervor.",
+    "Wer leer ausging, muss auf den offiziellen Weiterverkauf warten: Ticketübertragung und Weiterverkauf sind laut Inspired by Beatz erst 72 Stunden nach Beginn des allgemeinen Vorverkaufs möglich. VIP-Pakete laufen über VIP Nation. Offizielle Münchner Preise nennen die Quellen nicht; bei der Frankfurter Show 2025 lagen reguläre Karten laut Bericht knapp unter 100 Euro, das teuerste VIP- und Soundcheck-Paket kostete 539,50 Euro.",
+    "Fans sollten außerdem wissen: Mitglied Lee Know ist bei den Nordamerika- und Europa-Terminen nicht dabei, weil er laut Ticketmaster vorher seinen Wehrdienst antritt."
+   ],
+   "quellen": [
+    [
+     "IN München – Stray Kids",
+     "https://www.in-muenchen.de/events/stray-kids.html"
+    ],
+    [
+     "Inspired by Beatz",
+     "https://www.inspiredbybeatz.com/stray-kids-in-muenchen-so-kommst-du-noch-an-tickets/"
+    ],
+    [
+     "Ticketmaster-Blog",
+     "https://blog.ticketmaster.de/musik/stray-kids-tour-2027-muenchen-tickets-19735/"
+    ]
+   ],
+   "berichterstattung": [
+    "in-muenchen.de",
+    "inspiredbybeatz.com",
+    "blog.ticketmaster.de"
+   ],
+   "karten": {
+    "vorverkauf": "Presales 18.11., allgemein seit Do, 19.11.2026, 15 Uhr · Weiterverkauf laut Bericht 72 Stunden nach Verkaufsstart",
+    "termin": "Sa, 17.7.2027 · So, 18.7.2027 (laut IN München)",
+    "ort": "Allianz Arena",
+    "preise": "noch nicht offiziell genannt",
+    "stelle": "Eventim; VIP über VIP Nation",
+    "link": "https://www.in-muenchen.de/events/stray-kids.html"
+   }
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Diese Woche",
+   "titel": "Tori Kelly, Leap und dicht & ergreifend ausverkauft – für The Script im Zenith gibt es einen Redaktionstipp",
+   "deck": "Der Konzertkalender der Woche bis Freitag ist dicht: sieben Abende ohne Karten, eine Absage im Strom.",
+   "text": [
+    "Wer in dieser Woche spontan ins Konzert will, hat bei mehreren Abenden keine Chance mehr. Laut Konzertkalender von IN München sind am heutigen Sonntag die Band Leap in der Muffathalle sowie das Duo Lars Danielsson und Paolo Fresu im Jazzclub Unterfahrt ausverkauft. Am Mittwoch, 25. November, gibt es keine Karten mehr für Tori Kelly im Feierwerk Hansa 39 und für Saxofonist Jakob Manz mit Pianistin Johanna Summer im Bürger- und Kulturhaus bosco.",
+    "Am Freitag, 27. November, ist das Kesselhaus beim Auftritt von dicht & ergreifend voll. Ebenfalls ausverkauft sind laut Kalender Erra und Currents am Montag in der Muffathalle und Chapo102 am Freitag in der TonHalle.",
+    "Abgesagt ist dagegen der Auftritt von re6ce am Donnerstag, 26. November, im Strom. Wer sich für den Montagabend noch nicht festgelegt hat: Die Band The Script spielt am 23. November im Zenith, IN München führt den Abend als Tipp der Redaktion; einen Ausverkauft-Vermerk trägt er nicht. Am Sonntag empfiehlt die Redaktion außerdem die Saxofonistin Lakecia Benjamin in der WeyHalla in Weyarn.",
+    "Wer schon weiter plant: Neu im Ticketshop des Magazins ist unter anderem die Band Archive, die am Samstag, 2. Oktober 2027, um 19.30 Uhr in der Isarphilharmonie spielt. Bei Eventim kosten die Sitzplätze je nach Kategorie 49,65 bis 71,65 Euro einschließlich Gebühr bis 3 Euro, zuzüglich Versand."
+   ],
+   "quellen": [
+    [
+     "IN München – Konzertkalender",
+     "https://www.in-muenchen.de/konzerte?vorschau=1"
+    ],
+    [
+     "IN München – Ticketshop",
+     "https://www.in-muenchen.de/konzerte/kartenvorverkauf-jetzt-im-ticketshop.html"
+    ],
+    [
+     "Eventim – Archive",
+     "https://www.eventim.de/event/archive-der-gasteig-hp8-22094841/?affiliate=SAV"
+    ]
+   ],
+   "berichterstattung": [
+    "in-muenchen.de",
+    "eventim.de"
+   ],
+   "karten": {
+    "vorverkauf": "ausverkauft: Leap, Danielsson/Fresu (22.11.), Tori Kelly, Manz/Summer (25.11.), dicht & ergreifend, Chapo102 (27.11.) · abgesagt: re6ce (26.11.)",
+    "termin": "The Script Mo, 23.11.2026, Zenith · Archive Sa, 2.10.2027, 19.30 Uhr",
+    "ort": "Zenith, Muffathalle, Hansa 39, Kesselhaus, Isarphilharmonie",
+    "preise": "Archive 49,65–71,65 € zzgl. Versand",
+    "stelle": "Eventim (Archive)",
+    "link": "https://www.in-muenchen.de/konzerte?vorschau=1"
+   }
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Sport",
+    "Basketball"
+   ],
+   "kicker": "München · Sport · Basketball",
+   "titel": "Pokal-Final-Four im SAP Garden: Wochenendkarten gibt es nur noch bis zum Viertelfinale zum Frühbucherpreis",
+   "deck": "Am 20. und 21. Februar 2027 spielen die vier besten Teams des BBL-Pokals in München – danach passt der FC Bayern die Preise an.",
+   "text": [
+    "Das Netto Final Four 2027 kommt nach München: Am 20. und 21. Februar spielen im SAP Garden die vier besten Mannschaften des BBL-Pokals um den ersten Titel des Jahres. Die Karten verkauft der FC Bayern Basketball. Wer dabei sein will, ohne zu wissen, wer spielt, kann laut den Ticket-FAQ des Vereins schon jetzt Wochenendkarten für beide Tage zum Frühbucherpreis kaufen. Nach dem Achtel- und dem Viertelfinale würden die Preise angepasst; das Viertelfinale steht am 12. und 13. Dezember an.",
+    "Konkrete Preise nennt die FAQ nicht. Ermäßigt sind Karten um 15 Prozent für Schüler, Jugendliche von 14 bis 17 Jahren, Auszubildende und Studierende sowie um 25 Prozent für Schwerbehinderte, Begleitpersonen mit Merkzeichen B, Senioren ab 65 und Kinder bis 13 Jahre; jede Person, auch Kinder, braucht ein eigenes Ticket. Eine Höchstzahl pro Bestellung gibt es nicht. Fans der vier qualifizierten Klubs können erst nach Feststehen des Teilnehmerfelds Karten in den eigenen Fanblöcken kaufen. Verkauft wird über den Ticketshop des FC Bayern Basketball, telefonisch unter 089 2005 7000 montags bis freitags von 9 bis 20 Uhr.",
+    "Die Bayern selbst müssen sich ihren Platz noch erspielen: Nach dem 85:63 im Achtelfinale in Hamburg am 18. Oktober treten sie im Viertelfinale am Samstag, 12. Dezember, um 20 Uhr bei den Würzburg Baskets an.",
+    "Für die regulären Heimspiele im SAP Garden bietet der Verein feste Pakete: Ein Familienticket für zwei Erwachsene und zwei Kinder bis 13 mit Plätzen der Kategorie 5 und vier Getränkegutscheinen kostet 99 Euro, das „Buddy & Beer“-Paket für vier Erwachsene 119 Euro, ein Platz im REWE-Familienblock 20 Euro – jeweils bei ausgewählten Spielen."
+   ],
+   "quellen": [
+    [
+     "FC Bayern Basketball – FAQ Final Four 2027",
+     "https://fcbayern.com/basketball/de/tickets/faq-final-four-2027"
+    ],
+    [
+     "FC Bayern Basketball – Ticketangebote",
+     "https://fcbayern.com/basketball/de/tickets/angebote"
+    ],
+    [
+     "FC Bayern Basketball – Pokal-Viertelfinale",
+     "https://fcbayern.com/basketball/de/spiele/profis/pokal/26-27/viertelfinale-wuerzburg-vs-fcbb/gameplan"
+    ]
+   ],
+   "berichterstattung": [
+    "fcbayern.com"
+   ],
+   "karten": {
+    "vorverkauf": "läuft: Wochenendkarten zum Frühbucherpreis, Preisanpassung nach dem Viertelfinale (12./13.12.2026)",
+    "termin": "Sa/So, 20./21.2.2027",
+    "ort": "SAP Garden",
+    "preise": "Frühbucherpreis (Höhe nicht genannt); 15 bzw. 25 % Ermäßigung",
+    "stelle": "Ticketshop FC Bayern Basketball, Tel. 089 2005 7000",
+    "link": "https://fcbayern.com/basketball/de/tickets/faq-final-four-2027"
+   }
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Klassik",
+    "Tickets"
+   ],
+   "kicker": "München · Klassik · Vorschau 2027",
+   "titel": "Lang Lang am Odeonsplatz, Ballettfestwoche ab 9. Januar bestellbar: Der Klassiksommer 2027 nimmt Gestalt an",
+   "deck": "Das Programm für „Klassik am Odeonsplatz“ steht, Karten gibt es noch nicht – die Staatsoper hat ihren Bestellkalender bis zu den Festspielen veröffentlicht.",
+   "text": [
+    "Für das Open-Air „Klassik am Odeonsplatz“ steht das Programm 2027. Laut IN München spielen am Samstag, 10. Juli, die Münchner Philharmoniker unter Lahav Shani mit dem Pianisten Lang Lang. Am Sonntag, 11. Juli, folgt das Symphonieorchester des Bayerischen Rundfunks unter Iván Fischer. Beide Abende vor der Feldherrnhalle dauern von 20 bis 22.15 Uhr. Einen Vorverkaufsstart, Preise oder eine Verkaufsstelle nennt das Stadtmagazin noch nicht; es verweist auf die offizielle Website der Konzerte. In den Vorjahren galt die Karte am Konzerttag zugleich als MVV-Fahrkarte, für 2027 ist das nicht angegeben.",
+    "Konkreter ist die Bayerische Staatsoper. Für die Ballettfestwoche 2027 nimmt sie schriftliche Bestellungen ab 9. Januar an, der freie Verkauf beginnt am 9. Februar. Für das Festival „Ja, Mai“ 2027 gilt: schriftlich ab 30. Januar, frei ab 27. Februar. Bestellungen für die Opernfestspiele 2027 werden schon gesammelt und ab 1. Februar bearbeitet, Restkarten gehen am 25. März in den Verkauf.",
+    "Für das reguläre Repertoire gilt eine feste Regel: Schriftliche Bestellungen werden drei Monate vor der Vorstellung bearbeitet, online, telefonisch und an der Kasse geht der Verkauf zwei Monate vorher um 10 Uhr los; fällt der Tag auf einen Sonn- oder Feiertag, schon am Werktag davor. Pro Karte fällt bei Bestellung, Telefon- und Onlinekauf eine Gebühr von 2 Euro an. Bei großer Nachfrage begrenzt die Oper auf zwei Karten pro Kundennummer; zurückgegeben werden können bezahlte Karten nicht, für kurzfristigen Weiterverkauf gibt es eine Ticketbörse."
+   ],
+   "quellen": [
+    [
+     "IN München – Klassik am Odeonsplatz",
+     "https://www.in-muenchen.de/events/klassik-am-odeonsplatz.html"
+    ],
+    [
+     "Bayerische Staatsoper – Ticket-Info",
+     "https://www.staatsoper.de/en/ticket-info"
+    ]
+   ],
+   "berichterstattung": [
+    "in-muenchen.de",
+    "staatsoper.de"
+   ],
+   "karten": {
+    "vorverkauf": "Odeonsplatz: Start noch nicht bekannt · Ballettfestwoche schriftlich ab 9.1., frei ab 9.2.2027 · Ja, Mai schriftlich ab 30.1., frei ab 27.2.2027 · Opernfestspiele Restkarten ab 25.3.2027",
+    "termin": "Klassik am Odeonsplatz Sa, 10.7., und So, 11.7.2027, 20 Uhr",
+    "ort": "Odeonsplatz; Nationaltheater",
+    "preise": "Staatsoper: 2 € Gebühr pro Karte",
+    "stelle": "Bayerische Staatsoper, Tel. 089 21 85 19 20",
+    "link": "https://www.staatsoper.de/en/ticket-info"
+   }
+  }
+ ],
+ "vortrag": {
+  "id": "vortrag",
+  "fachgebiet": "Zoologie",
+  "tags": [
+   "Vortrag",
+   "Zoologie"
+  ],
+  "titel": "Sehen mit den Ohren: Wie Fledermäuse mit Echos jagen",
+  "einstieg": "Eine Fledermaus kann in völliger Dunkelheit eine Mücke aus der Luft fangen – und sie braucht dafür nicht ihre Augen, sondern ihre Ohren.",
+  "text": [
+   "Fledermäuse orientieren sich mit Echoortung. Sie stoßen kurze, sehr laute Rufe aus und horchen auf das Echo, das von Hindernissen und Beutetieren zurückkommt. Aus diesem Echo setzt ihr Gehirn ein Bild der Umgebung zusammen. Die meisten Rufe liegen im Ultraschall, also oberhalb von rund 20 Kilohertz, der Grenze des menschlichen Gehörs. Deshalb ist eine jagende Fledermaus für uns fast lautlos, obwohl sie in Wahrheit ständig ruft.",
+   "Dass Fledermäuse mit den Ohren sehen, ahnte schon im 18. Jahrhundert der italienische Naturforscher Lazzaro Spallanzani: Geblendete Tiere fanden weiter ihren Weg, mit verstopften Ohren dagegen prallten sie gegen Hindernisse. Erklären konnte man das erst Ende der 1930er Jahre, als der US-Biologe Donald Griffin die Rufe mit einem Ultraschallmikrofon hörbar machte. Er prägte auch den Begriff Echoortung.",
+   "Das Prinzip lässt sich mit einem einfachen Rechenbeispiel zeigen. Schall legt in der Luft gut 340 Meter pro Sekunde zurück. Ist eine Motte einen Meter entfernt, kommt das Echo nach etwa sechs Tausendstelsekunden zurück. Aus dieser Verzögerung schätzt die Fledermaus die Entfernung, aus dem Unterschied zwischen linkem und rechtem Ohr die Richtung, und aus Lautstärke und Klangfarbe des Echos Größe und Oberfläche der Beute. Kurz vor dem Zugriff ruft sie immer schneller, bis zu rund 200 Mal pro Sekunde – Fachleute nennen das den Fangschrei. Damit sie sich beim Rufen nicht selbst taub macht, spannen sich winzige Muskeln im Mittelohr an und dämpfen das eigene Geschrei.",
+   "Nicht alle Fledermäuse rufen gleich. Viele Arten nutzen kurze Rufe, die in der Tonhöhe rasch abfallen, gut geeignet, um Entfernungen genau zu messen. Hufeisennasen dagegen senden lange Töne konstanter Frequenz und nutzen den Doppler-Effekt, den man vom vorbeifahrenden Martinshorn kennt: Am veränderten Echo erkennen sie sogar das Flattern von Insektenflügeln. Die Beute rüstet ihrerseits auf. Manche Nachtfalter haben Ohren, die Fledermausrufe hören, und lassen sich bei Gefahr fallen; einige Bärenspinner antworten mit eigenen Klicklauten.",
+   "Echoortung haben auch Delfine und Zahnwale entwickelt, unabhängig von den Fledermäusen, und sogar einige Vögel wie der Fettschwalm nutzen eine einfache Form davon. Für die Forschung bleibt vieles spannend, etwa wie Fledermäuse in großen Schwärmen ihre eigenen Echos aus dem Lärm Tausender Artgenossen heraushören. Technische Vorbilder gibt es längst: Sonar und Ultraschallgeräte in der Medizin beruhen auf demselben Grundgedanken."
+  ],
+  "merksaetze": [
+   "Fledermäuse rufen im Ultraschall und erkennen ihre Umgebung am zurückkehrenden Echo.",
+   "Die Verzögerung des Echos verrät die Entfernung, sein Klang Größe und Form der Beute.",
+   "Echoortung entstand mehrfach unabhängig, etwa auch bei Delfinen und Zahnwalen."
+  ],
+  "begriffe": [
+   [
+    "Echoortung",
+    "Orientierung durch ausgesandte Laute und deren zurückgeworfenes Echo."
+   ],
+   [
+    "Ultraschall",
+    "Schall oberhalb von etwa 20 Kilohertz, für Menschen nicht hörbar."
+   ],
+   [
+    "Doppler-Effekt",
+    "Tonhöhenänderung, wenn sich Schallquelle oder Hindernis relativ zum Hörer bewegen."
+   ],
+   [
+    "Fangschrei",
+    "Rasche Rufserie kurz vor dem Ergreifen der Beute."
+   ]
+  ],
+  "quellen": [
+   [
+    "Wikipedia (englisch): Animal echolocation",
+    "https://en.wikipedia.org/wiki/Animal_echolocation"
+   ],
+   [
+    "Wikipedia: Fledertiere",
+    "https://de.wikipedia.org/wiki/Fledertiere"
+   ]
+  ]
+ },
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Neuer Roller Ring im Munich Action Park: Ab 27. November wird im Olympiapark Rollschuh gefahren",
+   "satz": "Geplant sind Familiennachmittage und eine Rollerdisco im Retro-Stil im Olympia-Actionsportzentrum.",
+   "quelle": "Olympiapark München",
+   "url": "https://www.olympiapark.de/de"
+  },
+  {
+   "titel": "Jan Böhmermann und das Rundfunk-Tanzorchester Ehrenfeld: Abend am 22. Januar in München abgesagt",
+   "satz": "Bereits gekaufte Karten werden laut Olympiapark über die jeweilige Verkaufsstelle zurückgegeben.",
+   "quelle": "Olympiapark München",
+   "url": "https://www.olympiapark.de/de/veranstaltungen/shows"
+  },
+  {
+   "titel": "Polyphia-Konzert am Freitag im Zenith abgesagt",
+   "satz": "Der Auftritt am 27. November ist im Konzertkalender als abgesagt markiert.",
+   "quelle": "IN München",
+   "url": "https://www.in-muenchen.de/konzerte?vorschau=1"
+  },
+  {
+   "titel": "Bayern-Basketballer spielen im Pokal-Viertelfinale am 12. Dezember in Würzburg",
+   "satz": "Anwurf in der tectake Arena ist um 20 Uhr; im Achtelfinale hatte der FC Bayern in Hamburg 85:63 gewonnen.",
+   "quelle": "FC Bayern Basketball",
+   "url": "https://fcbayern.com/basketball/de/spiele/profis/pokal/26-27/viertelfinale-wuerzburg-vs-fcbb/gameplan"
+  },
+  {
+   "titel": "Selig-Sänger Jan Plewka vor dem Backstage-Konzert am 7. Dezember: Die Tour ist kein Abschied",
+   "satz": "Die Tour „The Epic Years“ bringt die ersten drei Alben auf die Bühne, darunter erstmals Songs von „Blender“.",
+   "quelle": "IN München",
+   "url": "https://www.in-muenchen.de/konzerte/interview-selig.html"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-22T14:00",
+   "veranstaltung": "Carolin Kebekus – „Inferna“",
+   "termin": "16. und 17.9.2028",
+   "ort": "Circus-Krone-Bau",
+   "stelle": "Ticketmaster",
+   "url": "https://blog.ticketmaster.de/musik/carolin-kebekus-tour-2028-drohnen-show-koeln-termine-tickets-vorverkauf-19755/",
+   "hinweis": "allgemeiner Vorverkauf (Artist-Presale lief am 20.11.); Angaben aus der Ausgabe vom 20.11., heute nicht erneut geprüft"
+  },
+  {
+   "start": "2026-11-23",
+   "veranstaltung": "Sommernachtstraum 2027 – Black Week",
+   "termin": "17.7.2027",
+   "ort": "Olympiapark",
+   "stelle": "Olympiapark München",
+   "url": "https://www.olympiapark.de/de",
+   "hinweis": "Festivaltag ab 19 € vom 23. bis 30.11.; Uhrzeit nicht genannt"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Sommernachtstraum 2027: Black Week ab 19 Euro",
+   "anbieter": "Olympiapark München",
+   "angebot": "Karten für den Festivaltag im Olympiapark (Sa, 17.7.2027) ab 19 € statt der bisher genannten Frühbucherkarten ab 29 €.",
+   "wann": "Mo, 23.11., bis Mo, 30.11.2026",
+   "buchen_bis": "2026-11-30",
+   "hinweis": "Verkaufsstelle und Kontingent nennt die Olympiapark-Startseite nicht; Line-up noch offen. Am 22.11. auf olympiapark.de geprüft.",
+   "frueh": true,
+   "url": "https://www.olympiapark.de/de"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "BBL-Pokal-Final-Four im SAP Garden: Wochenendkarten zum Frühbucherpreis",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "Wochenendkarten für beide Turniertage (20./21.2.2027) zum Frühbucherpreis; Ermäßigung 15 % bzw. 25 % für berechtigte Gruppen.",
+   "wann": "jetzt; Preisanpassung nach dem Viertelfinale (12./13.12.2026)",
+   "buchen_bis": "2026-12-12",
+   "hinweis": "Preishöhe nennt der Verein nicht; Frist aus der angekündigten Preisanpassung nach dem Viertelfinale abgeleitet. Am 22.11. auf fcbayern.com geprüft.",
+   "frueh": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/faq-final-four-2027"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Familienticket",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "2 Erwachsene, 2 Kinder, Kategorie 5, 4 Getränke: 99 € im SAP Garden",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/angebote"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Buddy & Beer",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "4 Erwachsenentickets Kategorie 5 plus 4 Getränke: 119 € im SAP Garden",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/angebote"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: REWE-Familienblock",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "20 € pro Ticket im SAP Garden, mindestens ein Kind bis 13",
+   "wann": "alle Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/angebote"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Amateure: Karten ab 5 Euro",
+   "anbieter": "FC Bayern",
+   "angebot": "Grünwalder Stadion: Stehplatz 5 €, Sitzplatz 10–15 €, nur online",
+   "wann": "alle Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/de/news/ticketing/2026/ticket-infos-fuer-heimspiele-der-fc-bayern-amateure"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Student Hockey Nights",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Sitzplatz 20 € für Azubis, Schüler und Studierende über 18",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://www.redbullmuenchen.de/en/news/ehc-red-bull-muenchen-zweite-phase-ticket-vorverkauf-startet"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Familientage",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Rabatt Kategorien 3–5 für zwei Erwachsene mit Kind unter 14",
+   "wann": "ausgewählte Sonntagsheimspiele",
+   "regelmaessig": true,
+   "url": "https://www.redbullmuenchen.de/en/news/ehc-red-bull-muenchen-zweite-phase-ticket-vorverkauf-startet"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Gruppentickets",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Gruppen über zehn Personen: je fünf zahlende Gäste ein Freiticket",
+   "wann": "Saison 2026/27",
+   "regelmaessig": true,
+   "url": "https://www.redbullmuenchen.de/en/news/gruppentickets-heimspiele-ehc-red-bull-muenchen-sap-garden"
+  }
+ ],
+ "gewinnspiele": [],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Wert der Zeit",
+   "zitat": "„Es ist nicht wenig Zeit, die wir haben, sondern es ist viel Zeit, die wir nicht nutzen.“",
+   "urheber": "Seneca, De brevitate vitae (um 49 n. Chr.)",
+   "text": "Seneca hält seinem Freund Paulinus entgegen, das Leben sei nicht zu kurz, sondern werde vergeudet. Der Gedanke passt zu einem Sonntag, an dem die Uhr ausnahmsweise einmal langsamer gehen darf."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Am Christkindlmarkt",
+   "text": "Fragt der Tourist am Marienplatz: „Wie komme ich am schnellsten zum Glühweinstand?“ – Sagt der Münchner: „Gar nicht. Sie stellen sich einfach hinten an, der Rest ergibt sich in einer Dreiviertelstunde.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Kerzen am Adventskranz",
+   "text": "Eine Kerze brennt in acht Stunden ganz ab, eine zweite, gleich lange in sechs Stunden. Beide werden gleichzeitig angezündet. Nach wie vielen Stunden ist die erste Kerze genau doppelt so lang wie die zweite?",
+   "loesung": "Nach 4,8 Stunden. Nach t Stunden hat die erste noch 1 − t/8, die zweite 1 − t/6 ihrer Länge. Aus 1 − t/8 = 2 · (1 − t/6) folgt t/3 − t/8 = 1, also 5t/24 = 1 und t = 4,8 Stunden (4 Stunden 48 Minuten): Die erste hat dann noch 40 Prozent, die zweite 20 Prozent."
+  }
+ ]
+}
