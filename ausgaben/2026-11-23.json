@@ -1,0 +1,1770 @@
+{
+ "datum": "2026-11-23",
+ "datumszeile": "Montag, den 23. November 2026",
+ "redaktionsschluss": "7 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom Freitag, 20.11.; Bitcoin Samstag früh (4:50 Uhr MEZ) – neuere Stände lagen bei Redaktionsschluss nicht geprüft vor",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 23. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "24.803",
+   "veraenderung": "−2,6 %",
+   "richtung": "down"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "6.910",
+   "veraenderung": "−3,7 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "22.618",
+   "veraenderung": "−5,3 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Brent",
+   "wert": "92,57 $",
+   "veraenderung": "+0,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.538 $",
+   "veraenderung": "−2,4 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "56.810 $",
+   "veraenderung": "−3,6 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,097",
+   "veraenderung": "±0,0 %",
+   "richtung": "flat"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,93 %",
+   "veraenderung": "−0,11",
+   "richtung": "down"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "Klima",
+    "Diplomatie"
+   ],
+   "kicker": "Klimapolitik · COP31",
+   "titel": "Erstmals seit Kopenhagen: Weltklimakonferenz in Antalya endet ohne Beschluss",
+   "deck": "Nach fast zwei Wochen und einer Rekord-Verlängerung scheitern die Verhandlungen von knapp 200 Staaten am Streit über Öl, Gas und Kohle.",
+   "text": [
+    "Die UN-Klimakonferenz COP31 im türkischen Antalya ist am Sonntag ohne gemeinsame Abschlusserklärung zu Ende gegangen. Konferenzpräsident Murat Kurum, der türkische Umweltminister, stellte im Schlussplenum fest: „Es gibt keinen Konsens über dieses Dokument.“ Die vorgelegten Beschlüsse wurden nicht angenommen. Eigentlich hätten die Gespräche am Freitag, 20. November, enden sollen; die Schlusssitzung zog sich nach Angaben von Al Jazeera rekordverdächtige 44 Stunden über das offizielle Ende hinaus. Zuletzt war 2009 in Kopenhagen ein Klimagipfel ohne ein von allen getragenes Ergebnis geblieben.",
+    "Kern des Streits waren die fossilen Brennstoffe. Der erste Entwurf der australischen Verhandlungsführung hatte zu Wochenbeginn noch einen schnelleren Ausstieg gefordert. Nach Einwänden Saudi-Arabiens und anderer großer Öl- und Gasproduzenten fehlte jeder Hinweis darauf in der Fassung vom Donnerstag. Der Schlussentwurf verwies nur noch auf einen früheren COP-Beschluss zur Abkehr von Öl, Gas und Kohle. Erstmals hätte er dafür offiziell anerkannt, dass die Erwärmung auf Kurs ist, die 1,5-Grad-Grenze zu überschreiten, und einen schnelleren Ausbau von Techniken zur Entnahme von Kohlendioxid gefordert.",
+    "Gegen dieses Papier stellte sich am Ende die Europäische Union. Der irische Minister Darragh O’Brien, dessen Land die EU-Ratspräsidentschaft innehat, erklärte, die Union werde keine Einigung mittragen, in der die fossilen Brennstoffe als Haupttreiber des Klimawandels nicht vorkommen: „Wir werden kein Verhandeln zurück in die Vergangenheit akzeptieren.“ Frankreichs Ministerin Monique Barbut sprach von einem Rückschritt, Panama legte förmlich Einspruch ein.",
+    "Umweltverbände kritisierten beide Seiten: Friends of the Earth warf EU-Staaten vor, den Entwurf abzulehnen und zugleich die eigene Förderung auszubauen, 350.org bemängelte die Betonung der CO₂-Entnahme. Die Konferenz fand vor dem Hintergrund hoher Energiepreise infolge des Iran-Kriegs statt. Kurum zeigte sich überzeugt, die Bedenken zu fossilen Brennstoffen und zur Finanzierung der Anpassung an den Klimawandel seien im Text berücksichtigt gewesen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+    ],
+    [
+     "Earth Negotiations Bulletin (IISD)",
+     "https://enb.iisd.org/antalya-un-climate-change-conference-cop31"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "enb.iisd.org"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "Nahost",
+    "USA"
+   ],
+   "kicker": "Nahost · Iran-Krieg",
+   "titel": "Katar vermittelt, Tanker brennen: Teheran nennt die US-Blockade einen Kriegsakt",
+   "deck": "Iran führt erste Gespräche mit katarischen Vermittlern, stellt aber Bedingungen – während in der Straße von Hormus erneut Schiffe in Flammen stehen.",
+   "text": [
+    "Zwischen Iran und den USA bewegt sich wieder etwas auf diplomatischem Weg. Eine Delegation aus Katar führte nach Angaben von Vize-Außenminister Kazem Gharibabadi in der Nacht zum Samstag zwei Stunden lang Gespräche in Teheran. Formelle Verhandlungen seien das noch nicht, sagte Gharibabadi laut der Agentur Tasnim; sollte es dazu kommen, stehe auch das Atomprogramm auf der Tagesordnung – angereichertes Uran dürfe das Land aber nicht verlassen. Die US-Seeblockade iranischer Häfen bezeichnete er als Kriegsakt, den Iran mit allen nötigen Mitteln brechen werde.",
+    "Außenminister Abbas Araghchi sagte, die Wiederöffnung der Straße von Hormus sei „nicht schwierig“, wenn Washington „vernünftige Bedingungen“ akzeptiere. Dazu zählt Teheran ein Kriegsende an allen Fronten, die Freigabe eingefrorener Vermögen, die Aufhebung der Ölsanktionen und das Ende der Blockade. Präsident Donald Trump sagte Fox News, er strebe eine „dauerhafte“ Vereinbarung an, die Iran die Atombombe verwehre. Die iranische Führung nannte er „sehr, sehr schwierig“, aber auch „rationaler“ als früher; an einem Regimewechsel sei er nie sehr interessiert gewesen.",
+    "Militärisch verschärft sich die Lage dennoch. Am Sonntag meldeten iranische Medien zwei brennende Tanker östlich der Meerenge; die Marine erklärte, die Schiffe seien in ein „Sperrgebiet“ eingefahren. Seit dem 14. November wurden nach Zählung von Al Jazeera rund 25 Tanker getroffen. Bahrain meldete am Samstag einen iranischen Angriff, der eine Industrieanlage in Sitra in Brand setzte; die Revolutionsgarden behaupteten, zwei US-Radaranlagen vom Typ Patriot zerstört zu haben, was unabhängig nicht bestätigt ist.",
+    "Die Folgen reichen weit über die Region hinaus. Vor dem Krieg, der am 28. Februar begann, passierten täglich rund 135 Schiffe die Meerenge; zwischen dem 12. und 18. November waren es insgesamt 263. US-Finanzminister Scott Bessent rechnet bis Ende März 2027 mit einem Einbruch der iranischen Wirtschaft um 25 Prozent, Präsident Massud Peseschkian spricht von einem „stillen Wirtschaftskrieg“."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+    ],
+    [
+     "Al Jazeera (Analyse)",
+     "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+    ],
+    [
+     "Al Jazeera (Liveblog)",
+     "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Russland",
+    "Europa",
+    "Sicherheit"
+   ],
+   "kicker": "Europa · Russische Sabotage",
+   "titel": "Zweimal im Visier: Polen meldet vereitelten Mordplan gegen ukrainischen Rapper",
+   "deck": "Nach Dänemark bestätigt auch Warschau einen mutmaßlichen Anschlagsplan des russischen Geheimdienstes gegen den Musiker Kyivstoner.",
+   "text": [
+    "Der mutmaßliche russische Mordplan gegen einen ukrainisch-amerikanischen Rapper weitet sich zum europäischen Fall aus. Polens Außenministerium erklärte, der in Dänemark aufgedeckte Plan sei bereits „der zweite Mordversuch gegen dieselbe Person“ gewesen; der erste sei im August 2026 auf polnischem Boden vereitelt worden. Am Sonntag bestätigte Ministeriumssprecher Maciej Wewior der Nachrichtenagentur AP, dass es sich bei dem Ziel um Albert Wassiljew handelt, der als Kyivstoner auftritt.",
+    "Polnische Behörden hatten am 7. August einen Verdächtigen festgenommen, einen Russen, der laut Warschau von Moskau angeworben worden war. Regierungschef Donald Tusk hatte am 13. August von einem vereitelten Plan gegen einen Ukrainer mit US-Pass in Warschau gesprochen, ohne den Namen zu nennen. Wassiljew unterstützt öffentlich die Ukraine; seine Europatournee wurde aus Sicherheitsgründen abgesagt. Der russische Geheimdienst FSB wirft ihm vor, Drohnen für einen ukrainischen Angriff auf einen Rüstungsbetrieb im Moskauer Gebiet geliefert zu haben, was er laut dem dänischen Sender DR bestreitet.",
+    "Dänemark hatte am Freitag einen russischen Diplomaten ausgewiesen. Der Inlandsgeheimdienst PET geht davon aus, dass Russland den Mord während eines Konzerts im September in einem Vorort Kopenhagens geplant hatte, mit Hilfe einer verbotenen dänischen Bande. Zwei Dänen stehen wegen Beihilfe für einen fremden Geheimdienst und versuchten Mordes vor Gericht. Außenminister Lars Løkke Rasmussen bringt zudem die Aussetzung von Schengen-Visa für Russen ins Gespräch; Polen unterstützt das.",
+    "Die russische Botschaft in Kopenhagen nannte die Vorwürfe unbegründet. Westliche Regierungen machen Russland und seine Helfer seit Beginn der Vollinvasion der Ukraine 2022 für Dutzende Anschläge und Sabotageakte in Europa verantwortlich; Moskau bestreitet das."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice"
+    ],
+    [
+     "Al Jazeera (Hintergrund)",
+     "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland"
+   ],
+   "kicker": "Ukraine-Krieg · Seekrieg",
+   "titel": "Explosion im Hafen von Bengasi: Drohne trifft russisches Schiff in Libyen",
+   "deck": "Binnen zwei Tagen werden russische Schiffe im Mittelmeer und in der Ostsee getroffen – der Seekrieg rückt weit von der Ukraine weg.",
+   "text": [
+    "Eine mutmaßliche Seedrohne hat am Sonntag ein russisches Schiff im Marinestützpunkt der ostlibyschen Stadt Bengasi getroffen. Nach Angaben der dort herrschenden Regierung kam es zu einer Explosion und einem kurzen Brand, der inzwischen gelöscht ist. Laut Reuters gab es Verletzte, ihre Zahl und Nationalität waren zunächst unklar. Das Schiff hatte im Rahmen eines Kooperationsabkommens zwischen Russland und der Verwaltung in Bengasi zum Tanken und zur Versorgung angelegt; zu Ladung und Typ machte die Regierung keine Angaben.",
+    "Zu dem Angriff bekannte sich zunächst niemand, eine Reaktion aus Moskau blieb aus. Die ostlibysche Regierung leitete gemeinsam mit Russland eine Untersuchung ein, verurteilte den Angriff als Verletzung der Souveränität und betonte, Libyen sei „keine Partei des russisch-ukrainischen Kriegs“ und werde seine Häfen nicht zum Austragungsort fremder Konflikte machen lassen.",
+    "Schon am Samstag war ein russischer Frachter in der östlichen Ostsee nahe finnischen Gewässern von einer Drohne getroffen worden; Russland zufolge war das Schiff auf dem Weg nach Kaliningrad, die Besatzung wurde wegen des Feuers in Sicherheit gebracht. Der finnische Grenzschutz schreibt den Angriff der Ukraine zu.",
+    "Die Ukraine setzt seit Kriegsbeginn Seedrohnen und Raketen gegen die russische Flotte im Schwarzen Meer ein und hat ihre Angriffe zunehmend ausgeweitet. Im März sank vor der libyschen Küste ein russischer Flüssiggastanker nach einem Angriff, für den Präsident Wladimir Putin Kiew verantwortlich machte. Libyen ist seit dem Sturz Muammar al-Gaddafis 2011 gespalten: Die UN-anerkannte Regierung sitzt in Tripolis, eine rivalisierende Verwaltung kontrolliert den Osten."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+    ],
+    [
+     "Al Jazeera (Ostsee)",
+     "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Gaza",
+    "Nahost",
+    "Israel"
+   ],
+   "kicker": "Nahost · Gaza",
+   "titel": "Proteste an der Gelben Linie: 129 Tote aus Trümmern geborgen, die Vertreibung geht weiter",
+   "deck": "In Deir el-Balah demonstrieren Hunderte Vertriebene gegen israelische Luftangriffe – mehr als ein Jahr nach Beginn der Waffenruhe.",
+   "text": [
+    "Hunderte vertriebene Palästinenser haben am Samstag in Deir el-Balah im Zentrum des Gazastreifens gegen anhaltende israelische Luftangriffe protestiert. Die Demonstration fand nahe der sogenannten Gelben Linie statt, die seit der im Oktober 2025 geschlossenen Waffenruhe die von Israel und die von der Hamas kontrollierten Gebiete trennt. Nach dem 20-Punkte-Plan von US-Präsident Donald Trump sollte sich die israelische Armee schrittweise von dieser Linie zurückziehen; stattdessen ist sie nach Al-Jazeera-Berichten weiter nach Westen gerückt.",
+    "Mohammed Musleh, Bürgermeister der Gemeinde Maghazi, sprach von mehr als 500 zerstörten Wohneinheiten in weniger als einem Monat und von einer „systematischen Politik der schleichenden Vertreibung“. Nach Angaben des Bauministeriums in Gaza sind 350.000 Familien obdachlos, 80 Prozent der Wohnhäuser zerstört; Überschwemmungen haben zuletzt viele Zeltlager verwüstet. Fast zwei Drittel des Gebiets stehen inzwischen unter Kontrolle der israelischen Armee oder unterliegen Zugangsbeschränkungen.",
+    "Am Samstag wurden mindestens vier Palästinenser getötet, drei davon, als eine israelische Drohne in Gaza-Stadt einen Lieferwagen mit Lebensmittelhilfe traf. Das Gesundheitsministerium zählt seit Beginn der Waffenruhe 1.661 Tote und 6.062 Verletzte.",
+    "Der Zivilschutz schloss zugleich eine 53-tägige, vom Internationalen Komitee vom Roten Kreuz finanzierte Bergungsaktion ab: Aus 39 Häusern und Ruinen in Nuseirat, az-Zawayda und Deir el-Balah wurden die sterblichen Überreste von 129 Menschen geborgen. 233 Menschen gelten in diesem Gebiet weiter als verschüttet. Im ganzen Gazastreifen liegen nach Schätzung des Zivilschutzes noch rund 8.000 Leichen unter den Trümmern."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza"
+    ],
+    [
+     "Al Jazeera (Hilfskonvoi)",
+     "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Mexiko",
+    "Kartelle",
+    "USA"
+   ],
+   "kicker": "Lateinamerika · Mexiko",
+   "titel": "„El Chapo Isidro“ gefasst: Elf Tote bei Festnahme eines der meistgesuchten Kartellbosse",
+   "deck": "Mexikanische Soldaten nehmen in Sinaloa Fausto Isidro Meza Flores fest, der auf der Liste der zehn meistgesuchten Personen des FBI stand.",
+   "text": [
+    "Mexikanische Sicherheitskräfte haben in Guasave im Bundesstaat Sinaloa den mutmaßlichen Kartellchef Fausto Isidro Meza Flores, genannt „El Chapo Isidro“, festgenommen. Der nächtliche Einsatz von Freitag auf Samstag kostete nach Angaben des Verteidigungsministeriums mindestens elf Menschen das Leben: sieben mutmaßliche Bandenmitglieder und vier Soldaten. Meza Flores wurde am Samstag nach Mexiko-Stadt geflogen.",
+    "Anwohnern zufolge begann gegen 19 Uhr ein Feuergefecht. Militärhubschrauber und Drohnen kreisten über der Stadt, Hubschrauber feuerten auf mehrere Ziele, Straßen wurden mit brennenden Lastwagen blockiert. Videos zeigten Zuschauer eines Baseballspiels auf der Flucht. Erst gegen 4 Uhr morgens konnten die Einsatzkräfte den Festgenommenen herausbringen. Mit ihm wurden ein mutmaßlicher Stellvertreter und ein mutmaßlicher Finanzverwalter gefasst und der Staatsanwaltschaft übergeben.",
+    "Meza Flores stieg im Beltrán-Leyva-Kartell auf und führte zuletzt eine eigene Organisation. Er galt als enger Verbündeter der „Mayos“, einer Fraktion des Sinaloa-Kartells, die Washington als ausländische Terrororganisation eingestuft hat. In den USA wird er wegen Drogenhandels gesucht, die Belohnung für Hinweise lag bei fünf Millionen Dollar. US-Botschafter Ronald Johnson lobte die „anhaltende Zusammenarbeit“, auch die Drogenbehörde DEA dankte den mexikanischen Behörden.",
+    "In Guasave herrscht angespannte Ruhe. Fachleute warnen, dass die Festnahme von Kartellchefs in einer Region mit ohnehin heftigen Machtkämpfen neue Gewalt auslösen kann. Präsidentin Claudia Sheinbaum steht unter Druck von US-Präsident Donald Trump, härter gegen die Kartelle vorzugehen; in ihrer zweijährigen Amtszeit ist die Zahl der Morde deutlich gesunken."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture"
+    ],
+    [
+     "Al Jazeera (Hintergrund)",
+     "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Indonesien",
+    "Katastrophen"
+   ],
+   "kicker": "Asien · Indonesien",
+   "titel": "Feuer in Süßwarenfabrik auf Java: Polizei birgt 24 Leichensäcke, Dutzende Arbeiter vermisst",
+   "deck": "Nach dem Großbrand in Cikande ist die Zahl der Toten noch unklar – die Identifizierung kann Wochen dauern.",
+   "text": [
+    "Bei einem Großbrand in einer Süßwarenfabrik auf der indonesischen Insel Java sind vermutlich Dutzende Menschen ums Leben gekommen. Das Feuer brach am Samstagabend im Werk von PT Fonusa Agung Mulia in Cikande im Regierungsbezirk Serang aus. Die Polizei hat bislang 24 Leichensäcke aus den Trümmern geborgen; da in einem Sack möglicherweise Überreste mehrerer Menschen liegen, ist die genaue Zahl der Toten noch offen. Die Feuerwehr kämpfte am Sonntag weiter gegen Glutnester.",
+    "Nach Angaben von Steven Erwin Wijaya, Chef des Mutterkonzerns PT United Family Food, waren rund 300 Menschen in der Samstagsschicht, etwa 65 davon im betroffenen Bereich. Laut Unternehmen gingen 24 von ihnen nach Hause, vier werden medizinisch behandelt, 29 werden vermisst, bei acht ist der Verbleib ungeklärt. Die Suche wurde über Nacht unterbrochen und sollte am Montagmorgen fortgesetzt werden, wie der Polizeichef der Provinz Banten, Hendra Kurniawan, mitteilte.",
+    "Wegen der Hitze des Feuers ist eine Identifizierung durch Augenschein nicht möglich. Die Ermittler sammeln DNA-Proben von Angehörigen und persönliche Gegenstände der Arbeiter; das kann zwei bis drei Wochen dauern. Die Brandursache ist unklar, Teile des dreistöckigen Gebäudes drohen einzustürzen.",
+    "Indonesien erlebt eine Reihe tödlicher Brände: Im Dezember vergangenen Jahres kamen bei einem Feuer in einem Bürogebäude in Jakarta mindestens 22 Menschen ums Leben, 2023 starben bei einer Explosion in einer Nickelhütte mindestens 13 Menschen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Belgien",
+    "Europa",
+    "Streik"
+   ],
+   "kicker": "Europa · Belgien",
+   "titel": "Generalstreik gegen Sparkurs: Belgiens Flughäfen stehen heute still",
+   "deck": "Weil sich die Fluglotsen dem landesweiten Aktionstag anschließen, fallen am Montag fast alle Flüge aus – auch Bahn, Schulen und Behörden sind betroffen.",
+   "text": [
+    "In Belgien fällt am Montag nahezu der gesamte Flugverkehr aus. Die Flugsicherung Skeyes teilte mit, sie könne von 7 bis 21 Uhr keinen regulären Dienst an den Flughäfen und im belgischen Luftraum gewährleisten, da die Personalstärke keinen sicheren Betrieb zulasse. Nur Notfall- und sicherheitsrelevante Flüge sollen stattfinden. Der Flughafen Brüssel kündigte an, die meisten Starts und Landungen zu streichen; Brüssel-Charleroi, ein wichtiger Standort von Ryanair, sprach von einer „vollständigen Schließung aller Flughäfen des Landes für einen ganzen Tag“ und kritisierte die kurzfristige Entscheidung.",
+    "Anlass ist ein landesweiter Aktionstag der Gewerkschaften gegen die Spar- und Reformpläne der Regierung. Geplant ist zudem eine große Demonstration in Brüssel; auch öffentlicher Verkehr, Schulen, Behörden und Müllabfuhr dürften beeinträchtigt sein. Der Verband der in Belgien tätigen Fluggesellschaften, der rund 25 Airlines vertritt, zählte den elften Streik binnen elf Monaten, der den belgischen Luftraum trifft.",
+    "Hintergrund ist ein Haushaltsstreit: Premierminister Bart De Wever verhandelt seit Wochen mit seinen Koalitionspartnern über ein Sparpaket, das in den kommenden Jahren zehn Milliarden Euro einbringen und das hohe Defizit senken soll. Anfang November hatte De Wever seinen Rücktritt angeboten, nachdem keine Einigung zustande kam. König Philippe lehnte ab und gab ihm mehr Zeit, eine Lösung zu finden."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Libanon",
+    "Nahost",
+    "Israel"
+   ],
+   "kicker": "Nahost · Libanon",
+   "titel": "Zum Unabhängigkeitstag: Libanons Präsident verlangt Israels Abzug und Hisbollahs Waffen",
+   "deck": "Joseph Aoun sieht sein Land zwischen israelischer Besatzung und iranischer Einmischung – und kann die Unabhängigkeit nach eigenen Worten nicht voll feiern.",
+   "text": [
+    "Libanons Präsident Joseph Aoun hat zum 83. Jahrestag der Unabhängigkeit seines Landes Israel zum vollständigen Abzug aufgefordert und zugleich Iran scharf kritisiert. Der Libanon stehe vor zwei „untrennbar verbundenen“ Herausforderungen, sagte Aoun am Samstagabend: der israelischen Besetzung von Teilen seines Gebiets und der Einmischung „einflussreicher Kreise im iranischen Regime“ über Waffen und Entscheidungen außerhalb des Staates. An Israel gerichtet verlangte er: „Zieht euch von jedem Zentimeter libanesischen Bodens zurück. Stellt eure Angriffe ein. Und gebt unsere Gefangenen zurück.“",
+    "Zugleich bekräftigte Aoun, alle Waffen im Land unter staatliche Kontrolle bringen zu wollen, und forderte die Hisbollah zur Abgabe ihres Arsenals auf. Im Juni 2026 hatten Libanon und Israel nach US-Vermittlung eine Rahmenvereinbarung unterzeichnet, die die Entwaffnung der Hisbollah, einen schrittweisen israelischen Rückzug aus dem Südlibanon und die Stationierung der libanesischen Armee vorsieht. Die Umsetzung stockt: Die Hisbollah verweigert die Abgabe, Israel greift weiter an.",
+    "Am Samstag meldete die staatliche Nachrichtenagentur NNA israelische Angriffe in den Bezirken Nabatieh, Bint Jbeil und Mardsch Uyun. Seit Beginn des jüngsten Kriegs zwischen Hisbollah und Israel am 2. März 2026 wurden nach libanesischen Angaben im Süden mindestens 4.386 Menschen getötet und 12.407 verletzt. Dutzende Libanesen, darunter Zivilisten und gefangene Hisbollah-Kämpfer, sollen in israelischer Haft sein."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Russland"
+   ],
+   "kicker": "Vereinigte Staaten · Russland-Politik",
+   "titel": "„Nicht Amerikas Freund in der Ukraine“: Geheimdienstdirektor Clayton verteidigt Trumps Worte über Putin",
+   "deck": "Nach dem Dreiergipfel von Shenzhen muss der oberste US-Geheimdienstler erklären, warum der Präsident Putin seinen Freund nennt.",
+   "text": [
+    "Der Direktor der nationalen US-Geheimdienste, Jay Clayton, hat Präsident Donald Trump gegen Kritik an dessen Äußerungen über Wladimir Putin verteidigt. Trump hatte den russischen Präsidenten beim ersten Dreiertreffen mit Putin und Chinas Staatschef Xi Jinping am 19. November am Rande des Apec-Gipfels in Shenzhen mit dem Scherz „Wer ist das?“ begrüßt und dann gesagt: „Er ist mein Freund.“ Später veröffentlichte Trump Fotos des Treffens, eines davon mit der Unterschrift „My Friend“.",
+    "In der ABC-Sendung „This Week“ nannte Clayton das Treffen „historisch“ und Trumps Bemerkungen „angemessen“. Die USA hätten im Ukraine-Krieg keineswegs Partei für Russland ergriffen: „Er ist nicht Amerikas Freund in der Ukraine.“ Es sei beruhigend, dass die drei Atommächte miteinander über nukleare Risiken sprächen. Bei CNN sagte Clayton, er vertraue Trump bei dessen Wortwahl „vollständig“.",
+    "Trump selbst hatte am Freitag auf die Frage, ob Russland ein Freund Amerikas sei, geantwortet: „Für Amerika kann ich nicht sprechen.“ Putin sei während der Ermittlungen zur mutmaßlichen russischen Einmischung in die Wahl 2016 „sehr nett“ gewesen. Kritik kam auch aus der eigenen Partei: Der republikanische Abgeordnete Don Bacon, der den Kongress verlässt, warf Trump vor, mit Putin „zu tändeln“, und nannte seine Russland-Politik „schrecklich“.",
+    "Das Dreiertreffen in Shenzhen hatte mit einer Erklärung zur Verringerung nuklearer Risiken geendet, die Kritikern zufolge keine festen Zusagen enthält."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Autoindustrie",
+    "Tarifstreit"
+   ],
+   "kicker": "Deutschland · Autoindustrie",
+   "titel": "Nullrunden und flexible 35-Stunden-Woche: Volkswagen geht mit harten Forderungen in die Tarifrunde",
+   "deck": "Am Dienstag beginnen in Emden die Verhandlungen über den Haustarif für rund 130.000 Beschäftigte – die IG Metall spricht von einem „Katalog des Grauens“.",
+   "text": [
+    "Volkswagen und die IG Metall beginnen an diesem Dienstag, 24. November, in Emden mit den Verhandlungen über einen neuen Haustarifvertrag. Der Konzern hat der Gewerkschaft vorab seine Forderungen geschickt: Nullrunden für 2027 und 2028, die Streichung der tariflichen Zusatzvergütung von 27,5 Prozent eines durchschnittlichen Monatsverdiensts – die Beschäftigte bisher auch in sechs freie Tage umwandeln können – sowie den Wegfall der tariflichen Zulage von 167 Euro im Monat.",
+    "Außerdem will Volkswagen die 35-Stunden-Woche flexibilisieren. Die Arbeitszeit soll sich nach der Auslastung der Werke richten; wer länger arbeitet, soll dafür keinen Lohnausgleich bekommen, bei kürzerer Arbeitszeit soll das Entgelt anteilig sinken. Die Forderungen sind Teil des „Zukunftsplans 2030“, mit dem der Konzern seine Kosten deutlich senken will. „Die Rahmenbedingungen haben sich signifikant verschlechtert“, sagte Kerstin Scholz, die die Verhandlungen gemeinsam mit Frank Ischner führt. Der bisherige Verhandlungsführer, Markenpersonalvorstand Arne Meiswinkel, verlässt das Unternehmen zum Jahresende.",
+    "Die IG Metall fordert fünf Prozent mehr Geld bei zwölf Monaten Laufzeit; die letzte Erhöhung gab es im Mai 2024. Den VW-Katalog nannte sie einen „Katalog des Grauens“. Der Haustarif gilt an neun Standorten von Wolfsburg und Emden bis Zwickau und Dresden. Ende September hatte Volkswagen zehn seiner Tarifverträge ganz oder teilweise gekündigt, nicht aber den Zukunftstarifvertrag, der betriebsbedingte Kündigungen bis 2030 ausschließt.",
+    "Die zweite Runde ist für den 15. Dezember in Zwickau angesetzt. Die Friedenspflicht endet am 31. Dezember, danach sind Warnstreiks möglich. Mit einer Einigung wird erst im neuen Jahr gerechnet. Der Konzern steht unter Druck: Im dritten Quartal hatte Volkswagen einen Verlust von mehr als 5,8 Milliarden Euro gemeldet, zusätzlich zum vereinbarten Abbau von 35.000 Stellen sollen rund 12.000 weitere wegfallen."
+   ],
+   "quellen": [
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-nullrunde-100.html"
+    ],
+    [
+     "Volkswagen (Mitteilung)",
+     "https://www.volkswagen-group.com/de/pressemitteilungen/tarifrunde-2026-volkswagen-ag-fordert-deutliche-entlastung-bei-den-arbeitskosten-20874"
+    ],
+    [
+     "IG Metall",
+     "https://www.igmetall.de/tarif/tarifrunden/tarifrunde-volkswagen-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "zdfheute.de",
+    "volkswagen-group.com",
+    "igmetall.de",
+    "autohaus.de",
+    "infranken.de",
+    "drweb.de",
+    "boersen-zeitung.de"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutschland",
+    "Konjunktur",
+    "ifo"
+   ],
+   "kicker": "Deutschland · Konjunktur · Termine",
+   "titel": "Wochenstart mit Fristen: Lufthansa muss den Piloten antworten, am Dienstag folgt der ifo-Index",
+   "deck": "Nach dem Anstieg auf 90,2 Punkte im Oktober zeigt das ifo-Geschäftsklima am Dienstag, ob sich die Erholung der deutschen Wirtschaft fortsetzt.",
+   "text": [
+    "Für die deutsche Wirtschaft beginnt die Woche mit einem Stichtag: Bis zu diesem Montag, 23. November, soll die Lufthansa der Vereinigung Cockpit mitteilen, ob sie auf Grundlage des Mediatorenvorschlags weiterverhandelt. Die Gewerkschaft sieht sich seit dem Scheitern der Mediation nicht mehr an die Friedenspflicht gebunden. Die Lufthansa lehnt den Vorschlag bisher ab, weil er ihr die wirtschaftliche Grundlage entziehe, und hat für den Fall ausbleibender Einigung gedroht, die Kurzstreckenflotte von rund 160 Airbus A320 bis 2030 auf 100 Maschinen zu verkleinern. Ein Streiktermin ist nicht angekündigt.",
+    "Am Dienstag um 10.30 Uhr veröffentlicht das Münchner ifo-Institut seinen Geschäftsklimaindex für November. Im Oktober war das wichtigste deutsche Stimmungsbarometer auf 90,2 Punkte gestiegen, nach 89,9 im September. Getragen wurde der Anstieg von den Erwartungen, die auf 91,6 Punkte zulegten, während die Unternehmen ihre aktuelle Lage mit 88,8 Punkten etwas schlechter bewerteten als im Vormonat (89,5).",
+    "Auffällig war im Oktober vor allem die Industrie: Dort beurteilten die Unternehmen erstmals seit mehr als drei Jahren sowohl die Lage als auch die Aussichten positiv, die Auftragseingänge nahmen zu, viele Betriebe planten eine höhere Produktion. Bei den Dienstleistern sank der Index, im Handel blieb er unverändert, am Bau stieg er. Das ifo-Institut sprach von einer anhaltenden Konjunkturbelebung. Grundlage sind rund 9.000 Antworten von Unternehmen im Monat."
+   ],
+   "quellen": [
+    [
+     "ifo-Institut (Oktober-Ergebnis)",
+     "https://www.ifo.de/fakten/2026-10-26/ifo-geschaeftsklimaindex-gestiegen-oktober-2026"
+    ],
+    [
+     "ifo-Institut (Termine)",
+     "https://www.ifo.de/umfrage/ifo-geschaeftsklimaindex"
+    ],
+    [
+     "Börsen-Zeitung (Reuters)",
+     "https://www.boersen-zeitung.de/personen/lufthansa-legt-piloten-ein-angebot-vor"
+    ]
+   ],
+   "berichterstattung": [
+    "ifo.de",
+    "boersen-zeitung.de",
+    "hessenschau.de",
+    "aerotelegraph.com",
+    "aerocorner.com",
+    "insideflyer.com",
+    "cash-online.de",
+    "infranken.de",
+    "kapitalmarktexperten.de"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Konjunktur",
+    "USA"
+   ],
+   "kicker": "Finanzen · Wochenausblick",
+   "titel": "Kurze Woche an der Wall Street: Inflationsdaten, Beige Book und Thanksgiving",
+   "deck": "Nach dem Ausverkauf der Vorwoche bündeln sich die wichtigen US-Daten am Mittwoch, am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen.",
+   "text": [
+    "Nach der schwersten Börsenwoche seit langem beginnt eine verkürzte Handelswoche. Laut dem Terminkalender der Nachrichtenagentur dpa-AFX stehen am Montag zunächst die vorläufigen Einkaufsmanagerindizes von S&P Global für November an – ab 9.15 Uhr für Frankreich, um 9.30 Uhr für Deutschland, um 10 Uhr für die Eurozone und um 15.45 Uhr für die USA. Am Abend legt Hewlett Packard Enterprise Zahlen vor, BASF lädt zu einem zweitägigen Kapitalmarkttag.",
+    "Am Dienstag folgt um 10 Uhr der Ifo-Geschäftsklimaindex für Deutschland, am Nachmittag das Verbrauchervertrauen des Conference Board und der Industrieindex der Richmond-Fed. Abends berichten HP Inc. und Dell.",
+    "Der wichtigste Tag ist der Mittwoch: Um 14.30 Uhr MEZ erscheinen in den USA gebündelt die Einkommen und Konsumausgaben für Oktober samt PCE-Preisindex – dem von der Fed bevorzugten Inflationsmaß –, die zweite Schätzung des Wachstums im dritten Quartal, die Erstanträge auf Arbeitslosenhilfe und die Auftragseingänge langlebiger Güter. Um 20 Uhr veröffentlicht die Fed ihr Konjunkturbuch Beige Book. In Deutschland kommt am Morgen die zweite Schätzung des BIP für das dritte Quartal.",
+    "Am Donnerstag, 2 Uhr MEZ, entscheidet die Bank of Korea über ihren Leitzins; die US-Börsen bleiben wegen Thanksgiving geschlossen und schließen am Freitag früher. Dann folgen die deutschen Arbeitsmarktzahlen, die Schnellschätzungen der Inflation in Frankreich und Spanien sowie die Wirtschaftsstimmung der EU-Kommission. Die deutschen Verbraucherpreise für November erscheinen am Montag, 30. November."
+   ],
+   "quellen": [
+    [
+     "Ariva/dpa-AFX: Wochenvorschau – Termine bis 30. November 2026",
+     "https://www.ariva.de/news/wochenvorschau-termine-bis-30-november-2026-12209083"
+    ]
+   ],
+   "berichterstattung": [
+    "ariva.de"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "Markt"
+   ],
+   "kicker": "Krypto · Markt",
+   "titel": "Bitcoin durchbricht das Sommertief bei 55.100 Dollar – und steht am Montag wieder über 60.000",
+   "deck": "Ein nächtlicher Ausverkauf am Samstag drückte die Kryptowährung auf den tiefsten Stand seit September 2024, danach setzte eine Erholung ein, die Analysten noch nicht als Wende werten.",
+   "text": [
+    "Bitcoin ist in der Nacht zum Samstag unter das Tief vom Sommer gefallen. Auf Coinbase notierte die Kryptowährung um 6 Uhr UTC bei 55.106 Dollar, auf Binance bei 55.130 Dollar – der tiefste Stand seit September 2024 und klar unter dem Juli-Tief von rund 57.800 Dollar. Vom Rekordhoch bei 126.080 Dollar im Oktober 2025 trennten den Kurs damit mehr als 55 Prozent. Ether rutschte kurzzeitig auf 1.542,97 Dollar. Am Montagmorgen (0 Uhr UTC) lag Bitcoin laut KuCoin-Marktbericht bei 61.273 Dollar, Ether bei 1.724 Dollar.",
+    "Der Absturz löste laut CoinGlass binnen 24 Stunden Zwangsliquidationen über 2,67 Milliarden Dollar aus, rund 1,3 Milliarden davon in Bitcoin-Positionen, ganz überwiegend Long-Wetten. Die Finanzierungsraten an den Terminbörsen drehten kurzzeitig ins Negative. Für Aufsehen sorgte Kraken: Im Paar BTC/CAD fiel der Kurs am Samstag auf 24.250 kanadische Dollar, etwa 71 Prozent unter dem Marktpreis. Die Börse erklärte, die Orders seien korrekt ausgeführt worden, es gebe keinen Sicherheitsvorfall, die Geschäfte blieben bestehen.",
+    "Der Druck kommt weiter von außen: Der Nasdaq Composite verlor am Freitag 5,3 Prozent und in der Woche rund 10 Prozent, Nvidia brach um fast 14 Prozent ein. Am Terminmarkt gilt eine Zinserhöhung der Fed am 9. Dezember als nahezu sicher. Die US-Spot-ETFs verloren im November bislang rund 3,47 Milliarden Dollar, die Coinbase-Prämie ist seit 60 Tagen negativ. Laut CryptoQuant-Analyst Darkfost lagen bei rund 58.000 Dollar fast 950 Milliarden Dollar investiertes Bitcoin-Kapital im Minus. Der Fear-&-Greed-Index steht bei 11.",
+    "Die Erholung halten Marktbeobachter für fragil. KuCoin spricht von einer Gegenbewegung nach extremem Verkaufsdruck, nicht von einer Trendwende, und nennt Unterstützung bei 55.000 bis 56.000 Dollar sowie Widerstand bei 62.000 bis 65.000 Dollar. Der Market-Maker Wintermute hält Kurse in der Spanne um 50.000 Dollar für möglich, sollten die ETF-Zuflüsse nicht zurückkehren. Am Mittwoch folgen die PCE-Inflationsdaten für Oktober."
+   ],
+   "quellen": [
+    [
+     "Bitcoin.com News",
+     "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/"
+    ],
+    [
+     "Bitcoinist",
+     "https://bitcoinist.com/bitcoin-price-crashes-to-two-year-low-near-55000-analysts-say-a-bottom-could-be-close"
+    ],
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-23-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "news.bitcoin.com",
+    "bitcoinist.com",
+    "kucoin.com",
+    "en.coinotag.com",
+    "fool.com",
+    "finance.yahoo.com",
+    "en.hespress.com",
+    "sputnikglobe.com",
+    "world-today-news.com",
+    "rt-english.com",
+    "finwire.io",
+    "cryptoticker.io"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Hack",
+    "DeFi"
+   ],
+   "kicker": "Krypto · Hack",
+   "titel": "Chainflip verliert 12 Millionen Dollar – Angreifer signierte offenbar am Validatorennetz vorbei",
+   "deck": "Die Cross-Chain-Börse leerte Tresore auf Bitcoin und Ethereum, steht im „Safe Mode“ und bietet dem Täter bis Montagabend zehn Prozent Finderlohn.",
+   "text": [
+    "Das Cross-Chain-Swap-Protokoll Chainflip ist am Samstag bestohlen worden. Gegen 6.41 Uhr UTC wanderten 122,86 BTC aus dem Bitcoin-Tresor an eine neue Adresse, um 7.10 Uhr UTC schickte ein einziger transferBatch-Aufruf 520,22 ETH, 3,25 Millionen USDC und 758.141 USDT aus dem Ethereum-Vault an den Angreifer. Zunächst war nur der Ethereum-Schaden von 4,86 Millionen Dollar bekannt, Chainflip bezifferte die Beute später auf insgesamt rund 12 Millionen Dollar. Der Solana-Tresor blieb nach bisherigem Stand unberührt.",
+    "Vieles deutet auf eine kompromittierte Signatur hin. Chainflip verwaltet seine Tresore über einen Schwellenwert-Schlüssel: 150 Validatoren halten je einen Anteil, 100 müssen für eine gültige Signatur zusammenwirken, rotiert wird alle drei Tage. Bitquery prüfte 299.677 Signaturen, die der KeyManager-Vertrag auf Ethereum seit 2023 akzeptiert hat – nur die des Angriffs trug eine 39-stellige Nonce. Das spricht für eine Signatur, die außerhalb des regulären Mehrparteienverfahrens entstand. Chainflip selbst spricht von einer „Offenlegung kryptografischer Schlüssel“, hat aber noch keine technische Aufarbeitung veröffentlicht.",
+    "Die Vorbereitung reichte laut Chainflip bis zum 11. November zurück, als der Täter Mittel über Tornado Cash bezog. Am 20. November kaufte er FLIP und registrierte ein Validatorenkonto. Nach dem Angriff schleuste er rund 2.909 ETH in 38 Transaktionen binnen 48 Sekunden in Tornado Cash. Die Validatoren rotierten den Schlüssel 1 Stunde und 42 Minuten nach den Abflüssen vorzeitig; das Protokoll steht seither im „Full Safe Mode“, Ein- und Auszahlungen sowie Swaps ruhen.",
+    "Chainflip Labs bietet dem Angreifer zehn Prozent, wenn er bis Montag, 18.38 Uhr UTC (19.38 Uhr MEZ), 110,58 BTC und 2.618,1 ETH zurückschickt; dann werde man die Anzeigen zurückziehen. Ob Liquiditätsanbieter entschädigt werden und was mit laufenden Swaps geschieht, ist offen. FLIP verlor zeitweise bis zu zwei Drittel seines Werts. Bereits im September hatte ein Fehler bei Tron-Memos doppelte Rückerstattungen über rund 736.000 USDT verursacht."
+   ],
+   "quellen": [
+    [
+     "Cointelegraph",
+     "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty"
+    ],
+    [
+     "Bitcoin.com News",
+     "https://news.bitcoin.com/security/chainflip-hacker-steals-12-million-as-flip-token-craters-69/"
+    ],
+    [
+     "Cryptoticker",
+     "https://cryptoticker.io/en/chainflip-hack-12-million-vaults-drained-signing-key"
+    ]
+   ],
+   "berichterstattung": [
+    "cointelegraph.com",
+    "news.bitcoin.com",
+    "cryptoticker.io",
+    "coinmarketcap.com",
+    "tftc.io",
+    "mlq.ai",
+    "finance.biggo.com",
+    "coincentral.com",
+    "cryptobreaking.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Hack",
+    "Nordkorea",
+    "Binance"
+   ],
+   "kicker": "Krypto · Geldwäsche",
+   "titel": "Nordkorea wäscht die Binance-Beute im Akkord: 488.000 ETH bewegt, 2.310 BTC durch Coinjoins",
+   "deck": "Nach drei Wochen Stillstand haben die Täter die großen Ether-Bestände aufgelöst – das Muster erinnert an den Bybit-Hack, das Tempo ist aber deutlich geringer.",
+   "text": [
+    "Die Gelder aus dem Binance-Diebstahl vom 29. Oktober sind in Bewegung geraten. Laut einer am 20. November aktualisierten Analyse von Elliptic leerten die Täter zwischen dem 17. und 20. November fünf der neun größten Ether-Adressen, jeweils zwischen 6.50 und 8.30 Uhr UTC: 74.880, 78.415, 137.602 und 197.460 ETH an vier aufeinanderfolgenden Tagen. Insgesamt wurden rund 488.000 ETH (etwa 860 Millionen Dollar) bewegt und in Tranchen zu je 12.000 ETH aufgeteilt. Diese Adressen hatten 89 Prozent des erbeuteten Ethers gehalten und seit Ende Oktober stillgelegen.",
+    "Über THORChain tauschten die Angreifer seit dem 17. November rund 39.000 ETH in etwa 1.100 BTC, in Hunderten kleiner Einzahlungen. Die neuen Bitcoin landen in Coinjoins: Seit Anfang November flossen mindestens 2.310 BTC (149 Millionen Dollar) in solche Mischtransaktionen, etwa 90 Prozent davon seit dem 17. November, fast alles über den Wasabi-Koordinator Kruw. Zuvor hatten die Täter bereits Tornado Cash und Privacy Cash genutzt. Die 18.270 BTC, die direkt von Binance gestohlen wurden, sind weiterhin unberührt.",
+    "Das FBI schreibt den Diebstahl über 6,43 Milliarden Dollar der nordkoreanischen Gruppe TraderTraitor zu. Eingefroren oder beschlagnahmt sind 2,85 Milliarden Dollar, vor allem Stablecoins; rund 2,35 Milliarden Dollar liegen laut Elliptic noch in verbundenen Adressen. Etwa 16 Millionen Dollar gingen an Adressen, die auch Erlöse aus dem Bitget-Exploit vom September halten.",
+    "Elliptic geht davon aus, dass bislang kaum etwas in Fiatgeld getauscht wurde. Der Ausstieg dürfte über OTC-Händler und Börsen laufen und sich über Monate ziehen. Zum Vergleich: Nach dem Bybit-Hack im Februar 2025 wuschen die Täter rund 499.000 ETH binnen zehn Tagen."
+   ],
+   "quellen": [
+    [
+     "Elliptic",
+     "https://elliptic.co/insights/how-north-korea-is-laundering-the-6-4-billion-stolen-from-binance"
+    ],
+    [
+     "Altcoin Buzz",
+     "https://www.altcoinbuzz.io/binance-hacker-142-million-eth-thorchain-bitcoin"
+    ]
+   ],
+   "berichterstattung": [
+    "elliptic.co",
+    "altcoinbuzz.io",
+    "decrypt.co",
+    "cointelegraph.com",
+    "onebullex.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Stablecoins",
+    "Tether"
+   ],
+   "kicker": "Krypto · Stablecoins",
+   "titel": "Gold und Bitcoin fallen – Tethers Reservepolster schmilzt rechnerisch auf unter 4 Milliarden Dollar",
+   "deck": "Eine Neubewertung der Septemberreserven zu aktuellen Preisen zeigt, wie empfindlich der größte Stablecoin auf den Preisverfall seiner riskanteren Anlagen reagiert.",
+   "text": [
+    "Der Kurssturz bei Bitcoin und Edelmetallen setzt Tethers Eigenkapitalpuffer unter Druck. Laut der BDO-Bestätigung zum 30. September standen USDT Reserven über 191,45 Milliarden Dollar gegenüber Verbindlichkeiten von 183,50 Milliarden Dollar, ein Polster von 7,95 Milliarden Dollar oder 4,3 Prozent. Dazu gehörten rund 19,1 Milliarden Dollar in Gold, bewertet zu 4.157 Dollar je Unze, und 100.060 BTC zu je 83.621 Dollar.",
+    "Cryptoticker hat diese Bestände mit den Preisen vom Samstagabend neu bewertet: Gold liegt rund 14,7 Prozent tiefer, Bitcoin etwa 28,2 Prozent. Allein durch diese Preisbewegungen schrumpft das Polster auf rund 2,78 Milliarden Dollar, eine Deckung von 101,5 Prozent. Rechnet man Gewinne im Tempo des dritten Quartals hinzu, ergeben sich etwa 3,6 Milliarden Dollar. Ein weiterer Rückgang von Gold und Bitcoin um rund 12,5 Prozent würde den Puffer ohne neue Gewinne aufzehren, mit Gewinnen bei etwa 16 Prozent. Weil Tether nur vierteljährlich berichtet, ist das eine Schätzung, keine offizielle Zahl.",
+    "Die Ratingagentur S&P hatte USDT am 18. November mit der schwächsten Stabilitätsnote 5 („weak“) bewertet und auf einen Anteil riskanterer Anlagen von 28 Prozent der Reserven verwiesen; Tether widerspricht der Einschätzung. Der Token notierte am Samstag bei 0,9985 Dollar, die Marktkapitalisierung lag mit 174,5 Milliarden Dollar rund 9 Milliarden unter dem Umlauf von Ende September.",
+    "Der Rückgang passt ins Bild eines schrumpfenden Stablecoin-Markts: Nach DefiLlama-Daten fiel die Gesamtmenge auf rund 284,2 Milliarden Dollar, gut 6 Prozent weniger als vor 30 Tagen. In der EU ist USDT mangels MiCA-Zulassung ohnehin nicht an lizenzierten Handelsplätzen gelistet."
+   ],
+   "quellen": [
+    [
+     "Cryptoticker",
+     "https://cryptoticker.io/en/bitcoin-crash-warnings-fact-check-tether-kraken-monday/"
+    ],
+    [
+     "GN Crypto",
+     "https://www.gncrypto.news/news/stablecoin-supply-2026-steepest-weekly-decline/"
+    ],
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-23-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "cryptoticker.io",
+    "gncrypto.news",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Sicherheit",
+    "OpenAI"
+   ],
+   "kicker": "KI · Sicherheit",
+   "titel": "OpenAI-Chefwissenschaftler Pachocki fordert eine gemeinsame Trainingsgrenze für Spitzenmodelle",
+   "deck": "Jakub Pachocki will, dass die führenden KI-Labore eine bestimmte Leistungsschwelle vorerst nicht überschreiten – bis bessere Kontrollmethoden bereitstehen.",
+   "text": [
+    "OpenAIs Chefwissenschaftler Jakub Pachocki hat die anderen Entwickler sogenannter Frontier-Modelle, also der jeweils leistungsfähigsten KI-Systeme, zu einer gemeinsamen Selbstbeschränkung aufgerufen. In einem am Sonntag veröffentlichten Beitrag schlägt er vor, beim Training ein Fenster von 0,68 bis 0,7 in der sogenannten Log-Perplexität vorerst nicht zu unterschreiten. Die Perplexität misst, wie gut ein Sprachmodell den nächsten Textbaustein vorhersagt – je niedriger der Wert, desto leistungsfähiger ist das Modell in der Regel. Die Grenze soll gelten, bis die Branche einen „konkreten Meilenstein“ bei der Überwachung erreicht hat, etwa einen Nachfolger für heutige Chain-of-Thought-Monitore.",
+    "Diese Monitore lesen die schrittweisen Zwischenüberlegungen eines Modells mit, um problematische Absichten zu erkennen. Sie gelten derzeit als wichtigstes Werkzeug, um sogenannte Reasoning-Modelle zu kontrollieren. Pachocki erwartet laut dem Beitrag, dass diese Methode mit wachsenden Fähigkeiten an Aussagekraft verliert. KI könne zwar selbst bei Sicherheitsforschung helfen, das werde aber wohl nicht schnell genug gehen. Grundlegende Fortschritte beim Vortraining hält er schon für 2027 für möglich.",
+    "Zur Einordnung nennt OpenAI eigene Werte, die sich nicht unabhängig prüfen lassen: GPT-3.5 habe bei etwa 0,99 gelegen, GPT-4 bei rund 0,91, jüngere Modelle unter 0,8. Ab dieser Schwelle habe OpenAI tiefgreifende neue Fähigkeiten etwa in Cybersicherheit und Mathematik beobachtet; ein Modell bei etwa 0,76 habe begonnen, bahnbrechende Ergebnisse bei offenen Mathematikproblemen zu liefern.",
+    "Einen Mechanismus zur Durchsetzung beschreibt der Vorschlag nicht; die Labore sollen gemeinsame Normen für Modellbewertungen und Angriffstests entwickeln. Der Branchendienst AI Weekly merkt an, dass erstmals ein Labor eine konkrete Skalierungsgrenze öffentlich benenne – und dass diese in einem Bereich liege, den OpenAIs aktuelle Modelle bereits erreichen. Reaktionen anderer Anbieter lagen zunächst nicht vor."
+   ],
+   "quellen": [
+    [
+     "OpenAI",
+     "https://openai.com/index/perplexity-and-intelligence/"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/openais-pachocki-urges-frontier-pause-at-068-07-perplexity"
+    ]
+   ],
+   "berichterstattung": [
+    "openai.com",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Cybersicherheit",
+    "Industrie"
+   ],
+   "kicker": "KI · Cybersicherheit",
+   "titel": "16 Minuten bis zum Roboterarm: Tests zeigen, wie KI Angriffe auf Industrieanlagen beschleunigt",
+   "deck": "Zwei Versuchsreihen, über die die „Financial Times“ berichtet, zeigen KI-Agenten beim Eindringen in Steuerungsnetze von Fabriken.",
+   "text": [
+    "KI-Modelle können Angriffe auf industrielle Steuerungstechnik deutlich schneller planen und ausführen als bisher angenommen. Darauf deuten zwei Versuchsreihen hin, über die die „Financial Times“ am Sonntag berichtete. Im Mittelpunkt steht die sogenannte Betriebstechnik (OT): Rechner und speicherprogrammierbare Steuerungen (SPS), die Maschinen, Pumpen oder Roboter in Fabriken und Versorgungsnetzen steuern.",
+    "Die Sicherheitsforscher von Forescout Vedere Labs nutzten das Modell Claude von Anthropic, um einen bekannten Angriffscode für eine Steuerung des Herstellers WAGO auf ein anderes Gerät desselben Herstellers zu übertragen. Die Lücke mit der Kennung CVE-2021-31886 ist ein Pufferüberlauf in einem FTP-Server und erlaubt es, ohne Anmeldung Code auszuführen. Der letzte Arbeitsschritt dauerte laut dem Bericht 8 Stunden und 32 Minuten und kostete 535,74 Dollar an Gebühren für die Modellnutzung. Bei einem weiteren Versuch, daraus eine dauerhafte Fernsteuerung zu bauen, machte ein Schadprogramm das Gerät dauerhaft unbrauchbar.",
+    "Bei einer Übung des Beratungskonzerns Booz Allen Hamilton gelangten KI-Agenten in gut 16 Minuten vom Einbruch am Netzrand bis zu Aktionen im Steuerungsnetz – ohne Vorwissen über die Anlage, ohne Quellcode und ohne technische Unterlagen. Sie erreichten in acht Szenarien alle Ziele; ein Modell fand einen Roboterarm, ermittelte dessen Schutzzonen und bewegte ihn binnen Minuten. Welche Modelle dort eingesetzt wurden, geht aus der Zusammenfassung nicht hervor.",
+    "Robert Lee, Chef des Sicherheitsunternehmens Dragos, sagte, die Lage sei „nicht so schlimm, wie man sich das gern vorstellt, aber schlimmer, als den meisten bewusst ist“. Ciaran Martin, früherer Leiter des britischen National Cyber Security Centre, nannte als ungünstigstes realistisches Szenario einen versehentlich außer Kontrolle geratenen Angriff mit KI-Komponente – eine verstärkte Version der Schadprogramme WannaCry oder NotPetya."
+   ],
+   "quellen": [
+    [
+     "Financial Times",
+     "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/ft-ai-speeds-ot-attack-planning-in-forescout-booz-allen-tests"
+    ]
+   ],
+   "berichterstattung": [
+    "ft.com",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "China",
+    "Open Source"
+   ],
+   "kicker": "KI · Open Source",
+   "titel": "Amerikanische Clouds als Vertriebsweg: Studie zählt 16 Anbieter außerhalb Chinas, die DeepSeek ausliefern",
+   "deck": "Forscher der Georgetown University argumentieren, dass Exportkontrollen für Chips an der falschen Stelle ansetzen.",
+   "text": [
+    "Chinesische KI-Modelle mit offenen Gewichten werden zu einem guten Teil über westliche Infrastruktur verbreitet. Das schreiben Jacob Feldgoise, Hanna Dohmen und Sam Bresnick vom Center for Security and Emerging Technology (CSET) der Georgetown University in einem am Samstag im Magazin „Fortune“ erschienenen Beitrag. Offene Gewichte bedeutet, dass die trainierten Modellparameter frei heruntergeladen und auf eigenen Servern betrieben werden können.",
+    "Nach ihrer Zählung bieten mindestens 16 Inferenz-Anbieter mit Sitz außerhalb Chinas das neueste Modell von DeepSeek an – also Dienste, die fertige Modelle für Kunden ausführen. Genannt werden unter anderem Amazon Bedrock, Together AI, Baseten und Fireworks. Amazon, Microsoft und Google kontrollieren zusammen mehr als die Hälfte des Cloud-Markts, und fast alle in Rechenzentren eingesetzten KI-Chips stammen von US-Entwicklern. Der US-Ausbau der KI-Infrastruktur helfe chinesischen Modellentwicklern daher „paradoxerweise“, im Wettbewerb mitzuhalten, so die Autoren.",
+    "Der Text erschien wenige Tage nach einer neuen Regel des US-Handelsministeriums, die chinesischen Firmen den Fernzugriff auf fortgeschrittene Halbleiter über Rechenzentren im Ausland erschweren soll. Die CSET-Autoren empfehlen, dass US-Firmen statt weiterer Beschränkungen konkurrenzfähige eigene Modelle mit offenen Gewichten veröffentlichen.",
+    "Zugleich zeigt sich, dass chinesische Anbieter an der Verbreitung über westliche Clouds verdienen wollen: Moonshot AI verlangt von Unternehmen, die sein Modell Kimi K3 anbieten und mehr als 20 Millionen Dollar Jahresumsatz haben, eine Lizenz mit Umsatzbeteiligung. Berichten zufolge soll Moonshot von Microsoft, Amazon und Google 30 Prozent der Erlöse mit Kimi K3 gefordert haben; bestätigt ist das nicht."
+   ],
+   "quellen": [
+    [
+     "Fortune",
+     "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/cset-us-clouds-serve-deepseek-across-16-non-china-providers"
+    ]
+   ],
+   "berichterstattung": [
+    "fortune.com",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "China",
+    "Investitionen"
+   ],
+   "kicker": "KI · Geschäft",
+   "titel": "139 Milliarden Dollar für Rechenzentren: Chinas Tech-Konzerne verdoppeln ihre KI-Investitionen",
+   "deck": "Eine Analyse der Rhodium Group zeigt eine große Lücke zwischen Ausgaben und den Einnahmen chinesischer KI-Modelle.",
+   "text": [
+    "Chinas größte Technologiekonzerne geben in diesem Jahr etwa doppelt so viel für KI-Infrastruktur aus wie im Vorjahr. Nach einer Analyse des Forschungsinstituts Rhodium Group, über die die „New York Times“ berichtete, steigen die Investitionsausgaben – im Fachjargon Capex, also Ausgaben für Rechenzentren, Server und Chips – 2026 auf 932 Milliarden Yuan, umgerechnet rund 139 Milliarden Dollar. Das entspricht einem Plus von 103 Prozent. Für 2027 erwartet Rhodium rund 193 Milliarden Dollar.",
+    "Die Ausgaben sind stark konzentriert: Allein auf den Tiktok-Mutterkonzern ByteDance entfällt laut der Analyse etwa die Hälfte der Summe für 2026, dahinter folgen Tencent und Baidu.",
+    "Dem steht vergleichsweise wenig Umsatz gegenüber. Alle chinesischen KI-Modelle zusammen erlösen nach den Zahlen rund 10,7 Milliarden Dollar, etwa ein Zehntel dessen, was OpenAI und Anthropic ausweisen. Die Einnahmen der KI-Labore decken damit weniger als acht Prozent der diesjährigen Investitionen. Getragen wird der Ausbau also vor allem von den Erträgen der großen Plattformkonzerne, nicht vom Verkauf der Modelle selbst.",
+    "Die Zahlen fallen in eine Phase, in der die Sorge vor einer Überhitzung bei KI-Investitionen auch an den Börsen zunimmt. Zugleich arbeiten chinesische Firmen unter verschärften US-Exportkontrollen für fortgeschrittene Chips, was die Beschaffung von Rechenleistung verteuert und erschwert."
+   ],
+   "quellen": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/rhodium-chinas-top-tech-firms-set-to-double-ai-capex-to-139b-with-lab-revenue"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "OpenAI",
+    "Infrastruktur"
+   ],
+   "kicker": "KI · Infrastruktur",
+   "titel": "Dreieinhalb Stunden Störung: Eine Datenbankwartung legte ChatGPT und die OpenAI-Schnittstelle lahm",
+   "deck": "Bis zu drei Viertel aller Anfragen schlugen fehl – OpenAI erklärt in einem Bericht, warum.",
+   "text": [
+    "Eine Wartung an einer Datenbank hat bei OpenAI eine der größeren Störungen der vergangenen Monate ausgelöst. Rund dreieinhalb Stunden lang, zwischen 1.48 Uhr und 5.21 Uhr pazifischer Zeit, waren sowohl ChatGPT als auch die Programmierschnittstelle (API) für Entwickler beeinträchtigt. In der Spitze schlugen nach Angaben des Unternehmens 75 Prozent der Anfragen fehl, bei zahlenden wie bei kostenlosen Nutzern. Das geht aus einem Störungsbericht auf der Statusseite von OpenAI hervor, über den der Branchendienst AI Weekly am Wochenende berichtete.",
+    "Betroffen waren in ChatGPT unter anderem Unterhaltungen, die Anmeldung, die Suche, das Hochladen von Dateien und der Sprachmodus. Bei der API fielen zahlreiche Dienste aus, darunter Chat Completions, Embeddings, Bilderzeugung, Audio, Moderation und Echtzeitfunktionen.",
+    "Ursache war laut OpenAI eine Wartung an einem PostgreSQL-Datenbankdienst, den der zentrale API-Dienst nutzt. Dabei fielen beide sogenannten Lesereplikate gleichzeitig aus – Kopien der Datenbank, die Leseanfragen abfangen und so die Hauptdatenbank entlasten. Weil dieser zentrale Dienst die Anmeldung von Nutzern und die Kommunikation zwischen OpenAIs eigenen Diensten abwickelt, zog sein Ausfall viele Produkte mit. Versuche, die bestehenden Replikate wiederzubeleben, scheiterten; erst zwei neu in Betrieb genommene Replikate in derselben Region stellten den Dienst wieder her.",
+    "OpenAI hat ähnliche Wartungsarbeiten vorerst ausgesetzt und einen Schalter eingebaut, mit dem sich Verkehr prozentual von den Replikaten wegleiten lässt. Künftig sollen Wartungen vorab geprüft und während der Arbeiten zusätzliche Reservekapazitäten bereitgehalten werden."
+   ],
+   "quellen": [
+    [
+     "OpenAI Status",
+     "https://status.openai.com/incidents/n254wyd7nml7"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/openai-postgres-replica-failure-peaked-api-chatgpt-errors-at-75"
+    ]
+   ],
+   "berichterstattung": [
+    "openai.com",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Australien",
+    "Sicherheit"
+   ],
+   "kicker": "Köpfe · Geheimdienst",
+   "titel": "Mike Burgess: Australiens Geheimdienstchef warnt vor Rechenzentren als Einfallstor für fremde Staaten",
+   "deck": "Der Leiter des Inlandsgeheimdienstes ASIO sieht in der KI-Infrastruktur „zu gleichen Teilen Hype, Chance und Bedrohung“.",
+   "text": [
+    "Mike Burgess, Generaldirektor des australischen Inlandsgeheimdienstes ASIO, hat vor Risiken durch den Bau von Rechenzentren für künstliche Intelligenz gewarnt. Rechenzentren und KI seien „zu gleichen Teilen Hype, Chance und Bedrohung“, sagte Burgess der Zeitung „The Age“, wie die Nachrichtenagentur Bloomberg am Sonntag berichtete. Verdecktes ausländisches Eigentum an solchen Anlagen oder eine Fernsteuerung aus dem Ausland könnten Australien Spionage und Sabotage aussetzen.",
+    "Rückendeckung bekam Burgess aus der Regierung. Vizepremier Richard Marles nannte die Einschätzung besorgniserregend: Der Bau von Rechenzentren schaffe „einen neuen Weg, eine neue Möglichkeit für ausländische Akteure, sich einzuschalten“.",
+    "Die Warnung fällt in eine Zeit, in der weltweit um Standorte für KI-Rechenzentren konkurriert wird. Die Regierung in Canberra arbeitet nach dem Bericht an einer nationalen Regulierung für Rechenzentren, die noch vor Jahresende vorgelegt werden soll."
+   ],
+   "quellen": [
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/australias-asio-chief-mike-burgess-warns-ai-data-centers-create-new-foreign"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Tesla",
+    "Autoindustrie"
+   ],
+   "kicker": "Köpfe · Unternehmer",
+   "titel": "Elon Musk: Der Tesla-Chef vergleicht das neue Fahrassistenz-Update mit einem Videospiel",
+   "deck": "Mit der Version 15 seines Fahrassistenzsystems verspricht Tesla eine 25-mal bessere Bewältigung heikler Situationen – ohne die Methode offenzulegen.",
+   "text": [
+    "Elon Musk wirbt für die neueste Version von Teslas Fahrassistenzsystem „Full Self-Driving“ (FSD) mit einem Vergleich aus der Spielewelt. Die neue Darstellung sei „wie GTA“, schrieb der Tesla-Chef auf seiner Plattform X – in derselben Woche, in der das Videospiel „GTA VI“ in den Handel kam. Tesla hatte am Samstag begonnen, FSD v15 an erste Fahrer zu verteilen; eine breite Auslieferung ist mit dem Weihnachts-Update im Dezember geplant.",
+    "Kern der Neuerung ist die „Reality View“, eine fotorealistische Ansicht des Autos und seiner Umgebung aus einer virtuellen Kamera hinter und über dem Fahrzeug. Fahrer sollen damit sehen und steuern können, was das System als Nächstes plant. In den Versionshinweisen verspricht Tesla eine 25-mal bessere Bewältigung sicherheitskritischer Situationen, ausdrücklich genannt werden Schlaglöcher, Schulzonen, Blitzer und stehendes Wasser.",
+    "Wie die Zahl ermittelt wurde, hat Tesla nicht offengelegt. Fred Lambert vom Fachportal Electrek merkte an, die Liste der Verbesserungen lese sich „wie eine Liste der größten aktuellen Schwächen von FSD“. Das Technikportal Gizmodo erinnerte daran, dass frühere Versionssprünge neben Fortschritten auch neue Rückschritte gebracht hätten."
+   ],
+   "quellen": [
+    [
+     "Gizmodo",
+     "https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/alerts/tesla-ships-fsd-v15-with-reality-view-claims-25x-safety-gain"
+    ]
+   ],
+   "berichterstattung": [
+    "gizmodo.com",
+    "electrek.co",
+    "aiweekly.co"
+   ]
+  },
+  {
+   "id": "wiss-01",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Erkenntnis",
+    "Paläoanthropologie",
+    "China"
+   ],
+   "kicker": "Wissenschaft · Paläoanthropologie · Erkenntnis",
+   "titel": "Frühmensch im Regenwald: Homo erectus lebte in Südchina 200.000 Jahre länger als gedacht",
+   "deck": "Neun Zähne aus zwei Höhlen in Guangxi zeigen, dass die Art bis vor rund 184.000 Jahren im tropischen Wald überlebte – und womöglich Nachbarn hatte.",
+   "text": [
+    "Der Homo erectus galt lange als Bewohner offener Landschaften, der das asiatische Festland vor etwa 400.000 Jahren geräumt hatte. Zwei am 18. November in „Nature“ erschienene Studien zeichnen ein anderes Bild: In den Höhlen Baxian und Naxian bei Chongzuo in der südchinesischen Region Guangxi fanden Forschende neun Menschenzähne, die zwischen 324.000 und 184.000 Jahre alt sind. Acht davon ordnen sie dem Homo erectus zu.",
+    "Für die Datierung nutzte das Team um die Geochronologin Kira Westaway von der Macquarie University 43 Altersbestimmungen mit fünf Verfahren, darunter Lumineszenz- und Uran-Serien-Datierung. Kohlenstoff-Isotope in den Zähnen der mitgefundenen Tiere – insgesamt wurden mehr als 18.000 Säugetierfossilien geborgen – zeigen, dass sie ausschließlich Pflanzen aus schattigem Wald fraßen. Strontium-Isotope deuten zudem darauf hin, dass die Frühmenschen weit umherzogen, womöglich bis zu 250 Kilometer in Richtung des heutigen Nordvietnam.",
+    "Die zweite Studie, deren Erstautor W. Liao ist, stützt die Artbestimmung: Neben CT-Aufnahmen werteten die Forschenden alte Proteine aus dem Zahnschmelz von fünf Zähnen aus. Ein Zahn mit der Bezeichnung PA1796 passt weder zum Homo erectus noch zu Neandertalern oder dem modernen Menschen. Er könnte von einem Denisova-Menschen stammen, gesichert ist das nicht. Der Kopenhagener Proteinforscher Frido Welker folgert, dass in der Region mindestens zwei Menschengruppen nebeneinander lebten.",
+    "Unbeteiligte Fachleute wie Richard Potts von der Smithsonian Institution halten die Zuordnung für solide. Ben Marwick von der University of Washington sieht die Vorstellung infrage gestellt, nur der moderne Mensch habe den Regenwald erobert. Offen bleibt, warum eine so anpassungsfähige Art dennoch ausstarb."
+   ],
+   "quellen": [
+    [
+     "National Geographic",
+     "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest"
+    ],
+    [
+     "Sci.News (mit Verweisen auf beide Nature-Studien)",
+     "https://www.sci.news/othersciences/anthropology/homo-erectus-china-15208.html"
+    ],
+    [
+     "South China Morning Post",
+     "https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution"
+    ]
+   ],
+   "berichterstattung": [
+    "scmp.com",
+    "nationalgeographic.com",
+    "sci.news",
+    "archaeology.org",
+    "natureworldnews.com",
+    "bdnews24.com",
+    "eurekalert.org"
+   ]
+  },
+  {
+   "id": "wiss-02",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Erkenntnis",
+    "Astronomie",
+    "Weltraum"
+   ],
+   "kicker": "Wissenschaft · Astronomie · Entdeckung",
+   "titel": "Ein Riesenstern verschluckt seinen Begleiter – und Webb schaut zu",
+   "deck": "In der Andromedagalaxie haben Astronomen nach eigenen Angaben erstmals eine Sternverschmelzung dieser Art nahezu in Echtzeit verfolgt.",
+   "text": [
+    "Sternverschmelzungen gelten als schwer zu beobachten, weil sich kaum vorhersagen lässt, wann sie geschehen. Ein Team um Viraj Karambelkar von der Columbia University berichtet nun in „Nature“, dass ihm genau das in der Nachbargalaxie Andromeda gelungen ist. Das Ereignis trägt die Bezeichnung AT 2025abao, die beteiligten Sterne nennen die Forscher „Big Bao“ und „Little Bao“.",
+    "Der größere Stern hatte vor der Verschmelzung etwa die siebenfache Masse der Sonne, den 350-fachen Radius und leuchtete rund 18.000-mal so hell. Sein Begleiter brachte es auf etwa 0,7 Sonnenmassen. Hinweise auf ein ungewöhnliches Verhalten fanden sich rückblickend schon 2023 in Daten des Nasa-Satelliten NEOWISE; ab 2018 war der Riese über Jahre heller geworden. Am 17. Oktober 2025 registrierte die Zwicky Transient Facility einen Ausbruch. Das James-Webb-Weltraumteleskop beobachtete das System 47 Tage nach dem Helligkeitsmaximum – so früh wie bei keinem vergleichbaren Ereignis zuvor.",
+    "Nach der Deutung des Teams geriet der kleinere Stern in die aufgeblähte Gashülle des Riesen, wurde dort abgebremst und spiralte nach innen, bis er den Kern erreichte. Von der ersten Berührung bis zur Verschmelzung vergingen demnach nur etwa sieben Umläufe, also rund sieben Jahre; bei bisher bekannten Verschmelzungen kleinerer Sterne waren es Tausende. Ausgeschleudert wurden etwa 0,1 bis 0,2 Sonnenmassen.",
+    "Einschränkend gilt: Die Verschmelzung selbst ist aus Messdaten und Simulationen erschlossen, nicht direkt gesehen, denn Staub verhüllt das System. Wie sich der verbliebene Stern einpendelt, dürfte sich erst in Jahren oder Jahrzehnten zeigen. Die Forscher hoffen, mit dem künftigen Roman-Weltraumteleskop viele ähnliche Fälle zu finden."
+   ],
+   "quellen": [
+    [
+     "Science News",
+     "https://sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao"
+    ],
+    [
+     "Nasa",
+     "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/?rand=6346"
+    ],
+    [
+     "Sci.News (mit DOI der Nature-Studie)",
+     "https://www.sci.news/astronomy/webb-star-merger-andromeda-galaxy-15207.html"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencenews.org",
+    "nasa.gov",
+    "sci.news",
+    "sciencedaily.com",
+    "natureworldnews.com",
+    "universemagazine.com",
+    "diyphotography.net"
+   ]
+  },
+  {
+   "id": "wiss-03",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Ehrung",
+    "Physik",
+    "Deutschland"
+   ],
+   "kicker": "Wissenschaft · Photonik · Ehrung",
+   "titel": "Lichtbrücken aus dem 3-D-Drucker: Deutscher Zukunftspreis geht nach Karlsruhe",
+   "deck": "Bundespräsident Steinmeier zeichnete ein Team aus KIT und zwei Ausgründungen aus, das optische Mikrochips mit winzigen gedruckten Lichtleitern verbindet.",
+   "text": [
+    "Der Deutsche Zukunftspreis 2026 geht an Christian Koos vom Karlsruher Institut für Technologie (KIT), Philipp Dietrich von der Keystone Photonics GmbH und Matthias Lauermann von der Vanguard Automation GmbH. Bundespräsident Frank-Walter Steinmeier überreichte die mit 250.000 Euro dotierte Auszeichnung am Abend des 18. November im Berliner Gasometer. Der Preis wird seit 1997 jährlich von einer unabhängigen Jury vergeben und gilt als wichtigster Innovationspreis in Deutschland.",
+    "Das Team arbeitet an einer Technik, die Daten mit Licht statt mit elektrischen Signalen überträgt – schneller und deutlich sparsamer. Kern ist ein hochauflösender 3-D-Druck im Nanomaßstab: Er erzeugt winzige, dreidimensional geformte Lichtleiter zwischen Chips und Glasfasern, von den Forschern „photonische Wirebonds“ genannt. Damit entfällt das aufwendige, präzise Ausrichten der Bauteile, und optische Chips lassen sich in großen Stückzahlen fertigen. Das Verfahren ist nach Angaben des Deutschen Patent- und Markenamts durch 20 internationale Patentfamilien geschützt.",
+    "Begründet wird die Bedeutung mit dem wachsenden Energiehunger von Rechenzentren, vor allem für Anwendungen der künstlichen Intelligenz. Forschungsministerin Dorothee Bär lobte die Zusammenarbeit zwischen dem KIT und den beiden Ausgründungen als Beispiel dafür, wie aus Forschung Produkte werden.",
+    "Nominiert waren außerdem zwei Teams aus Bayern: das Unternehmen Reverion aus Eresing mit einem Brennstoffzellen-Kraftwerk, das Strom aus Biogas, Erdgas oder Wasserstoff erzeugt oder überschüssigen Wind- und Solarstrom speichert, sowie Advitos aus München mit einem Intensivmedizin-Verfahren, das mehrere Organfunktionen gleichzeitig stützen und so ein Multiorganversagen verhindern soll."
+   ],
+   "quellen": [
+    [
+     "ZDFheute",
+     "https://www.zdfheute.de/wissen/deutscher-zukunftspreis-forscher-wissenschaft-steinmeier-100.html"
+    ],
+    [
+     "Deutsches Patent- und Markenamt",
+     "https://www.dpma.de/newsroom/presse/pressemitteilungen/18112026"
+    ],
+    [
+     "deutschland.de",
+     "https://www.deutschland.de/de/news/deutscher-zukunftspreis-2026-optische-mikrochips"
+    ]
+   ],
+   "berichterstattung": [
+    "zdf.de",
+    "zdfheute.de",
+    "dpma.de",
+    "deutschland.de"
+   ]
+  },
+  {
+   "id": "wiss-04",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Erkenntnis",
+    "Archäologie",
+    "Polen"
+   ],
+   "kicker": "Wissenschaft · Archäologie · Erkenntnis",
+   "titel": "Hirse auf dem Teller: Polen aßen das Getreide schon um 1590 vor Christus",
+   "deck": "Isotopen-Analysen an mehr als 190 Skeletten verschieben den Beginn des Hirseanbaus in der Bronzezeit um rund ein Jahrhundert nach vorn.",
+   "text": [
+    "Hirse wurde in Polen offenbar rund 100 Jahre früher angebaut und gegessen als bisher angenommen, nämlich bereits um 1590 vor Christus. Zu diesem Schluss kommt ein Team um den Archäologen Przemysław Makarowicz von der Adam-Mickiewicz-Universität in Posen in einer Studie in der Fachzeitschrift „Science Advances“.",
+    "Die Forschenden untersuchten Zähne und Knochen von mehr als 190 Menschen, die an polnischen Fundorten aus der Zeit zwischen 2200 und 1000 vor Christus bestattet worden waren. Die Isotopen-Zusammensetzung von Knochen und Zähnen gibt Aufschluss darüber, wovon sich die Menschen zu Lebzeiten ernährten. Als ältester bekannter Hirse-Esser Mitteleuropas gilt nun ein Mensch, der in Pielgrzymowice bestattet wurde. Strontium-Isotope, die Auskunft über die Herkunft geben, deuten darauf hin, dass die frühesten Hirse-Konsumenten aus dem Südosten des heutigen Polen stammten.",
+    "Das Getreide setzte sich demnach nur allmählich durch und gewann mit der Zeit an Bedeutung, ohne Weizen oder Gerste zu verdrängen. Auffällig ist ein weiterer Befund: Menschen, die Hirse aßen, unterschieden sich weder in ihren Grabbeigaben noch genetisch von jenen, die es nicht taten. Die Ausbreitung der Hirse ging also nicht mit der Ankunft neuer Einwanderergruppen einher.",
+    "Die Ergebnisse sprechen damit eher für eine schrittweise Übernahme des neuen Getreides durch die ansässige Bevölkerung als für einen Bevölkerungswechsel. Der Bericht des Archaeology Magazine stützt sich auf eine Meldung des Portals Science in Poland; unabhängige Einschätzungen anderer Fachleute werden darin nicht zitiert."
+   ],
+   "quellen": [
+    [
+     "Archaeology Magazine",
+     "https://archaeology.org/news/2026/11/19/study-pushes-back-cultivation-of-millet-in-bronze-age-poland/"
+    ],
+    [
+     "Science Advances (Studie)",
+     "https://doi.org/10.1126/sciadv.aeh1079"
+    ],
+    [
+     "Science in Poland",
+     "https://scienceinpoland.pl/en/news/news%2C115251%2Cmillet-was-eaten-poland-more-century-earlier-thought.html"
+    ]
+   ],
+   "berichterstattung": [
+    "archaeology.org",
+    "science.org",
+    "scienceinpoland.pl"
+   ]
+  },
+  {
+   "id": "wiss-05",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Erkenntnis",
+    "Biologie",
+    "Genetik"
+   ],
+   "kicker": "Wissenschaft · Evolutionsbiologie · Erkenntnis",
+   "titel": "Kein Extraschutz für wichtige Gene: Eine 50 Jahre alte Evolutionsidee wankt",
+   "deck": "Bei Darmbakterien und Bäckerhefe mutieren lebenswichtige Gene nicht seltener als entbehrliche, berichten Forscher aus Bath.",
+   "text": [
+    "Seit 1972 wird eine Hypothese diskutiert, die auf den ersten Blick einleuchtet: Weil Mutationen in lebenswichtigen Genen besonders schaden, sollten Organismen im Lauf der Evolution Wege gefunden haben, gerade diese Gene seltener mutieren zu lassen. 2023 lebte die Debatte neu auf. Eine Studie in der Fachzeitschrift „PLOS Biology“ findet dafür nun keine Belege.",
+    "Sofia Radrizzani und Laurence Hurst vom Centre for Evolution der University of Bath werteten die nach eigenen Angaben größte bisher zusammengetragene Sammlung spontaner Mutationen aus – beim Darmbakterium Escherichia coli und bei der Bäckerhefe. Ob ein Gen wichtig ist, maßen sie daran, ob Zellen sterben, wenn es ausgeschaltet wird. Weder dieses Kriterium noch andere Maße wie die Menge des gebildeten Proteins oder wie stark ein Gen über lange Zeit erhalten blieb, sagten die Mutationsrate voraus.",
+    "Frühere Hinweise auf einen Schutz erklären die Autoren mit „Geistermutationen“: Schädliche Veränderungen in wichtigen Genen werden durch die natürliche Auslese entfernt, bevor man sie überhaupt messen kann – dadurch wirken diese Gene stabiler, als sie sind. Drei unabhängige Tests ergaben, dass dieser Effekt die neuen Daten nicht nennenswert verzerrt. Unterschiede in der Mutationsrate gibt es im Erbgut durchaus, etwa je nachdem, wann ein Abschnitt bei der Zellteilung kopiert wird; einen gezielten Schutz wichtiger Gene sehen die Forscher darin aber nicht.",
+    "Die Aussagekraft ist begrenzt: Untersucht wurden nur zwei Mikroorganismen, ob der Befund etwa für Tiere oder Pflanzen gilt, ist offen. Unabhängige Einschätzungen anderer Fachleute lagen zunächst nicht vor."
+   ],
+   "quellen": [
+    [
+     "ScienceDaily (nach Mitteilung der University of Bath)",
+     "https://sciencedaily.com/releases/2026/11/261119194538.htm"
+    ],
+    [
+     "PLOS Biology (Studie)",
+     "https://doi.org/10.1371/journal.pbio.3004089"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "plos.org"
+   ]
+  },
+  {
+   "id": "fuss-01",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "FC Bayern"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Musiala-Vertrag: SZ berichtet von Treffen zwischen Hoeneß und Berater",
+   "deck": "Beim FC Bayern wird über eine Anpassung des bis 2030 laufenden Vertrags von Jamal Musiala gestritten.",
+   "text": [
+    "Laut „Süddeutscher Zeitung“ hat sich Uli Hoeneß im Sommer am Tegernsee mit Musialas Berater Christian Schmid getroffen, um über die lange Ausfallzeit des Nationalspielers und mögliche Folgen für dessen Vertrag zu sprechen. Die Bayern-Seite wertet das Gespräch dem Bericht zufolge als mündliche Abmachung über eine Vertragsanpassung, das Lager des Spielers spricht von einem unverbindlichen Austausch. Musialas Vertrag läuft bis 2030 und ist laut ran mit rund 25 Millionen Euro pro Jahr plus Boni dotiert. Karl-Heinz Rummenigge hatte bei Sky gesagt, man müsse sprechen, falls Musiala nicht wieder „der alte Jamal“ werde, und einen Gehaltsverzicht ins Spiel gebracht. Die Spielergewerkschaften VDV und FIFPRO kritisierten die öffentlichen Äußerungen der Klubführung scharf."
+   ],
+   "transfer": {
+    "spieler": "Jamal Musiala",
+    "von": "FC Bayern",
+    "nach": "FC Bayern (mögliche Vertragsanpassung)",
+    "vertrag": "bis 2030"
+   },
+   "quellen": [
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/bundesliga/fc-bayern-und-jamal-musiala-offenbar-geheim-treffen-zwischen-uli-hoeness-und-berater-darum-geht-es-220840"
+    ],
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/bundesliga/fc-bayern-harte-mobbing-vorwuerfe-gegen-bosse-wegen-jamal-musiala-schaebig-und-mia-san-money-220713"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-02",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "FC Bayern"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Karius zu Bayern? Schalkes Torwart weist Kontakt zurück",
+   "deck": "Loris Karius gilt laut Berichten als Kandidat für die Rolle hinter Jonas Urbig, sagt aber, er habe mit niemandem gesprochen.",
+   "text": [
+    "Der FC Bayern sucht für die Zeit nach Manuel Neuer einen erfahrenen Ersatz hinter dem designierten Stammtorwart Jonas Urbig, laut Sky und „Bild“ steht dabei auch Schalkes Loris Karius auf der Liste. Nach dem 0:0 gegen den VfB Stuttgart sagte Karius, er habe mit niemandem gesprochen und stehe mit keinem Klub in Kontakt. „Schalke Nummer Eins ist sehr gut“, sagte der Torhüter, dessen Vertrag in Gelsenkirchen laut Bulinews bis 2028 läuft. Schalkes Vorstandschef Matthias Tillmann meinte gegenüber der WAZ, man sei lieber Nummer eins auf Schalke als anderswo nur Ersatz."
+   ],
+   "transfer": {
+    "spieler": "Loris Karius",
+    "von": "FC Schalke 04",
+    "nach": "FC Bayern",
+    "vertrag": "bei Schalke bis 2028"
+   },
+   "quellen": [
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/bundesliga/fc-bayern-muenchen-karius-als-backup-jetzt-spricht-der-keeper-news-und-transfer-geruechte-im-ticker-81602"
+    ],
+    [
+     "Bulinews",
+     "https://bulinews.com/loris-karius-open-bayern-move"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-03",
+   "rubrik": "fussball",
+   "status": "verhandlung",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "AS Monaco"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Paris Brunner vor Verlängerung in Monaco bis 2030",
+   "deck": "Der deutsche U21-Stürmer soll sich mit der AS Monaco auf zwei weitere Jahre geeinigt haben.",
+   "text": [
+    "Paris Brunner bleibt der AS Monaco offenbar langfristig erhalten: Laut RMC Sport und L'Équipe haben sich der 20-Jährige und der Klub auf eine Verlängerung seines bis 2028 laufenden Vertrags um zwei Jahre bis 2030 geeinigt. Mehrere große Vereine sollen den früheren Dortmunder beobachtet haben. Brunner hat in dieser Saison laut den Berichten acht Tore in 13 Pflichtspielen erzielt und im September beim 4:0 gegen Lettland mit zwei Treffern sein Debüt in der deutschen U21 gegeben. Die Unterschrift soll in den kommenden Tagen folgen, eine offizielle Mitteilung des Klubs steht noch aus."
+   ],
+   "transfer": {
+    "spieler": "Paris Brunner",
+    "von": "AS Monaco",
+    "nach": "AS Monaco (Verlängerung)",
+    "vertrag": "bis 2030 (laut RMC und L'Équipe)"
+   },
+   "quellen": [
+    [
+     "FussballTransfers",
+     "https://www.fussballtransfers.com/a6017135553721217099-einigung-bei-brunner"
+    ],
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/dfb-zukunft-von-youngster-paris-brunner-offenbar-entschieden-internationale-transfers-und-geruechte-im-ticker-81358"
+    ]
+   ]
+  },
+  {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Umwelt",
+    "Großbritannien"
+   ],
+   "kicker": "Gute Nachrichten · Umwelt",
+   "titel": "Fast ein Drittel weniger: „Ewigkeitschemikalien“ in Englands Flüssen gehen zurück",
+   "deck": "Die Belastung der Flüsse mit PFOS und PFOA ist seit 2016 um rund 30 Prozent gesunken, in Süßwasserfischen hat sich der PFOS-Gehalt fast halbiert.",
+   "text": [
+    "Zwei der bekanntesten und giftigsten „Ewigkeitschemikalien“ werden in Englands Gewässern seltener. Nach einem Bericht der Umweltbehörde Environment Agency, den die Regierung am 12. November veröffentlicht hat, sank die Konzentration von PFOS in Flüssen zwischen 2016 und 2025 um etwa 30 Prozent, die von PFOA um 29 Prozent. In Süßwasserfischen ging der PFOS-Gehalt im vergleichbaren Zeitraum sogar um rund 49 Prozent zurück.",
+    "Beide Stoffe gehören zur Gruppe der PFAS, die in der Natur kaum abgebaut werden und sich in Lebewesen anreichern. Die Behörde führt den Rückgang auf Verwendungsbeschränkungen, veränderte Einsatzweisen in der Industrie und gezielte Auflagen zurück. Das Messprogramm ist inzwischen breit angelegt: Routinemäßig werden mehr als 60 PFAS im Wasser und 45 in Proben von Fischen und Schalentieren untersucht – in Flüssen, Seen, im Grundwasser, in Flussmündungen, an den Küsten und im Sickerwasser von Deponien.",
+    "„Der Rückgang bei einigen älteren PFAS ist ermutigend, aber es gibt noch mehr zu tun“, sagte der Chefwissenschaftler der Behörde, Robert Bradburne. Auch der Chemiker David Megson von der Manchester Metropolitan University sprach von positiven Trends bei den sogenannten Alt-PFAS. Der Bericht aktualisiert eine Bestandsaufnahme von 2021 und dient als Grundlage für den ersten britischen PFAS-Plan, der Anfang 2026 vorgelegt wurde.",
+    "Ganz verschwunden sind die Stoffe nicht: Wegen früherer Verwendung und einzelner noch aktiver Quellen bleiben PFAS weit verbreitet. Ein Bewertungswerkzeug der Behörde hat mehr als 40.000 Standorte geprüft, je nach Annahmen könnten 2.900 bis 10.200 davon genauer untersucht werden müssen. Weiter beobachtet wird zudem die kurzkettige Trifluoressigsäure (TFA), die oft in höheren Konzentrationen vorkommt, nach bisherigem Wissen aber als ökologisch eher wenig bedenklich gilt."
+   ],
+   "quellen": [
+    [
+     "GOV.UK / Environment Agency",
+     "https://gov.uk/government/news/new-report-shows-progress-in-cutting-levels-of-forever-chemicals-in-englands-rivers"
+    ],
+    [
+     "Water Magazine",
+     "https://www.watermagazine.co.uk/2026/11/12/pfas-levels-fall-in-englands-rivers-environment-agency-report-finds/"
+    ],
+    [
+     "LBC",
+     "https://www.lbc.co.uk/article/forever-chemicals-england-rivers-5HjdmGx_2/"
+    ]
+   ],
+   "berichterstattung": [
+    "gov.uk",
+    "watermagazine.co.uk",
+    "lbc.co.uk",
+    "global-agriculture.com",
+    "bbc.com"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Medizin",
+    "EU"
+   ],
+   "kicker": "Gute Nachrichten · Medizin",
+   "titel": "In gut 100 Tagen geprüft: EU lässt Daraxonrasib gegen metastasierten Bauchspeicheldrüsenkrebs zu",
+   "deck": "Die EU-Kommission hat das neue Krebsmittel zugelassen – die Arzneimittelbehörde EMA brauchte für die Bewertung kaum halb so lange wie früher erlaubt.",
+   "text": [
+    "Menschen mit fortgeschrittenem Bauchspeicheldrüsenkrebs bekommen in der Europäischen Union eine neue Behandlungsmöglichkeit. Die EU-Kommission hat am 17. November die Marktzulassung für Daraxonrasib erteilt, ein neues Mittel gegen Tumoren. Es ist für Erwachsene mit metastasiertem Pankreaskarzinom bestimmt, die bereits mindestens eine Behandlung hinter sich haben.",
+    "Bemerkenswert ist das Tempo: Die Europäische Arzneimittel-Agentur EMA legte ihre positive wissenschaftliche Bewertung nach gut 100 Tagen vor – fast nur halb so lange wie die bisherige gesetzliche Frist von 210 Tagen. Möglich machten das beschleunigte Verfahren, die mit der Reform des EU-Arzneimittelrechts eingeführt wurden. Die Kommission betont, dass dabei die Anforderungen an Sicherheit, Qualität und Wirksamkeit nicht gesenkt worden seien.",
+    "Die EMA hatte Daraxonrasib als Arzneimittel mit hoher Priorität in ihr 2023 gestartetes Programm „Cancer Medicines Pathfinder“ aufgenommen, weil es einen ungedeckten medizinischen Bedarf adressiert.",
+    "Damit das Mittel schnell bei den Patienten ankommt, läuft parallel eine gemeinsame klinische Bewertung der Mitgliedstaaten durch die Koordinierungsgruppe für Gesundheitstechnologiebewertung. Ihr Bericht soll beschleunigt bereits im Dezember vorliegen; er dient den nationalen Gesundheitssystemen als Grundlage für Entscheidungen über Erstattung und Einsatz."
+   ],
+   "quellen": [
+    [
+     "Eunews",
+     "https://www.eunews.it/en/?p=471515"
+    ],
+    [
+     "Kurzy.cz (Mitteilung der EU-Kommission)",
+     "https://www.kurzy.cz/tema/10292005.html"
+    ]
+   ],
+   "berichterstattung": [
+    "eunews.it",
+    "kurzy.cz"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "Afrika"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "250.000 Kinder voll geschützt: Nigerias Malaria-Impfung kommt in den Dörfern an",
+   "deck": "1,8 Millionen Impfdosen sind verabreicht; im Bundesstaat Bayelsa ist der Anteil der an Malaria erkrankten Kleinkinder um 18 Prozent gesunken.",
+   "text": [
+    "Nigeria kommt bei der Impfung seiner Kleinkinder voran. Seit das Land Ende 2024 als eines der ersten weltweit Malaria-Impfstoffe erhielt, wurden nach einem Bericht der Nachrichtenagentur AFP vom 12. November rund 1,8 Millionen Dosen verabreicht. Fast 250.000 Kinder haben inzwischen den vollständigen Impfschutz, der aus vier Dosen in den ersten 15 Lebensmonaten besteht.",
+    "Erste Wirkungen sind messbar. Im Bundesstaat Bayelsa ist der Anteil der Kinder unter fünf Jahren, die gerade an Malaria erkrankt sind, nach Angaben der Gesundheitsorganisation PATH um 18 Prozent gesunken. In einigen Dörfern ist die Zahl der Kinder, die an der Krankheit sterben, auf null gefallen; Eltern und Gesundheitshelfer berichten von großer Erleichterung, eine Quelle spricht von einem Durchbruch.",
+    "Wie groß der Nutzen werden kann, zeigen die Zahlen: Malaria tötete 2024 fast 200.000 Menschen in Nigeria und etwa 600.000 weltweit, jährlich zählt das Land mit seinen 240 Millionen Einwohnern 68,5 Millionen Infektionen. Laut Weltgesundheitsorganisation entfallen in Afrika mehr als drei Viertel der Malaria-Todesfälle auf Kinder unter fünf Jahren.",
+    "Noch wird nur in 4 der 36 Bundesstaaten geimpft, der Weg in abgelegene Gegenden ist mühsam, und der Impfstoff schützt nicht vollständig, weshalb Moskitonetze und Medikamente wichtig bleiben. Die Helfer gehen deshalb von Haus zu Haus, um auch Familien fernab der Gesundheitsstationen zu erreichen."
+   ],
+   "quellen": [
+    [
+     "Eyewitness News (AFP)",
+     "https://www.ewn.co.za/2026/11/12/jab-by-jab-house-by-house-nigeria-slowly-rolls-out-malaria-vaccine"
+    ],
+    [
+     "Modern Ghana (AFP)",
+     "https://www.modernghana.com/news/1543840/jab-by-jab-house-by-house-nigeria-slowly-rolls.amp"
+    ]
+   ],
+   "berichterstattung": [
+    "ewn.co.za",
+    "modernghana.com"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Theater",
+    "Tickets"
+   ],
+   "kicker": "München · Theater · Vorverkauf",
+   "titel": "Residenztheater startet am 1. Dezember den Januar-Verkauf – an der Staatsoper ist das Ballett „Carpathia“ ab Dienstag buchbar",
+   "deck": "Beide Staatsbühnen verkaufen nach festen Regeln: das Resi monatlich für den Folgemonat, die Oper zwei Monate vor jeder Vorstellung.",
+   "text": [
+    "Wer im Januar ins Residenztheater will, sollte sich Dienstag, 1. Dezember, vormerken. Das Haus gibt seine Karten nach einer festen Regel frei: Am Ersten jedes Monats um 10 Uhr beginnt der Vorverkauf für den Folgemonat; fällt der Erste auf einen Sonntag oder Feiertag, geht es am Vortag los. Abonnentinnen und Abonnenten kommen laut Spielzeitheft einen Tag vor dem regulären Verkaufsstart zum Zug. Wichtigster Januar-Termin ist die Premiere von Elfriede Jelineks „Raststätte oder Sie machens alle“ in der Regie von Claudia Bauer am Freitag, 22. Januar 2027, im Residenztheater. Die Februar-Premieren – „Der gestiefelte Kater“ von Alexander Eisenach nach Tieck am 19. Februar im Cuvilliéstheater und „Die Perser“ in der Übertragung von Durs Grünbein, inszeniert von Anestis Azas, am 26. Februar im Marstall – kommen nach derselben Regel erst am 1. Februar in den Verkauf.",
+    "Günstig wird es mit den Ermäßigungen des Hauses: Schülerinnen und Schüler, Studierende, Auszubildende und Freiwilligendienstleistende unter 30 zahlen 10 Euro. Einmal im Monat gilt der Theatertag mit 18 beziehungsweise 12 Euro auf allen Plätzen, im Marstall 18 Euro. Die kostenlose ResiCard bringt ab dem fünften Besuch 20 Prozent Rabatt, und Karten mit dem Vermerk „mit MVV“ gelten zugleich als Fahrschein in den Zonen M bis 6.",
+    "Die Bayerische Staatsoper arbeitet mit einem zweistufigen System. Schriftliche Bestellungen sind möglich, sobald der Spielplan steht; drei Monate vor der Vorstellung wird die Hälfte der Karten auf diese Bestellungen verteilt. Zwei Monate vorher beginnt um 10 Uhr der Verkauf der übrigen Karten online, telefonisch und an der Kasse. Für das Handlungsballett „Carpathia – Der Mythos der Untoten“ von Edward Clug, das laut Saisonheft am 24. und 28. Januar auf dem Plan steht, ergibt sich daraus ein Verkaufsstart am Dienstag, 24. November, und am Samstag, 28. November – eine eigene Berechnung nach der Regel, die Oper nennt die Tage nicht einzeln.",
+    "Pro Karte erhebt die Staatsoper bei schriftlicher, telefonischer und Online-Bestellung 2 Euro Bearbeitungsgebühr; bei großer Nachfrage kann der Kauf auf zwei Karten pro Kundennummer begrenzt werden. Wer unter 30 ist, bekommt mit Nachweis ermäßigte Karten, der „<30-Circle“ kostet 30 Euro pro Spielzeit. Weiter voraus: Für die Ballettfestwoche 2027 werden schriftliche Bestellungen ab 9. Januar angenommen, der allgemeine Verkauf beginnt am 9. Februar."
+   ],
+   "quellen": [
+    [
+     "Residenztheater – Tickets",
+     "https://www.residenztheater.de/en/tickets"
+    ],
+    [
+     "Residenztheater – Spielzeitheft 2026/27",
+     "https://www.residenztheater.de/media/resi_2627_web_spielzeiheft.pdf"
+    ],
+    [
+     "Bayerische Staatsoper – Ticket-Info",
+     "https://www.staatsoper.de/en/ticket-info"
+    ]
+   ],
+   "berichterstattung": [
+    "residenztheater.de",
+    "staatsoper.de"
+   ],
+   "karten": {
+    "vorverkauf": "Residenztheater Januar: Di, 1.12.2026, 10 Uhr (Abonnenten einen Tag früher) · Staatsoper: jeweils zwei Monate vor der Vorstellung, 10 Uhr (Carpathia 24.1. → 24.11., 28.1. → 28.11., eigene Berechnung)",
+    "termin": "Raststätte oder Sie machens alle: Premiere Fr, 22.1.2027 · Carpathia: So, 24.1., und Do, 28.1.2027",
+    "ort": "Residenztheater; Nationaltheater",
+    "preise": "Resi unter 30: 10 € · Theatertag 18/12 € · Staatsoper zzgl. 2 € Bearbeitungsgebühr pro Karte",
+    "stelle": "Residenztheater und Bayerische Staatsoper (online, Telefon, Kasse)",
+    "link": "https://www.residenztheater.de/en/tickets"
+   }
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Feste",
+    "Tickets"
+   ],
+   "kicker": "München · Silvester · Karten",
+   "titel": "Silvester: Symphoniker in der Isarphilharmonie ab 64,40 Euro, Tollwood-Party für 38,50 Euro – Django Asül ist ausverkauft",
+   "deck": "Fünf Wochen vor dem Jahreswechsel ist das Angebot groß, die Preise reichen von 7 Euro im Tanzcafé bis 289 Euro im Varieté.",
+   "text": [
+    "Für den klassischen Jahresausklang laden die Münchner Symphoniker am Donnerstag, 31. Dezember, um 20 Uhr zur „Last Night of the Year“ in die Isarphilharmonie im Gasteig HP8. Joseph Bastian dirigiert Werke von Weber, Wagner, Smetana, Offenbach und der Strauss-Familie. Karten gibt es bei Eventim im Auftrag des Veranstalters MünchenMusik in sieben Kategorien von 64,40 bis 121,90 Euro; die Premiumkategorie 0 kostet 144,90 Euro und schließt Programmheft und Garderobe ein. Hinzu kommen bis zu 3 Euro Buchungsgebühr und Versand.",
+    "Deutlich günstiger ist die große Tollwood-Silvesterparty auf der Theresienwiese, die um 19 Uhr beginnt und laut IN München bis 6 Uhr früh dauert. Ein Stehplatz kostet bei Eventim 38,50 Euro, Kinder von 6 bis 12 Jahren zahlen 23,87 Euro. IN München nennt zusätzlich einen ermäßigten Preis von 33 Euro und ein Sozialticket für 18 Euro; Karten gibt es auch bei München Ticket. Das Programm für dieses Jahr ist noch nicht veröffentlicht.",
+    "Wer feiern und essen will, hat die Wahl: Die Silvestergala „Studio 54“ im Paulaner am Nockherberg kostet 199 Euro und läuft von 18.30 bis 2 Uhr, „Marias Silvester“ im Ayinger in der Au 179 Euro, „The Grand New Year’s Eve“ im Löwenbräukeller 22,50 bis 89 Euro. Das GOP Varieté bietet eine Matinée für 74 Euro und eine Gala für 289 Euro an, gebucht wird dort nur telefonisch. Klassisch und preiswerter ist das Silvesterkonzert der Camerata München um 19 Uhr im Kulturzentrum Trudering für 33 bis 39 Euro.",
+    "Für Nachtschwärmer listet IN München unter anderem das P1 (25 bis 45 Euro), das Muffatwerk (24,90 Euro), die türkische Silvesterparty im Kesselhaus (25 bis 30 Euro), den Wannda Circus im Olympiapark Süd ab 18 Euro das Backstage (13,70 Euro) und das Tanzcafé ROODY in Giesing (7 bis 10 Euro). Schon vergriffen ist das Silvesterprogramm von Django Asül im Lustspielhaus, für das Karten ab 129 Euro aufgerufen waren."
+   ],
+   "quellen": [
+    [
+     "Eventim – Last Night of the Year",
+     "https://www.eventim.de/event/last-night-of-the-year-silvesterkonzert-der-muenchner-symphoniker-der-gasteig-hp8-21699020/"
+    ],
+    [
+     "Eventim – Tollwood-Silvesterparty",
+     "https://www.eventim.de/event/die-grosse-tollwood-silvester-party-tollwood-winterfestival-21774585/"
+    ],
+    [
+     "IN München – Silvester",
+     "https://www.in-muenchen.de/themes/silvester"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de",
+    "in-muenchen.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft; Django Asül (Lustspielhaus) ausverkauft",
+    "termin": "Do, 31.12.2026 – Symphoniker 20 Uhr, Tollwood ab 19 Uhr",
+    "ort": "Isarphilharmonie (Gasteig HP8); Tollwood, Theresienwiese",
+    "preise": "Symphoniker 64,40–144,90 € · Tollwood Stehplatz 38,50 €, Kinder 6–12 Jahre 23,87 € · jeweils zzgl. bis 3 € Buchungsgebühr",
+    "stelle": "Eventim; Tollwood auch München Ticket",
+    "link": "https://www.eventim.de/event/last-night-of-the-year-silvesterkonzert-der-muenchner-symphoniker-der-gasteig-hp8-21699020/"
+   }
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Feste",
+    "Wiesn"
+   ],
+   "kicker": "München · Feste · Oktoberfest",
+   "titel": "Wiesn 2027: Die Zelte vergeben Tische erst bis zum Frühjahr – ein Tisch kostet im Schnitt 350 bis 400 Euro an Gutscheinen",
+   "deck": "Die 192. Wiesn läuft vom 18. September bis 3. Oktober 2027; das offizielle Portal hat seine Reservierungsregeln aktualisiert.",
+   "text": [
+    "Das Oktoberfest 2027 hat seinen Termin: Die 192. Wiesn beginnt am Samstag, 18. September, und endet am Sonntag, 3. Oktober. Wer schon jetzt einen Tisch im Festzelt haben will, muss sich allerdings gedulden. Laut dem offiziellen Portal oktoberfest.de, dessen Reservierungsseite am 19. November aktualisiert wurde, schalten die meisten Festzelte ihre Buchung bis zum Frühjahr frei, spätestens im April oder Mai. Den genauen Starttermin nennt jeder Festwirt auf seiner eigenen Website. Zuerst werden Stammgäste und frühere Reservierer angesprochen; von Anrufen oder Mails kurz nach der Wiesn rät das Portal ab.",
+    "Die Reservierung selbst ist kostenlos, bezahlt werden müssen aber im Voraus Verzehrgutscheine. Ein Tisch hat etwa acht bis zehn Plätze; Einzelplätze gibt es nicht. Die Gutscheine kosten zusammen im Schnitt rund 350 bis 400 Euro, in manchen Zelten mehr. In den Hauptschiffen gelten in der Regel zwei Maß Bier und ein halbes Hendl pro Person als Mindestverzehr, in Boxen und auf Galerien kommt ein Gutschein über 18 Euro hinzu. Zusätzlich dürfen nur Versandkosten und eine Pauschale von 1,50 Euro pro Platz berechnet werden.",
+    "Nicht alles ist reservierbar: In den großen Zelten bleibt grundsätzlich ein Viertel der Plätze frei, an Wochenenden und Feiertagen bis 15 Uhr sogar 40 Prozent. Münchnerinnen und Münchner mit Hauptwohnsitz können an Wochenenden und am 3. Oktober zusätzlich auf zehn Prozent der Plätze zugreifen, dafür ist meist ab Juni ein persönlicher Besuch mit Ausweis beim Festwirt nötig. Unter der Woche finden kleinere Gruppen laut muenchen.de oft auch ohne Reservierung Platz.",
+    "Beide Seiten warnen eindringlich vor dem Grauen Markt, auf dem für Tische teils tausende Euro verlangt wurden. Weiterverkaufte Reservierungen werden in der Regel storniert. Der einzige offizielle Weg zum Tauschen oder Weitergeben zum Originalpreis ist das Portal Oktoberfest-Booking.com, das auch meldet, wenn Kontingente frei werden."
+   ],
+   "quellen": [
+    [
+     "oktoberfest.de – Wiesntisch buchen",
+     "https://www.oktoberfest.de/bierzelte/reservieren/reservieren-auf-dem-oktoberfest-wiesntisch-buchen"
+    ],
+    [
+     "muenchen.de – Wiesn-Tisch reservieren",
+     "https://www.muenchen.de/veranstaltungen/oktoberfest/wiesn-tisch-reservieren-alle-informationen"
+    ]
+   ],
+   "berichterstattung": [
+    "oktoberfest.de",
+    "muenchen.de"
+   ],
+   "karten": {
+    "vorverkauf": "Tischreservierung je Festzelt meist ab Frühjahr, spätestens April/Mai 2027; Termine auf den Seiten der Festwirte",
+    "termin": "Sa, 18.9., bis So, 3.10.2027",
+    "ort": "Theresienwiese",
+    "preise": "Reservierung kostenlos; Verzehrgutscheine je Tisch (8–10 Plätze) im Schnitt ca. 350–400 € · Pauschale 1,50 € pro Platz zzgl. Versand",
+    "stelle": "direkt bei den Festwirten; Tausch/Weitergabe nur über Oktoberfest-Booking.com",
+    "link": "https://www.oktoberfest.de/bierzelte/reservieren/reservieren-auf-dem-oktoberfest-wiesntisch-buchen"
+   }
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Feste",
+    "Advent"
+   ],
+   "kicker": "München · Advent · Olympiapark",
+   "titel": "Rollerdisco im Olympiapark ab Freitag für 8 Euro – dazu öffnen der Märchenbazar und der Schwabinger Kunstmarkt zum 50-jährigen Bestehen",
+   "deck": "Der neue Roller Ring fasst nur 200 Gäste, die Stadt rät zum Online-Vorverkauf; am Marienplatz beginnen die Shopping Nights und Führungen.",
+   "text": [
+    "Neu im Münchner Winterprogramm ist der Roller Ring im Olympia-Actionsportzentrum, der am Freitag, 27. November, öffnet. Freitags und samstags wird von 19 bis 22 Uhr Rollerdisco gefahren, sonntags gehört die Bahn von 14 bis 17 Uhr Familien mit Kindern ab sechs Jahren. Erwachsene zahlen 8 Euro, Kinder unter 14 Jahren 5 Euro, das Familienticket kostet 20 Euro. Weil höchstens 200 Personen gleichzeitig auf die Fläche dürfen, empfiehlt die Stadt laut Rathaus Umschau den Online-Vorverkauf.",
+    "Nebenan im Olympiapark Süd beginnt schon am Donnerstag, 26. November, der Märchenbazar, der bis 28. Dezember bleibt. Der Eintritt ist frei, auch das Programm in den Zirkuszelten mit Konzerten, DJ-Sets, Lesungen, Akrobatik sowie Feuer- und Zaubershows kostet nichts. Erstmals gibt es eine Eisstockbahn, deren Preis muenchen.de nicht nennt. Geöffnet ist montags bis mittwochs von 14 bis 22 Uhr, donnerstags und freitags bis 23 Uhr, samstags von 12 bis 23 Uhr und sonntags von 11 bis 21 Uhr; an Heiligabend ist zu, an Silvester folgt ab 22 Uhr eine Party.",
+    "Ein Jubiläum feiert der Schwabinger Weihnachtsmarkt an der Münchner Freiheit, der seit 1976 von Künstlerinnen und Künstlern selbst organisiert wird. Vom 25. November bis 24. Dezember gibt es dort Schmuck, Keramik, Glaskunst und Holzarbeiten, werktags ab 12 und am Wochenende ab 11 Uhr bis 20.30 Uhr. Von Dienstag bis Sonntag spielt ab 18 Uhr kostenlos Musik.",
+    "Am Christkindlmarkt am Marienplatz haben bei den Shopping Nights am 27. November und am 12. Dezember viele Stände bis 22 Uhr geöffnet. Führungen über den Markt mit Glühwein und gebrannten Mandeln gibt es am 27. November sowie am 4., 11. und 18. Dezember jeweils um 16 Uhr, buchbar über das Stadtportal oder in der Tourist Information im Rathaus. Der Krampuslauf am 13. Dezember von 15 bis 17 Uhr nimmt eine neue Strecke vom Frauenplatz über Kaufinger Straße, Sendlinger Straße und Viktualienmarkt bis zum Alten Rathaus."
+   ],
+   "quellen": [
+    [
+     "Rathaus Umschau, 18.11.2026",
+     "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+    ],
+    [
+     "muenchen.de – Märchenbazar",
+     "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/maerchenbazar"
+    ],
+    [
+     "muenchen.de – Schwabinger Weihnachtsmarkt",
+     "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/schwabinger-weihnachtsmarkt"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de"
+   ],
+   "karten": {
+    "vorverkauf": "Roller Ring: Online-Vorverkauf (laut Stadt empfohlen, Startdatum nicht genannt) · Märchenbazar und Schwabinger Markt: Eintritt frei",
+    "termin": "Roller Ring ab Fr, 27.11.2026: Fr/Sa 19–22 Uhr, So 14–17 Uhr · Märchenbazar 26.11.–28.12. · Schwabinger Markt 25.11.–24.12.",
+    "ort": "Olympia-Actionsportzentrum; Olympiapark Süd; Münchner Freiheit",
+    "preise": "Roller Ring: Erwachsene 8 €, Kinder unter 14 5 €, Familie 20 €",
+    "stelle": "online (laut Rathaus Umschau)",
+    "link": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+   }
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Vorverkauf",
+   "titel": "Kanonenfieber im Zenith für 60,15 Euro, Wincent Weiss ab 50,90 Euro: Diese Konzerte für 2027 sind schon buchbar",
+   "deck": "Von der Metal-Bühnenshow bis zum Ampere-Abend für unter 30 Euro – und am 3. Dezember kommt BAP in die Olympiahalle.",
+   "text": [
+    "Die Band Kanonenfieber bringt ihre Bühnenshow „Kriegstage 2027“ über die Schrecken des Ersten Weltkriegs am Donnerstag, 9. Dezember 2027, um 19 Uhr ins Zenith in Freimann. Bei Eventim gibt es Karten mit freier Platzwahl für 60,15 Euro einschließlich Vorverkaufsgebühr, zuzüglich bis zu 3 Euro Buchungsgebühr. Veranstalter ist die Münchner Konzertwerk GmbH; das Zenith liegt etwa fünf Gehminuten von der U6-Station Freimann entfernt.",
+    "Ebenfalls im Zenith spielt am Donnerstag, 18. März 2027, um 20 Uhr die Band The Warning. Für Fans gibt es ein Priority-Entry-Paket für 186,90 Euro mit Stehplatz-Ticket, signiertem Foto im Format 8x10, VIP-Laminat und früherem Einlass samt Merchandise-Einkauf vor dem Andrang. Wann das Paket-Programm beginnt, wird laut Eventim erst kurz vorher bekanntgegeben.",
+    "In der Olympiahalle macht Wincent Weiss mit seiner Arenatour „Schön, dass du da bist“ am Freitag, 19. November 2027, um 20 Uhr Station. Die Preise liegen zwischen 50,90 Euro für freie Platzwahl in Kategorie 5 und 99,90 Euro für Sitzplätze der Kategorie 1. Einlass ist ab sechs Jahren, unter 14-Jährige brauchen eine erwachsene Begleitperson. Günstig ist der Abend mit Cold Years am Montag, 24. Mai 2027, im Ampere des Muffatwerks: 29,20 Euro bei freier Platzwahl.",
+    "Wer nicht bis 2027 warten will: Die Kölner Band BAP spielt mit ihrer Tour „Fünfzig Jahre – Die Zielgerade“ schon am Donnerstag, 3. Dezember, um 19.30 Uhr in der Olympiahalle, Einlass ist ab 18 Uhr. Karten verkauft München Ticket; einen Hinweis auf ausverkauft gibt die Veranstaltungsseite der Stadt nicht."
+   ],
+   "quellen": [
+    [
+     "Eventim – Kanonenfieber",
+     "https://www.eventim.de/event/kanonenfieber-kriegstage-2027-zenith-21962360/"
+    ],
+    [
+     "Eventim – Wincent Weiss",
+     "https://www.eventim.de/event/wincent-weiss-schoen-dass-du-da-bist-arenatour-2027-olympiahalle-muenchen-21852295/"
+    ],
+    [
+     "muenchen.de – BAP",
+     "https://www.muenchen.de/veranstaltungen/konzerte/rock-pop/bap"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de",
+    "muenchen.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft",
+    "termin": "BAP Do, 3.12.2026, 19.30 Uhr · The Warning Do, 18.3.2027, 20 Uhr · Cold Years Mo, 24.5.2027, 20 Uhr · Wincent Weiss Fr, 19.11.2027, 20 Uhr · Kanonenfieber Do, 9.12.2027, 19 Uhr",
+    "ort": "Olympiahalle, Zenith, Ampere (Muffatwerk)",
+    "preise": "Kanonenfieber 60,15 € · Wincent Weiss 50,90–99,90 € · Cold Years 29,20 € · The Warning Priority-Paket 186,90 € · jeweils zzgl. Buchungsgebühr",
+    "stelle": "Eventim; BAP: München Ticket",
+    "link": "https://www.eventim.de/event/kanonenfieber-kriegstage-2027-zenith-21962360/"
+   }
+  }
+ ],
+ "vortrag": {
+  "id": "vortrag",
+  "fachgebiet": "Ökologie",
+  "tags": [
+   "Vortrag",
+   "Ökologie"
+  ],
+  "titel": "Wenn der Wolf den Wald wachsen lässt: Was ist eine trophische Kaskade?",
+  "einstieg": "Kann ein Raubtier, das nie einen Baum anrührt, darüber entscheiden, ob an einem Flussufer Weiden wachsen?",
+  "text": [
+   "In der Natur hängt fast alles über Nahrungsketten zusammen: Pflanzen werden von Pflanzenfressern gefressen, diese wiederum von Raubtieren. Ökologen sprechen von trophischen Ebenen, nach dem griechischen Wort für Ernährung. Eine trophische Kaskade liegt vor, wenn eine Veränderung ganz oben wie ein Dominostein nach unten durchschlägt: Verschwinden die Raubtiere, vermehren sich ihre Beutetiere, und die fressen dann die Pflanzen kahl. Kehren die Räuber zurück, kann sich die Pflanzenwelt erholen – obwohl der Räuber selbst nie eine Pflanze frisst.",
+   "Das bekannteste Lehrbuchbeispiel stammt von der Pazifikküste Nordamerikas. Seeotter fressen Seeigel, Seeigel fressen Seetang. Wo die Otter durch die Pelzjagd fast ausgerottet waren, explodierten die Seeigel und verwandelten dichte Tangwälder in kahle Unterwasserwüsten. Mit der Rückkehr der Otter wuchsen die Tangwälder wieder – und mit ihnen ein Lebensraum für Fische und viele andere Tiere. Tiere mit einer so großen Wirkung auf ihr Ökosystem nennt man Schlüsselarten.",
+   "Berühmt geworden ist auch der Yellowstone-Nationalpark in den USA. Dort waren die Wölfe in den 1920er-Jahren ausgerottet worden; Mitte der 1990er-Jahre wurden sie wieder angesiedelt. Danach ging der Bestand der Wapitis zurück, einer großen Hirschart, und an manchen Bachufern kamen Weiden und Espen wieder hoch. Ein beliebtes Bild: Die Wölfe fressen nicht nur Hirsche, sie machen sie auch vorsichtig, sodass diese gefährliche Ufer meiden – Forscher sprechen von einer „Landschaft der Angst“.",
+   "Ganz so einfach ist es allerdings nicht, und hier beginnt der Streit unter Fachleuten. Wie stark die Wölfe allein den Pflanzen geholfen haben, ist umstritten. Auch Bären, Pumas, die Jagd durch Menschen außerhalb des Parks und trockene Jahre haben die Wapitis dezimiert. Manche Studien finden die Erholung der Weiden nur fleckenweise, andere bezweifeln, dass die Angst der Hirsche viel ausmacht. Zudem fehlen vielerorts die Biber, deren Dämme den Wasserstand heben, den Weiden zum Wachsen brauchen.",
+   "Wichtig ist das Konzept trotzdem: Es zeigt, dass Raubtiere mehr sind als Jäger. Wer sie ausrottet oder zurückholt, verändert womöglich ein ganzes Ökosystem – im Meer, im Wald und auch in Europa, wohin der Wolf gerade zurückkehrt."
+  ],
+  "merksaetze": [
+   "Eine trophische Kaskade entsteht, wenn Änderungen an der Spitze der Nahrungskette bis zu den Pflanzen durchschlagen.",
+   "Seeotter schützen Tangwälder, weil sie die Seeigel kurzhalten, die den Tang fressen.",
+   "Wie stark Yellowstones Wölfe die Pflanzenwelt verändert haben, ist unter Forschern bis heute umstritten."
+  ],
+  "begriffe": [
+   [
+    "Trophische Ebene",
+    "Stufe in der Nahrungskette, etwa Pflanzen, Pflanzenfresser oder Raubtiere"
+   ],
+   [
+    "Schlüsselart",
+    "Art, deren Wirkung auf ihr Ökosystem viel größer ist, als ihre Häufigkeit vermuten lässt"
+   ],
+   [
+    "Landschaft der Angst",
+    "Idee, dass Beutetiere aus Furcht vor Räubern bestimmte Gebiete meiden und so die Vegetation schonen"
+   ]
+  ],
+  "quellen": [
+   [
+    "Wikipedia: Trophische Kaskade",
+    "https://de.wikipedia.org/wiki/Trophische_Kaskade"
+   ],
+   [
+    "Wikipedia: Trophic cascade",
+    "https://en.wikipedia.org/wiki/Trophic_cascade"
+   ],
+   [
+    "Wikipedia: History of wolves in Yellowstone",
+    "https://en.wikipedia.org/wiki/History_of_wolves_in_Yellowstone"
+   ]
+  ]
+ },
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Donnersberger Brücke: Bis 13. Dezember können alle Münchner Ideen für Brücke und Umfeld einbringen",
+   "satz": "Die über 100 Jahre alte Brücke soll bis in die 2040er Jahre vollständig ersetzt werden; derzeit läuft eine Machbarkeitsstudie.",
+   "quelle": "Rathaus Umschau",
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "titel": "Bayern-Basketballer gewinnen 90:79 bei Alba Berlin – Dienstag kommt Maccabi Tel Aviv",
+   "satz": "Drei Tage zuvor hatten die Münchner Baskonia in der EuroLeague 100:81 geschlagen; gegen Maccabi geht es um 20 Uhr im SAP Garden.",
+   "quelle": "FC Bayern Basketball",
+   "url": "https://fcbayern.com/basketball/de/spielplan/spielplan"
+  },
+  {
+   "titel": "Hellabrunn: Spatenstich für die neue Anlage der Großen Pandas am 3. Dezember mit Söder",
+   "satz": "Mit dem Termin beginnen im Tierpark die Bauarbeiten; auch Bürgermeisterin Verena Dietl ist angekündigt.",
+   "quelle": "Rathaus Umschau",
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "titel": "Migrationsbeiratswahl: Vorläufiges Ergebnis kommt spätestens am 1. Dezember",
+   "satz": "Das Endergebnis steht nach der Sitzung des Wahlausschusses am 10. Dezember fest.",
+   "quelle": "Rathaus Umschau",
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "titel": "Phönix-Preis: Bürgermeisterin Dietl ehrt heute Unternehmer mit Migrationsgeschichte im Alten Rathaus",
+   "satz": "Die Verleihung beginnt um 18.30 Uhr; Dietl hält die Festrede.",
+   "quelle": "Rathaus Umschau",
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-24T10:00",
+   "veranstaltung": "Bayerische Staatsoper: „Carpathia – Der Mythos der Untoten“ (Ballett, Edward Clug)",
+   "termin": "24.1.2027",
+   "ort": "Nationaltheater",
+   "stelle": "Bayerische Staatsoper (online, Telefon, Kasse)",
+   "url": "https://www.staatsoper.de/en/ticket-info",
+   "hinweis": "allgemeiner Verkauf; Datum eigens berechnet nach der Regel „zwei Monate vor der Vorstellung, 10 Uhr“"
+  },
+  {
+   "start": "2026-11-28T10:00",
+   "veranstaltung": "Bayerische Staatsoper: „Carpathia – Der Mythos der Untoten“",
+   "termin": "28.1.2027",
+   "ort": "Nationaltheater",
+   "stelle": "Bayerische Staatsoper (online, Telefon, Kasse)",
+   "url": "https://www.staatsoper.de/en/ticket-info",
+   "hinweis": "allgemeiner Verkauf; Datum eigens berechnet nach der Zwei-Monats-Regel"
+  },
+  {
+   "start": "2026-11-30",
+   "veranstaltung": "Residenztheater: Januar-Spielplan (u. a. Premiere „Raststätte oder Sie machens alle“)",
+   "termin": "Januar 2027, Premiere 22.1.2027",
+   "ort": "Residenztheater, Cuvilliéstheater, Marstall",
+   "stelle": "Residenztheater",
+   "url": "https://www.residenztheater.de/media/resi_2627_web_spielzeiheft.pdf",
+   "hinweis": "Vorverkauf für Abonnenten, einen Tag vor dem regulären Start; Uhrzeit nicht genannt"
+  },
+  {
+   "start": "2026-12-01T10:00",
+   "veranstaltung": "Residenztheater: Januar-Spielplan (u. a. Premiere „Raststätte oder Sie machens alle“)",
+   "termin": "Januar 2027, Premiere 22.1.2027",
+   "ort": "Residenztheater, Cuvilliéstheater, Marstall",
+   "stelle": "Residenztheater",
+   "url": "https://www.residenztheater.de/en/tickets",
+   "hinweis": "allgemeiner Vorverkauf; Regel: am 1. jedes Monats um 10 Uhr für den Folgemonat"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Roller Ring im Olympiapark: Rollerdisco und Familien-Sonntage",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Rollerdisco Fr und Sa 19–22 Uhr, Familienzeit So 14–17 Uhr (Kinder ab 6); Erwachsene 8 €, Kinder unter 14 5 €, Familienticket 20 €.",
+   "wann": "ab Fr, 27.11.2026",
+   "hinweis": "Nur 200 Plätze, Online-Vorverkauf empfohlen. Laut Rathaus Umschau vom 18.11.; Ende der Saison nicht genannt.",
+   "frueh": true,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Christkindltram: Online-Tickets für die Adventsrundfahrt",
+   "anbieter": "MVG / Landeshauptstadt München",
+   "angebot": "30-minütige Rundfahrt ab Sendlinger Tor alle 45 Minuten; ab 15 Jahren 5 €, Kinder 6–14 Jahre 3 €, unter 6 frei.",
+   "wann": "Fr, Sa, So vom 27.11. bis 20.12.2026; Fr 15.30–19.15 Uhr, Sa/So 11–19.15 Uhr",
+   "buchen_bis": "2026-12-20",
+   "hinweis": "Höchstens zehn Tickets pro Buchung; kleines Restkontingent ca. 45 Minuten vor Abfahrt am Kassenhäuschen, nur bar. Am 23.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachten/christkindltram"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Christkindlmarkt-Führungen mit Glühwein und gebrannten Mandeln",
+   "anbieter": "Landeshauptstadt München / Tourist Information",
+   "angebot": "Geführter Rundgang über den Christkindlmarkt am Marienplatz, Glühwein und gebrannte Mandeln inklusive.",
+   "wann": "27.11., 4.12., 11.12. und 18.12.2026, jeweils 16 Uhr",
+   "buchen_bis": "2026-12-18",
+   "hinweis": "Preis nennt die Rathaus Umschau nicht; Buchung über einfach-muenchen.de/xmas oder die Tourist Information im Rathaus.",
+   "frueh": true,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Shopping Nights am Christkindlmarkt",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Viele Stände des Christkindlmarkts am Marienplatz haben bis 22 Uhr geöffnet.",
+   "wann": "Fr, 27.11., und Sa, 12.12.2026",
+   "buchen_bis": "2026-12-12",
+   "hinweis": "Keine Anmeldung nötig. Laut Rathaus Umschau vom 18.11.",
+   "frueh": false,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Märchenbazar im Olympiapark Süd: Programm gratis",
+   "anbieter": "muenchen.de",
+   "angebot": "Eintritt frei, kostenloses Programm in den Zirkuszelten mit Konzerten, Akrobatik, Lesungen und Kinderprogramm; erstmals Eisstockbahn.",
+   "wann": "26.11.–28.12.2026 (24.12. geschlossen), Silvesterparty 31.12. ab 22 Uhr",
+   "buchen_bis": "2026-12-28",
+   "hinweis": "Preis der Eisstockbahn nicht genannt. Am 23.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/maerchenbazar"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Himmelswerkstatt: Gratis-Basteln für Kinder im Alten Rathaus",
+   "anbieter": "Landeshauptstadt München / Kindermuseum",
+   "angebot": "Kreativangebot für Kinder von 6 bis 12 Jahren, täglich um 14.30 und 16.30 Uhr.",
+   "wann": "26.11.–13.12.2026",
+   "buchen_bis": "2026-12-13",
+   "hinweis": "Anmeldung beim Kindermuseum erwünscht. Laut Rathaus Umschau vom 18.11.",
+   "frueh": true,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Residenztheater: Januar-Karten ab 1. Dezember",
+   "anbieter": "Residenztheater",
+   "angebot": "Vorverkauf für alle Januar-Vorstellungen, darunter die Premiere von Jelineks „Raststätte oder Sie machens alle“ am 22.1.2027.",
+   "wann": "ab Di, 1.12.2026, 10 Uhr; Abonnenten einen Tag früher",
+   "buchen_bis": "2027-01-31",
+   "hinweis": "Datum aus der Monatsregel des Hauses abgeleitet; Zusatzkarten für Abonnenten ab 7 Tage vor der Vorstellung 20 % günstiger.",
+   "frueh": true,
+   "url": "https://www.residenztheater.de/en/tickets"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC: Student Hockey Night gegen Schwenningen",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Heimspiel gegen die Schwenninger Wild Wings im SAP Garden als „Student Hockey Night“; bei diesen Abenden gab es Sitzplätze für Azubis, Schüler und Studierende über 18 für 20 €.",
+   "wann": "Fr, 4.12.2026, 19.30 Uhr",
+   "buchen_bis": "2026-12-04",
+   "hinweis": "Motto laut aktueller Heimspielübersicht; der 20-Euro-Preis stammt aus einer Vereinsmeldung vom Juli und ist vor dem Kauf zu prüfen.",
+   "frueh": false,
+   "url": "https://www.redbullmuenchen.de/de/tickets/heimspiele/alle"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Residenztheater: 10 Euro unter 30",
+   "anbieter": "Residenztheater",
+   "angebot": "Schüler, Studierende, Azubis und Freiwilligendienstleistende unter 30 zahlen 10 €",
+   "wann": "alle Vorstellungen",
+   "regelmaessig": true,
+   "url": "https://www.residenztheater.de/media/resi_2627_web_spielzeiheft.pdf"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Residenztheater: Theatertag",
+   "anbieter": "Residenztheater",
+   "angebot": "Einmal im Monat 18/12 € auf allen Plätzen, Marstall 18 €",
+   "wann": "einmal im Monat",
+   "regelmaessig": true,
+   "url": "https://www.residenztheater.de/media/resi_2627_web_spielzeiheft.pdf"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Staatsoper: <30-Circle",
+   "anbieter": "Bayerische Staatsoper",
+   "angebot": "Ermäßigte Karten unter 30; Circle für 30 € pro Spielzeit mit weiteren Vorteilen",
+   "wann": "laufend",
+   "regelmaessig": true,
+   "url": "https://www.staatsoper.de/media/FINAL_TheaterLeben_202627_web.pdf"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: REWE-Familienblock",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "15 € pro Person im Familienblock, mindestens ein Erwachsener mit Kind bis 13",
+   "wann": "Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticketing-faq"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Studenten- und Azubiblock",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "10 € pro Person mit Nachweis",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticketing-faq"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "EHC Red Bull München: Familienspieltage",
+   "anbieter": "EHC Red Bull München",
+   "angebot": "Rabatt für Familien an Sonntagsheimspielen, nächste am 29.11. und 6.12.",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://www.redbullmuenchen.de/de/tickets/heimspiele/alle"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "SQAD Futsal Challenge: Deutschland gegen Brasilien im SAP Garden",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 VIP-Tickets für Mi, 9.12.2026, 18 Uhr, mit Buffet, Getränken und Parkplatz",
+   "bis": "2026-11-30",
+   "teilnahme": "Online-Formular ausfüllen (Name, Anschrift, E-Mail, Mobilnummer, Geburtsdatum); Newsletter freiwillig",
+   "pruefung": "etabliertes Stadtmagazin, Aktion auf eigener Seite, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten oder Kaufpflicht genannt. Am 23.11. geprüft.",
+   "url": "https://www.in-muenchen.de/verlosungen/sqad-futsal-challenge-deutschland-vs-weltmeister-brasilien-am-9-dezember.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Advent bei der Münchner Volkshochschule",
+   "anbieter": "IN München",
+   "gewinn": "3 Kursgutscheine über je 30 € für Kurse und Veranstaltungen der MVHS",
+   "bis": "2026-11-26",
+   "teilnahme": "Online-Formular ausfüllen; Newsletter freiwillig",
+   "pruefung": "etabliertes Stadtmagazin, Teilnahmebedingungen und Datenschutz verlinkt, kostenlos, keine Bankdaten. Am 23.11. geprüft.",
+   "url": "https://www.in-muenchen.de/verlosungen/weihnachtszauber-erleben-bei-der-munchner-volkshochschule.html"
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Üben",
+   "zitat": "„Früh übt sich, was ein Meister werden will.“",
+   "urheber": "Friedrich Schiller, Wilhelm Tell (1804)",
+   "text": "Tell sagt den Satz, als er seinem Sohn beim Spiel mit der Armbrust zusieht. Er passt zu jedem Wochenanfang: Meisterschaft beginnt nicht mit dem großen Wurf, sondern mit der unscheinbaren Übung von heute."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Montagsmotivation",
+   "text": "Sagt der Chef am Montagmorgen: „Ich will heute niemanden müde herumsitzen sehen!“ – Murmelt der Kollege: „Dann sollten Sie vielleicht nicht so oft durchs Büro gehen.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Die Brezn-Bestellung",
+   "text": "In einer Bäckerei kosten eine Brezn und eine Semmel zusammen 1,30 Euro. Die Brezn kostet einen Euro mehr als die Semmel. Was kostet die Semmel?",
+   "loesung": "15 Cent. Die Brezn kostet dann 1,15 Euro – zusammen 1,30 Euro, und die Brezn ist genau einen Euro teurer. Die schnelle Antwort „30 Cent“ ergäbe 1,60 Euro."
+  }
+ ]
+}
