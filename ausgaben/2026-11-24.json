@@ -1,0 +1,2435 @@
+{
+ "datum": "2026-11-24",
+ "datumszeile": "Dienstag, den 24. November 2026",
+ "redaktionsschluss": "6 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom 23. November, Bitcoin etwa 2.30 Uhr MEZ",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 24. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt. Wegen eines erschöpften Suchkontingents ist diese Ausgabe unvollständig: In Wirtschaft und Gute Nachrichten fehlen Meldungen.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "25.337",
+   "veraenderung": "+2,2 %",
+   "richtung": "up"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.237",
+   "veraenderung": "+4,7 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "24.090",
+   "veraenderung": "+6,5 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Brent",
+   "wert": "89,37 $",
+   "veraenderung": "−3,5 %",
+   "richtung": "down"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.635 $",
+   "veraenderung": "+2,7 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "61.078 $",
+   "veraenderung": "+0,5 %",
+   "richtung": "up"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,091",
+   "veraenderung": "−0,5 %",
+   "richtung": "down"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,93 %",
+   "veraenderung": "+0,01",
+   "richtung": "up"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland",
+    "Krieg"
+   ],
+   "kicker": "Ukraine-Krieg · Seekrieg und Luftangriffe",
+   "titel": "Selenskyj bekennt sich zum Angriff vor Libyen – und warnt vor neuen russischen Schlägen",
+   "deck": "Kiew beansprucht die Versenkung der russischen Korvette „Merkury“ im Mittelmeer, die UN verlangen eine Untersuchung, während Russland erneut Saporischschja angreift.",
+   "text": [
+    "Die Ukraine hat sich zu den Drohnenangriffen auf russische Schiffe vor der libyschen Küste bekannt. Präsident Wolodymyr Selenskyj erklärte am Montag, ukrainische Kräfte hätten die russische Korvette „Merkury“ versenkt. Er sprach von einer „beispielhaften ukrainischen Operation als Antwort auf Russlands Krieg“. Nach seinen Angaben wurden sieben in der Ukraine gebaute Seedrohnen auf das Kriegsschiff gestartet, außerdem sei ein Kampfhubschrauber vom Typ Ka-27 zerstört worden. Getroffen worden sei auch der russische Frachter „Angara“, mit dem Russland nach Kiewer Darstellung Waffen transportiert habe. Die Ukraine werde in festgelegten Seegebieten weiter operieren, kündigte Selenskyj an.",
+    "Das Frachtschiff hatte im zivilen Hafen von Bengasi gelegen. Das Gesundheitsministerium der ostlibyschen Verwaltung teilte mit, die gesamte Besatzung der „Angara“ sei gerettet worden und werde behandelt. Wie viele libysche und russische Staatsbürger ums Leben kamen, war nach Angaben örtlicher Quellen zunächst unklar. Die Behörden im Osten betonten, Libyen sei „keine Partei des russisch-ukrainischen Kriegs“. Die UN-Mission in Libyen (UNSMIL) äußerte „ernste Besorgnis“ und verlangte eine sofortige, unabhängige und transparente Untersuchung: Libyen dürfe nicht zum Schauplatz fremder Konflikte werden. Das Land ist seit dem Sturz Muammar al-Gaddafis 2011 zwischen einer Regierung in Tripolis und einer rivalisierenden Verwaltung im Osten geteilt.",
+    "Zugleich warnte Selenskyj, der Geheimdienst habe Hinweise auf russische Vorbereitungen für neue Angriffe. Er rief die USA und andere Staaten auf, dies zur Kenntnis zu nehmen, weil von ihren Entscheidungen die Lieferung von Luftabwehrsystemen abhänge. Russland greift Kiew und andere Städte laut Reuters seit September nahezu ununterbrochen aus der Luft an. Am Sonntag waren bei einem Angriff auf eine Kleinstadt im Umland der Hauptstadt elf Menschen getötet worden, am Montag wurden in einem zentralen Kiewer Bezirk fünf Menschen verletzt.",
+    "In der Nacht zum Dienstag traf ein russischer Angriff die südostukrainische Stadt Saporischschja. Nach Angaben von Iwan Fedorow, Ko-Vorsitzender des regionalen Verteidigungsrats, wurden zwei Menschen getötet und 22 verletzt, darunter zwei Kinder. Gouverneur Mychajlo Semikin sagte, möglicherweise seien Menschen unter Trümmern eingeschlossen. Diplomatisch bleibt die Lage verfahren: Moskau lehnt einen Nato-Beitritt der Ukraine weiter ab, nachdem die Dreiergespräche mit Kiew und Washington wieder aufgenommen worden waren."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
+    ],
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChLYUDExHH8vEUqVFjvQs"
+    ],
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChM7e9nDHXqMy2a35KFz8"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "USA",
+    "Sanktionen",
+    "Cyberangriffe"
+   ],
+   "kicker": "Nahost · Iran-Krieg",
+   "titel": "Bombendrohungen an Bord: USA verdächtigen Iran hinter Dutzenden Cyberangriffen auf Tanker",
+   "deck": "Bis zu 50 Schiffe könnten betroffen sein – Washington reagiert mit neuen Sanktionen gegen Irans Schattenbanken.",
+   "text": [
+    "Die Vereinigten Staaten prüfen, ob Iran hinter einer Serie von Cyberangriffen auf Energietanker steckt. Wie das „Wall Street Journal“ am Montag unter Berufung auf US-Beamte und andere mit der Sache vertraute Personen berichtete, könnten bis zu 50 Schiffe angegriffen worden sein. Die Frachter hatten Öl, Flüssiggas, Chemikalien und andere potenziell explosive Stoffe geladen. Einige Besatzungen erhielten Warnungen und Bombendrohungen, ihr Schiff könne gesprengt werden. Iran gilt als Hauptverdächtiger, die US-Behörden halten aber auch Russland für einen möglichen Urheber. Reuters konnte den Bericht nicht unabhängig überprüfen.",
+    "In Washington wächst laut dem Bericht die Sorge, Teheran könnte den Krieg mit Cyberoperationen und Anschlagsplänen gegen Amerikaner weit über den Nahen Osten hinaus ausweiten. Der Krieg hatte im Februar mit amerikanisch-israelischen Angriffen begonnen; die Lage in der Straße von Hormus hat sich zuletzt mit Minentreffern und brennenden Tankern wieder zugespitzt.",
+    "Am selben Tag verhängte das US-Finanzministerium neue Sanktionen gegen Dutzende Personen und Firmen, die Irans Schattenbankensystem stützen sollen. Betroffen sind unter anderem zwei Dutzend iranische Wechselstuben und Tarnfirmen sowie Unternehmen in den Vereinigten Arabischen Emiraten, der Türkei und Hongkong. „Irans Wirtschaft steht unter Wasser, und seine Führung gerät in Panik“, erklärte Finanzminister Scott Bessent. Das Schattenbankensystem sei die letzte finanzielle Lebensader eines bankrotten Regimes.",
+    "Die Finanzaufsichtsbehörde FinCEN legte zugleich eine Analyse von rund 15 Milliarden Dollar an Finanzströmen zwischen Januar 2025 und August 2026 vor, die mit iranischen Schattenbanken zusammenhängen könnten. Die Verbindungen konzentrieren sich demnach auf die Emirate, Hongkong und Singapur. Ein Rückgang der Aktivität könne auf eine zumindest teilweise Störung dieser Netzwerke hindeuten."
+   ],
+   "quellen": [
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChLnxYzGB1XAKbP5Fjxnf"
+    ],
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChLRzGoHb73dBF4XjWmoE"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "wsj.com"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "NATO",
+    "Diplomatie"
+   ],
+   "kicker": "Vereinigte Staaten · Bündnis",
+   "titel": "Nach den Gipfeln mit Putin und Xi: Trump empfängt Nato-Chef Rutte in Florida",
+   "deck": "Das Treffen am Mittwoch in Palm Beach folgt auf scharfe Kritik der Europäer an Trumps Auftritten in Asien.",
+   "text": [
+    "US-Präsident Donald Trump trifft am Mittwoch Nato-Generalsekretär Mark Rutte. Das teilte das Weiße Haus am Montag mit. Die Begegnung ist für den späten Nachmittag in Palm Beach im Bundesstaat Florida angesetzt. Eine Tagesordnung wurde nicht genannt.",
+    "Das Treffen folgt auf Trumps Gipfel mit dem russischen Präsidenten Wladimir Putin und dem chinesischen Staatschef Xi Jinping in Asien in der vergangenen Woche, bei denen er beide als seinen „Freund“ bezeichnete. Vor allem die Begegnung mit Putin stieß bei europäischen Verbündeten und bei den Demokraten in den USA auf Kritik. Rutte, der sich immer wieder bemüht, Spannungen im Bündnis zu glätten und Trump an die Nato zu binden, hatte erklärt, es sei normal, dass sich große Atommächte treffen.",
+    "Im Hintergrund stehen die Bemühungen um ein Ende des russischen Kriegs gegen die Ukraine. Europa drängt darauf, an den von den USA unterstützten Gesprächen beteiligt zu werden; auch der ukrainische Präsident Wolodymyr Selenskyj fordert das. Trump zeigte sich Berichten zufolge offen für Sicherheitsgarantien für die Ukraine nach dem Vorbild der Beistandspflicht aus Artikel 5 des Nato-Vertrags. Sein Sondergesandter und Schwiegersohn Jared Kushner sagte, Russland habe sich mit dieser Idee „angefreundet“.",
+    "Trump hat die westlichen Verbündeten wiederholt wegen ihrer Verteidigungsausgaben, wegen Handelszöllen und wegen aus seiner Sicht unzureichender Unterstützung im amerikanisch-israelischen Krieg gegen Iran kritisiert."
+   ],
+   "quellen": [
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChM5MThX2LFibzSia1Quc"
+    ],
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChLYUDExHH8vEUqVFjvQs"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Spanien",
+    "Wahlen",
+    "Europa"
+   ],
+   "kicker": "Europa · Spanien vor der Wahl",
+   "titel": "Feijóo greift nach der Macht – mit Vox als möglichem Mehrheitsbeschaffer",
+   "deck": "Am Sonntag wählt Spanien ein neues Parlament; Umfragen sehen die Konservativen vorn, aber ohne eigene Mehrheit.",
+   "text": [
+    "Spanien wählt am 29. November ein neues Parlament, und alles deutet auf einen Machtwechsel hin. Umfragen sehen die konservative Volkspartei (PP) von Alberto Núñez Feijóo vor den Sozialisten (PSOE) von Ministerpräsident Pedro Sánchez, allerdings ohne eigene Mehrheit. Die PP kommt in Projektionen auf etwa 127 Sitze, die PSOE auf 119. Die rechtspopulistische Vox könnte bis zu 18 Prozent der Stimmen und 63 Sitze erreichen und damit fast doppelt so viele wie 2023. Zusammen kämen PP und Vox auf rund 190 Mandate, für die absolute Mehrheit sind 176 nötig.",
+    "Der 65-jährige Feijóo regierte Galicien von 2009 bis 2022 mit vier absoluten Mehrheiten in Folge und galt bei seiner Wahl zum PP-Chef 2022 als Gemäßigter. Unter dem Druck von Vox verschärfte er seinen Kurs bei Migration, Korruption und Abtreibung. Die Grenzkrise in Ceuta im Juli, als Zehntausende auf spanisches Gebiet gelangten, und ein tödliches Zugunglück bei Toledo im Oktober prägten seinen Wahlkampf. In einer Fernsehdebatte nannte er Sánchez ein „Geschenk für Schleuser“.",
+    "Sánchez regiert seit 2023 mit linken Gruppen und gestützt auf katalanische und baskische Regionalparteien. Seine Regierung legalisierte den Aufenthalt von mehr als einer Million Menschen ohne Papiere, widersetzte sich dem Nato-Ziel von fünf Prozent der Wirtschaftsleistung für Verteidigung und bezeichnete Israels Krieg in Gaza als Völkermord.",
+    "Vox regiert bereits in Andalusien, Aragonien, Kastilien und León sowie in der Extremadura mit der PP. Feijóo würde am liebsten allein mit Unterstützung von Vox im Parlament regieren, eine förmliche Koalition hat er aber nicht ausgeschlossen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Bangladesch",
+    "Asien"
+   ],
+   "kicker": "Asien · Bangladesch",
+   "titel": "Rückkehr zum Siegestag: Hasina will am 16. Dezember aus dem Exil heimkehren",
+   "deck": "Die in Abwesenheit zum Tode verurteilte frühere Regierungschefin verlangt einen Flug mit der Staatslinie – Dhaka droht mit sofortiger Festnahme.",
+   "text": [
+    "Die gestürzte frühere Ministerpräsidentin von Bangladesch, Sheikh Hasina, will am 16. Dezember aus ihrem Exil in Indien zurückkehren. Das sagte ihr Sprecher Syed Mozammel Ali der Nachrichtenagentur Reuters. Es ist das erste Mal, dass Hasina ein konkretes Datum nennt. Der 16. Dezember ist der Jahrestag des Endes des Befreiungskriegs gegen Pakistan 1971. Hasina hat die Regierung aufgefordert, ihren Heimflug mit der staatlichen Fluggesellschaft Biman Bangladesh Airlines zu organisieren.",
+    "Ihr Sprecher argumentiert, Hasina sei am 5. August 2024 mit einem bangladeschischen Flugzeug nach Indien gebracht worden, ihr Exil sei verfassungswidrig und die Regierung daher für die Rückkehr am Siegestag verantwortlich. Ein Minister sagte Reuters dagegen, Hasina werde bei ihrer Ankunft festgenommen und inhaftiert. Offizielle Gespräche mit Indien über ein Flugzeug habe es nicht gegeben. Die Regierung erklärt, eine Rückkehr sei nur über eine Auslieferung möglich.",
+    "Ein Kriegsverbrechertribunal hatte Hasina im November vergangenen Jahres in Abwesenheit zum Tode verurteilt, weil sie die blutige Niederschlagung des studentischen Aufstands angeordnet haben soll. Sie weist die Vorwürfe zurück. Nach UN-Angaben wurden bei den Unruhen, die sie aus dem Amt trieben, bis zu 1.400 Menschen getötet. Ihre Partei ist verboten. Seit Hasina Anfang des Monats einen neuen Pass und andere zuvor annullierte Dokumente beantragt hat, hat die Gewalt im Land laut Reuters zugenommen."
+   ],
+   "quellen": [
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChM1YKxHVTUueKhXKFp2x"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Venezuela",
+    "Kongress"
+   ],
+   "kicker": "Vereinigte Staaten · Venezuela-Öl",
+   "titel": "Half Vance einem Großspender zum Ölgeschäft? Senatsausschuss nimmt den Vizepräsidenten ins Visier",
+   "deck": "Senatorin Maggie Hassan verlangt Dokumente zu einem mutmaßlichen Treffen mit einem Vitol-Händler kurz vor der US-Invasion in Venezuela.",
+   "text": [
+    "Ein Ausschuss des US-Senats untersucht, ob Vizepräsident JD Vance dem Rohstoffhändler Vitol zu einem lukrativen Geschäft mit venezolanischem Öl verholfen hat. Das geht aus einem Brief hervor, den Reuters einsehen konnte. Die demokratische Senatorin Maggie Hassan aus New Hampshire, die im Januar den Vorsitz des Ausschusses für Heimatschutz und Regierungsangelegenheiten übernimmt, verlangt darin bis zum 14. Dezember Unterlagen aus Vances Büro, darunter die Kommunikation mit dem Händler John Addison und mit Vitol.",
+    "Reuters hatte berichtet, Vance habe Addison im Dezember 2025 im Yellowstone Club in Montana getroffen, etwa eine Woche vor der US-Invasion in Venezuela im Januar 2026. Einer Quelle zufolge fragte Vance, wie schnell sich venezolanisches Rohöl verkaufen lasse, falls die USA die Kontrolle über das Öl erlangten. Hassan schreibt, Flugdaten zeigten Addisons Privatjet und Vances Regierungsmaschine am selben Tag auf demselben Flughafen in Montana. Vance und Addison bestreiten das Treffen. „Das angebliche Treffen am Flughafen hat nie stattgefunden“, sagte Vances Sprecher Luke Schroeder.",
+    "Am 5. Januar 2026 rief Energieminister Chris Wright Addison an und fragte, ob Vitol venezolanisches Öl für die Regierung verkaufen wolle; das Energieministerium bestätigte den Anruf. Binnen Tagen erhielten Vitol und Trafigura Sonderlizenzen. Addison hatte 2022 300.000 Dollar an ein Vance unterstützendes Wahlkampfkomitee gespendet, 2024 gaben er und seine Frau laut Wahlkommission sieben Millionen Dollar an Komitees für Trumps Wiederwahl."
+   ],
+   "quellen": [
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChLUf4QyNZVCw13Lyi88M"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Australien",
+    "Wahlen"
+   ],
+   "kicker": "Australien · Landtagswahl",
+   "titel": "Schulden, Zinsen, Wut: In Victoria steht Pauline Hansons One Nation vor ihrer größten Probe",
+   "deck": "Am Samstag wählt Australiens zweitbevölkerungsreichster Bundesstaat – Umfragen sehen Labor vor dem Absturz.",
+   "text": [
+    "Im australischen Bundesstaat Victoria wird am Samstag, 28. November, ein neues Parlament gewählt, und die rechtspopulistische Partei One Nation von Pauline Hanson hofft auf ihren bislang größten Erfolg. Umfragen zufolge könnte sie 10 der 88 Sitze im Unterhaus gewinnen, bisher hat sie einen. Eine Regierungsübernahme wird nicht erwartet; favorisiert ist die konservative Koalition aus Liberalen und Nationals. Die seit zwölf Jahren regierende Labor-Partei steht nach den jüngsten Umfragen vor einer schweren Niederlage.",
+    "Victoria ist Australiens zweitbevölkerungsreichster Bundesstaat, dort lebt etwa ein Viertel der Bevölkerung. Wegen der Politik in der Pandemie stieg die Verschuldung des Staates um 60 Prozent. Hinzu kommen in diesem Jahr fünf Zinserhöhungen, deren volle Wirkung nach Einschätzung des Wirtschaftsforums CEDA erst in 12 bis 18 Monaten spürbar wird. „Dieser wirtschaftliche Druck schafft ein günstigeres Umfeld für populistische Parteien“, sagte der Wahlforscher Shaun Ratcliff von Accent Research.",
+    "One Nation, 1997 von Hanson gegründet, hatte bei der Bundeswahl im Mai 2025 sechs Prozent erreicht und liegt inzwischen in den meisten landesweiten Umfragen vorn oder fast vorn. Ihr Spitzenmann in Victoria, Warren Pickering, wirft der Regierung Versagen in der Wirtschaftspolitik und der Opposition vor, keine echte Opposition zu sein. Die Wahl gilt als wichtiger Stimmungstest für die gesamte australische Politik."
+   ],
+   "quellen": [
+    [
+     "Reuters (über forth.news)",
+     "https://www.forth.news/articles/ChLr1eQ8Vp484ZDTfqZVF"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "Westjordanland",
+    "Israel",
+    "Nahost"
+   ],
+   "kicker": "Nahost · Westjordanland",
+   "titel": "Bericht: Angriffe auf palästinensische Sanitäter im Westjordanland um 350 Prozent gestiegen",
+   "deck": "Die Organisation Ärzte für Menschenrechte Israel dokumentiert Schläge, Drohungen mit Waffen und blockierte Rettungseinsätze.",
+   "text": [
+    "Übergriffe auf palästinensische Rettungskräfte im besetzten Westjordanland haben stark zugenommen. Die israelische Organisation Physicians for Human Rights Israel (PHRI) dokumentiert in einem am Montag veröffentlichten Bericht einen Anstieg der Vorfälle um 350 Prozent zwischen 2022 und 2024. Die Weltgesundheitsorganisation zählte im vergangenen Jahr 233 Angriffe auf das Gesundheitswesen im Westjordanland, 165 davon betrafen Krankentransporte.",
+    "Für den Bericht wurden 25 Sanitäter befragt. Sie schildern körperliche Angriffe, Drohungen mit Waffen, Beschimpfungen und demütigende Durchsuchungen durch Soldaten und Siedler, auch wenn sie eindeutig als medizinisches Personal erkennbar waren. Ein Sanitäter aus der Gegend von Nablus berichtete, Soldaten hätten ihn daran gehindert, einen Verletzten zu erreichen; der Mann sei verblutet, bevor die Helfer zu ihm gelangten. Ein Rettungswagenfahrer sagte, bei jedem Einsatz bestehe die Gefahr, nicht nach Hause zurückzukehren.",
+    "Berichtsautor Imran Anati spricht von einer „gefährlichen Eskalation“ seit dem 7. Oktober 2023 und einem „systematischen Angriff auf die palästinensische Notfallversorgung“. Kontrollpunkte zwingen Krankenwagen laut dem Bericht regelmäßig zu langen Umwegen; manche Patienten seien unterwegs gestorben, Schwangere hätten außerhalb von Kliniken entbunden. PHRI warnt, das medizinische System im Westjordanland stehe vor dem Zusammenbruch. Eine Stellungnahme der israelischen Behörden lag nicht vor."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Umwelt"
+   ],
+   "kicker": "Vereinigte Staaten · Umwelt",
+   "titel": "Vier Tonnen Bleiazid: US-Armee will instabile Sprengstoffe in Iowa trotz Gerichtsstopp zünden",
+   "deck": "Umweltverbände warnen vor Bleistaub über 160 Kilometer, das Justizministerium beruft sich auf eine Notlage.",
+   "text": [
+    "Die US-Armee will auf dem Gelände der Iowa Army Ammunition Plant bei Middletown mehr als vier Tonnen Bleiazid sprengen, obwohl ein Bundesberufungsgericht die Genehmigung dafür ausgesetzt hat. Die Gesundheitsbehörde des Bundesstaats kündigte zwei kontrollierte Explosionen für Montagmittag an. Das Justizministerium nannte den Dienstag als äußersten Termin. Die Umweltbehörde EPA hatte am 13. November eine Notfallgenehmigung erteilt; das Gericht des 8. Bezirks stoppte das Vorhaben am Freitag, das Justizministerium erklärte jedoch, eine Ausnahme für Notlagen erlaube die Sprengungen weiterhin.",
+    "Der Initialsprengstoff lagert seit mehr als zwei Jahrzehnten in 68 Fässern. Im März stellten Techniker fest, dass die schützende Wasser-Ethanol-Mischung verdunstet war und sich nadelförmige Kristalle gebildet hatten. Die Fässer gelten seitdem als nicht mehr sicher zu öffnen. Die Regierungsanwälte warnen, Frost könne eine unkontrollierte Explosion auslösen; die Wahl bestehe zwischen einer geplanten und einer ungeplanten Detonation.",
+    "Kläger wie der Sierra Club und der Iowa Environmental Council, vertreten von Earthjustice, halten dagegen, die Notlage sei hausgemacht. Bleistaub könne bis zu 160 Kilometer weit getragen werden, Anwohner seien nur eine Woche vorher informiert worden. Anwohner im möglichen Abdriftgebiet sollten in ihren Häusern bleiben, rund um zwei Parks in Middletown sollten Menschen ihre Wohnungen für sechs Stunden verlassen. Der Abgeordnete Eric Sorensen, einziger Meteorologe im Kongress, bezweifelte, dass die Wetterlage für die Sprengung geeignet sei."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Syrien",
+    "EU",
+    "Diplomatie"
+   ],
+   "kicker": "Europa · Nahost-Diplomatie",
+   "titel": "Nach 15 Jahren Eiszeit: Syrien und die EU verhandeln über ein neues Abkommen",
+   "deck": "Damaskus will die letzten Sanktionen loswerden, Brüssel denkt vor allem an die Rückkehr von Geflüchteten.",
+   "text": [
+    "Syrien und die Europäische Union kommen bei ihren Gesprächen über eine Normalisierung der Beziehungen voran. Verhandelt wird über Freihandel, politischen Dialog und eine breitere Zusammenarbeit; Diplomaten arbeiten an technischen und rechtlichen Einzelheiten. Zuletzt traf die syrische Außenamtsvertreterin Sally Shobat am Samstag Jonas Jonsson, den Leiter der Abteilung Nahost und Nordafrika im Europäischen Auswärtigen Dienst, nachdem sie zuvor Gespräche mit französischen, zyprischen und belgischen Vertretern geführt hatte.",
+    "Die EU hatte ihre Beziehungen 2011 nach der Niederschlagung der Proteste durch die Assad-Regierung ausgesetzt. 2025 hob sie alle Wirtschaftssanktionen auf, einzelne Exportkontrollen und staatliche Institutionen bleiben aber belegt. Im Januar 2026 kündigte Brüssel ein Hilfspaket von 620 Millionen Euro für zwei Jahre an, im April traf Präsident Ahmed al-Scharaa Kommissionspräsidentin Ursula von der Leyen in Nikosia. Die EU-Außenbeauftragte Kaja Kallas sagte Mitte November, Syrien brauche Investitionen und einen erfolgreichen Übergang, und verlangte klare Bedingungen bei den Menschenrechten.",
+    "Diplomaten fürchten laut Al Jazeera, dass sich Brüssel vor allem auf die Rückführung von Syrern konzentriert. Während des Kriegs flohen mehr als eine Million Syrer nach Europa; seit Assads Sturz sind etwa eine Million Menschen zurückgekehrt, vor allem aus Libanon, der Türkei und Jordanien. Damaskus wirbt zugleich mit seiner Rolle im Kampf gegen den IS und als Transitland für Energie, seit die Schifffahrt durch die Straße von Hormus gestört ist."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Übernahme",
+    "Cybersicherheit",
+    "USA"
+   ],
+   "kicker": "Wirtschaft · Übernahme",
+   "titel": "Crowdstrike will Zscaler für rund 44 Milliarden Dollar in Aktien übernehmen",
+   "deck": "Der Zusammenschluss zweier großer Anbieter von Cybersicherheit kommt bei den Anlegern unterschiedlich an: Zscaler springt, Crowdstrike fällt deutlich.",
+   "text": [
+    "In der Branche für Cybersicherheit bahnt sich ein Großgeschäft an. Crowdstrike hat sich mit Zscaler auf eine Übernahme geeinigt, die laut Yahoo Finance einen Wert von 43,9 Milliarden Dollar hat. Bezahlt werden soll laut dpa-AFX ausschließlich in eigenen Aktien; Zscaler wird dabei mit rund 44 Milliarden Dollar bewertet.",
+    "Beide Unternehmen gehören zu den bekanntesten Anbietern von Sicherheitssoftware aus der Cloud. Crowdstrike ist vor allem für den Schutz von Endgeräten wie Laptops und Servern bekannt, Zscaler für die Absicherung des Datenverkehrs zwischen Nutzern, Anwendungen und Internet.",
+    "An der Börse fiel die Reaktion gespalten aus. Die Aktie von Zscaler stieg laut dpa-AFX um fast 18 Prozent, Crowdstrike verlor rund 9 Prozent. Das ist bei Übernahmen in Aktien nicht ungewöhnlich: Die Aktionäre des Käufers fürchten eine Verwässerung ihrer Anteile und einen zu hohen Preis, die Aktionäre des übernommenen Unternehmens erhalten einen Aufschlag. Bemerkenswert ist der Kursverlust auch deshalb, weil der Gesamtmarkt am selben Tag kräftig zulegte und Technologiewerte besonders gefragt waren.",
+    "Angaben zum Zeitplan des Abschlusses und zu nötigen Genehmigungen enthielten die Berichte vom Montag nicht. Crowdstrike-Aktionäre müssen die Verwässerung nun gegen die erhofften Vorteile eines breiteren Angebots abwägen."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance: Stock market today, Monday, November 23",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    ],
+    [
+     "finanzen.net/dpa-AFX: Aktien New York Schluss – Euphorie nach Rückkehr von Nvidia-Chef",
+     "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-nvidia-chef-16082663"
+    ],
+    [
+     "Ariva/dpa-AFX: Aktien New York Schluss",
+     "https://www.ariva.de/news/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-12217829"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "finanzen.net",
+    "ariva.de"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Bayer",
+    "Glyphosat",
+    "Recht"
+   ],
+   "kicker": "Wirtschaft · Chemie und Pharma",
+   "titel": "US-Gericht billigt Bayers Glyphosat-Vergleich über 7,25 Milliarden Dollar endgültig",
+   "deck": "Der Vergleich soll zehntausende Schadenersatzklagen beilegen; die Aktie gibt dennoch nach, weil unklar bleibt, wie viele Kläger nicht mitmachen.",
+   "text": [
+    "Bayer ist bei der Bewältigung seiner Glyphosat-Altlasten in den USA einen wichtigen Schritt vorangekommen. Ein US-Gericht hat einen Vergleich über 7,25 Milliarden Dollar endgültig gebilligt, berichtet Dow Jones. Mit dem Vergleich sollen zehntausende Schadenersatzforderungen beigelegt werden. Die Klagen gehen auf den Unkrautvernichter Roundup mit dem Wirkstoff Glyphosat zurück, den Bayer mit der Übernahme von Monsanto erworben hatte.",
+    "Die Anleger reagierten dennoch zurückhaltend. Die Bayer-Aktie stieg zunächst, schloss am Montag aber 0,71 Prozent im Minus, während der Dax um mehr als 2 Prozent zulegte. Die Analysten von JP Morgan wiesen darauf hin, dass nicht veröffentlicht wurde, wie viele Kläger sich gegen eine Teilnahme am Vergleich entschieden haben. Diese sogenannten Opt-outs könnten weiter einzeln klagen und damit ein Restrisiko für den Konzern darstellen. Zudem nahmen Anleger laut dem Portal ntg24 Gewinne mit.",
+    "Die Aktie hatte zuvor eine starke Erholung hinter sich: Seit Jahresbeginn liegt das Papier mehr als 40 Prozent im Plus. Wie groß die verbleibenden Risiken sind, dürfte nun von der Zahl der ausgestiegenen Kläger abhängen."
+   ],
+   "quellen": [
+    [
+     "finanzen.net/Dow Jones: Xetra-Schluss – Dax wieder über 25.000 Punkte",
+     "https://www.finanzen.net/nachricht/aktien/xetra-schluss-dax-wieder-ueber-25-000-punkte-huang-rueckkehr-befluegelt-16082300"
+    ],
+    [
+     "ntg24: Börsenschluss – Huang-Comeback beendet die DAX-Verlustserie",
+     "https://www.ntg24.de/Boersenschluss-Huang-Comeback-beendet-die-DAX-Verlustserie-23112026-MF"
+    ],
+    [
+     "MarketScreener/dpa-AFX: Aktien Frankfurt Schluss",
+     "https://de.marketscreener.com/boerse-nachrichten/aktien-frankfurt-schluss-anleger-feiern-rueckkehr-des-nvidia-chefs-ce7851dadd81f420"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.net",
+    "finanzen.at",
+    "ntg24.de",
+    "marketscreener.com"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Konjunktur",
+    "Deutschland",
+    "Rüstung"
+   ],
+   "kicker": "Wirtschaft · Konjunktur",
+   "titel": "Rüstung und Infrastruktur treiben die deutsche Wirtschaft – Industrie meldet fast Boom-Werte",
+   "deck": "Die Industrie stellt erstmals seit Jahren wieder ein; Dienstleister bauen dagegen weiter Stellen ab.",
+   "text": [
+    "Die Einkaufsmanagerumfrage von S&P Global und HCOB für November zeichnet das Bild eines kräftigen Aufschwungs in Deutschland, der vor allem von der Industrie getragen wird. Der Index für das verarbeitende Gewerbe erreichte 55,0 Punkte, der für die Dienstleister stieg von 52,5 auf 54,0 Punkte. Zusammen ergab sich der höchste Wert seit 56 Monaten.",
+    "Als wichtigsten Treiber nennt die Nachrichtenagentur Reuters die Staatsausgaben für Verteidigung und Infrastruktur. In der Industrie wurden erstmals seit knapp dreieinhalb Jahren wieder Stellen geschaffen; im Dienstleistungssektor setzte sich der Personalabbau dagegen fort.",
+    "Profitieren könnten nach Einschätzung des Portals Aktiencheck vor allem konjunkturabhängige Unternehmen wie Siemens, Rheinmetall und Hochtief. Die starken Daten machen demnach zugleich eine Zinspause der Europäischen Zentralbank unwahrscheinlicher; die Börsen-Zeitung halte eine Erhöhung um 0,25 Prozentpunkte im Dezember für sehr wahrscheinlich.",
+    "Weitere Anhaltspunkte liefern die kommenden Tage: Am Dienstag erscheint der Ifo-Geschäftsklimaindex, am Mittwoch die zweite Schätzung des Wirtschaftswachstums im dritten Quartal. Am 27. November stimmt der Bundestag über den Haushalt 2027 ab, Anfang Dezember legt die Bundesbank ihre neue Prognose vor."
+   ],
+   "quellen": [
+    [
+     "Aktiencheck: Deutsche Industrie stellt erstmals seit dreieinhalb Jahren wieder ein",
+     "https://aktiencheck.de/artikel/konjunktur-deutsche-industrie-stellt-erstmals-seit-dreieinhalb-jahren-wieder-ein"
+    ],
+    [
+     "Investing.com: Deutschland – Composite-PMI klettert im November auf 56-Monats-Hoch",
+     "https://de.investing.com/news/economic-indicators/deutschland-compositepmi-klettert-im-november-auf-56monatshoch-93CH-3781559"
+    ]
+   ],
+   "berichterstattung": [
+    "aktiencheck.de",
+    "investing.com",
+    "marketscreener.com",
+    "finanznachrichten.de",
+    "goldesel.de",
+    "fxstreet.de.com",
+    "diebewertung.de"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Oracle",
+    "KI",
+    "Rechenzentren"
+   ],
+   "kicker": "Wirtschaft · Technologie",
+   "titel": "Oracle sichert die Finanzierung für seinen OpenAI-Vertrag – die Aktie springt zweistellig",
+   "deck": "Die Zusage nimmt eine der größten Sorgen der vergangenen Wochen: Wie die Rechenzentren für den KI-Boom bezahlt werden sollen.",
+   "text": [
+    "Oracle hat nach eigenen Angaben die Finanzierung für seinen Rechenzentrumsvertrag mit OpenAI vollständig gesichert. Das teilte der Softwarekonzern am Montag mit, wie die Nachrichtenagentur AP und dpa-AFX berichten. Details zu Höhe, Geldgebern oder Konditionen nannten die Berichte nicht.",
+    "Die Aktie legte deutlich zu: Laut dpa-AFX gewann sie mehr als 12 Prozent, AP meldete im frühen Handel ein Plus von 15,6 Prozent. Der Kurssprung fiel zusammen mit der allgemeinen Erholung der Technologiewerte nach der Rückkehr von Jensen Huang an die Spitze von Nvidia, hatte aber einen eigenen Anlass.",
+    "Die Finanzierung der gewaltigen Investitionen in KI-Rechenzentren war in den vergangenen Wochen eine der Hauptsorgen am Markt. Anleger zweifelten, ob sich die oft mit Schulden bezahlten Projekte rechnen. Nach einem Bericht der Seoul Economic Daily, die sich auf das Wall Street Journal stützt, hatte der Anleihemarkt zuletzt Mühe, Anleihen von Meta und Oracle mit guter Bonität aufzunehmen; der KI-Cloudanbieter CoreWeave trägt bereits Ramschnoten.",
+    "Mit der gesicherten Finanzierung fällt für Oracle zumindest ein Unsicherheitsfaktor weg. Wie belastbar das Geschäftsmodell der großen KI-Infrastrukturverträge insgesamt ist, bleibt am Markt aber umstritten."
+   ],
+   "quellen": [
+    [
+     "AP/Boston Globe: US stocks soar and recover more than half of last week's plunge",
+     "https://www.bostonglobe.com/2026/11/23/business/us-stocks-markets-nvidia/"
+    ],
+    [
+     "finanzen.net/dpa-AFX: Aktien New York Schluss – Euphorie nach Rückkehr von Nvidia-Chef",
+     "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-nvidia-chef-16082663"
+    ],
+    [
+     "Seoul Economic Daily: Anthropic Aces IPO but Faces Junk Rating in Bond Market",
+     "https://en.sedaily.com/world/2026/11/23/anthropic-aces-ipo-but-faces-junk-rating-in-bond-market"
+    ]
+   ],
+   "berichterstattung": [
+    "bostonglobe.com",
+    "finanzen.net",
+    "ariva.de",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Mittelstand",
+    "Energie",
+    "Deutschland"
+   ],
+   "kicker": "Wirtschaft · Unternehmen",
+   "titel": "Thyssenkrupp Nucera verfehlt die eigene Prognose – 2G Energy meldet Rekordauftrag, Takkt senkt Ausblick",
+   "deck": "Aus der zweiten Reihe der deutschen Börse kamen am Montag gemischte Nachrichten: ein Wasserstoffspezialist mit tiefen roten Zahlen, ein Blockheizkraftwerk-Hersteller mit vollem Auftragsbuch.",
+   "text": [
+    "Der Elektrolysespezialist Thyssenkrupp Nucera hat mit seinen vorläufigen Zahlen enttäuscht. Das operative Ergebnis lag nach Angaben von Dow Jones bei minus 136 Millionen Euro. Das Unternehmen hatte selbst einen Verlust zwischen 75 und 105 Millionen Euro in Aussicht gestellt, Analysten hatten im Schnitt mit minus 90 Millionen Euro gerechnet. Auch der Umsatz blieb hinter den Erwartungen zurück. Die Aktie gab 0,9 Prozent nach.",
+    "Gute Nachrichten kamen dagegen von 2G Energy. Der Hersteller von Blockheizkraftwerken erhielt nach eigenen Angaben den größten Einzelauftrag seiner Firmengeschichte im deutschen Heimatmarkt. Er umfasst mehrere Kraft-Wärme-Kopplungs-Module mit einer elektrischen Leistung im mittleren zweistelligen Megawattbereich. Den Kunden nannte das Unternehmen nicht. Die Aktie stieg um 9,1 Prozent.",
+    "Der Büro- und Betriebsausstatter Takkt senkte seine Prognose für das Geschäftsjahr 2026, nachdem das Unternehmen im Oktober Ziel eines Cyberangriffs geworden war. Die Aktie verlor 1,5 Prozent. Der Brennstoffzellenhersteller SFC Energy erhielt einen ersten Auftrag im Wert von rund 1,7 Millionen kanadischen Dollar von einem großen Pipelinebetreiber im Westen Kanadas; das Papier legte 1,8 Prozent zu."
+   ],
+   "quellen": [
+    [
+     "finanzen.net/Dow Jones: Xetra-Schluss – Dax wieder über 25.000 Punkte",
+     "https://www.finanzen.net/nachricht/aktien/xetra-schluss-dax-wieder-ueber-25-000-punkte-huang-rueckkehr-befluegelt-16082300"
+    ],
+    [
+     "finanzen.at/Dow Jones: Xetra-Schluss – Dax wieder über 25.000 Punkte",
+     "https://www.finanzen.at/nachrichten/aktien/xetra-schluss-dax-wieder-ueber-25-000-punkte-huang-rueckkehr-befluegelt-1036792650"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.net",
+    "finanzen.at"
+   ]
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "USA",
+    "Nvidia"
+   ],
+   "kicker": "Finanzen · Wall Street",
+   "titel": "Bester Tag seit April 2025: Huangs Rückkehr zu Nvidia beschert der Wall Street ein Kursfeuerwerk",
+   "deck": "Der Nasdaq Composite springt um 6,5 Prozent, der S&P 500 um 4,7 Prozent; die Nvidia-Aktie legt mehr als 31 Prozent zu und holt fast eine Billion Dollar Börsenwert zurück.",
+   "text": [
+    "Eine Personalie hat am Montag die schwerste Börsenwoche seit langem fast zur Hälfte wieder vergessen gemacht. Der Verwaltungsrat von Nvidia setzte Jensen Huang mit sofortiger Wirkung wieder als Konzernchef ein. Huang war am 12. November zurückgetreten, nachdem über Affären mit zwei Mitarbeiterinnen und mit einer Managerin des Unternehmens Megaspeed berichtet worden war, die als mutmaßliche chinesische Agentin gilt. US-Präsident Donald Trump hatte öffentlich auf seine Rückkehr gedrängt. Der Verwaltungsrat erklärte, er habe Hinweise von hochrangigen Stellen der US-Regierung erhalten, Huangs Rückkehr stelle kein Risiko für die nationale Sicherheit dar. Die Untersuchung seiner Verbindungen zu der Managerin läuft weiter.",
+    "Der S&P 500 schloss 4,73 Prozent höher bei 7.237,17 Punkten, es war sein bester Tag seit April 2025. Der technologielastige Nasdaq Composite gewann 6,51 Prozent auf 24.089,56 Punkte, der Dow Jones Industrial stieg um 3,01 Prozent auf 49.595,31 Punkte. Am Freitag hatten der S&P 500 und der Dow eine Korrektur bestätigt, also einen Rückgang um mehr als 10 Prozent vom Rekordhoch; der Nasdaq 100 stand nahe an einem Bärenmarkt. Der S&P 500 liegt weiterhin mehr als 10 Prozent unter seinem Rekord vom Oktober.",
+    "Die Nvidia-Aktie schoss um 31,48 Prozent auf 165,05 Dollar nach oben, laut Reuters der größte Tagesgewinn seit 23 Jahren. Damit kehrte rund eine Billion Dollar an Börsenwert zurück; in der Vorwoche hatte das Papier fast 23 Prozent verloren. Vom Schlusskurs am 28. Oktober von gut 215 Dollar ist die Aktie laut dpa-AFX aber noch rund 30 Prozent entfernt. Einziger Sektor im Minus war bei fallendem Ölpreis die Energiebranche.",
+    "Ob die Erholung trägt, entscheidet sich womöglich schon am Mittwoch: Dann erscheint der PCE-Preisindex, das von der Fed bevorzugte Inflationsmaß. Am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen."
+   ],
+   "quellen": [
+    [
+     "Ariva/dpa-AFX: Aktien New York Schluss – Euphorie nach Rückkehr von Nvidia-Chef",
+     "https://www.ariva.de/news/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-12217829"
+    ],
+    [
+     "Yahoo Finance: Stock market today, Monday, November 23",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    ],
+    [
+     "Tradingkey: Market Recap – Nvidia surges 31%, Nasdaq jumps 6.5%",
+     "https://tradingkey.com/analysis/stocks/us-stocks/262319102-market-recap-nvidia-jensen-huang-return-nasdaq-rallies-oil-plunges-gold-rebounds-tradingkey"
+    ]
+   ],
+   "berichterstattung": [
+    "forbes.com",
+    "finance.yahoo.com",
+    "bostonglobe.com",
+    "bnnbloomberg.ca",
+    "ibtimes.com",
+    "ariva.de",
+    "finanzen.net",
+    "marketscreener.com",
+    "cash.ch",
+    "finanznachrichten.de",
+    "boerse.de",
+    "tradingkey.com",
+    "que.com",
+    "financial-world.org",
+    "stockinvest.us",
+    "nasdaq.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Halbleiter",
+    "KI"
+   ],
+   "kicker": "Finanzen · Chipwerte",
+   "titel": "Halbleiterindex springt um 14 Prozent – Micron, Intel und die KI-Infrastruktur heben ab",
+   "deck": "Nach der schlimmsten Woche für Chipwerte seit 2001 kaufen Anleger die gesamte KI-Lieferkette zurück; Oracle profitiert zusätzlich von einer gesicherten Finanzierung.",
+   "text": [
+    "Die Rückkehr von Jensen Huang an die Spitze von Nvidia hat am Montag die gesamte KI-Branche mitgerissen. Der Philadelphia Semiconductor Index, das wichtigste Barometer für Halbleiterwerte an der Wall Street, schloss laut Tradingkey 14,03 Prozent höher. In der Vorwoche hatten Chipaktien nach Angaben von Yahoo Finance ihre schlimmste Woche seit 2001 erlebt.",
+    "Unter den Einzelwerten stach Micron mit einem Plus von 19,04 Prozent hervor, Intel gewann 16,34 Prozent. Astera Labs und Credo Technology legten jeweils mehr als 20 Prozent zu. Auch die Arm-Aktie stieg laut dpa-AFX um rund 16 Prozent; Arm-Chef Rene Haas hatte seinen Vertrag bis 2033 verlängert. AMD und Broadcom gewannen nach Angaben von Yahoo Finance jeweils etwa 4 Prozent.",
+    "Kräftig erholten sich die Anbieter von Rechenzentrumskapazität, deren hohe Schuldenfinanzierung in den vergangenen Wochen zu den Hauptsorgen der Anleger gehört hatte. CoreWeave und Nebius stiegen zeitweise um bis zu 30 Prozent; CoreWeave liegt seit Jahresbeginn aber immer noch rund 30 Prozent im Minus. Oracle gewann laut dpa-AFX mehr als 12 Prozent, nachdem der Konzern mitgeteilt hatte, die Finanzierung für seinen Rechenzentrumsvertrag mit OpenAI vollständig gesichert zu haben.",
+    "Die Gewinne spiegeln laut Analysten eher eine Entlastung als neue Zuversicht wider: Huangs Rückkehr habe die Angst und Unsicherheit rund um den KI-Handel zumindest an den Rändern gemildert, zitiert Reuters einen Marktbeobachter. Die Grundfragen, die den Ausverkauf ausgelöst hatten, nämlich die Finanzierung der milliardenschweren KI-Investitionen und deren Rendite, sind damit nicht beantwortet."
+   ],
+   "quellen": [
+    [
+     "Tradingkey: Market Recap",
+     "https://tradingkey.com/analysis/stocks/us-stocks/262319102-market-recap-nvidia-jensen-huang-return-nasdaq-rallies-oil-plunges-gold-rebounds-tradingkey"
+    ],
+    [
+     "Yahoo Finance: Stock market today, Monday, November 23",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    ],
+    [
+     "Ariva/dpa-AFX: Aktien New York Schluss",
+     "https://www.ariva.de/news/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-12217829"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "tradingkey.com",
+    "ariva.de",
+    "ibtimes.com",
+    "marketscreener.com",
+    "finviz.com",
+    "business-standard.com"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "DAX",
+    "Deutschland"
+   ],
+   "kicker": "Finanzen · Frankfurt",
+   "titel": "Dax springt wieder über 25.000 Punkte – Siemens Energy und Infineon führen die Erholung an",
+   "deck": "Nach sechs Verlusttagen in Folge gewinnt der deutsche Leitindex 2,15 Prozent; Rückenwind kommen von Nvidia und überraschend starken Konjunkturdaten.",
+   "text": [
+    "Die Rückkehr von Jensen Huang an die Spitze von Nvidia hat auch die Frankfurter Börse beflügelt und die Verlustserie des Dax beendet. Der Leitindex schloss am Montag 2,15 Prozent höher bei 25.337,27 Punkten und eroberte damit die Marke von 25.000 Punkten zurück, unter die er in der Vorwoche gefallen war. Der MDax der mittelgroßen Werte stieg um 1,93 Prozent auf 29.296,26 Punkte, der Euro Stoxx 50 um 2,23 Prozent auf 6.074,47 Punkte. Der europäische Technologiesektor legte 4,4 Prozent zu.",
+    "Gefragt waren vor allem Werte mit Bezug zur Künstlichen Intelligenz. Siemens Energy führte den Dax mit einem Plus von 6,9 Prozent an, Infineon gewann 6,6 Prozent, auch Hochtief zählte zu den Gewinnern. In der zweiten Reihe stiegen Siltronic, Aixtron, Süss Microtec und Jenoptik um 7,2 bis 13,3 Prozent. Zusätzlichen Rückenwind gab der Einkaufsmanagerindex für die deutsche Privatwirtschaft, der überraschend auf 55,0 Punkte kletterte.",
+    "Zu den wenigen Verlierern gehörte Bayer mit minus 0,7 Prozent. Ein US-Gericht hatte zwar einen Vergleich über 7,25 Milliarden Dollar endgültig gebilligt, laut JP Morgan blieb aber offen, wie viele Kläger sich nicht anschließen. Nemetschek verlor 5,7 Prozent nach einer Herabstufung durch JPMorgan auf Untergewichten. Thyssenkrupp Nucera gab 0,9 Prozent nach, nachdem der Elektrolysespezialist einen operativen Verlust von 136 Millionen Euro ausgewiesen hatte.",
+    "Ein Analyst von IG sprach von einem kräftigen Vertrauensschub für den angeschlagenen Markt; die nächsten Handelstage müssten aber zeigen, ob sich eine nachhaltige Trendwende bilde. Timo Emden von Captrader sieht in Huangs Rückkehr ein mögliches Signal der Stabilität für die fragilen Märkte. Am Dienstag folgt der Ifo-Geschäftsklimaindex."
+   ],
+   "quellen": [
+    [
+     "finanzen.net/Dow Jones: Xetra-Schluss – Dax wieder über 25.000 Punkte",
+     "https://www.finanzen.net/nachricht/aktien/xetra-schluss-dax-wieder-ueber-25-000-punkte-huang-rueckkehr-befluegelt-16082300"
+    ],
+    [
+     "MarketScreener/dpa-AFX: Aktien Frankfurt Schluss – Anleger feiern Rückkehr des Nvidia-Chefs",
+     "https://de.marketscreener.com/boerse-nachrichten/aktien-frankfurt-schluss-anleger-feiern-rueckkehr-des-nvidia-chefs-ce7851dadd81f420"
+    ]
+   ],
+   "berichterstattung": [
+    "finanzen.net",
+    "finanzen.at",
+    "marketscreener.com",
+    "ntg24.de",
+    "klamm.de",
+    "wallstreet-online.de",
+    "ad-hoc-news.de",
+    "goldesel.de",
+    "aktiencheck.de"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Asien"
+   ],
+   "kicker": "Finanzen · Asien",
+   "titel": "Taiwans Börse springt um mehr als 9 Prozent – Asiens Chipwerte holen den Ausverkauf auf",
+   "deck": "Der Kospi überspringt wieder die Marke von 5.000 Punkten, in Tokio steigt der Nikkei nach dem Feiertag um rund 4 Prozent; TSMC und Tokyo Electron legen zweistellig oder fast zweistellig zu.",
+   "text": [
+    "Die Erholung der Wall Street hat am Dienstag auch die asiatischen Börsen mitgerissen, vor allem jene, die in der Vorwoche am stärksten unter dem KI-Ausverkauf gelitten hatten. Der Taiex in Taiwan stieg nach Angaben der Nachrichtenagentur AP um mehr als 9 Prozent. Die Schwergewichte TSMC und Mediatek legten jeweils fast 10 Prozent zu. Taiwans Börse hatte in der Vorwoche ihre schlimmste Woche seit 1991 erlebt.",
+    "In Seoul gewann der Kospi laut AP 6,5 Prozent auf 5.014,41 Punkte, Reuters meldete im Handelsverlauf zeitweise sogar ein Plus von 7,5 Prozent. Samsung Electronics stieg um 7,5 Prozent, SK Hynix um 8,6 Prozent. Am Montag hatte der Kospi noch 3,3 Prozent verloren, belastet von großen KI-Werten, während der Taiex bereits 2,2 Prozent gewann.",
+    "Die Börse in Tokio, die am Montag wegen eines Feiertags geschlossen war, holte die Bewegung nach: Der Nikkei 225 stieg laut AP um 3,9 Prozent auf 58.654,40 Punkte, angeführt von Halbleiterwerten wie Tokyo Electron mit plus 10,5 Prozent und Advantest mit plus 14,1 Prozent. Der MSCI-Index für den asiatisch-pazifischen Raum ohne Japan gewann laut Reuters 4,6 Prozent.",
+    "Zurückhaltender blieben die chinesischen Märkte, die weniger stark auf den KI-Handel ausgerichtet sind: Der Hang Seng in Hongkong legte 0,2 Prozent auf 22.432,45 Punkte zu, der Shanghai Composite 0,7 Prozent auf 3.563,58 Punkte. Der australische S&P/ASX 200 stieg um 1,7 Prozent. Die US-Terminkontrakte notierten am Morgen kaum verändert."
+   ],
+   "quellen": [
+    [
+     "AP/WSLS: Asian stocks rally after Wall Street rebound",
+     "https://www.wsls.com/business/2026/11/24/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo/"
+    ],
+    [
+     "Reuters/Yahoo Finance: Asian stocks rally as Huang's Nvidia return revives AI trade",
+     "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+    ],
+    [
+     "AP/BNN Bloomberg: World shares mixed as big tech stocks fall in Asia",
+     "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/23/us-futures-climb-and-world-shares-are-mixed-as-big-tech-stocks-fall-in-asia/"
+    ]
+   ],
+   "berichterstattung": [
+    "wsls.com",
+    "finance.yahoo.com",
+    "brecorder.com",
+    "investing.com",
+    "business-standard.com",
+    "asia.nikkei.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Fed",
+    "Zinsen",
+    "Anleihen"
+   ],
+   "kicker": "Finanzen · Notenbank",
+   "titel": "Zinserhöhung im Dezember gilt als ausgemacht – Renditen der Treasuries steigen den zweiten Tag",
+   "deck": "Mit der Rückkehr der Risikofreude ziehen die Anleiherenditen leicht an; am Terminmarkt ist eine Fed-Erhöhung am 9. Dezember laut CME FedWatch voll eingepreist.",
+   "text": [
+    "Die Erleichterungsrally an den Aktienmärkten hat die Flucht in US-Staatsanleihen vorerst beendet. Die Rendite zehnjähriger Treasuries stieg am Montag laut AP von 4,92 Prozent am späten Freitag auf 4,93 Prozent und lag am Dienstagmorgen in Asien laut Reuters bei 4,94 Prozent, das zweite Plus in Folge. Die Rendite zweijähriger Papiere, die besonders empfindlich auf Zinserwartungen reagiert, notierte bei 4,69 Prozent.",
+    "Am Geldmarkt ist die nächste Zinserhöhung der US-Notenbank inzwischen fest eingeplant. Nach dem CME-FedWatch-Werkzeug preisen die Fed-Funds-Futures eine Erhöhung bei der Sitzung am 9. Dezember als sicher ein, nach einer Wahrscheinlichkeit von 89 Prozent am Freitag. Die Chance auf einen großen Schritt um einen halben Prozentpunkt liegt demnach bei etwa 5 Prozent. Auf der Prognoseplattform Polymarket lag die Wahrscheinlichkeit für eine Erhöhung laut Yahoo Finance zuletzt bei rund 91 Prozent, nach 98 Prozent am 12. November.",
+    "Zuletzt hatte Fed-Gouverneurin Lisa Cook am Freitag gewarnt, ein längeres Abwarten mit Zinserhöhungen berge das Risiko, hinter die Entwicklung zurückzufallen. Gleichzeitig deuteten schwächere Konjunkturdaten und sinkende Inflationserwartungen zuletzt darauf hin, dass der Druck nachlassen könnte; einige Händler hätten ihre Wetten auf eine Dezember-Erhöhung deshalb etwas zurückgenommen, berichtet Kitco.",
+    "Entscheidend wird der Mittwoch: Dann veröffentlicht das US-Handelsministerium den PCE-Preisindex für Oktober, das bevorzugte Inflationsmaß der Fed, zusammen mit der zweiten Schätzung des Wachstums im dritten Quartal. Am Abend folgt das Konjunkturbuch Beige Book."
+   ],
+   "quellen": [
+    [
+     "Reuters/Yahoo Finance: Asian stocks rally as Huang's Nvidia return revives AI trade",
+     "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+    ],
+    [
+     "AP/WSLS: Asian stocks rally after Wall Street rebound",
+     "https://www.wsls.com/business/2026/11/24/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo/"
+    ],
+    [
+     "Kitco: Gold, silver prices see sharp rebounds",
+     "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "wsls.com",
+    "kitco.com",
+    "business-standard.com",
+    "fxstreet.com",
+    "tradingkey.com"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Rohstoffe",
+    "Opec"
+   ],
+   "kicker": "Finanzen · Rohstoffe",
+   "titel": "Brent fällt auf den tiefsten Stand seit August – Libyens Pipeline und volle Tanker drücken den Preis",
+   "deck": "Das Nordseeöl verbilligt sich um 3,5 Prozent auf 89,37 Dollar; Angriffe am Golf verlieren gegen die Aussicht auf ein Überangebot.",
+   "text": [
+    "Der Ölpreis hat seine Talfahrt zum Wochenauftakt beschleunigt. Ein Barrel der Nordseesorte Brent zur Lieferung im Januar verbilligte sich am Montag um 3,46 Prozent auf 89,37 Dollar. Im Handelsverlauf fiel der Preis laut Reuters bis auf 88,60 Dollar, den tiefsten Stand seit dem 27. August. Die US-Sorte WTI verlor 3,88 Prozent auf 80,17 Dollar und rutschte zeitweise bis auf 79,95 Dollar. Brent hatte bereits drei Wochen in Folge verloren.",
+    "Händler verwiesen auf wachsende Lieferungen aus dem Nahen Osten und den Neustart der Sharara-Pipeline in Libyen. Nach Angaben des Chefs der staatlichen libyschen Ölgesellschaft NOC fließt Rohöl wieder in die Tanks der Anlage Akakus in Zawiya. Eine vorläufige Reuters-Umfrage deutet zudem auf einen Anstieg der US-Lagerbestände an Rohöl und Ölprodukten um rund 900.000 Barrel in der Woche bis zum 20. November hin.",
+    "Die Spannungen in der Region traten dahinter zurück. Die britische Seesicherheitsbehörde UKMTO meldete am Wochenende mehrere Angriffe im Golf und nahe der Straße von Hormus, die Huthi reklamierten einen Angriff auf eine saudische Raffinerie, Bahrain meldete einen iranischen Treffer auf eine zivile Industrieanlage. Es seien teils die zunehmenden Anzeichen einer Schwemme, sagte IG-Chefanalyst Chris Beauchamp, aber mit jedem Tag erscheine es auch unwahrscheinlicher, dass Trump erneut angreife.",
+    "JPMorgan erwartet wegen eines Angebotsüberschusses, dass die Ölpreise im ersten Halbjahr 2027 in den Bereich der hohen 70 Dollar fallen. Die Bank of America sieht dagegen die Geopolitik weiterhin als wichtigsten Preistreiber. Am 29. November beraten die Minister der Opec+ über ihre Förderpolitik für 2027. Am Dienstagmorgen pendelte Brent laut Reuters um 89,50 Dollar."
+   ],
+   "quellen": [
+    [
+     "Reuters/Korea Times: Oil falls around 3% on increased Middle East flows, Libyan pipeline restart",
+     "https://www.koreatimes.co.kr/world/20261124/oil-falls-around-3-on-increased-middle-east-flows-libyan-pipeline-restart"
+    ],
+    [
+     "Tradingkey: Market Recap",
+     "https://tradingkey.com/analysis/stocks/us-stocks/262319102-market-recap-nvidia-jensen-huang-return-nasdaq-rallies-oil-plunges-gold-rebounds-tradingkey"
+    ],
+    [
+     "Reuters/Yahoo Finance: Asian stocks rally",
+     "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+    ]
+   ],
+   "berichterstattung": [
+    "koreatimes.co.kr",
+    "adaderana.lk",
+    "investinglive.com",
+    "houseofsaud.com",
+    "time.news",
+    "memesita.com",
+    "tradingkey.com",
+    "invezz.com",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Rohstoffe"
+   ],
+   "kicker": "Finanzen · Edelmetalle",
+   "titel": "Gold erholt sich vom Jahrestief und steigt wieder über 3.600 Dollar – Silber legt fast 5 Prozent zu",
+   "deck": "Mit dem Ende der Zwangsverkäufe kehren Schnäppchenjäger zurück; Händler warnen aber vor einer längeren Seitwärtsphase.",
+   "text": [
+    "Nach dem Ausverkauf der Vorwoche hat sich der Goldpreis am Montag kräftig erholt. Eine Feinunze kostete am Abend laut Tradingkey 3.634,72 Dollar, ein Plus von 2,74 Prozent. Damit eroberte das Edelmetall die Marke von 3.600 Dollar zurück, nachdem es in der Vorwoche auf den tiefsten Stand seit mehr als einem Jahr gefallen war. Silber verteuerte sich um 4,65 Prozent auf 43,14 Dollar je Unze. Am Dienstagmorgen legte Gold in Asien laut Reuters um weitere 0,7 Prozent auf 3.657,97 Dollar zu.",
+    "Als Gründe nennt das Fachportal Kitco Schnäppchenkäufe und die bessere Stimmung an den Aktienmärkten nach Jensen Huangs Rückkehr zu Nvidia. Vor allem habe der Verkaufsdruck nachgelassen: In der Vorwoche hatten viele Anleger Edelmetalle verkauft, um Geld für Nachschussforderungen bei ihren Aktiengeschäften zu beschaffen. Hinzu komme ein geopolitischer Risikoaufschlag wegen der anhaltenden Spannungen an der Straße von Hormus.",
+    "Belastend wirken dagegen die hohen Anleiherenditen: Bei einer Rendite zehnjähriger US-Staatsanleihen von rund 4,92 Prozent ist es vergleichsweise teuer, Gold zu halten, das keine Zinsen abwirft. Zudem gilt eine weitere Zinserhöhung der Fed im Dezember am Terminmarkt als nahezu sicher.",
+    "Matthew Jones vom Händler Britannia Bullion rechnet bis ins Jahr 2027 eher mit einer Konsolidierung als mit einer schnellen Rückkehr zu früheren Höchstständen. Ein nachhaltiger Bruch unter 3.500 Dollar ohne anschließende Erholung wäre aus seiner Sicht ein Zeichen, dass sich die langfristig positive Struktur verschlechtert. Sinkende Realzinsen und ein schwächerer Dollar könnten Gold dagegen schon vor ersten Zinssenkungen der Fed stützen."
+   ],
+   "quellen": [
+    [
+     "Kitco: Gold, silver prices see sharp rebounds as AI shares rally",
+     "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed"
+    ],
+    [
+     "Tradingkey: Market Recap",
+     "https://tradingkey.com/analysis/stocks/us-stocks/262319102-market-recap-nvidia-jensen-huang-return-nasdaq-rallies-oil-plunges-gold-rebounds-tradingkey"
+    ],
+    [
+     "Reuters/Yahoo Finance: Asian stocks rally",
+     "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+    ]
+   ],
+   "berichterstattung": [
+    "kitco.com",
+    "fxstreet.com",
+    "mitrade.com",
+    "tradingkey.com",
+    "invezz.com",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börsengang",
+    "Anleihen",
+    "Anthropic"
+   ],
+   "kicker": "Finanzen · Börsengang",
+   "titel": "Anthropic-Aktie bleibt knapp über dem Ausgabepreis – Anleiheinvestoren rechnen mit Ramschnote",
+   "deck": "Während die KI-Werte am Montag haussieren, verliert die Neuemission weiter; große Bondfonds erwarten laut WSJ nur ein BB-Rating für die Schulden des Billionenkonzerns.",
+   "text": [
+    "Die Erholungsrally an der Wall Street ist am Montag an der jüngsten Neuemission vorbeigegangen. Die Aktie von Anthropic, das die Redaktion dieser Zeitung betreibt, verlor laut dpa-AFX 1,4 Prozent auf 87,64 Dollar, nachdem sie am Freitag fast auf den Ausgabepreis von 83 Dollar gefallen war. Am ersten Handelstag, Donnerstag vergangener Woche, hatte das Papier nach dem bislang größten Börsengang der Geschichte noch 17 Prozent zugelegt, am Freitag dann 9 Prozent verloren.",
+    "Für Gesprächsstoff sorgt nun die Anleiheseite. Nach einem Bericht des Wall Street Journal, den unter anderem die Seoul Economic Daily aufgreift, erwarten mehrere große Rentenfondsmanager für das Unternehmen eine Bonitätsnote im Bereich BB, also die oberste Stufe des spekulativen Segments, im Börsenjargon Ramsch. Ein offizielles Rating gibt es noch nicht. Anthropic wäre damit gemessen am Börsenwert das größte Unternehmen der USA ohne Investment-Grade-Note.",
+    "Hintergrund sind die Verpflichtungen für Rechenkapazität von rund 900 Milliarden Dollar, die das Unternehmen eingegangen ist, sowie die fehlende Profitabilität. Dem stehen laut dem Bericht Barmittel von 96 Milliarden Dollar plus die Erlöse aus dem Börsengang gegenüber, was nach Einschätzung von Fachleuten mindestens ein Jahr an Zahlungen abdeckt. Etwa die Hälfte der Ausgaben wird demnach erst ab 2030 fällig. Craig Manchuck von Osterweis Capital Management rechnet damit, dass der Markt eine Anleiheemission angesichts der Zusagen skeptisch aufnehmen würde.",
+    "Fondsmanager halten deshalb strukturierte Finanzierungen oder mit Chips besicherte Kredite für wahrscheinlich. Auch der KI-Cloudanbieter CoreWeave trägt Ramschnoten; Anleihen von Meta und Oracle mit guter Bonität hatte der Markt zuletzt nur schwer aufgenommen."
+   ],
+   "quellen": [
+    [
+     "Seoul Economic Daily: Anthropic Aces IPO but Faces Junk Rating in Bond Market",
+     "https://en.sedaily.com/world/2026/11/23/anthropic-aces-ipo-but-faces-junk-rating-in-bond-market"
+    ],
+    [
+     "Ariva/dpa-AFX: Aktien New York Schluss",
+     "https://www.ariva.de/news/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-12217829"
+    ],
+    [
+     "Yahoo Finance: Stock market today, Monday, November 23",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    ]
+   ],
+   "berichterstattung": [
+    "sedaily.com",
+    "fnnews.com",
+    "marketscreener.com",
+    "wionews.com",
+    "huggingnews.com",
+    "forbes.com",
+    "ariva.de",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Devisen",
+    "Euro",
+    "Konjunktur"
+   ],
+   "kicker": "Finanzen · Devisen",
+   "titel": "Deutschland boomt, Frankreich schrumpft – der Euro bleibt nahe seinem 19-Monats-Tief",
+   "deck": "Der Einkaufsmanagerindex für Deutschland springt auf 55,0 Punkte, der für Frankreich fällt auf 46,2; die Gemeinschaftswährung kommt kaum vom Fleck.",
+   "text": [
+    "Selten lagen die beiden größten Volkswirtschaften der Eurozone so weit auseinander. Der Einkaufsmanagerindex von S&P Global und HCOB für die deutsche Privatwirtschaft stieg im November auf 55,0 Punkte, nach 53,4 im Oktober. Ökonomen hatten mit 53,3 Punkten gerechnet; Werte über 50 signalisieren Wachstum. In Frankreich fiel der Index dagegen auf 46,2 Punkte von 46,6, erwartet worden waren 51,9. Für die gesamte Eurozone blieb der Wert unverändert bei 51,7 Punkten.",
+    "„Was für eine schöne Überraschung“, kommentierte HCOB-Chefökonom Cyrus de la Rubia die deutschen Zahlen; bei der Industrieproduktion sei man fast in einem Boom-Territorium. Die Beschäftigung in der deutschen Industrie stieg erstmals seit knapp dreieinhalb Jahren. Für Frankreich sieht Joe Hayes von S&P Global Market Intelligence dagegen eine gestiegene Wahrscheinlichkeit für eine technische Rezession im vierten Quartal. Finanzminister Roland Lescure räumte ein, es drohe eine Senkung der Wachstumsprognose.",
+    "Am Devisenmarkt half das dem Euro wenig. Die Gemeinschaftswährung kostete am Dienstagmorgen laut AP 1,0913 Dollar nach 1,0911 Dollar am Vorabend. Der Dollar liegt laut Reuters nahe seinem höchsten Stand gegenüber dem Euro seit mehr als 19 Monaten, gestützt von der Erwartung einer weiteren Zinserhöhung der Fed im Dezember.",
+    "Zum Yen notierte der Dollar laut AP bei 158,92 Yen, nach 159,13 Yen am Montagmorgen. Am Dienstag stehen in Deutschland der Ifo-Geschäftsklimaindex und in den USA das Verbrauchervertrauen des Conference Board an."
+   ],
+   "quellen": [
+    [
+     "MarketScreener/Reuters: Deutscher Aufschwung gewinnt an Breite – Frankreich im Abwärtsstrudel",
+     "https://de.marketscreener.com/boerse-nachrichten/deutscher-aufschwung-gewinnt-an-breite-frankreich-im-abwaertsstrudel-ce7851dad88ef326"
+    ],
+    [
+     "AP/WSLS: Asian stocks rally after Wall Street rebound",
+     "https://www.wsls.com/business/2026/11/24/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo/"
+    ],
+    [
+     "Reuters/Yahoo Finance: Asian stocks rally",
+     "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+    ]
+   ],
+   "berichterstattung": [
+    "marketscreener.com",
+    "investing.com",
+    "goldesel.de",
+    "finanznachrichten.de",
+    "aktiencheck.de",
+    "fxstreet.de.com",
+    "diebewertung.de",
+    "wsls.com",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Börse",
+    "Volatilität",
+    "USA"
+   ],
+   "kicker": "Finanzen · Marktstimmung",
+   "titel": "Angstbarometer VIX fällt um ein Viertel – Wende oder nur eine Bärenmarktrally?",
+   "deck": "Der QQQ-Fonds erlebt den stärksten Handelsstart seiner Geschichte; Nomura sieht vor allem mechanische Käufe am Werk, Goldman nennt drei Voraussetzungen für einen Boden.",
+   "text": [
+    "Wie extrem die Stimmung umgeschlagen ist, zeigen die Daten vom Handelsbeginn am Montag. Der börsengehandelte Fonds QQQ auf den Nasdaq 100 eröffnete laut Yahoo Finance fast 8 Prozent höher, der größte Sprung zum Handelsstart seit seiner Auflegung im Jahr 1999. Der SPY auf den S&P 500 startete 5 Prozent im Plus, der stärkste Montagsauftakt seit 1993 mit Ausnahme des 13. Oktober 2008. Der Volatilitätsindex VIX, das sogenannte Angstbarometer der Wall Street, fiel um rund ein Viertel auf 26,62 Punkte.",
+    "Charlie McElligott, Stratege bei Nomura, führt einen großen Teil der Rally auf einen massiven Schub mechanischer Käufe zurück: Leerverkäufer mussten ihre Positionen eindecken, Optionshändler ihre Absicherungen anpassen. Das garantiere nichts, warnte er. Goldman Sachs nannte drei mögliche Auslöser für einen nachhaltigen Boden: mehr Vertrauen in die Gewinne aus dem KI-Geschäft, ein Signal der Fed in Richtung lockerer Geldpolitik oder einen deutlichen Abbau der Anlegerpositionen.",
+    "Fundamental haben die Unternehmen geliefert: Die Firmen im S&P 500 steuern laut FactSet für das Sommerquartal auf ein Gewinnwachstum von fast 33 Prozent gegenüber dem Vorjahr zu, das dritte Quartal in Folge mit mehr als 25 Prozent. Zugleich hatte der Index seit seinem Hoch am 6. Oktober bis Freitag rund 8 Billionen Dollar an Börsenwert verloren und sieben Tage in Folge nachgegeben. Der Dow erlebte die schlechteste Woche seit dem Corona-Ausverkauf 2020.",
+    "Auch in Frankfurt mahnen Beobachter zur Vorsicht. Huangs Rückkehr könne das Vertrauen in den KI-Sektor wiederherstellen, angesichts der hohen Schwankungen aber womöglich nur vorübergehend, sagte Timo Emden von Captrader laut dpa-AFX. Ein erster Härtetest steht am Mittwoch mit den US-Inflationsdaten an."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance: Stock market today, Monday, November 23",
+     "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    ],
+    [
+     "AP/Boston Globe: US stocks soar and recover more than half of last week's plunge",
+     "https://www.bostonglobe.com/2026/11/23/business/us-stocks-markets-nvidia/"
+    ],
+    [
+     "Ariva/dpa-AFX: Aktien New York Schluss",
+     "https://www.ariva.de/news/roundup-aktien-new-york-schluss-euphorie-nach-rueckkehr-von-12217829"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "bostonglobe.com",
+    "ariva.de",
+    "que.com",
+    "ibtimes.com"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "ETF"
+   ],
+   "kicker": "Krypto · ETF-Ströme",
+   "titel": "1,79 Milliarden Dollar in einer Woche: Die Abflüsse aus den Bitcoin-ETF werden zum Dauerzustand",
+   "deck": "Vierte Verlustwoche in Folge für die US-Spot-ETF, Ether-Fonds verlieren zum achten Mal – Analysten sehen keine Panik mehr, sondern strukturellen Risikoabbau.",
+   "text": [
+    "Die amerikanischen Spot-Bitcoin-ETF haben in der vergangenen Handelswoche netto rund 1,79 Milliarden Dollar verloren. Das ist nach Daten von SoSoValue der größte Wochenabfluss seit der Woche bis zum 26. Juni 2026 und die vierte Verlustwoche in Folge. Den Löwenanteil trug Blackrocks IBIT mit 1,37 Milliarden Dollar. Seit Monatsbeginn summieren sich die Abflüsse auf etwa 4,14 Milliarden Dollar; das verwaltete Vermögen der Produkte lag am Freitag bei 71,35 Milliarden Dollar, nach rund 110 Milliarden Mitte September. Die Spot-Ether-ETF verbuchten 314 Millionen Dollar Abflüsse – die achte negative Woche in Serie.",
+    "Rick Maeda, Marktchef bei Laevitas, spricht von „überwiegend Risikoabbau“: Krypto stehe am äußersten Ende des Risikospektrums und lasse sich am leichtesten abstoßen, zumal Debatten über Quantencomputer und eine Serie von Hacks belasteten. Dan Khus von LVRG Research hält die vierwöchige Serie für strukturell – anders als frühere, ereignisgetriebene Abflusswellen. Dominick John von Zeus Research erwartet kurzfristig weitere Rückgaben und hält Bitcoin für widerstandsfähiger als Ether. Der Fear-and-Greed-Index von The Block stand bei 11, also „extreme Angst“.",
+    "Auch Ark Invest zog sich teilweise zurück: Cathie Woods Haus verkaufte laut eigenen Handelsmeldungen 1,45 Millionen Anteile am 3iQ Ether Staking ETF (ETHQ.U) für knapp 9 Millionen Dollar und 1,05 Millionen Anteile am 3iQ Solana Staking ETF (SOLQ.U) für 5,8 Millionen Dollar. Beide Fonds haben binnen eines Monats rund ein Drittel verloren. Zugleich kaufte Ark Aktien von Circle für 10,4 Millionen und Coinbase für 6,4 Millionen Dollar.",
+    "Am Montagmorgen notierte Ether um 2 Uhr New Yorker Zeit bei 1.728 Dollar, 4,2 Prozent über dem Vortag und deutlich über dem Wochenendtief von etwa 1.558 Dollar; Solana stieg auf 71,93 Dollar. Als nächster Taktgeber gilt der PCE-Preisindex am Mittwoch, der Hinweise auf die erwartete Zinserhöhung der Fed im Dezember liefern dürfte."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
+    ],
+    [
+     "The Block (Ark)",
+     "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Regulierung",
+    "Südkorea",
+    "Stablecoins"
+   ],
+   "kicker": "Krypto · Regulierung · Südkorea",
+   "titel": "Südkorea legt den Entwurf des Digital Asset Basic Act vor – Banken sollen den Won-Stablecoin kontrollieren",
+   "deck": "Die Finanzaufsicht FSC will noch diese Woche ihren Gesetzentwurf veröffentlichen; umstritten sind eine Obergrenze für Großaktionäre von Börsen und das Bankenmodell für Stablecoins.",
+   "text": [
+    "Südkoreas Finanzaufsicht Financial Services Commission (FSC) bereitet nach übereinstimmenden Berichten lokaler Medien die Veröffentlichung des Regierungsentwurfs für den Digital Asset Basic Act vor, noch in dieser Woche. Es wäre nach dem 2024 in Kraft getretenen Virtual Asset User Protection Act das zweite große Kryptogesetz des Landes. Während das erste Gesetz vor allem Kundenvermögen schützen und Marktmanipulation verhindern sollte, soll das neue einen umfassenden Rahmen setzen: eine Definition digitaler Vermögenswerte, Regeln für Ausgabe und Vertrieb sowie ein Lizenzregime, das das bisherige bloße Meldeverfahren für Kryptounternehmen ablöst.",
+    "Am heftigsten umstritten ist eine Obergrenze für die Beteiligung von Großaktionären an Kryptobörsen. Berichten zufolge sind 15 bis 20 Prozent im Gespräch, um Machtkonzentration zu verringern; bestätigt sind die Werte nicht. Die Branche lehnt die Deckelung als Eingriff in Marktwirtschaft und Eigentumsrechte ab. Die Debatte läuft schon länger: Bereits im Januar hatte die regierende Demokratische Partei einen eigenen Entwurf festgezurrt, der unter anderem ein eingezahltes Kapital von rund 5 Milliarden Won für Stablecoin-Emittenten vorsah.",
+    "Beim Stablecoin setzt der Entwurf laut den Berichten auf ein bankenzentriertes Konsortialmodell: Won-gebundene Stablecoins sollen von Konsortien ausgegeben werden, an denen Banken mehr als 50 Prozent halten. Die Zentralbank unterstützt diese Struktur, weil eine unkontrollierte Ausgabe die Geldwertstabilität gefährden könne. Präsident Lee Jae-myung hatte einen Stablecoin-Markt in Landeswährung gefordert, um die monetäre Souveränität zu sichern; Fintechs kritisieren, das Bankenprimat bremse Innovation.",
+    "Hinzu kommen Vorgaben zu Governance und internen Kontrollen, Verhaltensregeln nach dem Vorbild klassischer Finanzinstitute sowie Trennung von Kundenvermögen. Nach der Veröffentlichung soll der Regierungsentwurf mit den Vorlagen der Abgeordneten zusammengeführt und in der Nationalversammlung beraten werden."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881"
+    ],
+    [
+     "crypto.news",
+     "https://crypto.news/south-korea-finalizes-draft-of-digital-asset-bill/"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "crypto.news",
+    "cointelegraph.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Hack",
+    "DeFi"
+   ],
+   "kicker": "Krypto · Hack · Bridge",
+   "titel": "Zehn Trillionen ACE aus dem Nichts: Fusionists Bridge wird erst ausgeraubt, dann von Tradern geleert",
+   "deck": "Ein Angreifer mit Minter-Rechten druckte ungedeckte Token auf der BNB Chain – die Brücke tauschte sie gegen echte ACE, bis die Reserve bei 0,08 Token lag.",
+   "text": [
+    "Die Gaming-Firma Fusionist ist am Sonntag Opfer eines Brücken-Exploits geworden, der sich binnen Stunden zum Selbstbedienungsladen entwickelte. Ein Angreifer nutzte privilegierte Minter-Rechte der Bridge, um auf der BNB Chain ungedeckte ACE-Token zu prägen, und verkaufte sie für rund 2 Millionen Dollar in USDT. ACE ist das native Gas-Token der Fusionist-eigenen Chain Endurance; die Bridge hält dort echte ACE als Deckung, die man durch Verbrennen der BSC-Variante auslösen kann. Die Prägungen wuchsen von zunächst 3,5 Millionen auf Milliarden, Billiarden und am Ende 10 Trillionen ACE – bei einem maximalen Angebot von 147 Millionen.",
+    "Weil der Preis auf der BNB Chain auf etwa 0,0001 Dollar fiel, während ACE an den Börsen noch rund 0,04 Dollar kostete, kauften Trader die wertlosen Token und lösten sie über die Brücke gegen echte ACE ein. Zwischen 13.13 und 15.05 Uhr (Ostküstenzeit) zahlte der Endurance-Vertrag rund 53,7 Millionen ACE an 24 Adressen aus, eine davon erhielt allein 26,1 Millionen. Insgesamt flossen so etwa 3,7 Millionen Dollar an Reserven ab; zurück blieben 0,08 ACE. Ein Händler machte laut The Block aus rund 40 Dollar binnen zwölf Minuten etwa 17.670 Dollar.",
+    "Die Mint-Adresse war laut BscScan fast drei Jahre zuvor vom Deployer von Fusionist finanziert worden, was auf einen kompromittierten Schlüssel deutet. Den Erlös schleuste der Angreifer über SwftSwap und Relay auf Ethereum; Onchain Lens zählte 1,87 Millionen Dollar, die über Tornado Cash liefen. Fusionist rief erst um 14.30 Uhr dazu auf, Transfers und Bridging zu stoppen. Die Börse Gate machte ACE/USDT-Geschäfte zwischen 12.55 und 14.15 Uhr rückgängig, stellte den Perpetual auf „reduce only“ und kündigte die Abwicklung und Delistung für Montagabend an; einige Nutzer blieben mit negativen Salden zurück."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
+    ],
+    [
+     "Web3 Is Going Just Great",
+     "https://www.web3isgoinggreat.com/web1"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "web3isgoinggreat.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Memecoins",
+    "USA"
+   ],
+   "kicker": "Krypto · Memecoins · USA",
+   "titel": "Dinner mit dem Präsidenten für 518 Dollar: TRUMP notiert fast 99 Prozent unter dem Hoch",
+   "deck": "Trump empfing die 185 größten Halter seines Memecoins in Virginia – mehr als 5.000 Berechtigte meldeten sich gar nicht erst an.",
+   "text": [
+    "Donald Trump hat am Sonntagabend die 185 größten Halter seines Memecoins TRUMP zum Abendessen in seinen Golfclub Trump National in Nord-Virginia geladen. Es war das zweite Dinner und die dritte Veranstaltung für Großhalter seit dem Start des Tokens im Januar 2025; organisiert wird sie von der Promotionsfirma Fight Fight Fight LLC. Maßgeblich war der durchschnittliche Bestand zwischen dem 30. September und dem 16. November. Wie tief die Hürde gesunken ist, zeigt eine Auswertung der Washington Post: Ein Halter auf Platz 179 hatte im Oktober und November nur TRUMP für 518 Dollar gekauft. Beim ersten Dinner im Mai 2025 waren noch rund 55.000 Dollar nötig. Mehr als 5.000 Berechtigte registrierten sich trotz Fristverlängerung nicht.",
+    "TRUMP notierte am Sonntag bei 0,895 Dollar, 98,8 Prozent unter dem Rekord von 73,43 Dollar aus dem Januar 2025. In den zwei Wochen nach Ankündigung des Dinners fiel das Handelsvolumen laut Kaiko um rund 35 Prozent, der Preis um 9 Prozent – nach früheren Ankündigungen war das Volumen noch um das Vier- bis Achtfache gestiegen. Schon bei der Konferenz in Mar-a-Lago im April hatte der Token rund 80 Prozent unter dem Niveau des Vorjahres gelegen.",
+    "Unter den Gästen sind der Händler FastX, der die Rangliste anführte, sowie Morten Christensen von Airdrop Alert, der nach eigenen Angaben 75.000 TRUMP zu durchschnittlich 1,70 Dollar kaufte und gleichzeitig über Hyperliquid-Perpetuals short ging. Die Teilnahme kostete ihn so rund 500 Dollar.",
+    "Politisch wächst der Druck: Acht Senatoren unter Führung von Adam Schiff hatten eine Gästeliste verlangt und von einem „Pay-to-play“-Modell gesprochen; die Demokraten, die nach den Zwischenwahlen beide Kammern kontrollieren, kündigen Untersuchungen an. Das Weiße Haus erklärt, eine privat organisierte Veranstaltung werde durch die Teilnahme des Präsidenten nicht zum Termin des Weißen Hauses. Laut Finanzoffenlegung nahm Trump im vergangenen Jahr mindestens 636 Millionen Dollar an Gebühren aus dem Memecoin ein."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828"
+    ],
+    [
+     "crypto.news",
+     "https://crypto.news/trump-memecoin-gala-returns-to-mar-a-lago-at-fire-sale-on-chain-prices/"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co",
+    "crypto.news",
+    "businessday.co.za"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Stablecoins",
+    "Singapur"
+   ],
+   "kicker": "Krypto · Stablecoins · Singapur",
+   "titel": "OCBC testet Stablecoin-Zahlungen für Firmenkunden – das Bankkonto bleibt die Schnittstelle",
+   "deck": "Mit StraitsX erprobt Südostasiens zweitgrößte Finanzgruppe grenzüberschreitende B2B-Zahlungen, ohne dass Kunden selbst Stablecoins verwalten müssen.",
+   "text": [
+    "Die Singapurer Bank OCBC hat mit dem Stablecoin-Emittenten StraitsX ein Pilotprojekt für grenzüberschreitende Zahlungen zwischen Unternehmen gestartet. Nach einer Mitteilung von StraitsX vom Montag wird die Abwicklung in Stablecoins direkt mit den bestehenden Bankkonten teilnehmender OCBC-Kunden verbunden. StraitsX liefert dafür seine Infrastruktur „Dedicated Wallet Address“ für die On-Chain-Vereinnahmung und die Compliance-Prüfung, OCBC übernimmt den Ausstieg in Fiatgeld. Firmen sollen so Zahlungen aus dem Ausland auf ihrem OCBC-Konto empfangen, ohne selbst Wallets oder Token halten zu müssen.",
+    "Zunächst werden ausgewählte Zahlungsströme getestet. Erster Kunde ist NTT Docomo Asia, die Singapurer Einheit des japanischen Mobilfunkkonzerns. Carmen Chan, stellvertretende Leiterin des Global Transaction Banking bei OCBC, betont, Stablecoin-Zahlungen ließen sich in etablierte Bankdienste einbinden, ohne das Kundenerlebnis zu stören.",
+    "StraitsX hält eine Lizenz als Major Payment Institution der Notenbank MAS und gibt die Stablecoins XSGD und XUSD aus. Erst in der Vorwoche hatten OCBC, StraitsX und Standard Chartered einen Machbarkeitstest zur Interoperabilität tokenisierter Einlagen verschiedener Banken angekündigt. Beide Unternehmen gehören zu BLOOM, einer im Oktober 2025 gestarteten MAS-Initiative für Anwendungen mit tokenisierten Bankeinlagen und Stablecoins.",
+    "Singapur treibt das Thema auf mehreren Ebenen voran: Am 6. November gab die MAS tokenisierte vierwöchige MAS Bills über 100 Millionen Singapur-Dollar (77,5 Millionen US-Dollar) über ihr Testnetz aus, abgewickelt in Zentralbank-Digitalgeld für den Interbankenverkehr. Der Ansatz der OCBC unterscheidet sich von Modellen, bei denen Unternehmen Stablecoins selbst verwahren – das Risiko der Token-Verwahrung bleibt beim regulierten Zahlungsinstitut."
+   ],
+   "quellen": [
+    [
+     "The Block",
+     "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
+    ]
+   ],
+   "berichterstattung": [
+    "theblock.co"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "OpenAI",
+    "ChatGPT"
+   ],
+   "kicker": "KI · Produkte",
+   "titel": "Neues Standardmodell in ChatGPT: OpenAI stellt den Chat auf GPT-6.2 Sol um",
+   "deck": "Zahlende Nutzer bekommen eine auf Gespräche abgestimmte Fassung des neuen Modells – die Leistungszahlen stammen aus OpenAIs eigenen Tests.",
+   "text": [
+    "OpenAI hat das Standardmodell im Chat-Bereich von ChatGPT ausgetauscht. Künftig antwortet dort eine eigens auf Unterhaltungen abgestimmte Fassung von GPT-6.2 Sol, die weltweit ausgerollt wird. Das berichtet das Fachportal The Decoder unter Berufung auf die Versionshinweise und die Systemkarte des Unternehmens – ein technisches Begleitdokument, in dem Entwickler Fähigkeiten und Sicherheitstests eines Modells beschreiben. Zugriff haben ab sofort Nutzer der Tarife Plus, Pro, Business und Enterprise; in Unternehmen entscheiden die Administratoren über die Freischaltung.",
+    "Nach OpenAIs internen Tests versteht das Modell Bilder deutlich besser: Die Trefferquote stieg gegenüber GPT-6 von 47,4 auf 71,7 Prozent. Bei schwierigen Anweisungen verbesserte sich der Wert von 62,5 auf 78,1 Prozent. In einem Test mit Aufgaben auf Expertenniveau erreicht das Modell je nach Denkstufe etwa 65 bis gut 71 Prozent, nach rund 52 bis 66 Prozent beim Vorgänger. Bei einer hauseigenen Variante des Recherchetests BrowseComp liegt es auf der höchsten Stufe rund zehn Prozentpunkte vorn. Unabhängige Messungen liegen bislang nicht vor.",
+    "Auch beim Verhalten in heiklen Gesprächen meldet OpenAI Fortschritte. Die Einhaltung der eigenen Sicherheitsrichtlinien in schwierigen Unterhaltungen steige laut Systemkarte auf 91 bis 94 Prozent, nach 77 bis 80 Prozent bei GPT-6. Die größten Zuwächse nennt das Unternehmen beim Jugendschutz, etwa bei emotionaler Abhängigkeit, Essstörungen und gefährlichen Aktivitäten – ein Feld, auf dem OpenAI zuletzt juristisch unter Druck geraten war.",
+    "Die Umstellung betrifft nur den Chat-Modus. Die Modelle hinter den Bereichen Work und Codex, dem Programmierwerkzeug von OpenAI, bleiben unverändert. Im Alltag soll das neue Standardmodell vor allem komplexe Fragen und Websuchen besser bewältigen und gezieltere Rückfragen stellen."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+    ],
+    [
+     "OpenAI-Systemkarte",
+     "https://deploymentsafety.openai.com/gpt-6-2-chatgpt"
+    ],
+    [
+     "OpenAI Release Notes",
+     "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    ]
+   ],
+   "berichterstattung": [
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "China",
+    "Open Source"
+   ],
+   "kicker": "KI · Modelle",
+   "titel": "Zweimal durch dieselben Schichten: Z.ai stellt das 750-Milliarden-Modell GLM-5.4 vor",
+   "deck": "Das chinesische Labor setzt wie OpenAI auf einen „Loop Transformer“ und will mit weniger Parametern mit deutlich größeren Modellen mithalten.",
+   "text": [
+    "Das chinesische KI-Unternehmen Z.ai, früher Zhipu AI, hat am Montag sein neues Spitzenmodell GLM-5.4 vorgestellt. Es umfasst 750 Milliarden Parameter, also die beim Training gelernten Gewichte, und soll nach Angaben des Herstellers mit Modellen von zwei bis drei Billionen Parametern mithalten. Gemeint sind Konkurrenten wie Kimi K3.1 Pro mit 2,8 Billionen und Qwen3.8-Max mit 2,4 Billionen Parametern. Unabhängige Bewertungen gibt es noch nicht.",
+    "Technisch ist GLM-5.4 ein sogenannter Loop Transformer: Ein Block gemeinsamer Schichten wird zweimal durchlaufen. Das Netz rechnet dadurch „tiefer“, ohne mehr Parameter zu benötigen. Laut dem Fachportal The Decoder folgen auf 26 Eingangsschichten die Schichten 27 bis 54 als Schleife und danach 24 Abschlussschichten. Eigene Schalter, sogenannte Gates, regeln je Textbaustein, wie stark der zweite Durchgang das Zwischenergebnis überschreibt. Beide Durchgänge teilen sich den Zwischenspeicher für bereits verarbeiteten Text (KV-Cache), sodass der Speicherbedarf laut Z.ai selbst bei einer Million Token Kontext beherrschbar bleibt. OpenAI nutzt eine ähnliche Bauweise seit GPT-6 Astra.",
+    "Benchmark-Werte für das große Modell hat Z.ai nicht veröffentlicht. Die genannten Zuwächse stammen von einem Testmodell mit 30 Milliarden Parametern: Im Mathematiktest AIME25 stieg es gegenüber einer Version ohne Schleife von 19,2 auf 30,4 Punkte, im Wissenstest GPQA-Diamond von 47,6 auf 56,3. Das Schleifenmodell bekam allerdings rund zehn Prozent mehr Trainingsrechenleistung. Als Schwäche räumt Z.ai ein, dass sich das Modell mitunter in zu langen Denkphasen verfängt.",
+    "GLM-5.4 ist zunächst über das Abo GLM Coding Plan, die Programmierumgebung ZCode und Z.ai Chat nutzbar, eine Programmierschnittstelle soll folgen. Preise nannte das Unternehmen nicht. Die Gewichte will Z.ai nach weiteren Sicherheitstests offen veröffentlichen, einen Termin gibt es nicht. Ein noch größeres Modell ist bereits angekündigt."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+    ],
+    [
+     "Z.ai Blog",
+     "https://z.ai/blog/glm-5.4"
+    ]
+   ],
+   "berichterstattung": [
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "China",
+    "Militär",
+    "Sicherheit"
+   ],
+   "kicker": "KI · Sicherheit",
+   "titel": "90 Sekunden statt einer halben Stunde: Chinas Militär fürchtet, KI könnte seine Atomraketen auffindbar machen",
+   "deck": "Forscher der Akademie der Militärwissenschaften sehen die eigene Abschreckung bedroht – Gespräche mit Washington über Schutzmechanismen stocken.",
+   "text": [
+    "In Chinas Militär wächst die Sorge, künstliche Intelligenz könnte den Vereinigten Staaten helfen, chinesische Atomraketen aufzuspüren und auszuschalten. Das geht aus einer Analyse der „New York Times“ hervor, über die das Fachportal The Decoder am Montag berichtete. Gefährdet wäre damit die sogenannte gesicherte Zweitschlagfähigkeit: die Gewissheit, auch nach einem gegnerischen Angriff noch zurückschlagen zu können. Sie gilt als Grundlage nuklearer Abschreckung.",
+    "Forscher der Akademie der Militärwissenschaften in Peking schreiben laut dem Bericht, KI könne die Entscheidungszeit der US-Streitkräfte von 15 bis 30 Minuten auf etwa 90 Sekunden verkürzen. Gleichzeitig untersuchen chinesische Militärinstitute, wie KI die eigenen Waffen schwerer abfangbar machen könnte, etwa durch KI-gesteuerte Flugbahnen von Hyperschallraketen. China verfügt nach Schätzung der Federation of American Scientists über rund 620 einsatzfähige Sprengköpfe und dürfte bis 2030 etwa 1.000 erreichen.",
+    "Fachleute warnen, fehlerhafte KI-Daten könnten in einer Krise zu gefährlichen Fehleinschätzungen führen. The Decoder erinnert an einen Vorfall im September, bei dem das US-Militär beinahe ein chinesisches Schiff geentert hätte – ausgelöst durch einen KI-generierten Geheimdienstbericht mit erfundenen Angaben, im Fachjargon eine „Halluzination“.",
+    "Bei den Gesprächen über Schutzvorkehrungen für KI in Atomwaffensystemen haben die USA und China dem Bericht zufolge kaum Fortschritte gemacht. Staatschef Xi Jinping sprach zwar bei einem Gipfel mit Donald Trump und Wladimir Putin über nukleare Risiken, die Rolle der KI kam dabei aber offenbar nicht zur Sprache."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com",
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Forschung",
+    "OpenAI"
+   ],
+   "kicker": "KI · Forschung",
+   "titel": "1.800 Zeilen in 94 Minuten: GPT-6.2 Astra beweist einen Satz, an dem zehn Modelle scheiterten",
+   "deck": "Der Testanbieter Vals AI meldet den ersten maschinell prüfbaren Beweis von Smoktunowiczs Lückensatz – auf einem eigenen Weg.",
+   "text": [
+    "OpenAIs Modell GPT-6.2 Astra hat einen bekannten Satz der Algebra ohne menschliche Hilfe formal bewiesen. Das meldet das Testunternehmen Vals AI, wie das Fachportal The Decoder am Montag berichtete. Es handelt sich um Smoktunowiczs Lückensatz (gap theorem) aus dem Jahr 2006. Vereinfacht besagt er, dass bestimmte algebraische Strukturen beim Multiplizieren ihrer Grundbausteine entweder langsam oder sehr schnell wachsen – einen Bereich dazwischen gibt es nicht.",
+    "Den Beweis schrieb das Modell in Lean, einer Programmiersprache, mit der sich mathematische Beweise von einem Computer Schritt für Schritt überprüfen lassen. Laut Vals AI ist es der erste bekannte Lean-Beweis dieses Satzes; er umfasst rund 1.800 Zeilen. Weil wichtige Grundlagen des veröffentlichten Beweises in der Lean-Bibliothek Mathlib fehlten, wählte das Modell einen anderen Weg über eine bereits in der Forschung beschriebene Messgröße namens „Kapazität“. Eine Prüfung durch unabhängige Mathematiker wird in dem Bericht nicht erwähnt.",
+    "Bemerkenswert ist der Ablauf: Nach etwa 47 Minuten und rund 8 Dollar Rechenkosten wollte Astra aufgeben. Das Testsystem lehnte das ab, weil ungelöste Abgaben mindestens 20 Dollar Aufwand voraussetzen. Nach 94 Minuten und 21,58 Dollar lag der Beweis vor. Die Aufgabe gehört zum Test Autoform-Hard, einer von Vals zusammengestellten Auswahl von 56 Aufgaben aus Metas AutoformBench, an denen zehn Modelle in Metas Studie gescheitert waren. Astra löste 49 davon, GPT-6.2 Sol und Anthropics Claude Fable 5.2 kamen auf je 48. Auch diese Zahlen stammen aus der Auswertung von Vals AI, nicht aus einer begutachteten Studie."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+    ],
+    [
+     "Vals AI",
+     "https://www.vals.ai/blogs/smoktunowicz-gap-theorem"
+    ]
+   ],
+   "berichterstattung": [
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Forschung",
+    "Programmieren"
+   ],
+   "kicker": "KI · Forschung",
+   "titel": "Stark im Test, schwach im Büro: KI-Programmierer schaffen in einer simulierten Firma nicht einmal jede zehnte Aufgabe",
+   "deck": "Eine neue Versuchsanordnung setzt Programmier-Agenten als „digitale Angestellte“ ein – mit ernüchterndem Ergebnis für Claude und GPT.",
+   "text": [
+    "Programmier-Agenten – KI-Systeme, die selbstständig Code schreiben, testen und Aufgaben abarbeiten – erreichen in gängigen Benchmarks inzwischen fast Höchstwerte. Der verbreitete Test SWE-bench, bei dem Modelle echte Fehler in Open-Source-Projekten beheben, gilt als nahezu ausgereizt. Eine neue Untersuchung, über die das Fachportal The Decoder am Sonntag berichtete, zeichnet ein anderes Bild, sobald die Agenten im unordentlichen Alltag eines Unternehmens arbeiten müssen.",
+    "Die Forscher setzten die Modelle als „digitale Angestellte“ in eine simulierte Softwarefirma, komplett mit Kollegen, Projekttafeln, Chatverläufen und unvollständigen Übergaben. Die Agenten sollten Software eigenständig weiterentwickeln und offene Tickets zuverlässig schließen. Sowohl Anthropics Claude Opus 5.5 als auch OpenAIs GPT-6 Astra erledigten dabei jeweils weniger als jede zehnte Aufgabe vollständig. Klar umrissene Einzelaufträge lösten die Modelle schnell, als selbstständige Entwickler verloren sie aber den Überblick, heißt es in dem Bericht.",
+    "Das Ergebnis nährt Zweifel an der Aussagekraft klassischer Benchmarks. OpenAI hatte zuvor selbst eingeräumt, dass rund 30 Prozent der Aufgaben von SWE-bench fehlerhaft sind. Gleichzeitig betonen die Anbieter, wie stark sie die Werkzeuge intern nutzen: Anthropic gibt an, dass Claude mehr als 80 Prozent seines Produktionscodes schreibt – eine Herstellerangabe, die sich von außen nicht überprüfen lässt."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
+    ],
+    [
+     "The Decoder (SWE-bench)",
+     "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/"
+    ]
+   ],
+   "berichterstattung": [
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "wiss-01",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Astronomie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Astronomie · Erkenntnis",
+   "titel": "Sterne, die lautlos verschwinden: Eine Lücke bei Schwarzen Löchern deutet auf gescheiterte Supernovae",
+   "deck": "In 257 Verschmelzungen Schwarzer Löcher fehlen Objekte zwischen 12 und 16 Sonnenmassen – Forscher am Caltech vermuten Sterne, die ohne Explosion kollabiert sind.",
+   "text": [
+    "Wenn zwei Schwarze Löcher miteinander verschmelzen, erschüttern sie die Raumzeit. Die Detektoren des Netzwerks aus LIGO, Virgo und KAGRA haben in den vergangenen zehn Jahren 257 solcher Ereignisse registriert. Ein Team um die Caltech-Physikerin Katerina Chatziioannou hat die Massen dieser Schwarzen Löcher nun statistisch ausgewertet und ein auffälliges Muster gefunden. Die Studie ist in der Fachzeitschrift „Physical Review D“ erschienen; Erstautor ist Isaac Legred, inzwischen an der University of Illinois.",
+    "Laut der Auswertung häufen sich Schwarze Löcher mit etwa zehn Sonnenmassen: Sie tauchen in rund drei Vierteln der Stichprobe auf. Gleich daneben klafft eine Lücke – Schwarze Löcher mit 12 bis 16 Sonnenmassen sind deutlich seltener als erwartet. Eine derart klare Lücke in der Massenverteilung sei bislang nicht beschrieben worden, heißt es vom Caltech. Hinzu kommt, dass die Objekte um zehn Sonnenmassen in einem engeren Bereich rotieren als der Rest der Population.",
+    "Die Forscher deuten das als Hinweis auf eine eigene Untergruppe: Schwarze Löcher, deren Vorläufersterne nicht als Supernova explodiert, sondern direkt in sich zusammengefallen sind. Solche „gescheiterten Supernovae“ werden in Modellen seit Langem vorhergesagt. „Das könnte eine eigene Teilpopulation sein, die nicht zur Supernova wurde“, sagt Chatziioannou.",
+    "Bewiesen ist das nicht. Die Daten sind mit der Erklärung vereinbar, belegen sie aber nicht direkt; ein konkreter Fall eines lautlos kollabierten Sterns ist bislang nicht bestätigt. Auch die Rotation der Schwarzen Löcher ist kein eindeutiges Merkmal, weil sie von mehreren Entstehungswegen beeinflusst wird. Die Autoren betonen, dass weitere Beobachtungen nötig sind – die Zahl der erfassten Verschmelzungen wächst mit jeder Messkampagne."
+   ],
+   "quellen": [
+    [
+     "Physical Review D (Studie)",
+     "https://journals.aps.org/prd/abstract/10.1103/mnzq-w1b5"
+    ],
+    [
+     "Space.com",
+     "https://space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova"
+    ],
+    [
+     "ScienceDaily (Caltech)",
+     "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "space.com",
+    "sciencedaily.com",
+    "eurekalert.org",
+    "scitechdaily.com"
+   ]
+  },
+  {
+   "id": "wiss-02",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Biologie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Evolutionsbiologie · Erkenntnis",
+   "titel": "Viren als Zwischenglied: Kleine Erreger stellen eine alte Abstammungsidee infrage",
+   "deck": "Forscher aus Miami finden in Erbgutdaten eine unbekannte Virengruppe, die Merkmale von Viren und bakteriellen Eiweißkäfigen vereint.",
+   "text": [
+    "Viele Viren schützen ihr Erbgut in einer Hülle aus Eiweißbausteinen, die nach einem bestimmten Bauplan gefaltet sind, der sogenannten HK97-Faltung. Denselben Bauplan nutzen auch Encapsuline: winzige Eiweißkäfige, in denen Bakterien und Archaeen Enzyme verpacken. Bisher galt die Vorstellung, dass die Encapsuline von Viren abstammen. Eine Studie in „Nature Communications“ stellt diese Einbahnstraße nun infrage.",
+    "Das Team um den Biologen Antoni Luque von der University of Miami und den Doktoranden Abelardo Aguilar durchsuchte große Genom-Datenbanken mit Sequenzen aus Umweltproben – aus Böden, Meerwasser, Abwasser und dem menschlichen Darm. Dabei stießen die Forscher auf eine bislang unbekannte Gruppe kleiner Viren mit auffallend schlichtem Erbgut. Ihre Eigenschaften liegen zwischen denen klassischer Viren und denen der Encapsuline. Zur Auswertung setzte das Team auch KI-Werkzeuge ein, darunter Proteinsprachmodelle und AlphaFold zur Strukturvorhersage.",
+    "Die Autoren schlagen ein neues Modell vor: Viren und Encapsuline könnten über Millionen Jahre wiederholt auseinander hervorgegangen sein, in beide Richtungen. Als Bindeglied sehen sie Prokapside, also unreife Virushüllen. Diese könnten nicht nur Erbgut transportieren, sondern womöglich auch chemische Reaktionen beherbergen, wie es Encapsuline tun.",
+    "Einschränkend gilt: Die Ergebnisse beruhen auf der Analyse von Sequenzen und vorhergesagten Strukturen, nicht auf Laborversuchen mit den Viren selbst – die meisten Viren lassen sich nach Luques Worten gar nicht im Labor züchten. Dass die neuen Viren echte evolutionäre Zwischenformen sind, ist eine begründete Hypothese, und auch die mögliche Stoffwechselrolle der Virushüllen muss erst experimentell bestätigt werden."
+   ],
+   "quellen": [
+    [
+     "Nature Communications (Studie)",
+     "https://doi.org/10.1038/s41467-026-78136-1"
+    ],
+    [
+     "ScienceDaily (University of Miami)",
+     "https://sciencedaily.com/releases/2026/11/261122060334.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-03",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Chemie",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Chemie · Erkenntnis",
+   "titel": "Sonnenschutz im Erbgut: Warum die DNA womöglich Thymin statt Uracil wählte",
+   "deck": "Laborversuche aus Texas legen nahe, dass Thymin UV-Schäden in eine leichter reparierbare Form lenkt – ein möglicher Vorteil für das frühe Leben.",
+   "text": [
+    "Die Erbinformation des Lebens steckt in zwei verwandten Molekülen: RNA nutzt den Baustein Uracil, die DNA an derselben Stelle das sehr ähnliche Thymin. Warum sich die DNA für Thymin entschied, ist eine alte Frage – zumal Thymin für bestimmte Schäden durch ultraviolettes Licht sogar anfälliger ist. Auf der jungen Erde, ohne schützende Ozonschicht, wäre das scheinbar ein Nachteil gewesen.",
+    "Forscher um Peter Rentzepis von der Texas A&M University haben Thymin und Uracil im Labor einer UV-Strahlung ausgesetzt, die Bedingungen der frühen Erde nachahmen sollte, und die Moleküle anschließend mit Absorptions-, Fluoreszenz- und Raman-Spektroskopie untersucht. Ihre Ergebnisse sind in den „Proceedings of the National Academy of Sciences“ (PNAS) erschienen.",
+    "Demnach liegt der Vorteil von Thymin nicht darin, Schäden zu vermeiden, sondern darin, sie zu begrenzen: Thymin lenkt die UV-Schäden in eine Form, die sich leichter wieder rückgängig machen lässt, und hält sie auf die Basen beschränkt. Die Autoren sprechen von einer Art molekularem Sonnenschutz. Nebenbei lieferte die Arbeit Referenzspektren, die nach Ansicht des Teams später helfen könnten, Krankheitserreger schneller zu erkennen oder die UV-Desinfektion von Wasser zu überwachen.",
+    "Die Befunde stammen aus Versuchen mit isolierten Molekülen, nicht aus lebenden Zellen oder Modellen ganzer Urzeit-Ökosysteme. Die evolutionäre Deutung ist daher eine plausible Erklärung, kein Beweis. Offen bleibt auch, ob die Bausteine des Lebens auf der Erde entstanden oder mit Meteoriten kamen – das will das Team als Nächstes untersuchen."
+   ],
+   "quellen": [
+    [
+     "PNAS (Studie)",
+     "https://doi.org/10.1073/pnas.2615278123"
+    ],
+    [
+     "ScienceDaily (Texas A&M)",
+     "https://sciencedaily.com/releases/2026/11/261121221128.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-04",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Genetik",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Genetik · Erkenntnis",
+   "titel": "Kleine Spinne, riesiges Erbgut: Das Genom der „Colbert-Falltürspinne“ ist entschlüsselt",
+   "deck": "Mit 4,6 Milliarden Basenpaaren ist das Genom von Aptostichus stephencolberti rund anderthalbmal so groß wie das des Menschen.",
+   "text": [
+    "Sie lebt unscheinbar in Küstendünen Kaliforniens, zwischen der Bucht von San Francisco und Monterey, und trägt den Namen eines Fernsehmoderators: die Falltürspinne Aptostichus stephencolberti, benannt nach Stephen Colbert. Ein Team um Jason Bond von der University of California in Davis hat nun ihr vollständiges Referenzgenom vorgelegt. Die Arbeit ist im „Journal of Heredity“ erschienen und laut den Autoren das erste sequenzierte Genom einer Spinne aus dieser Familie.",
+    "Das Erbgut umfasst rund 4,6 Milliarden Basenpaare und ist damit etwa 50 Prozent größer als das menschliche. Es verteilt sich auf 52 Chromosomen, beim Menschen sind es 46. Rund 77 Prozent bestehen aus sich wiederholenden DNA-Abschnitten. Ein großes Genom bedeutet allerdings nicht mehr Gene, betonen die Forscher; der Umfang geht vor allem auf diese Wiederholungen zurück. Unter Spinnen sei es nicht das größte, aber ein bemerkenswertes, sagt Bond.",
+    "Das Projekt ist Teil des California Conservation Genomics Project. Die Daten sollen helfen, Populationen zu erkennen, die besonderen Schutz brauchen. Zudem könnten Spinnengifte eine Fundgrube für Wirkstoffe sein; für Menschen ist das Gift dieser Art nach bisherigem Wissen ungefährlich.",
+    "Einordnen muss man: Ein Referenzgenom ist zunächst eine Grundlage für künftige Forschung, kein Befund über die Biologie der Tiere. Wie sich der ungewöhnliche Aufbau des Erbguts auf die Spinne auswirkt, ist offen. Mögliche Anwendungen in Medizin oder Schädlingsbekämpfung sind bislang Spekulation, und auch der Nutzen für den Artenschutz muss sich erst erweisen."
+   ],
+   "quellen": [
+    [
+     "Journal of Heredity (Studie)",
+     "https://doi.org/10.1093/jhered/esag069"
+    ],
+    [
+     "ScienceDaily (UC Davis)",
+     "https://sciencedaily.com/releases/2026/11/261122060343.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "wiss-05",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Physik",
+    "Erkenntnis"
+   ],
+   "kicker": "Wissenschaft · Physik · Erkenntnis",
+   "titel": "Ein Kristall unter der Lupe: Forscher vermessen Bariumtitanat vom Ultraviolett bis ins ferne Infrarot",
+   "deck": "Ein Team aus Südkorea und Kalifornien liefert verlässliche optische Referenzwerte für einen Werkstoff, der als Hoffnungsträger für schnelle Lichtmodulatoren gilt.",
+   "text": [
+    "Bariumtitanat ist ein alter Bekannter der Materialforschung und zugleich ein Hoffnungsträger der Photonik. Der Kristall ändert seine optischen Eigenschaften stark, wenn man eine elektrische Spannung anlegt – der sogenannte Pockels-Effekt. Damit eignet er sich für Modulatoren, die elektrische Signale in Lichtsignale übersetzen, etwa in der optischen Datenübertragung. Doch die Angaben darüber, wie der Werkstoff Licht bricht und schluckt, widersprachen sich in der Fachliteratur seit Jahrzehnten.",
+    "Ein Team um Min Seok Jang vom KAIST in Südkorea und Harry Atwater vom Caltech hat das nun systematisch nachgemessen. Mit Mueller-Matrix-Ellipsometrie bestimmten die Forscher Brechungsindex und Absorption von Einkristallen über einen Wellenlängenbereich von 190 Nanometern bis 40 Mikrometern, also vom Ultraviolett bis ins ferne Infrarot. Entscheidend war die Probenwahl: Kristalle mit weitgehend einheitlich ausgerichteten Domänen, denn gemischte Domänen verwischen die Messung und dürften die widersprüchlichen früheren Werte erklären. Die Studie erschien in „ACS Photonics“.",
+    "Für den Bereich zwischen zwei und zehn Mikrometern ermittelte das Team durch zusätzliche Transmissionsmessungen sehr geringe Absorptionswerte in der Größenordnung von 10⁻⁵. Außerdem stellen die Forscher ein Verfahren vor, mit dem sich das optische Verhalten von Kristallen mit mehreren Domänen aus deren Ausrichtung und Anteilen vorhersagen lässt.",
+    "Die Arbeit ist Grundlagenforschung: Bauteile oder schnellere Datenleitungen wurden nicht gebaut. Die Ergebnisse sollen vor allem als Referenz für die Entwicklung von Modulatoren, Wellenleitern und photonischen Quantenschaltungen dienen. Das Verfahren für Mehrdomänenkristalle ist zudem eine Vorhersage, keine direkte Messung an gemischten Proben."
+   ],
+   "quellen": [
+    [
+     "ACS Photonics (Studie)",
+     "https://doi.org/10.1021/acsphotonics.6c01514"
+    ],
+    [
+     "ScienceDaily (KAIST)",
+     "https://www.sciencedaily.com/releases/2026/11/261119194544.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com"
+   ]
+  },
+  {
+   "id": "fuss-01",
+   "rubrik": "fussball",
+   "status": "fix",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "Real Madrid"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Real Madrid verlängert mit Tchouaméni bis 2032",
+   "deck": "Nach Arda Güler bindet Real Madrid auch den französischen Nationalspieler langfristig.",
+   "text": [
+    "Real Madrid hat den Vertrag mit Aurélien Tchouaméni vorzeitig bis 2032 verlängert, wie der Klub am Donnerstag mitteilte. Der 26 Jahre alte Franzose war 2022 für 80 Millionen Euro aus Monaco gekommen, seine Zukunft in Madrid galt zwischenzeitlich als offen. Unter Trainer José Mourinho hat er in dieser Saison zu alter Form gefunden. Es ist nach Arda Güler bereits die zweite langfristige Verlängerung bei Real innerhalb weniger Tage."
+   ],
+   "transfer": {
+    "spieler": "Aurélien Tchouaméni",
+    "von": "Real Madrid",
+    "nach": "Real Madrid (Verlängerung)",
+    "vertrag": "bis 2032"
+   },
+   "quellen": [
+    [
+     "The Star (Reuters)",
+     "https://www.thestar.com.my/sport/football/2026/11/19/soccer-real-madrid-midfielder-tchouameni-signs-new-six-year-deal"
+    ],
+    [
+     "FootballTransfers",
+     "https://www.footballtransfers.com/en/transfer-news/es-la-liga/2026/11/aurelien-tchouameni-real-madrid-contract-november-2026"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-02",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "Real Madrid"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Real Madrid soll Schlotterbeck und Jeltsch als Rüdiger-Nachfolger prüfen",
+   "deck": "Laut einem spanischen Journalisten stehen zwei deutsche Nationalspieler auf Reals Liste für die Innenverteidigung.",
+   "text": [
+    "Real Madrid beschäftigt sich laut dem spanischen Journalisten Jorge Picón mit Dortmunds Nico Schlotterbeck und Stuttgarts Finn Jeltsch als mögliche Nachfolger von Antonio Rüdiger. Schlotterbeck steht beim BVB bis 2031 unter Vertrag, soll aber eine Ausstiegsklausel besitzen. Jeltsch ist bis 2030 an den VfB gebunden, eine feste Ablöse gibt es laut dem Bericht nicht. Auf der Liste stehen demnach auch Inters Alessandro Bastoni und Jacobo Ramón von Como."
+   ],
+   "transfer": {
+    "spieler": "Nico Schlotterbeck, Finn Jeltsch",
+    "von": "Borussia Dortmund, VfB Stuttgart",
+    "nach": "Real Madrid",
+    "vertrag": "Schlotterbeck bis 2031 (mit Ausstiegsklausel), Jeltsch bis 2030"
+   },
+   "quellen": [
+    [
+     "ran",
+     "https://ran.joyn.de/sports/fussball/bundesliga/real-madrid-soll-sich-mit-zwei-deutschen-nationalspielern-beschaeftigen-bundesliga-transfergeruechte-news-81219"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-03",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "FC Arsenal"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Arsenal bindet laut Romano Rice, Raya und Hincapié",
+   "deck": "Nach Timber sollen drei weitere Stammkräfte der Londoner neue Verträge erhalten.",
+   "text": [
+    "Der FC Arsenal treibt laut Fabrizio Romano mehrere Vertragsverlängerungen voran. Declan Rice soll einen neuen Vertrag bis 2031 unterschrieben haben, Torwart David Raya hat sich demnach mit dem Klub auf eine Verlängerung geeinigt, die bis 2030 laufen soll. Auch Piero Hincapié soll ein verbessertes Arbeitspapier bis 2032 erhalten. Eine offizielle Bestätigung des Vereins steht noch aus."
+   ],
+   "transfer": {
+    "spieler": "Declan Rice",
+    "von": "FC Arsenal",
+    "nach": "FC Arsenal (Verlängerung)",
+    "vertrag": "bis 2031 (laut Romano)"
+   },
+   "quellen": [
+    [
+     "FootballTransfers",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-jj-gabriel-official-balde-exit-arsenal-contract-updates"
+    ],
+    [
+     "FootballTransfers",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid"
+    ]
+   ]
+  },
+  {
+   "id": "fuss-04",
+   "rubrik": "fussball",
+   "status": "geruecht",
+   "tags": [
+    "Transfer",
+    "Champions League",
+    "FC Barcelona"
+   ],
+   "kicker": "Transfermarkt · Champions League",
+   "titel": "Balde könnte Barcelona im Januar verlassen",
+   "deck": "Laut Fabrizio Romano ist ein Winterabschied des Linksverteidigers eine ernsthafte Möglichkeit.",
+   "text": [
+    "Alejandro Balde könnte den FC Barcelona schon im Januar verlassen. Laut Fabrizio Romano ist ein Abschied im Winter eine „ernsthafte und konkrete“ Möglichkeit, Interessenten gebe es in Italien, England und Frankreich, ohne dass Klubs genannt wurden. Manchester United hatte sich bereits im August mit dem Linksverteidiger beschäftigt, damals soll Barcelona 50 bis 55 Millionen Euro verlangt haben."
+   ],
+   "transfer": {
+    "spieler": "Alejandro Balde",
+    "von": "FC Barcelona",
+    "abloese": "im August laut Romano 50 bis 55 Mio. € gefordert"
+   },
+   "quellen": [
+    [
+     "FootballTransfers",
+     "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-jj-gabriel-official-balde-exit-arsenal-contract-updates"
+    ]
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögen",
+    "Wealth Management",
+    "USA"
+   ],
+   "kicker": "Vermögen · Beteiligungen · USA",
+   "titel": "Minderheit statt Übernahme: Elevation Point steigt beim Ex-UBS-Team Cottonwood ein",
+   "deck": "Die Berater aus Wichita mit 1,1 Milliarden Dollar behalten die Kontrolle – Minderheitsbeteiligungen an Vermögensverwaltern erreichen in den USA Rekordzahlen.",
+   "text": [
+    "Der auf Abspaltungen aus Großbanken spezialisierte Investor Elevation Point aus Minneapolis hat eine strategische Minderheitsbeteiligung an Cottonwood Wealth Partners übernommen. Die Praxis aus Wichita in Kansas betreute bei UBS Kundenvermögen von rund 1,1 Milliarden Dollar; die Gründer Ruse Brown, Bryce Flaming und Corey Rausch behalten die Kontrolle. Das siebenköpfige Team berät vermögende Familien, Unternehmen bei betrieblichen Altersvorsorgeplänen sowie Profi- und Nachwuchssportler. Nach 34 Jahren beim selben Haus habe man einen Partner gesucht, „der institutionelle Ressourcen mitbringt“, sagte Flaming. Elevation Point gibt an, seit dem Start im Juni 2024 Praxen mit zusammen mehr als 19 Milliarden Dollar betreuten Vermögens unterstützt zu haben.",
+    "Fast zeitgleich stockte Emigrant Partners seine Beteiligung an Moneco Advisors in Fairfield, Connecticut, auf. Emigrant war 2023 als Minderheitsaktionär eingestiegen; seither wuchs Moneco von 1,2 auf 3,2 Milliarden Dollar verwaltetes Vermögen, schloss sieben Übernahmen ab und vergrößerte sich von 30 auf 80 Mitarbeiter in acht Büros. Das neue Geld soll in weitere Zukäufe, die Anwerbung von Beratern und das Geschäft fließen. Emigrant hatte zuvor seinen Anteil an Elevation Point verkauft, wo nun Merchant Investment Management als Minderheitsinvestor eingestiegen ist.",
+    "Die Deals stehen für einen Trend: Die Beratungsfirma DeVoe & Company zählte bis September einen Rekord von acht Serien-Minderheitsinvestoren mit abgeschlossenen Transaktionen, nach drei im Jahr 2024. Echelon Partners registrierte im dritten Quartal elf Minderheitsdeals – etwa dreimal so viele wie im Vorquartal – mit zusammen rund 224 Milliarden Dollar Kundenvermögen. Für Gründer ist das Modell attraktiv, weil sie Kapital für Wachstum erhalten, ohne die Kontrolle abzugeben."
+   ],
+   "quellen": [
+    [
+     "Dealroom/InvestmentNews",
+     "https://dealroom.co/news/174489-elevation-point-takes-minority-stake-in-1-1b-ex-ubs-team/"
+    ]
+   ],
+   "berichterstattung": [
+    "dealroom.co"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögen",
+    "Private Equity",
+    "Studie"
+   ],
+   "kicker": "Vermögen · Private Equity · Studien",
+   "titel": "KI drückt auf die Bewertungen, Handarbeit auf die Marge: Private Equity unter doppeltem Anpassungsdruck",
+   "deck": "Goldman Sachs sieht Fortführungsfonds auf dem Vormarsch, Vistra findet ein Drittel der operativen Kapazität in manuellen Prozessen gebunden.",
+   "text": [
+    "Zwei Branchenumfragen zeichnen ein Bild einer Beteiligungsbranche, die gleich an zwei Fronten unter Druck steht. Goldman Sachs befragte im Sommer 36 Private-Equity-Häuser mit verwalteten Vermögen zwischen 1 und mehr als 100 Milliarden Dollar. Größtes Hindernis für Exits sind demnach die Bewertungen: Neben höheren Zinsen stelle die rasante Entwicklung künstlicher Intelligenz den Wert vieler Portfoliounternehmen infrage. 47 Prozent nannten KI als wichtigste Triebkraft des Wandels – für die Branche, die eigene Organisation und die Beteiligungen. Konjunkturelle Umbrüche folgten mit 19 Prozent weit abgeschlagen.",
+    "Weil Investoren auf Rückflüsse drängen, gewinnen unkonventionelle Wege an Bedeutung. Zwar hält die Mehrheit den Verkauf an einen anderen Fonds oder einen strategischen Käufer weiterhin für den wahrscheinlichsten Exit. Doch die Hälfte der Befragten hält den Einsatz von Fortführungsfonds im kommenden Jahr für eher wahrscheinlich, nach einem Drittel vor zwei Jahren. Auch Kredite auf Portfolioebene rücken in den Blick. Börsengänge halten 59 Prozent für unwahrscheinlich.",
+    "Gleichzeitig hapert es im eigenen Betrieb. Der Fondsdienstleister Vistra Fund Solutions befragte weltweit 455 Private-Equity-Fachleute. Im Schnitt binden manuelle Prozesse 33 Prozent der operativen Kapazität – viele Fachkräfte seien damit beschäftigt, Daten zu übertragen, zu prüfen und abzugleichen. Als Hürden nennen die Befragten Regulierung und Compliance, vor allem aber veraltete, zersplitterte IT und mangelhafte Datenqualität. Gerade Letzteres erschwere den Einsatz von KI, deren größtes Potenzial die Teilnehmer in Compliance-Überwachung, Portfoliomonitoring sowie Planung und Prognose sehen.",
+    "Beide Erhebungen erschienen Mitte November in der Börsen-Zeitung. Zusammen zeigen sie das Dilemma der Branche: Dieselbe Technologie, die die Exitbewertungen belastet, soll die eigenen Abläufe effizienter machen."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung (Goldman-Umfrage)",
+     "https://www.boersen-zeitung.de/datenraum/ki-treibt-den-wandel-in-der-private-equity-szene"
+    ],
+    [
+     "Börsen-Zeitung (Vistra-Studie)",
+     "https://www.boersen-zeitung.de/datenraum/finanzinvestoren-haben-selbst-ein-effizienzproblem"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögen",
+    "Private Equity",
+    "Deutschland"
+   ],
+   "kicker": "Vermögen · Private Equity · Exit",
+   "titel": "Mutares verkauft die Feuerwehrsparte von Magirus nach Japan – Morita zahlt 65 Millionen Euro",
+   "deck": "Statt Börsengang ein Verkauf an den Branchenführer aus Japan: Der Münchner Sanierer behält nur das Verteidigungsgeschäft.",
+   "text": [
+    "Die Münchner Beteiligungsgesellschaft Mutares hat sich beim Ausstieg aus Magirus gegen einen Börsengang und für einen Verkauf entschieden. Käufer der Feuerwehrsparte ist die börsennotierte japanische Morita Group, einer der führenden Hersteller von Feuerwehrfahrzeugen und Brandschutztechnik in Japan. Sie zahlt einen Eigenkapitalwert von 65 Millionen Euro, ohne Finanzverbindlichkeiten. Morita soll schon vor Jahren Interesse an Magirus gezeigt haben.",
+    "Mutares hatte Magirus im Januar 2025 von Iveco übernommen und saniert; im April und Mai 2026 kündigte der Investor an, Exit-Optionen einschließlich Verkauf und Börsengang zu prüfen. Die Sparte kommt nach Angaben der Börsen-Zeitung auf einen Auftragsbestand von rund 780 Millionen Euro und dürfte in diesem Jahr etwa 400 Millionen Euro umsetzen, rund 30 Prozent mehr als zu Beginn der Sanierung. Der operative Verlust schrumpfte 2025 deutlich, im Frühjahr galt die Gewinnschwelle als in Reichweite. Rund 1.650 Beschäftigte arbeiten an den Standorten Ulm, Brescia, Chambéry und Premstätten in der Steiermark.",
+    "Behalten will Mutares das Verteidigungsgeschäft Magirus Defense and Security, das unter neuer Marke ausgebaut werden soll. Dazu hatte die Gesellschaft vor rund einem Jahr den österreichischen Spezialfahrzeugbauer Achleitner übernommen. Die Transaktion wurde bereits Anfang November bekannt; sie zeigt, dass Sanierungsinvestoren im aktuellen Umfeld, in dem Börsengänge schwierig bleiben, eher auf strategische Käufer setzen."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/unternehmen-branchen/mutares-verkauft-feuerwehrautos-von-magirus"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögen",
+    "Private Equity",
+    "Regulierung",
+    "Deutschland"
+   ],
+   "kicker": "Vermögen · Private Equity · Steuern",
+   "titel": "Reiche will den Steuerstreit um Private-Equity-Fonds beenden",
+   "deck": "Die Wirtschaftsministerin stellt sich hinter eine gesetzliche Klärung, ob Fonds vermögensverwaltend oder gewerblich sind – das Finanzministerium hatte bisher abgelehnt.",
+   "text": [
+    "In den jahrelangen Streit um die steuerliche Einordnung von Private-Equity-Fonds kommt Bewegung. Bundeswirtschaftsministerin Katherina Reiche (CDU) sprach sich auf dem 27. Deutschen Eigenkapitaltag vor rund 300 Investoren für eine gesetzliche Klarstellung aus; der jetzige Zustand müsse sich ändern, Ziel sei, Deutschland zum führenden Fondsstandort Europas zu machen. Kern des Streits ist, wann ein Fonds als vermögensverwaltend und damit steuerlich transparent gilt und wann als Gewerbebetrieb – mit Nachteilen, die die Branche als Investitionshemmnis sieht.",
+    "Das Bundesfinanzministerium hatte eine gesetzliche Regelung der Kriterien bislang abgelehnt, die Länder gingen eigene Wege; Hessen etwa hat eine Regelung getroffen. Ausgelöst wurde die Unsicherheit durch Verfahren, die die Münchner Finanzbehörden im Herbst 2020 gegen Beteiligungsgesellschaften eröffnet hatten. Der Bundesverband Beteiligungskapital (BVK) fordert eine einheitliche Behandlung statt eines „Flickenteppichs“ und ein Ende der Auseinandersetzungen.",
+    "BVK-Vorstandschef Ingo Krocke, zugleich Chef von Auctus Capital Partners, verlangte zudem eine „Willkommenskultur“ für Kapital, die Umsetzung der Ergebnisse des Investitionsgipfels der Regierung und die Mobilisierung institutioneller Gelder wie von Pensionskassen und Betriebsrenten über wettbewerbsfähige Fonds. Bis 2030 suchten mehr als 550.000 deutsche Unternehmen eine Nachfolgelösung. Vor einem Jahr habe Deutschland als attraktivster Markt für private Investitionen gegolten, inzwischen sei Schwung verloren gegangen. Digitalminister Karsten Wildberger verwies auf bisher 11,5 Milliarden Euro Bürokratieentlastung und mehr als 4.500 Gesetze, die überprüft würden."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/konjunktur-politik/neue-bewegung-im-steuerstreit-um-private-equity-fonds"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Vermögen",
+    "WealthTech",
+    "Großbritannien"
+   ],
+   "kicker": "Vermögen · WealthTech · Gründerin",
+   "titel": "Starling-Gründerin Boden baut eine Bank für KI-Agenten – nach dem Verkauf ihrer letzten Starling-Anteile",
+   "deck": "Lockwood soll Kunden erlauben, KI-Assistenten mit festen Grenzen über ihr Geld verfügen zu lassen; Ziel ist eine Million Kunden im ersten Jahr.",
+   "text": [
+    "Anne Boden, Gründerin der britischen Digitalbank Starling, startet mit Lockwood ihr nächstes Finanzunternehmen. Die 66-Jährige finanziert das Fintech vorerst selbst und will im kommenden Jahr externes Kapital aufnehmen; langfristig plant sie internationale Expansion und einen Börsengang. Ihre restlichen 2,7 Prozent an Starling hat sie laut Sky News im Oktober bei einer Bewertung von 1,7 Milliarden Pfund verkauft. Den Namen Lockwood wählten nach Bodens Angaben in der „Sunday Times“ KI-Agenten aus einer Vorschlagsliste.",
+    "Lockwood zielt auf Menschen, die persönliche KI-Assistenten nutzen. Kunden sollen ihnen klare Grenzen setzen können, etwa nur Lebensmittel und höchstens 100 Pfund im Monat. Ihr eigenes Gehaltskonto würde Boden einem solchen Assistenten nicht anvertrauen. Zum Start gibt es nur ein Girokonto, keine Anlagekonten oder Kredite. Im nächsten Jahr strebt Lockwood eine E-Geld-Lizenz an, danach die Umwandlung in eine Bank; im ersten Jahr sollen eine Million Kunden gewonnen werden.",
+    "Die Branche bewegt sich in dieselbe Richtung. OpenAI hat mit American Express, Mastercard und Visa eine Wallet angekündigt, über die KI-Agenten per Token statt Kartendaten bezahlen, jede Zahlung muss biometrisch bestätigt werden. Laut einer Umfrage der Finanzaufsicht FCA vom Oktober setzen vier Fünftel der befragten britischen Banken bereits KI-Agenten ein, nur bis zu 9 Prozent sehen sie aber Anträge genehmigen oder Zahlungen auslösen. Standard-Chartered-Finanzchef Manus Costello mahnt, solche Werkzeuge müssten erst nachweislich sicher sein. Die Börsen-Zeitung verweist zudem auf Vorfälle, bei denen KI-Werkzeuge von OpenAI und Anthropic unbefugt auf Drittsysteme zugriffen."
+   ],
+   "quellen": [
+    [
+     "Börsen-Zeitung",
+     "https://www.boersen-zeitung.de/banken-finanzen/fintech-lockwood-setzt-auf-nutzer-von-ki-agenten"
+    ]
+   ],
+   "berichterstattung": [
+    "boersen-zeitung.de"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Nvidia",
+    "Chips"
+   ],
+   "kicker": "Köpfe · Konzernchef",
+   "titel": "Jensen Huang: Der Nvidia-Gründer ist nach elf Tagen wieder Konzernchef",
+   "deck": "Der Verwaltungsrat setzt Huang einstimmig wieder ein – nach Rücksprache mit hochrangigen Regierungsvertretern in Washington.",
+   "text": [
+    "Jensen Huang führt Nvidia wieder. Der Verwaltungsrat des Chipkonzerns hat den Mitgründer am Montag einstimmig erneut zum Präsidenten, Vorstandschef und Mitglied des Gremiums ernannt, mit sofortiger Wirkung. Huang war am 12. November nach einem Spionage- und Affärenskandal zurückgetreten, die den Konzern rund 1,4 Billionen Dollar an Börsenwert gekostet hatte. Übergangsweise hatte Finanzchefin Colette Kress das Unternehmen geführt.",
+    "Der Entscheidung gingen nach Angaben des Fachportals The Decoder Gespräche mit Huang und Rückmeldungen hochrangiger US-Regierungsvertreter voraus, die in seiner Rückkehr kein Risiko für die nationale Sicherheit sehen. Präsident Donald Trump lobte den Schritt auf Truth Social; die oberste US-Justizbehörde habe keine Belege für ein Fehlverhalten Huangs gefunden. Zugleich forderte Trump den Konzern auf, die Einhaltung der Exportkontrollen weiter zu prüfen.",
+    "Abgeschlossen ist die Sache nicht: Ein unabhängiger Ausschuss des Verwaltungsrats ermittelt weiter mit externen Anwälten, Nvidia hat ein eigenes Aufsichtsgremium für nationale Sicherheit und Exportkontrolle eingerichtet und sucht einen Chief Compliance Officer. Am 1. Dezember soll Huang hinter verschlossenen Türen vor dem Repräsentantenhaus aussagen. An der Börse kam die Rückkehr gut an: Die Aktie stieg laut The Decoder um mehr als 30 Prozent."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+    ],
+    [
+     "Nvidia (Mitteilung)",
+     "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    ]
+   ],
+   "berichterstattung": [
+    "businessinsider.com",
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Meta",
+    "KI"
+   ],
+   "kicker": "Köpfe · Tech",
+   "titel": "Alexandr Wang: Metas KI-Chef sieht die Superintelligenz „gleich um die Ecke“",
+   "deck": "Nach dem KI-gestützten Beweisentwurf zur Riemannschen Vermutung warnt Wang, die Branche sei auf das Kommende nicht vorbereitet.",
+   "text": [
+    "Alexandr Wang, Chief AI Officer des Facebook-Konzerns Meta, hält den Durchbruch zu einer Superintelligenz – einer KI, die dem Menschen in nahezu allen Bereichen überlegen ist – für nah. Anlass ist der jüngst vorgelegte, mit KI-Hilfe entstandene Beweisentwurf zur Riemannschen Vermutung, die als eines der schwierigsten offenen Probleme der Mathematik gilt. Das sei ein klares Zeichen, dass Superintelligenz „gleich um die Ecke“ sei, schrieb Wang auf der Plattform X, wie das Fachportal The Decoder am Montag berichtete.",
+    "Rohe Intelligenz sei nicht mehr der Engpass, argumentiert Wang. Den Modellen fehlten vor allem Fachwissen und praktische Infrastruktur. Da KI-Forschung weniger anspruchsvoll sei als die Riemannsche Vermutung, könnten Modelle bald ihre eigene Entwicklung automatisieren. Auch Forschung in Biologie, Waffentechnik und Wirtschaft könne sich so stark beschleunigen, dass Menschen kaum folgen könnten.",
+    "Die Branche denke darüber nicht gründlich genug nach, kritisiert Wang. Statt nur auf Sicherheit zu schauen, müsse sie dafür sorgen, dass KI den Menschen mehr Handlungsfreiheit gibt, statt die Kontrolle über die Gesellschaft zu übernehmen – das erfordere eine deutliche Abkehr vom bisherigen Kurs. Meta unterhält ein eigenes Superintelligenz-Labor, zählt aber derzeit laut The Decoder nicht zur Spitzengruppe der KI-Entwickler."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+    ],
+    [
+     "Alexandr Wang auf X",
+     "https://x.com/alexandr_wang/status/2124636606959345776"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "xAI",
+    "Rechenzentren"
+   ],
+   "kicker": "Köpfe · Unternehmer",
+   "titel": "Elon Musk: „Rechenleistung verkaufen, weil wir nicht mithalten können“ – xAI wird zum Vermieter für Anthropic und Google",
+   "deck": "Laut „New York Times“ zahlt Anthropic Musks KI-Firma rund 3,1 Milliarden Dollar im Monat, Google etwa 800 Millionen.",
+   "text": [
+    "Elon Musk setzt bei seinem KI-Unternehmen xAI zunehmend auf ein anderes Geschäft als eigene Modelle: die Vermietung von Rechenleistung an Konkurrenten. Das berichtet die „New York Times“, wie das Fachportal The Decoder am Montag zusammenfasste. Seit Mai 2026 vermietet xAI Kapazität, größter Kunde ist Anthropic mit rund 3,1 Milliarden Dollar im Monat, Google zahlt etwa 800 Millionen Dollar monatlich. Beide Verträge sind mit 90 Tagen Frist kündbar. Die Mieteinnahmen machen laut dem Bericht inzwischen mehr als die Hälfte der Erlöse aus.",
+    "Musk selbst trieb den Kurswechsel offenbar voran. Im August drängte er Ingenieure in einem Gruppenchat auf mehr „Umsatz pro GPU“, auch weil die eigenen Modelle im Wettbewerb kaum bestehen. Einen internen Chat soll er in „Sell compute because we can't compete“ umbenannt haben – sinngemäß: Rechenleistung verkaufen, weil wir nicht mithalten können. Musk zufolge will Anthropic sogar noch mehr Kapazität mieten.",
+    "Zugleich wird gekürzt: Das 60-köpfige Team hinter dem Bild- und Videogenerator Grok Imagine wird aufgelöst, die KI-Avatare wurden bereits im September eingestellt. Seit dem Börsengang im Juni steht xAI unter verstärktem Druck, Umsatz vorzuweisen."
+   ],
+   "quellen": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html"
+    ],
+    [
+     "The Decoder",
+     "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com",
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "Mathematik",
+    "KI"
+   ],
+   "kicker": "Köpfe · Wissenschaft",
+   "titel": "Ravi Vakil: Der Präsident der US-Mathematikervereinigung stellt einen rein menschlichen Riemann-Beweis ins Netz – und warnt vor Vorschusslorbeeren",
+   "deck": "Stunden nach dem Claude-gestützten Beweisanspruch eines Anthropic-Mathematikers veröffentlichte der Stanford-Professor einen konkurrierenden Entwurf.",
+   "text": [
+    "Ravi Vakil, Mathematikprofessor in Stanford und Präsident der American Mathematical Society, ist ungewollt zum Schiedsrichter im Wettlauf um die Riemannsche Vermutung geworden. Wenige Stunden nachdem der Anthropic-Mathematiker Levent Alpöge am Freitag einen mit dem KI-Modell Claude entwickelten Beweis angekündigt hatte, stellte Vakil auf seinem Blog einen konkurrierenden Entwurf des Mathematikers Alessandro Masullo online. Er betrifft die verallgemeinerte Riemannsche Vermutung. „Es ist alles menschlich, ohne KI“, schrieb Vakil laut dem Fachportal The Decoder.",
+    "Eigentlich sollte Masullo noch ein Jahr in Stanford an dem Entwurf feilen; der Stanford-Zahlentheoretiker Brian Conrad hatte ihn monatelang begleitet. Alpöges Ankündigung erzwang die frühere Veröffentlichung. Rund acht Stunden später ergänzte Vakil, dass mehrere Leser Probleme in dem Text gefunden hätten – einige davon mithilfe verschiedener KI-Modelle.",
+    "Vakil betont, er erhebe keinen Anspruch auf die Richtigkeit der Beweisstrategie. Als bewiesen gelte die Vermutung erst, wenn alle Einwände zur Zufriedenheit der Fachwelt ausgeräumt seien. Er rief Mathematiker auf, den Entwurf zügig zu prüfen und in Beweissysteme wie Lean zu übertragen, mit denen Computer jeden Schritt kontrollieren."
+   ],
+   "quellen": [
+    [
+     "The Decoder",
+     "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+    ],
+    [
+     "Ravi Vakil (Blog)",
+     "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+    ]
+   ],
+   "berichterstattung": [
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Köpfe",
+    "USA",
+    "Nvidia",
+    "Chips"
+   ],
+   "kicker": "Köpfe · Regierung",
+   "titel": "Scott Bessent: Der US-Finanzminister verlangt von Nvidia Offenheit über die China-Geschäfte",
+   "deck": "Bevor über die Führung entschieden werde, solle der Chipkonzern seine Verkäufe nach China offenlegen, forderte Bessent laut „New York Times“.",
+   "text": [
+    "US-Finanzminister Scott Bessent hat sich in den Streit um die Führung von Nvidia eingeschaltet. Am Sonntag forderte er den Chipkonzern auf, seine Chipverkäufe nach China offenzulegen, bevor Personalentscheidungen an der Spitze getroffen werden. Das berichtete die „New York Times“, wie das Fachportal The Decoder zusammenfasste.",
+    "Hintergrund sind Ermittlungen, ob über Firmen in Südostasien Nvidia-KI-Chips unter Umgehung der US-Exportkontrollen nach China gelangt sind. Nach einem weiteren Bericht der Zeitung hatten US-Geheimdienste über mehr als ein Jahr Kontakte einer Geschäftsfrau aus dem Umfeld des früheren Konzernchefs Jensen Huang zum chinesischen Ministerium für Staatssicherheit verfolgt.",
+    "Bessents Forderung kam einen Tag, bevor der Nvidia-Verwaltungsrat Huang wieder an die Spitze holte. Die US-Regierung prüft die Geschäfte des Konzerns weiter; Nvidia hat eigens ein Aufsichtsgremium für Exportkontrollen eingerichtet. Huang soll am 1. Dezember vor dem Repräsentantenhaus aussagen."
+   ],
+   "quellen": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"
+    ],
+    [
+     "The Decoder",
+     "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com",
+    "the-decoder.com"
+   ]
+  },
+  {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "Ein Rückzugsort für 200.000 Walrosse: Inseln vor Alaskas Küste dauerhaft geschützt",
+   "deck": "Die Conservation Fund und eine Gesellschaft der Iñupiat-Gemeinde Point Lay sichern knapp 50.000 Acres Inseln und Lagune vor Industrie und Störungen.",
+   "text": [
+    "Für die Pazifischen Walrosse gibt es an der Nordwestküste Alaskas künftig einen dauerhaften Rückzugsort. Die US-Naturschutzorganisation The Conservation Fund hat mit der Cully Corporation, der Dorfgesellschaft der Alaska Natives in Point Lay, eine Vereinbarung geschlossen, die knapp 50.000 Acres (rund 20.000 Hektar) einschließlich der vorgelagerten Barriereinseln vor Rohstoffabbau und anderen menschlichen Eingriffen bewahrt. Das berichtete CNN nach der Bekanntgabe in der vergangenen Woche. Geschützt ist auch die Kasegaluk-Lagune, eines der größten weitgehend unberührten Lagunensysteme der Welt.",
+    "Die Inseln sind für die Tiere inzwischen unverzichtbar: Weil das Meereis im Sommer schwindet, auf dem sich Weibchen und Jungtiere früher ausruhten, ziehen sie seit 2007 an Land. Anfangs waren es einige Tausend, heute kommen jeden Herbst mehr als 200.000 Walrosse, die größte Ansammlung dieser Art in Nordamerika. Störungen durch Flugzeuge, Boote oder Menschen können unter den dicht gedrängten Tieren Massenpaniken auslösen, bei denen Jungtiere zu Tode getrampelt werden.",
+    "Rund zehn Jahre dauerte es bis zu der Einigung. Die Cully Corporation erhält eine Zahlung, deren Höhe nicht genannt wurde; die traditionelle Nutzung des Landes durch die Gemeinde bleibt erlaubt. „Wir respektieren unser Land, unsere Tradition, Geschichte und Kultur“, sagte der Vorstandsvorsitzende Willard Neakok. Fachleute betonen, dass Land das verlorene Meereis nicht ersetzen könne – doch der Schutz der Ruheplätze nimmt den Tieren zumindest eine zusätzliche Gefahr."
+   ],
+   "quellen": [
+    [
+     "CNN (via CP24)",
+     "https://www.cp24.com/news/world/2026/11/18/200000-walruses-are-forced-ashore-in-alaska-as-sea-ice-melts-now-theres-a-plan-to-protect-them/"
+    ],
+    [
+     "The Conservation Fund",
+     "https://www.conservationfund.org/our-impact/news-insights/pacific-walrus-alaska-arctic-conservation/"
+    ]
+   ],
+   "berichterstattung": [
+    "cp24.com",
+    "keyt.com",
+    "abc17news.com",
+    "goodnewsnetwork.org"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Artenschutz"
+   ],
+   "kicker": "Gute Nachrichten · Artenschutz",
+   "titel": "Erstmals seit über 100 Jahren: Im Dornoch Firth werden wieder Austern geboren",
+   "deck": "Nach 140.000 ausgesetzten Jungtieren pflanzt sich die Europäische Auster in der schottischen Meeresbucht wieder selbst fort.",
+   "text": [
+    "In der schottischen Meeresbucht Dornoch Firth sind zum ersten Mal seit mehr als einem Jahrhundert wieder Europäische Austern auf natürliche Weise zur Welt gekommen. Wissenschaftler der Heriot-Watt University entdeckten bei routinemäßigen Kontrollen winzige Jungaustern, nur wenige Millimeter groß, auf Muschelschalen, die zum Anlocken auf dem Meeresgrund ausgelegt worden waren. Das Nationalmuseum Schottland und das Museum Wales bestätigten die Bestimmung. Bei einem späteren Besuch waren einige der Tiere bereits so groß wie eine 50-Pence-Münze.",
+    "Die Austernbänke der Bucht waren vermutlich Ende des 19. Jahrhunderts leergefischt worden, wie fast überall in Europa. 2017 setzte das Wiederansiedlungsprojekt DEEP die ersten 300 Austern aus Loch Ryan aus; bis Oktober 2026 brachten Freiwillige und Forschende mehr als 140.000 eigens gezüchtete Jungaustern ein. Inzwischen gibt es zwei Austernbänke mit rund 3.000 geschlechtsreifen Tieren. Getragen wird das Projekt von der Universität, der Marine Conservation Society und dem Whiskyhersteller Glenmorangie.",
+    "„Dieser Moment hat zwölf Jahre und 140.000 Austern gebraucht“, sagte Projektleiter Bill Sanderson. Der Fund zeige, dass gezielte Wiederherstellung funktionieren könne, sagte die Entdeckerin Gurjameer Ramday; warmes Meerwasser in den vergangenen beiden Jahren habe geholfen. Bis 2031 sollen etwa vier Millionen Austern in der Bucht leben. Austernriffe filtern Wasser und bieten vielen anderen Meerestieren Lebensraum."
+   ],
+   "quellen": [
+    [
+     "Heriot-Watt University",
+     "https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years"
+    ],
+    [
+     "Irish News (PA)",
+     "https://www.irishnews.com/news/uk/native-oysters-born-in-firth-for-first-time-in-more-than-100-years-TK73VTXMLZOBTPJST433UCGS5E/"
+    ]
+   ],
+   "berichterstattung": [
+    "hw.ac.uk",
+    "irishnews.com",
+    "expressandstar.com",
+    "positive.news"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Rettung"
+   ],
+   "kicker": "Gute Nachrichten · Rettung",
+   "titel": "Nach sieben Stunden in der Wüste: Freiwilliger findet vermisste Zweijährige in Arizona",
+   "deck": "Wärmebildkameras hatten das Kind nicht entdeckt – ein Großvater aus dem Ort fand es kurz nach Mitternacht unverletzt.",
+   "text": [
+    "Eine glückliche Suche im Süden Arizonas: Die zweijährige Vella Campillo, die am 17. November bei Sonnenuntergang nahe der Kleinstadt Eloy verschwunden war, ist nach etwa sieben Stunden unverletzt gefunden worden. Das Mädchen hatte beim Spielen mit seinen Geschwistern, nur mit einer Windel bekleidet, die Obhut eines Familienmitglieds verlassen und war in die umliegende Wüste gelaufen. Die Eltern alarmierten kurz nach 17 Uhr die Polizei.",
+    "Das Sheriffbüro von Pinal County suchte gemeinsam mit Freiwilligen, während die Temperaturen auf rund zehn Grad Celsius fielen. Drohnen und ein Hubschrauber waren im Einsatz, doch die Wärmebildkameras konnten das Kind nicht ausmachen. Kurz nach Mitternacht entdeckte der Freiwillige Jay Stewart, selbst Vater und Großvater, das Mädchen an einer Buschreihe neben einem Graben. Im Krankenhaus wurden weder Verletzungen noch eine Unterkühlung festgestellt; die Familie konnte ihre Tochter bald wieder in die Arme schließen.",
+    "Sheriff Ross Teeple zeichnete Stewart als vorbildlichen Bürger aus und nahm ihn ehrenhalber in die Rettungsmannschaft des Sheriffbüros auf. Die Eltern sagten, sie seien „überaus gesegnet“. Stewart erklärte die Haltung der Helfer mit einem Satz, der die Runde machte: Sie sei vielleicht nicht ihr Kind, „aber sie könnte es sein“."
+   ],
+   "quellen": [
+    [
+     "Fox 10 Phoenix",
+     "https://www.fox10phoenix.com/news/hero-citizen-finds-missing-2-year-old-girl-vella-campillo-eloy"
+    ],
+    [
+     "Good News Network",
+     "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/"
+    ]
+   ],
+   "berichterstattung": [
+    "fox10phoenix.com",
+    "goodnewsnetwork.org"
+   ]
+  },
+  {
+   "id": "gut-04",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Mitmenschlichkeit"
+   ],
+   "kicker": "Gute Nachrichten · Mitmenschlichkeit",
+   "titel": "Spielen trotz Chemotherapie: Kinderklinik in New Orleans eröffnet ein eigenes Museum",
+   "deck": "„Walker's Imaginarium“ erfüllt den Wunsch eines an Krebs gestorbenen Jungen – finanziert allein aus Spenden.",
+   "text": [
+    "In der Kinderklinik Manning Family Children's in New Orleans hat ein Kindermuseum eröffnet, das kleine Patientinnen und Patienten mitten im Krankenhaus besuchen können. „Walker's Imaginarium“ ist rund 15.000 Quadratfuß (etwa 1.400 Quadratmeter) groß und an sieben Tagen in der Woche für Patienten geöffnet. Benannt ist es nach Walker Beery, bei dem im August 2019 ein Hirntumor festgestellt wurde und der nach zwei Jahren Behandlung starb. Sein Wunsch war, auch während der Chemotherapie spielen zu können.",
+    "Die Familie gründete noch zu seinen Lebzeiten die Stiftung Kids Join The Fight, die das Museum gemeinsam mit Spenden aus der Region vollständig finanziert hat. Die Ausstellungen greifen Louisiana auf: ein Cajun-Musik-Tanzbereich, ein Bayou mit Propellerbooten, ein Mardi-Gras-Umzug und ein Flusskrebs-Essen. Auf der Außenterrasse gibt es einen Minigolfplatz mit neun Bahnen, dazu eine barrierefreie Schaukel und ein Klassenzimmer für Kinder, die lange Schulzeit verpassen.",
+    "„Auch an den schwersten Tagen im Leben eines Kindes sollte Raum für Kindheit bleiben“, sagte Klinikchef Lucio Fragoso. Eine begrenzte Zahl auswärtiger Besucher kann Tageskarten kaufen. Laut Good News Network ist die Klinik zudem die erste, die dem Verband der Kindermuseen beigetreten ist."
+   ],
+   "quellen": [
+    [
+     "Manning Family Children's",
+     "https://www.manningchildrens.org/news-blog/2026/november/manning-family-children-s-and-kids-join-the-figh/"
+    ],
+    [
+     "Good News Network",
+     "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/"
+    ]
+   ],
+   "berichterstattung": [
+    "goodnewsnetwork.org"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Olympiahalle",
+   "titel": "Ramazzotti verschiebt sein Olympiahallen-Konzert auf März 2028 – bei Foreigner und Roland Kaiser ist der Golden Circle vergriffen",
+   "deck": "Wer Karten für den Italiener hat, muss nichts tun; bei zwei anderen Arena-Abenden 2027 sind die teuersten Plätze bereits weg.",
+   "text": [
+    "Eros Ramazzotti kommt später nach München als geplant. Sein Konzert der „Una Storia Importante World Tour“ in der Olympiahalle, ursprünglich für den 16. April 2027 angesetzt, findet laut Olympiapark erst am Freitag, 17. März 2028, statt. Beginn ist um 20 Uhr, Einlass ab 18 Uhr. Bereits gekaufte Karten behalten ihre Gültigkeit, ein Umtausch ist also nicht nötig. Wer noch Karten sucht, findet sie über München Ticket; dort gibt es auch VIP-Pakete mit Sitzplatz der ersten Kategorie, separatem Halleneingang, Buffet vor der Show, Parkplatz und Garderobe. Inhaber normaler Karten können ein Upgrade dazukaufen. Veranstalter ist FKP Scorpio.",
+    "Eng wird es dagegen am Mittwoch, 20. Oktober 2027: Foreigner feiern dann in der Olympiahalle ihr 50-jähriges Bestehen, als Gäste sind Europe dabei. Bei Eventim ist der Stehplatz im Golden Circle für 117,90 Euro derzeit nicht verfügbar. Zu haben sind noch Sitzplätze für 103,90 und 90,90 Euro sowie Stehplätze im Innenraum für 90,90 Euro und im Umgriff für 76,90 Euro, jeweils zuzüglich bis zu 3 Euro Gebühr und Versand. Wer mehr ausgeben will, kann zwischen VIP-Paketen von 253 Euro (früher Einlass) bis 1503 Euro (Backstage-Tour mit Bühnenbesuch) wählen. Veranstalter ist Global Concerts.",
+    "Ähnlich sieht es bei Roland Kaiser aus. Für seine Zusatzshow der „Unser Moment“-Arenatour am Freitag, 9. April 2027, um 19.30 Uhr meldet Eventim „hohe Nachfrage“; der Golden-Circle-Sitzplatz für 199,90 Euro ist zurzeit nicht verfügbar. In den übrigen sechs Kategorien reicht die Spanne von 69,90 bis 149,90 Euro, pro Bestellung sind höchstens sechs Karten möglich. Das VIP-Paket „Euer Moment“ kostet 229,90 Euro, ein reines Upgrade zu einer vorhandenen Karte 99,90 Euro. Veranstalter ist Semmel Concerts."
+   ],
+   "quellen": [
+    [
+     "Olympiapark München – Eros Ramazzotti",
+     "https://www.olympiapark.de/en/events/eros-ramazzotti-n5558"
+    ],
+    [
+     "Eventim – Foreigner",
+     "https://www.eventim.de/en/event/foreigner-50th-anniversary-tour-2027-olympiahalle-muenchen-21736809/"
+    ],
+    [
+     "Eventim – Roland Kaiser",
+     "https://www.eventim.de/event/roland-kaiser-unser-moment-arena-tour-2027-olympiahalle-muenchen-21583083/"
+    ]
+   ],
+   "berichterstattung": [
+    "olympiapark.de",
+    "eventim.de"
+   ],
+   "karten": {
+    "vorverkauf": "läuft · Ramazzotti: alte Karten gelten für den neuen Termin · Golden Circle bei Foreigner und Roland Kaiser derzeit nicht verfügbar",
+    "termin": "Ramazzotti Fr, 17.3.2028, 20 Uhr · Roland Kaiser Fr, 9.4.2027, 19.30 Uhr · Foreigner Mi, 20.10.2027, 20 Uhr",
+    "ort": "Olympiahalle",
+    "preise": "Foreigner 76,90–103,90 € (verfügbare Kategorien) · Roland Kaiser 69,90–149,90 €, VIP 229,90 €",
+    "stelle": "München Ticket (Ramazzotti), Eventim",
+    "link": "https://www.olympiapark.de/en/events/eros-ramazzotti-n5558"
+   }
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Vorverkauf",
+   "titel": "Archive in der Isarphilharmonie ab 49,65 Euro, sombr in der Olympiahalle ab 50,15 Euro: Diese Konzerte für 2027 sind neu buchbar",
+   "deck": "Britischer Trip-Hop im Gasteig, ein US-Newcomer in der großen Halle und das erste Soloprogramm von Thomas Bergersen.",
+   "text": [
+    "Die britische Band Archive stellt im Herbst 2027 ihr neues Album „Not In My Name“ live vor und macht dabei am Samstag, 2. Oktober 2027, um 19.30 Uhr in der Isarphilharmonie im Gasteig HP8 Station. Es gibt ausschließlich Sitzplätze in vier Kategorien: 71,65 Euro, 66,15 Euro, 60,65 Euro und 49,65 Euro, jeweils inklusive Vorverkaufsgebühr, dazu kommen bei Eventim bis zu 3 Euro Bearbeitungsgebühr und Versand. Veranstalter ist der Münchner Konzertwerk.",
+    "In die Olympiahalle zieht es den amerikanischen Musiker sombr, der am Freitag, 28. Mai 2027, um 19.30 Uhr spielt; im Vorprogramm stehen laut dem Konzertkalender JamBase Ravyn Lenae und Jessie Mazin. Die dort zitierten Eventim-Preise liegen zwischen 50,15 und 113,40 Euro. Wann genau der Verkauf begonnen hat, geht aus der Übersicht nicht hervor.",
+    "Ebenfalls in der Olympiahalle tritt am 6. April 2027 Thomas Bergersen auf, Mitgründer des für Filmtrailer-Musik bekannten Projekts Two Steps From Hell. Es ist laut Olympiapark sein erster Soloauftritt in der Halle; angekündigt ist eine Mischung aus Rockkonzert und sinfonischen Orchesterklängen. Einlass ist um 18.30 Uhr, Beginn um 20 Uhr. Karten gibt es über München Ticket, Preise nennt die Veranstaltungsseite nicht. Veranstalter sind FKP Scorpio und Konzertwerk."
+   ],
+   "quellen": [
+    [
+     "Eventim – Archive",
+     "https://www.eventim.de/event/archive-der-gasteig-hp8-22094841/?affiliate=SAV"
+    ],
+    [
+     "Olympiapark – Thomas Bergersen",
+     "https://www.olympiapark.de/en/events/thomas-bergersen-n5870"
+    ],
+    [
+     "JamBase – sombr",
+     "https://www.jambase.com/show/sombr-olympiahalle-20270528"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de",
+    "olympiapark.de",
+    "jambase.com"
+   ],
+   "karten": {
+    "vorverkauf": "läuft",
+    "termin": "Bergersen Di, 6.4.2027, 20 Uhr · sombr Fr, 28.5.2027, 19.30 Uhr · Archive Sa, 2.10.2027, 19.30 Uhr",
+    "ort": "Olympiahalle; Isarphilharmonie (Gasteig HP8)",
+    "preise": "Archive 49,65–71,65 € · sombr 50,15–113,40 €",
+    "stelle": "Eventim, München Ticket (Bergersen)",
+    "link": "https://www.eventim.de/event/archive-der-gasteig-hp8-22094841/?affiliate=SAV"
+   }
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Theater",
+    "Tickets"
+   ],
+   "kicker": "München · Bühne · Vorverkauf",
+   "titel": "Schirachs „Der stille Freund“ im Prinzregententheater ausverkauft – „Mamma Mia!“ kommt im englischen Original ins Deutsche Theater",
+   "deck": "Für den Abend mit dem Bestsellerautor im Januar gibt es keine regulären Karten mehr, beim Musical im April ist nur die günstigste Kategorie weg.",
+   "text": [
+    "Wer Ferdinand von Schirach am Samstag, 16. Januar 2027, im Prinzregententheater erleben möchte, kommt über den regulären Verkauf nicht mehr zum Zug. Für den Abend „Der stille Freund“ um 20 Uhr sind bei Eventim alle vier Kategorien als derzeit nicht verfügbar markiert, was der Ticketanbieter als ausverkauft ausweist. Die Preise hatten zwischen 66,80 Euro in Kategorie 4 und 111,60 Euro in Kategorie 1 gelegen, Kategorie 2 kostete 100,10 Euro, Kategorie 3 82,90 Euro. Eventim kündigt an, sich um weitere Karten zu bemühen; Interessierte sollten die Seite also im Blick behalten. Veranstalter ist MünchenMusik.",
+    "Deutlich mehr Auswahl gibt es beim Musical „Mamma Mia!“, das Live Nation im Deutschen Theater an der Schwanthalerstraße zeigt. Gespielt wird laut Veranstalter in der englischen Originalfassung mit deutschen Übertiteln. Für die Nachmittagsvorstellung am Sonntag, 25. April 2027, um 14 Uhr kosten die Plätze 119,90 Euro in Kategorie 1, 99,90 Euro in Kategorie 2, 84,90 Euro in Kategorie 3 und 64,90 Euro in Kategorie 4. Die günstigste Kategorie 5 für 44,90 Euro ist bereits nicht mehr verfügbar.",
+    "Bei beiden Häusern kommen beim Kauf über Eventim bis zu 3 Euro Bearbeitungsgebühr und die Versandkosten hinzu Der Postversand dauert zwei bis vier Werktage, per Express kommt die Sendung bei Bestellung bis 14 Uhr am nächsten Werktag. Wer per Post bestellt, kann statt der Standardkarte ein gestaltetes Sammel-„FanTicket“ wählen. Telefonisch ist die Bestellhotline montags bis samstags von 9 bis 18 Uhr erreichbar."
+   ],
+   "quellen": [
+    [
+     "Eventim – Ferdinand von Schirach",
+     "https://www.eventim.de/en/event/ferdinand-von-schirach-der-stille-freund-prinzregententheater-20549340/"
+    ],
+    [
+     "Eventim – Mamma Mia!",
+     "https://www.eventim.de/en/event/mamma-mia-das-original-musical-deutsches-theater-21588799/"
+    ]
+   ],
+   "berichterstattung": [
+    "eventim.de"
+   ],
+   "karten": {
+    "vorverkauf": "Schirach: ausverkauft · Mamma Mia!: läuft, Kategorie 5 vergriffen",
+    "termin": "Schirach Sa, 16.1.2027, 20 Uhr · Mamma Mia! So, 25.4.2027, 14 Uhr",
+    "ort": "Prinzregententheater; Deutsches Theater",
+    "preise": "Schirach 66,80–111,60 € · Mamma Mia! 64,90–119,90 €",
+    "stelle": "Eventim (Veranstalter MünchenMusik bzw. Live Nation)",
+    "link": "https://www.eventim.de/en/event/mamma-mia-das-original-musical-deutsches-theater-21588799/"
+   }
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Weihnachtsmarkt"
+   ],
+   "kicker": "München · Feste · Advent",
+   "titel": "Vom Mercado Navideño bis Pasing: Diese Weihnachtsmärkte öffnen zum ersten Adventswochenende",
+   "deck": "Zwischen Freitag und Sonntag kommen ein lateinamerikanischer Markt, der Winterzauber im Westpark und mehrere Stadtteilmärkte hinzu.",
+   "text": [
+    "Zum ersten Advent wird das Angebot in den Stadtvierteln deutlich größer. Am Freitag, 27. November, öffnet im Westpark der „Winterzauber“ an der Gans am Wasser, der laut Stadtportal bis zum Neujahrstag läuft. Am selben Tag beginnt im Pineapple Park der Lateinamerikanische Weihnachtsmarkt, der Mercado Navideño; er dauert nur drei Tage bis Sonntag, 29. November, und ist am Sonntag von 12 bis 20 Uhr geöffnet. Ebenfalls am Freitag und Samstag, 27. und 28. November, steht der Andreasmarkt vor der Andreaskirche.",
+    "Am Samstag, 28. November, folgen gleich drei Märkte. Der Pasinger Christkindlmarkt an der Maria-Schutz-Kirche bleibt bis 20. Dezember, sonntags ist er von 13 bis 19.30 Uhr offen. Nur ein Wochenende lang, am 28. und 29. November, laufen der Perlacher Christkindlmarkt an St. Michael (Sonntag 11.45 bis 18 Uhr) und der Truderinger Christkindlmarkt, der im Kulturzentrum Trudering unter Dach stattfindet. Auf der Praterinsel beginnt am Samstagabend um 19 Uhr der Harry-Potter-Weihnachtsmarkt, der bis 6. Dezember dauert; der Eintritt ist dort frei, bei großem Andrang kann der Einlass zeitweise gestoppt werden.",
+    "Wer weiter planen will: Vom 3. bis 6. Dezember lädt Schloss Blutenburg zur Blutenburger Weihnacht, vom 3. bis 20. Dezember hat der Ramersdorfer Christkindlmarkt geöffnet, und am Nikolaustag, 6. Dezember, gibt es den „Winterzauber x Herzlmarkt“. Öffnungszeiten für alle Tage und mögliche Eintrittspreise nennt die städtische Übersicht nicht durchgängig; vor allem bei den Wochenendmärkten in den Pfarreien lohnt ein Blick auf die Seiten der Veranstalter."
+   ],
+   "quellen": [
+    [
+     "muenchen.de – Weihnachtsmärkte 2026",
+     "https://www.muenchen.de/veranstaltungen/weihnachtsmaerkte-christkindlmaerkte-2026?page=6"
+    ],
+    [
+     "muenchen.de – Harry-Potter-Weihnachtsmarkt",
+     "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/harry-potter-weihnachtsmarkt"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de"
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Sport",
+    "FC Bayern",
+    "Tickets"
+   ],
+   "kicker": "München · Sport · Fußball",
+   "titel": "Bayern-Karten für 2027: Für Real Betis und die K.-o.-Runde der Champions League laufen noch die Anfragen",
+   "deck": "Für viele Heimspiele bis zum Frühjahr ist die Frist abgelaufen, bei einigen Partien können Fans aber weiterhin ins Losverfahren.",
+   "text": [
+    "Wer im neuen Jahr in die Allianz Arena will, hat beim FC Bayern noch einige Gelegenheiten – allerdings nicht im freien Verkauf, sondern über das Anfrageverfahren mit anschließender Verlosung. Laut der Ticketing-Statusseite des Vereins sind Anfragen für das letzte Heimspiel der Champions-League-Ligaphase gegen Real Betis am Mittwoch, 27. Januar 2027, um 21 Uhr weiterhin möglich. Wer Glück hat, bekommt die Karte direkt in die App. Auch für die Heimspiele in den Play-offs (16. bis 24. Februar), im Achtelfinale (9. bis 17. März), im Viertelfinale (6. bis 14. April) und im Halbfinale (27. April bis 5. Mai) – sofern die Mannschaft so weit kommt – nimmt der Klub bereits Anfragen an.",
+    "In der Bundesliga stehen nach Angaben des Vereins die Anfragen für die Heimspiele gegen die SV Elversberg (5. bis 7. Februar), den FC Augsburg (19. bis 21. Februar), den SC Freiburg (2. bis 4. März) und den 1. FSV Mainz 05 (12. bis 14. März) offen; Anfragen von Fanclubs sollen jeweils folgen. Für Schalke 04 Ende Januar, den Hamburger SV Anfang April und die Spiele gegen Mönchengladbach und Eintracht Frankfurt im Mai ist die Frist dagegen schon im Juli abgelaufen. Mitglieder, die leer ausgegangen sind, können hier auf den vereinseigenen Zweitmarkt ausweichen, der je nach Spiel bis zu zwei oder vier Karten pro Person erlaubt.",
+    "Anfragen laufen über tickets.fcbayern.com, Fanclubs haben ein eigenes Portal. Der Verein verweist bei Fragen auf seine Ticket-Hotline und die Statusseite, die für jedes Spiel den Bearbeitungsstand anzeigt. Für die Bundesliga nennt der Klub ein Tageskartenkontingent von rund 15.100 Plätzen; in der Champions League und im Pokal sei es größer."
+   ],
+   "quellen": [
+    [
+     "FC Bayern – Status Ticketing",
+     "https://fcbayern.com/de/tickets/status-ticketing"
+    ],
+    [
+     "FC Bayern – Ticket-Infos Champions League",
+     "https://fcbayern.com/de/news/ticketing/2026/ticket-anfragen-uefa-champions-league-ligaphase-2026-27"
+    ]
+   ],
+   "berichterstattung": [
+    "fcbayern.com"
+   ],
+   "karten": {
+    "vorverkauf": "Anfragephase mit Verlosung offen (Betis, CL-K.-o.-Runde, Elversberg, Augsburg, Freiburg, Mainz) · Fanclub-Anfragen folgen",
+    "termin": "Real Betis Mi, 27.1.2027, 21 Uhr · weitere Heimspiele Februar bis Mai 2027",
+    "ort": "Allianz Arena",
+    "stelle": "FC Bayern (tickets.fcbayern.com), Zweitmarkt nur für Mitglieder",
+    "link": "https://fcbayern.com/de/tickets/status-ticketing"
+   }
+  }
+ ],
+ "vortrag": {
+  "id": "vortrag",
+  "fachgebiet": "Genetik",
+  "tags": [
+   "Vortrag",
+   "Genetik"
+  ],
+  "titel": "Die Schere aus dem Bakterium: Wie funktioniert die Genschere CRISPR?",
+  "einstieg": "Eines der mächtigsten Werkzeuge der modernen Biologie haben sich Forscher von Bakterien abgeschaut, die sich gegen Viren wehren.",
+  "text": [
+   "Jede Zelle trägt ihre Bauanleitung als DNA in sich, einen langen Text aus nur vier chemischen Buchstaben, abgekürzt A, C, G und T. Schon ein einziger falscher Buchstabe kann eine Krankheit auslösen. Lange war es mühsam und teuer, diesen Text gezielt zu ändern. Seit gut zehn Jahren gibt es dafür ein Werkzeug, das in vielen Laboren so selbstverständlich ist wie die Pipette: die Genschere CRISPR/Cas9.",
+   "Erfunden hat sie die Natur. Viele Bakterien speichern kurze Schnipsel aus dem Erbgut von Viren, die sie früher befallen haben, in einem Abschnitt ihres eigenen Erbguts, dem CRISPR-Archiv. Kommt dasselbe Virus wieder, schreibt das Bakterium den passenden Schnipsel in ein RNA-Molekül um. Diese RNA dient einem Eiweiß namens Cas9 als Suchbild: Cas9 tastet die DNA ab, und wo die Buchstabenfolge zum Suchbild passt, zerschneidet es beide Stränge. Das Virus ist damit unschädlich gemacht.",
+   "Emmanuelle Charpentier und Jennifer Doudna zeigten 2012, dass man dieses System umprogrammieren kann. Man baut einfach eine Leit-RNA mit der gewünschten Zielsequenz, und Cas9 schneidet genau dort, auch im Erbgut von Pflanzen, Tieren und Menschen. Man kann sich das vorstellen wie die Suchfunktion in einem Textprogramm, die ein Wort in einem dicken Buch findet und dort den Cursor setzt. Die Zelle versucht anschließend, den Schnitt zu reparieren. Dabei wird ein Gen oft stillgelegt, oder es lässt sich ein neues Textstück einfügen. Für die Entdeckung erhielten die beiden Forscherinnen 2020 den Nobelpreis für Chemie.",
+   "Heute wird die Genschere in der Grundlagenforschung, in der Pflanzenzüchtung und in der Medizin eingesetzt. Die erste zugelassene Therapie auf CRISPR-Basis behandelt seit 2023 schwere erbliche Blutkrankheiten wie die Sichelzellkrankheit: Dabei werden Blutstammzellen außerhalb des Körpers verändert und den Patienten zurückgegeben.",
+   "Offen bleibt einiges. Die Schere schneidet manchmal auch an ähnlichen, falschen Stellen, und nicht jede Reparatur gelingt wie geplant. Neuere Varianten wie das Base Editing tauschen deshalb einzelne Buchstaben aus, ohne den Doppelstrang zu zerschneiden. Und Eingriffe in Ei- oder Samenzellen, die an Kinder weitervererbt würden, gelten weltweit als ethische Grenze."
+  ],
+  "merksaetze": [
+   "CRISPR/Cas9 stammt aus dem Immunsystem von Bakterien, die sich damit gegen Viren wehren.",
+   "Eine Leit-RNA führt das Eiweiß Cas9 an die Stelle im Erbgut, die geschnitten werden soll.",
+   "Die Methode verändert Forschung, Pflanzenzucht und Medizin, wirft aber auch ethische Fragen auf."
+  ],
+  "begriffe": [
+   [
+    "Leit-RNA",
+    "kurzes RNA-Stück, das wie ein Suchbild die Zielstelle in der DNA markiert"
+   ],
+   [
+    "Cas9",
+    "Eiweiß, das die DNA an der markierten Stelle in beiden Strängen durchtrennt"
+   ],
+   [
+    "Base Editing",
+    "Weiterentwicklung, die einzelne DNA-Buchstaben austauscht, ohne den Doppelstrang zu schneiden"
+   ]
+  ],
+  "quellen": [
+   [
+    "Wikipedia: CRISPR/Cas-Methode",
+    "https://de.wikipedia.org/wiki/CRISPR/Cas-Methode"
+   ],
+   [
+    "Nobelpreis Chemie 2020 (Pressemitteilung)",
+    "https://www.nobelprize.org/prizes/chemistry/2020/press-release/"
+   ]
+  ]
+ },
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Tollwood-Winterfestival öffnet heute auf der Theresienwiese",
+   "satz": "Das Festival läuft laut Stadtportal bis 23. Dezember, sonntags ist von 11 bis 22.30 Uhr geöffnet.",
+   "quelle": "muenchen.de",
+   "url": "https://www.muenchen.de/veranstaltungen/weihnachtsmaerkte-christkindlmaerkte-2026?page=6"
+  },
+  {
+   "titel": "MVG stellt am Mittwoch die U-Bahn- und Tram-Baustellen für 2027 vor",
+   "satz": "Für die Sanierungen müssen laut MVG einzelne Linien umgeleitet oder durch Busse ersetzt werden; Details nennt sie bei einem Pressetermin in der SWM-Zentrale.",
+   "quelle": "SWM/MVG",
+   "url": "https://www.swm.de/unternehmen/presse/terminhinweise/mvg-baustellenvorschau"
+  },
+  {
+   "titel": "Isarvorstadt: Höhenretter sichern umsturzgefährdeten Kamin in der Kapuzinerstraße",
+   "satz": "Ein rund vier Meter hoher Außenkamin drohte vom Dach zu stürzen; die Feuerwehr baute ihn von oben ab, der Einsatz dauerte etwa zwei Stunden.",
+   "quelle": "Feuerwehr München",
+   "url": "https://stadt.muenchen.de/infos/presseberichte-feuerwehr.html"
+  },
+  {
+   "titel": "Champions League: FC Bayern spielt am Mittwoch um 21 Uhr in Lille",
+   "satz": "Die Anfragefrist für Gästekarten endete laut Verein bereits am 2. September.",
+   "quelle": "FC Bayern",
+   "url": "https://fcbayern.com/de/tickets/status-ticketing"
+  },
+  {
+   "titel": "Führerschein-Pflichtumtausch: Stadt erinnert an Frist 19. Januar 2027 – Antrag auch online",
+   "satz": "Betroffen sind laut Stadt Führerscheine, die vor 2005 ausgestellt wurden; sie müssen gegen den EU-Kartenführerschein getauscht werden.",
+   "quelle": "Landeshauptstadt München",
+   "url": "https://stadt.muenchen.de/news/pflichtumtausch.html"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-24T10:00",
+   "veranstaltung": "Bayerische Staatsoper: „Carpathia – Der Mythos der Untoten“ (Ballett)",
+   "termin": "24.1.2027",
+   "ort": "Nationaltheater",
+   "stelle": "Bayerische Staatsoper (online, Telefon, Kasse)",
+   "url": "https://www.staatsoper.de/en/ticket-info",
+   "hinweis": "allgemeiner Verkauf; Datum berechnet nach der am 24.11. geprüften Hausregel „zwei Monate vor der Vorstellung, 10 Uhr“"
+  },
+  {
+   "start": "2026-11-28T10:00",
+   "veranstaltung": "Bayerische Staatsoper: „Carpathia – Der Mythos der Untoten“ (Ballett)",
+   "termin": "28.1.2027",
+   "ort": "Nationaltheater",
+   "stelle": "Bayerische Staatsoper (online, Telefon, Kasse)",
+   "url": "https://www.staatsoper.de/en/ticket-info",
+   "hinweis": "allgemeiner Verkauf; Datum nach der Zwei-Monats-Regel berechnet"
+  },
+  {
+   "start": "2026-12-01T10:00",
+   "veranstaltung": "Residenztheater: alle Januar-Vorstellungen",
+   "termin": "Januar 2027",
+   "ort": "Residenztheater, Cuvilliéstheater, Marstall",
+   "stelle": "Residenztheater",
+   "url": "https://www.residenztheater.de/karten/",
+   "hinweis": "allgemeiner Vorverkauf; Hausregel: am 1. jedes Monats um 10 Uhr für den Folgemonat"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Roller Ring im Olympiapark: Rollerdisco und Familien-Sonntage",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Rollerdisco Fr und Sa 19–22 Uhr, Familienzeit So 14–17 Uhr (Kinder ab 6); Erwachsene 8 €, Jugendliche, Schüler und Studierende 6 €, Kinder unter 14 5 €, Familienticket 20 €.",
+   "wann": "ab Fr, 27.11.2026",
+   "hinweis": "Höchstens 200 Personen, Online-Ticketkauf empfohlen; Rollschuhe und Inliner auch vor Ort leihbar. Laut Rathaus Umschau vom 18.11., am 24.11. geprüft.",
+   "frueh": true,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Christkindltram: Online-Tickets für die Adventsrundfahrt",
+   "anbieter": "MVG / Landeshauptstadt München",
+   "angebot": "30-minütige Rundfahrt ab Sendlinger Tor alle 45 Minuten; ab 15 Jahren 5 €, Kinder 6–14 Jahre 3 €, unter 6 frei.",
+   "wann": "Fr, Sa, So vom 27.11. bis 20.12.2026; Fr 15.30–19.15 Uhr, Sa/So 11–19.15 Uhr",
+   "buchen_bis": "2026-12-20",
+   "hinweis": "Höchstens zehn Tickets pro Buchung; kleines Restkontingent etwa 45 Minuten vor Abfahrt am Kassenhäuschen, nur bar. Am 24.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachten/christkindltram"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Christkindlmarkt-Führungen mit Glühwein und gebrannten Mandeln",
+   "anbieter": "Landeshauptstadt München / Tourist Information",
+   "angebot": "Geführter Rundgang über den Christkindlmarkt am Marienplatz mit Geschichte und Bräuchen, zum Schluss Glühwein und gebrannte Mandeln.",
+   "wann": "27.11., 4.12., 11.12. und 18.12.2026, jeweils 16 Uhr",
+   "buchen_bis": "2026-12-18",
+   "hinweis": "Preis nicht genannt; Buchung über einfach-muenchen.de/xmas oder die Tourist Information im Rathaus.",
+   "frueh": true,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Himmelswerkstatt: Basteln für Kinder im Alten Rathaus",
+   "anbieter": "Landeshauptstadt München / Kindermuseum",
+   "angebot": "Kinder von 6 bis 12 Jahren verwandeln sich in Engel und basteln in der Ratstrinkstube, täglich 14.30 und 16.30 Uhr, etwa 1,5 Stunden.",
+   "wann": "26.11.–13.12.2026",
+   "buchen_bis": "2026-12-13",
+   "hinweis": "Anmeldung über kindermuseum-muenchen.de; Treffpunkt Rathauspforte am Fischbrunnen. Preis nicht genannt.",
+   "frueh": true,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Shopping Nights am Christkindlmarkt",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Viele Stände des Christkindlmarkts am Marienplatz haben bis 22 Uhr geöffnet.",
+   "wann": "Fr, 27.11., und Sa, 12.12.2026",
+   "buchen_bis": "2026-12-12",
+   "hinweis": "Keine Anmeldung nötig. Laut Rathaus Umschau vom 18.11.",
+   "frueh": false,
+   "url": "https://ru.muenchen.de/pdf/2026/ru-2026-11-18.pdf"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Residenztheater: Januar-Karten ab 1. Dezember",
+   "anbieter": "Residenztheater",
+   "angebot": "Vorverkaufsstart für alle Vorstellungen im Januar 2027 in Residenztheater, Cuvilliéstheater und Marstall.",
+   "wann": "ab Di, 1.12.2026, 10 Uhr",
+   "buchen_bis": "2027-01-31",
+   "hinweis": "Datum aus der Hausregel abgeleitet (Verkauf am 1. des Monats, 10 Uhr, für den Folgemonat).",
+   "frueh": true,
+   "url": "https://www.residenztheater.de/karten/"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Haus der Kunst: „Open Haus“ mit freiem Eintritt",
+   "anbieter": "Haus der Kunst",
+   "angebot": "Kostenloser Eintritt am letzten Freitag im Monat, 16–22 Uhr.",
+   "wann": "Fr, 27.11.2026, 16–22 Uhr",
+   "buchen_bis": "2026-11-27",
+   "hinweis": "Datum aus der Monatsregel einer muenchen.de-Übersicht (Stand Juli 2026) abgeleitet; vorher beim Haus prüfen.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Lenbachhaus: Abendöffnung „extra+“",
+   "anbieter": "Lenbachhaus",
+   "angebot": "Aktionsabend am ersten Donnerstag im Monat, 18–22 Uhr; unter 18 Jahren freier Eintritt.",
+   "wann": "Do, 3.12.2026, 18–22 Uhr",
+   "buchen_bis": "2026-12-03",
+   "hinweis": "Datum aus der Monatsregel einer muenchen.de-Übersicht (Stand Juli 2026) abgeleitet; Kunstbau 2026 geschlossen.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Museum Villa Stuck: „Friday Late“ gratis",
+   "anbieter": "Museum Villa Stuck",
+   "angebot": "Eintritt und Abendprogramm frei am ersten Freitag im Monat, 18–22 Uhr.",
+   "wann": "Fr, 4.12.2026, 18–22 Uhr",
+   "buchen_bis": "2026-12-04",
+   "hinweis": "Datum aus der Monatsregel einer muenchen.de-Übersicht (Stand Juli 2026) abgeleitet; vorher beim Museum prüfen.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "1-Euro-Sonntag",
+   "anbieter": "Staatliche Museen",
+   "angebot": "Dauerausstellungen sonntags 1 €, u. a. Pinakotheken, Brandhorst, Glyptothek; nächster Termin 29.11.",
+   "wann": "jeden Sonntag",
+   "regelmaessig": true,
+   "url": "https://www.muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Museen",
+   "titel": "Kunsthalle: AfterworkKH",
+   "anbieter": "Kunsthalle München",
+   "angebot": "Dritter Mittwoch im Monat bis 22 Uhr, Studierende ab 18.30 Uhr zwei Tickets für eins",
+   "wann": "monatlich",
+   "regelmaessig": true,
+   "url": "https://www.muenchen.de/sehenswuerdigkeiten/museen/guenstige-und-kostenlose-museen-muenchen"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: REWE-Familienblock",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "15 € pro Person, mindestens ein Erwachsener mit Kind bis 13",
+   "wann": "Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticketing-faq"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Studenten- und Azubiblock",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "10 € pro Person mit Nachweis am Spieltag",
+   "wann": "ausgewählte Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticketing-faq"
+  },
+  {
+   "kategorie": "Sport",
+   "titel": "FC Bayern Basketball: Teens-Rabatt",
+   "anbieter": "FC Bayern Basketball",
+   "angebot": "30 % auf den Tageskartenpreis für 14- bis 17-Jährige mit Nachweis",
+   "wann": "Heimspiele",
+   "regelmaessig": true,
+   "url": "https://fcbayern.com/basketball/de/tickets/ticketing-faq"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "SQAD Futsal Challenge: Deutschland gegen Brasilien im SAP Garden",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 VIP-Tickets für Mi, 9.12.2026, mit VIP-Tribüne, VIP-Terrasse, Buffet, Getränken und Parkplatz",
+   "bis": "2026-11-30",
+   "teilnahme": "Online-Formular ausfüllen (Name, Anschrift, E-Mail, Mobilnummer, Geburtsdatum); Newsletter freiwillig",
+   "pruefung": "Etabliertes Stadtmagazin, Aktion auf eigener Seite, Teilnahmebedingungen und Datenschutz verlinkt, keine Kosten, keine Kaufpflicht, keine Bankdaten. Am 24.11. geprüft.",
+   "url": "https://www.in-muenchen.de/verlosungen/sqad-futsal-challenge-deutschland-vs-weltmeister-brasilien-am-9-dezember.html"
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Erinnern",
+   "zitat": "„Die Erinnerung ist das einzige Paradies, aus welchem wir nicht vertrieben werden können.“",
+   "urheber": "Jean Paul, Die unsichtbare Loge (1793)",
+   "text": "Jean Paul schrieb den Satz in seinem ersten Roman. Er passt in die Wochen vor dem Advent, in denen viele an frühere Winter denken: Was wir einmal erlebt haben, kann uns niemand mehr nehmen."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Erbangelegenheiten",
+   "text": "Erzählt die Genetikerin beim Familienessen: „Ich habe heute im Labor gelernt, wie man Erbgut gezielt verändert.“ – Fragt der Onkel hoffnungsvoll: „Kannst du dann auch bei Tante Hildes Testament etwas machen?“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Geschwister am Adventstisch",
+   "text": "Anna ist heute doppelt so alt wie ihr Bruder Ben. Vor sechs Jahren war sie dreimal so alt wie er. Wie alt sind die beiden heute?",
+   "loesung": "Ben ist 12, Anna 24. Vor sechs Jahren waren sie 6 und 18 – Anna war also dreimal so alt."
+  }
+ ]
+}
