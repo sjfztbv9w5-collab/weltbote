@@ -1,0 +1,2897 @@
+{
+ "datum": "2026-11-28",
+ "datumszeile": "Samstag, den 28. November 2026",
+ "redaktionsschluss": "6 Uhr",
+ "kurse_stand": "Stand: Schlusskurse vom 27. November (US-Börsen verkürzter Handel, Veränderung zum 25. November); Gold Terminkontrakt; Bitcoin 27. November abends; Brent fehlt, weil die Quellen widersprüchliche Schlusskurse nennen",
+ "kolophon": "Auswahl der Weltnachrichten nach ihrem Gewicht auf den Titelseiten großer internationaler Medien am 28. November 2026. Alle Texte sind eigene Zusammenfassungen, die Originalquelle ist jeweils verlinkt.",
+ "kurse": [
+  {
+   "name": "DAX",
+   "wert": "25.441",
+   "veraenderung": "+0,9 %",
+   "richtung": "up"
+  },
+  {
+   "name": "S&P 500",
+   "wert": "7.297",
+   "veraenderung": "+1,6 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Nasdaq",
+   "wert": "24.130",
+   "veraenderung": "+2,3 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Gold",
+   "wert": "3.669 $",
+   "veraenderung": "+2,9 %",
+   "richtung": "up"
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "59.800 $",
+   "veraenderung": "−1,2 %",
+   "richtung": "down"
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,094",
+   "veraenderung": "−0,4 %",
+   "richtung": "down"
+  },
+  {
+   "name": "US 10 J.",
+   "wert": "4,94 %",
+   "veraenderung": "+9 Bp.",
+   "richtung": "up"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "welt-01",
+   "rubrik": "welt",
+   "tags": [
+    "EU",
+    "Haushalt",
+    "Ukraine"
+   ],
+   "kicker": "Europäische Union · Gipfel",
+   "titel": "Zwölf Stunden ohne Ergebnis: Der EU-Gipfel scheitert am Haushalt bis 2034 – und am Kredit für die Ukraine",
+   "deck": "Die Staats- und Regierungschefs vertagen beide Streitfragen auf Dezember.",
+   "text": [
+    "Die Staats- und Regierungschefs der Europäischen Union haben ihren Gipfel in Brüssel ohne Einigung beendet. Nach rund zwölf Stunden Verhandlungen gab es weder einen Kompromiss über den mehrjährigen Finanzrahmen für die Jahre 2028 bis 2034 noch eine Zusage für ein geplantes Darlehen an die Ukraine über umgerechnet 49 Milliarden Dollar.",
+    "Ratspräsident António Costa erklärte, 24 Mitgliedstaaten stünden hinter dem Ukraine-Kredit. Die verbleibenden Vorbehalte reichten jedoch, um eine Entscheidung zu verhindern. Die Chefs wollen sich im Dezember erneut mit dem Darlehen befassen. Frankreichs Präsident Emmanuel Macron hatte eine Frist bis zum Jahresende gesetzt, um den nächsten Haushalt zu beschließen.",
+    "Nach Berichten der Deutschen Welle haben sich die Gräben zwischen den Mitgliedstaaten durch den angespannten Gipfel eher vertieft. Strittig sind vor allem die Höhe der Ausgaben und deren Verteilung. Für Kiew bleibt die Finanzierung damit vorerst in der Schwebe, wie die Nachrichtenagentur AP berichtet."
+   ],
+   "quellen": [
+    [
+     "DW",
+     "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599"
+    ],
+    [
+     "ABC News (AP)",
+     "https://abcnews.com/International/wireStory/ukraine-loan-limbo-after-eu-budget-talks-stall-138478913"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261127-eu-leaders-fail-to-reach-agreement-on-next-budget-after-tense-summit"
+    ]
+   ],
+   "berichterstattung": [
+    "dw.com",
+    "abcnews.go.com",
+    "france24.com",
+    "bbc.co.uk",
+    "kyivindependent.com"
+   ]
+  },
+  {
+   "id": "welt-02",
+   "rubrik": "welt",
+   "tags": [
+    "Iran",
+    "USA",
+    "Golfregion"
+   ],
+   "kicker": "Golfregion · Seeblockade",
+   "titel": "US-Streitkräfte setzen Frachter „Pacific Archer“ außer Gefecht – Iran meldet zwei explodierte Tanker vor Chasab",
+   "deck": "Am Golf von Oman und an der Straße von Hormus spitzt sich der Konflikt um die amerikanische Blockade weiter zu.",
+   "text": [
+    "Amerikanische Streitkräfte haben im Golf von Oman einen Massengutfrachter manövrierunfähig gemacht, der nach Angaben des US-Zentralkommandos Centcom versucht hatte, die Blockade gegen Iran zu durchbrechen. Bei dem Schiff handelt es sich um die unter der Flagge Palaus fahrende „Pacific Archer“, die aus Bandar Abbas ausgelaufen war. Die Besatzung blieb unverletzt. Centcom veröffentlichte ein Video des Einsatzes, die britische Seesicherheitsbehörde UKMTO gab eine Warnung für die Schifffahrt in der Region heraus.",
+    "Am Abend meldeten die iranischen Revolutionsgarden, zwei Öltanker seien östlich der Straße von Hormus nahe der omanischen Hafenstadt Chasab explodiert, während sie einen von den USA unterstützten Korridor nutzten. Unabhängig bestätigt ist das nicht; ob die Schiffe auf Minen liefen oder in Brand gerieten, blieb zunächst offen. Teheran kündigte an, sich der Blockade weiter zu widersetzen.",
+    "Zugleich wies Irans Außenminister jede Verantwortung für den Drohnenangriff in Kuwait zurück, bei dem zwei italienische Techniker an einer Luftabwehranlage getötet worden waren. UN-Generalsekretär António Guterres verurteilte den Angriff."
+   ],
+   "quellen": [
+    [
+     "Jerusalem Post",
+     "https://www.jpost.com/middle-east/iran-news/article-916339"
+    ],
+    [
+     "UKMTO",
+     "https://x.com/UK_MTO/status/2126409481122914681"
+    ],
+    [
+     "Monitor the Situation",
+     "https://monitor-the-situation.com/brief/2026-11-27"
+    ]
+   ],
+   "berichterstattung": [
+    "jpost.com",
+    "channelnewsasia.com",
+    "upi.com",
+    "news.un.org"
+   ]
+  },
+  {
+   "id": "welt-03",
+   "rubrik": "welt",
+   "tags": [
+    "Spanien",
+    "Wahlen"
+   ],
+   "kicker": "Spanien · Parlamentswahl",
+   "titel": "Spanien wählt am Sonntag: Umfragen sehen Volkspartei und Vox vorn – Sánchez kämpft um sein Amt",
+   "deck": "Nach dem Ende des Wahlkampfs deuten fast alle Erhebungen auf eine rechte Mehrheit hin.",
+   "text": [
+    "In Spanien endete am Freitag der Wahlkampf vor der vorgezogenen Parlamentswahl am Sonntag, dem 29. November. Das Parlament ist seit dem 5. Oktober aufgelöst. Die Minderheitsregierung von Ministerpräsident Pedro Sánchez (PSOE) hatte seit 2023 keine Mehrheit für einen Haushalt und regierte zuletzt vor allem per Dekret.",
+    "Die meisten Umfragen sehen die konservative Volkspartei (PP) von Alberto Núñez Feijóo vorn. Für El País ermittelte 40dB 31,5 Prozent für die PP, 30,3 für die Sozialisten und 18 Prozent für die rechtspopulistische Vox; PP und Vox kämen damit auf mehr als 190 der 350 Sitze, für die absolute Mehrheit sind 176 nötig. Eine Erhebung von PF Global für Politico sah die PP bei 29,5, die PSOE bei 27,2 und Vox bei 19,6 Prozent. Nur das staatliche Institut CIS rechnet mit 134 bis 143 Sitzen für die Sozialisten.",
+    "Im Wahlkampf ging es um bezahlbaren Wohnraum, Migration, Korruptionsvorwürfe und ein tödliches Zugunglück im Oktober. In seiner letzten Wahlbotschaft rief Sánchez dazu auf, die PSOE als Gegengewicht zu Donald Trump und den „Technoligarchen“ zu wählen. Feijóo warb dafür, Sánchez aus dem Regierungssitz Moncloa abzuwählen; Spanien brauche „kompetente und anständige“ Amtsträger."
+   ],
+   "quellen": [
+    [
+     "Reuters (The Star)",
+     "https://www.thestar.com.my/news/world/2026/11/16/spain039s-right-retains-firm-poll-lead-despite-socialist-gains"
+    ],
+    [
+     "To Vima",
+     "https://www.tovima.com/world/spains-election-race-tightens-as-sanchez-ramps-up-spending/"
+    ],
+    [
+     "El Demócrata",
+     "https://www.democrata.es/en/general-elections-spain/sanchez-in-his-golden-minute-asks-to-vote-for-the-psoe-against-trump-and-the-technoligarchs-whoever-can-vote-let-him-vote/"
+    ]
+   ],
+   "berichterstattung": [
+    "thestar.com.my",
+    "tovima.com",
+    "democrata.es",
+    "gulf-times.com",
+    "en.ara.cat",
+    "brusselssignal.eu"
+   ]
+  },
+  {
+   "id": "welt-04",
+   "rubrik": "welt",
+   "tags": [
+    "Ukraine",
+    "Russland",
+    "Krieg"
+   ],
+   "kicker": "Ukraine-Krieg · Drohnen",
+   "titel": "Drohnen über Sankt Petersburg, 155 Drohnen auf die Ukraine: Eine Nacht der gegenseitigen Angriffe",
+   "deck": "Kiew trifft offenbar ein Umspannwerk und ein Lager, Russland lässt erneut Hunderte Orte zittern.",
+   "text": [
+    "Die Ukraine hat Sankt Petersburg in der Nacht zum Freitag mit einem großangelegten Drohnenangriff überzogen. Über der Stadt waren Explosionen und Flugabwehrfeuer zu hören. Nach Angaben von Beobachtern wurden ein Umspannwerk und ein Lagerhaus getroffen, in dem möglicherweise Drohnen lagerten. Der Gouverneur des Gebiets Leningrad erklärte, 44 Drohnen seien abgefangen worden. Einige Fluggeräte drangen auf dem Weg in den lettischen Luftraum ein und lösten in der Gemeinde Ludza Alarm aus.",
+    "Russland griff seinerseits die Ukraine mit 155 Drohnen an, darunter 51 strahlgetriebene Shahed-Drohnen. Nach Angaben der ukrainischen Luftwaffe wurden 110 davon abgeschossen oder abgelenkt; an 27 Orten gab es Einschläge. Durch russische Angriffe kamen nach Angaben des Kyiv Independent binnen eines Tages sechs Menschen ums Leben, 25 wurden verletzt. In sechs Gebieten fiel der Strom aus.",
+    "Die Angriffe auf das Hinterland beider Seiten haben sich in den vergangenen Wochen weiter verdichtet; eine Waffenruhe ist nicht in Sicht."
+   ],
+   "quellen": [
+    [
+     "The Kyiv Independent",
+     "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/"
+    ],
+    [
+     "Monitor the Situation",
+     "https://monitor-the-situation.com/russia/ukrainian-drones-strike-st-petersburg-0d0c533d"
+    ]
+   ],
+   "berichterstattung": [
+    "kyivindependent.com"
+   ]
+  },
+  {
+   "id": "welt-05",
+   "rubrik": "welt",
+   "tags": [
+    "Kanada",
+    "Religion",
+    "Justiz"
+   ],
+   "kicker": "Kanada · Oberstes Gericht",
+   "titel": "Kein Kopftuch, kein Turban, kein Kreuz im Dienst: Kanadas Oberstes Gericht bestätigt Québecs Laizismusgesetz weitgehend",
+   "deck": "Das Urteil zum Gesetz von 2019 berührt eine Grundfrage des kanadischen Zusammenhalts.",
+   "text": [
+    "Der Oberste Gerichtshof Kanadas hat das umstrittene Laizismusgesetz der Provinz Québec in weiten Teilen bestätigt. Das 2019 verabschiedete Gesetz, bekannt als Bill 21, verbietet bestimmten Beschäftigten im öffentlichen Dienst, bei der Arbeit religiöse Symbole zu tragen, etwa den Turban der Sikhs, das muslimische Kopftuch oder ein christliches Kreuz.",
+    "Québecs Berufungsgericht hatte das Gesetz bereits 2024 im Wesentlichen gebilligt; Gegner des Gesetzes zogen daraufhin vor das höchste Gericht. Nun haben die Richter die meisten Bestimmungen aufrechterhalten, wie Reuters, AP und die Deutsche Welle berichten.",
+    "Das Urteil gilt als Belastungsprobe für die nationale Einheit. Kritiker sehen in dem Gesetz eine Benachteiligung religiöser Minderheiten, die Provinzregierung beruft sich auf die Trennung von Staat und Religion. Mit der Entscheidung dürfte die Debatte über die Grenzen provinzieller Gesetzgebung und den Schutz der Grundrechte in Kanada neuen Auftrieb bekommen."
+   ],
+   "quellen": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/27/canada-quebec-religious-symbol/2021795810027/"
+    ]
+   ],
+   "berichterstattung": [
+    "theguardian.com",
+    "dw.com",
+    "upi.com",
+    "scmp.com",
+    "timesofindia.indiatimes.com",
+    "abcnews.go.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-06",
+   "rubrik": "welt",
+   "tags": [
+    "Kenia",
+    "Justiz"
+   ],
+   "kicker": "Kenia · Shakahola-Prozess",
+   "titel": "Schon wegen 191 Morden in Haft: Sektenführer Mackenzie auch für mehr als 123 weitere Hungertote verurteilt",
+   "deck": "Ein Gericht spricht den Prediger der fahrlässigen Tötung schuldig.",
+   "text": [
+    "Ein Gericht in Kenia hat den Sektenführer Paul Mackenzie wegen fahrlässiger Tötung im Zusammenhang mit dem Tod von mehr als 123 Anhängern verurteilt. Die Opfer starben im Shakahola-Wald im Südosten des Landes, nachdem Mackenzie sie zum Fasten bis zum Tod gedrängt hatte, um angeblich Jesus zu begegnen.",
+    "Der Prediger sitzt bereits in Haft: Im Oktober war er wegen Mordes an 191 Menschen, überwiegend Kindern, schuldig gesprochen und zu 200 Jahren Gefängnis verurteilt worden. Das neue Urteil betrifft weitere Todesfälle aus demselben Komplex, bei dem insgesamt Hunderte Leichen in Massengräbern gefunden worden waren.",
+    "Das Verfahren gilt als eines der größten in der Geschichte Kenias. Der Fall hatte eine Debatte über die Aufsicht über religiöse Gemeinschaften ausgelöst, die sich auf eigene Faust gründen und Anhänger isolieren."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-manslaughter-more-than-123-starvation-deaths"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/kenyan-cult-leader-in-jail-for-191-murders-convicted-over-another-123-deaths-13617227"
+    ],
+    [
+     "Citizen Digital",
+     "https://citizen.digital/article/controversial-preacher-paul-mackenzie-sentenced-to-200-years-in-prison-n393446"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "news.sky.com",
+    "bbc.co.uk",
+    "upi.com",
+    "channelnewsasia.com",
+    "straitstimes.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-07",
+   "rubrik": "welt",
+   "tags": [
+    "Hunger",
+    "Vereinte Nationen",
+    "Klima"
+   ],
+   "kicker": "Vereinte Nationen · Ernährung",
+   "titel": "Hunger in 16 Brennpunkten: Die UN warnen vor Hungersnöten – El Niño verschärft die Lage",
+   "deck": "Sudan, Südsudan, Somalia, Nordnigeria und Jemen bereiten die größte Sorge.",
+   "text": [
+    "Zwei Organisationen der Vereinten Nationen warnen, dass sich der Hunger in 16 Brennpunkten weltweit in den kommenden sechs Monaten deutlich verschärfen wird. In Teilen Afrikas drohe eine Hungersnot. Die größte Sorge gilt dem Sudan, dem Südsudan, Somalia, dem Norden Nigerias und dem Jemen.",
+    "Als Treiber nennt der Bericht vor allem bewaffnete Konflikte und das Klimaphänomen El Niño. Drei der vier neu in die Liste aufgenommenen Regionen sind demnach vor allem wegen El Niño gefährdet, das in vielen Gegenden Dürren oder Überschwemmungen bringt. Hinzu kommen steigende Treibstoffkosten infolge des Krieges im Nahen Osten, wie die Nachrichtenagentur AP berichtet.",
+    "Der Bericht erscheint zweimal im Jahr und dient als Frühwarnsystem für Regierungen und Hilfsorganisationen. Die Autoren mahnen, dass das Zeitfenster für vorbeugende Hilfe schrumpfe."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un"
+    ],
+    [
+     "Anadolu",
+     "https://www.aa.com.tr/en/world/el-nino-conflicts-expected-to-worsen-hunger-in-16-hotspots-un-warns/4140310"
+    ],
+    [
+     "ABC News (AP)",
+     "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "aa.com.tr",
+    "abcnews.go.com",
+    "straitstimes.com",
+    "allafrica.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-08",
+   "rubrik": "welt",
+   "tags": [
+    "USA",
+    "Cyberangriff",
+    "Militär"
+   ],
+   "kicker": "Vereinigte Staaten · Cybersicherheit",
+   "titel": "Hacker dringen in die Cloud der US Air Force ein – Umzug von Anwendungen gestoppt",
+   "deck": "Betroffen ist „Cloud One“, die zentrale Rechenplattform der Luftwaffe.",
+   "text": [
+    "Hacker sind in „Cloud One“ eingedrungen, die zentrale Cloud-Plattform der amerikanischen Luftwaffe. Das berichtete die Nachrichtenagentur Reuters unter Berufung auf drei mit dem Vorgang vertraute Personen. Die Migration von Anwendungen auf die Plattform wurde demnach vorerst angehalten, einige Nutzer verloren ihre Administratorrechte.",
+    "Nach den Berichten könnten taktische Daten sowie Personal- und Logistikinformationen gefährdet sein. Wer hinter dem Angriff steckt, wie weit die Eindringlinge vorgedrungen sind und ob Daten abgeflossen sind, ist noch unklar.",
+    "Cloud One bündelt seit einigen Jahren Rechenleistung und Software für zahlreiche Dienststellen der Air Force und gilt als Vorzeigeprojekt der Modernisierung. Der Vorfall dürfte die Debatte über die Sicherheit militärischer Cloud-Dienste neu entfachen."
+   ],
+   "quellen": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+    ],
+    [
+     "Military Times",
+     "https://www.militarytimes.com/news/your-military/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/"
+    ],
+    [
+     "Jerusalem Post",
+     "https://www.jpost.com/international/article-916325"
+    ]
+   ],
+   "berichterstattung": [
+    "theguardian.com",
+    "militarytimes.com",
+    "jpost.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "welt-09",
+   "rubrik": "welt",
+   "tags": [
+    "Venezuela",
+    "Opposition"
+   ],
+   "kicker": "Venezuela · Politik",
+   "titel": "Caracas will das Ämterverbot für Oppositionelle abschaffen",
+   "deck": "Die Regierung kündigt die Aufhebung eines Gesetzes an, das Gegnern den Weg in öffentliche Ämter versperrte.",
+   "text": [
+    "Venezuelas Regierung will ein Gesetz aufheben, das Oppositionspolitikern die Ausübung öffentlicher Ämter verbietet. Das kündigte die Regierung am Freitag an, wie Al Jazeera und die BBC berichten. Der Schritt kommt rund einen Monat nach der Rückkehr der Oppositionsführerin María Corina Machado ins Land.",
+    "Ämtersperren waren in Venezuela über Jahre ein zentrales Instrument gegen Regierungskritiker. Auch Machado selbst war mit einem solchen Verbot belegt worden; 2024 bestätigte das Oberste Gericht, dass sie nicht zur Präsidentenwahl antreten durfte. Die Opposition und viele westliche Regierungen hatten die Praxis als Mittel zur Ausschaltung politischer Konkurrenz kritisiert.",
+    "Wann das Parlament die Aufhebung beschließt und ob sie rückwirkend für bereits verhängte Sperren gilt, ist noch offen."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "bbc.co.uk"
+   ]
+  },
+  {
+   "id": "welt-10",
+   "rubrik": "welt",
+   "tags": [
+    "Saudi-Arabien",
+    "Pakistan",
+    "Türkei"
+   ],
+   "kicker": "Naher Osten · Bündnis",
+   "titel": "Mekka-Pakt in Islamabad: Pakistan und die Türkei stellen sich gegen die Huthi-Angriffe auf Saudi-Arabien",
+   "deck": "Die drei Staaten versprechen, die Sicherheit des Königreichs zu schützen.",
+   "text": [
+    "Vertreter Pakistans, Saudi-Arabiens und der Türkei haben in Islamabad über ihr Verteidigungsbündnis beraten, das als Mekka-Pakt bekannt ist. Die Partner sicherten zu, die Sicherheit des Königreichs zu schützen, und verurteilten die Angriffe der jemenitischen Huthi-Miliz auf Saudi-Arabien als „abscheulich“, wie Al Jazeera berichtet.",
+    "Die Huthi hatten zuletzt saudische Energieanlagen angegriffen; an der Raffinerie in Dschasan brach nach einem Angriff ein Feuer aus, Teile des Betriebs standen still. Saudi-Arabien antwortete mit Luftangriffen im Jemen. Bei einem Angriff in der Provinz Taizz kamen nach Angaben der Huthi-Medien mindestens elf Zivilisten ums Leben, darunter Kinder.",
+    "Das Treffen in Islamabad gilt als Versuch, aus der Bündniszusage konkrete Schritte abzuleiten. Die pakistanische Zeitung Express Tribune schrieb, der Pakt werde von der Verpflichtung zur Tat."
+   ],
+   "quellen": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia"
+    ],
+    [
+     "The Straits Times",
+     "https://www.straitstimes.com/world/middle-east/pakistan-and-turkey-pledge-to-support-saudi-arabia-against-houthi-attacks-under-defence-pact"
+    ],
+    [
+     "The Express Tribune",
+     "https://tribune.com.pk/story/2642780/makkah-alliance-turns-commitment-into-action"
+    ]
+   ],
+   "berichterstattung": [
+    "aljazeera.com",
+    "straitstimes.com",
+    "tribune.com.pk",
+    "abcnews.go.com"
+   ]
+  },
+  {
+   "id": "wirt-01",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tesla",
+    "Maschinenbau",
+    "Übernahme"
+   ],
+   "kicker": "Wirtschaft · Übernahme",
+   "titel": "Roboter-Antriebe aus Salach: Tesla will den Maschinenbauer Emag kaufen",
+   "deck": "Das Bundeskartellamt listet den Antrag – der schwäbische Werkzeugmaschinenbauer sucht seit Längerem einen Investor.",
+   "text": [
+    "Tesla will den Werkzeugmaschinenhersteller Emag aus Salach bei Stuttgart übernehmen. Der US-Konzern hat beim Bundeskartellamt die Genehmigung des Erwerbs beantragt; die Behörde führte den Fall am Freitag ohne weitere Einzelheiten in ihrer Liste der Fusionsanmeldungen, wie das Handelsblatt berichtet. Emag baut Maschinen für die Serienfertigung von Metallteilen, darunter Komponenten für Antriebe humanoider Roboter.",
+    "Nach Informationen von Business Insider hat Tesla eigens die Gesellschaft Tesla Machining Technologies Management SE gegründet, deren Geschäftsadresse der Emag-Sitz in Salach ist. Geführt wird sie vom Vertriebschef von Tesla Deutschland, einem amerikanischen Robotik-Ingenieur und der Personalchefin der Gigafactory in Grünheide.",
+    "Emag leidet unter der schwachen Nachfrage nach Werkzeugmaschinen und hatte zuletzt einen Stellenabbau angekündigt, davon rund 300 Stellen in Salach. Weder Tesla noch Emag äußerten sich. Tesla hatte im vergangenen Monat in Fremont die Produktion seines Roboters Optimus begonnen. Die Tesla-Aktie stieg am Freitag um 5,2 Prozent auf 400 Dollar."
+   ],
+   "quellen": [
+    [
+     "Handelsblatt",
+     "https://www.handelsblatt.com/unternehmen/industrie/emag-tesla-will-deutschen-roboter-spezialisten-uebernehmen/100273250.html"
+    ],
+    [
+     "Not a Tesla App",
+     "https://www.notateslaapp.com/news/5099/tesla-moves-to-buy-german-robotics-manufacturer"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ]
+   ],
+   "berichterstattung": [
+    "handelsblatt.com",
+    "businessinsider.com",
+    "notateslaapp.com",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "wirt-02",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "SAP",
+    "Stellenabbau",
+    "Cyberangriff"
+   ],
+   "kicker": "Wirtschaft · Software",
+   "titel": "Bericht über 10.000 Stellen und ein Angriff auf die Entwicklung: SAP kommt nicht zur Ruhe",
+   "deck": "Laut Bloomberg plant der Konzern einen Abbau von rund neun Prozent der Belegschaft – SAP bestätigt zudem verdächtige Aktivitäten in seiner Infrastruktur.",
+   "text": [
+    "SAP plant nach einem Bericht der Nachrichtenagentur Bloomberg den Abbau von mindestens 10.000 Stellen, etwa neun Prozent der weltweiten Belegschaft. Der Walldorfer Softwarekonzern wolle sein Geschäft damit an die Künstliche Intelligenz anpassen; die endgültige Zahl hänge von Verhandlungen mit den Arbeitnehmervertretern ab. Ein Sprecher erklärte, über eine Restrukturierung oder einen Stellenabbau sei noch nicht entschieden.",
+    "Am selben Tag bestätigte SAP verdächtige Aktivitäten in seiner Entwicklungsinfrastruktur. Nach Angaben des Spiegel wurde Quellcode auf der Plattform GitHub verändert. SAP erklärte, es gebe keine Hinweise darauf, dass auf Geschäftsdaten von Kunden zugegriffen worden sei, wie das Fachportal SecurityWeek berichtet.",
+    "Die Aktie hatte in den vergangenen Wochen bereits unter der Sorge gelitten, dass KI-Werkzeuge das Geschäft klassischer Unternehmenssoftware schmälern könnten. SAP hatte schon 2024 einen großen Umbau mit Tausenden betroffenen Stellen angestoßen."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (nach Bloomberg)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "Newsquawk (SAP-Sprecher)",
+     "https://www.newsquawk.com/headlines/additional-european-equity-news---27th-november-2026"
+    ],
+    [
+     "SecurityWeek",
+     "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com",
+    "spiegel.de",
+    "securityweek.com",
+    "dnevnik.hr"
+   ]
+  },
+  {
+   "id": "wirt-03",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Deutsche Börse",
+    "Übernahme",
+    "EU"
+   ],
+   "kicker": "Wirtschaft · Kartellrecht",
+   "titel": "Brüssel winkt Allfunds-Kauf durch: Deutsche Börse darf für 5,3 Milliarden Euro zugreifen",
+   "deck": "Wettbewerbskommissarin Ribera gibt die Übernahme ohne Auflagen frei.",
+   "text": [
+    "Die EU-Kommission hat die Übernahme der Fondsplattform Allfunds durch die Deutsche Börse ohne Auflagen genehmigt. Wettbewerbskommissarin Teresa Ribera gab den Kauf im Wert von 5,3 Milliarden Euro bereits nach der ersten Prüfphase frei, wie die Fachpublikation Global Competition Review berichtet.",
+    "Ribera erklärte, das Geschäft helfe, die Finanzmarktinfrastruktur zu „europäisieren“ und einen grenzüberschreitenden Betreiber aufzubauen. Allfunds ist eine der größten Vertriebsplattformen für Investmentfonds in Europa, über die Banken und Vermögensverwalter Fondsanteile handeln und abwickeln.",
+    "Die Deutsche Börse hatte zuvor schon eine Freigabe nach den EU-Regeln für drittstaatliche Subventionen erhalten, und die Aktionäre von Allfunds hatten zugestimmt. Der Frankfurter Konzern hatte angekündigt, den Abschluss im ersten Halbjahr 2027 anzustreben. Mit dem Kauf baut die Börse ihr Geschäft mit Dienstleistungen für Fondsanbieter deutlich aus."
+   ],
+   "quellen": [
+    [
+     "Global Competition Review",
+     "https://globalcompetitionreview.com/article/all-clear-the-briefing-27-november-2026"
+    ],
+    [
+     "Euronext (Reuters-Vorschau)",
+     "https://live.euronext.com/en/financial-news/eu-antitrust-regulators-decide-deutsche-boerse-allfunds-deal-november-27"
+    ],
+    [
+     "MLex",
+     "https://www.mlex.com/mlex/amp/articles/2470750"
+    ]
+   ],
+   "berichterstattung": [
+    "globalcompetitionreview.com",
+    "live.euronext.com",
+    "mlex.com",
+    "reuters.com"
+   ]
+  },
+  {
+   "id": "wirt-04",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Opec",
+    "USA",
+    "Öl"
+   ],
+   "kicker": "Wirtschaft · Rohstoffpolitik",
+   "titel": "Washington soll Venezuela und Irak zum Opec-Austritt gedrängt haben",
+   "deck": "Laut Reuters blockierten die USA sogar Venezuelas Mitgliedsbeiträge – zwei Tage vor dem Treffen der Opec+.",
+   "text": [
+    "Die Regierung von Präsident Donald Trump hat Venezuela und den Irak nach einem Bericht der Nachrichtenagentur Reuters Anfang des Jahres ermutigt, einen Austritt aus der Organisation erdölexportierender Länder zu erwägen. Reuters beruft sich auf zehn mit der Angelegenheit vertraute Personen. Demnach verhinderte Washington auch, dass Venezuela seine jährlichen Mitgliedsbeiträge an die Opec überwies.",
+    "Venezuela hatte im Sommer selbst öffentlich über einen Austritt nachgedacht, während die USA über Beteiligungen an venezolanischen Ölfeldern sprachen. Für den Irak, einen der größten Förderer des Kartells, stand ein solcher Schritt bislang nicht offen zur Debatte.",
+    "Der Bericht erscheint kurz vor dem Treffen der Opec+ am Sonntag, bei dem die Förderpolitik für 2027 auf der Tagesordnung steht. Ein Ausscheren großer Mitglieder würde die Fähigkeit des Bündnisses schwächen, das Angebot zu steuern."
+   ],
+   "quellen": [
+    [
+     "Daily Maverick (Reuters)",
+     "https://www.dailymaverick.co.za/article/2026-11-27-us-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say/"
+    ],
+    [
+     "The Straits Times",
+     "https://www.straitstimes.com/world/united-states/us-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say"
+    ],
+    [
+     "Times of India",
+     "https://timesofindia.indiatimes.com/world/us/us-pushed-venezuela-iraq-to-quit-opec-to-boost-oil-output-report/articleshow/136235653.cms"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "dailymaverick.co.za",
+    "straitstimes.com",
+    "timesofindia.indiatimes.com"
+   ]
+  },
+  {
+   "id": "wirt-05",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Einzelhandel",
+    "USA",
+    "Onlinehandel"
+   ],
+   "kicker": "Wirtschaft · Handel",
+   "titel": "Rekord zu Thanksgiving: Amerikaner geben online 7,1 Milliarden Dollar aus – für den Black Friday werden 12,9 Milliarden erwartet",
+   "deck": "Adobe registriert ein Plus von 10,4 Prozent, der Handelsverband rechnet mit mehr als einer Billion Dollar Weihnachtsumsatz.",
+   "text": [
+    "Die amerikanischen Verbraucher haben am Thanksgiving-Tag nach Daten von Adobe online so viel ausgegeben wie nie zuvor: 7,1 Milliarden Dollar, 10,4 Prozent mehr als im Vorjahr. Für den Black Friday erwartete Adobe 12,9 Milliarden Dollar, für den Cyber Monday 15,1 Milliarden. Über die gesamte Saison vom 1. November bis 31. Dezember sollen die Online-Ausgaben um 6,7 Prozent steigen.",
+    "Der Handelsverband NRF rechnet für das Weihnachtsgeschäft insgesamt mit Umsätzen von mehr als einer Billion Dollar, ein Plus von 4,2 Prozent. „Der Verbraucher ist einfach nicht in der Rezession“, sagte Neil Saunders vom Beratungsunternehmen GlobalData.",
+    "Erstmals spielen auch KI-Einkaufsassistenten eine spürbare Rolle. Amazon und eBay sperren solche Agenten jedoch teilweise aus; Amazon klagt gegen Perplexity wegen dessen Browser-Agenten Comet. Shopify meldete laut CNBC rund 3,3-mal so viele über Agenten vermittelte Verkäufe wie am Black Friday des Vorjahres."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+    ],
+    [
+     "QUE.com",
+     "https://que.com/black-friday-2026-online-sales-race-past-13-billion-as-wall-street-posts-its-best-week-since-2022/"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "cnbc.com",
+    "que.com",
+    "semafor.com"
+   ]
+  },
+  {
+   "id": "wirt-06",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Rheinmetall",
+    "Rüstung"
+   ],
+   "kicker": "Wirtschaft · Rüstung",
+   "titel": "Rheinmetall senkt das Umsatzziel für 2030 – und die Aktie steigt trotzdem",
+   "deck": "Statt rund 50 Milliarden Euro peilt der Konzern nun 33 bis 37 Milliarden an, bei etwa 20 Prozent Marge.",
+   "text": [
+    "Rheinmetall hat auf seinem Kapitalmarkttag die Ziele für 2030 neu gefasst. Der Düsseldorfer Rüstungskonzern erwartet nun einen Umsatz von 33 bis 37 Milliarden Euro, nachdem er zuvor „rund“ 50 Milliarden Euro in Aussicht gestellt hatte. Die operative Marge soll bei etwa 20 Prozent liegen.",
+    "An der Börse kam die Neuausrichtung dennoch gut an: Die Aktie war mit einem Plus von 3,3 Prozent der stärkste Wert im Dax. Auch andere Rüstungswerte wie Hensoldt und Renk legten zu.",
+    "Zugleich entwickelt Rheinmetall gemeinsam mit der Deutschen Telekom eine deutsche Cloud-Plattform für Künstliche Intelligenz, die Satellitenbilder mit Daten aus dem Mobilfunknetz, von Drohnen, Radar, Kameras und kommerziellen Quellen verknüpft. Sie soll auch zivile Kunden ansprechen; die Telekom will laut Wirtschaftswoche ab Ende des ersten Quartals 2027 mit dem Vertrieb beginnen."
+   ],
+   "quellen": [
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "dpa-AFX (Ariva)",
+     "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-ki-erholung-zieht-auch-dax-12223147"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-analyse-rheinmetall-kappt-ziele-und-fuehrt-rally-an-commerzbank-faellt"
+    ]
+   ],
+   "berichterstattung": [
+    "ariva.de",
+    "aktiencheck.de",
+    "wiwo.de"
+   ]
+  },
+  {
+   "id": "wirt-07",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Imperial Brands",
+    "Altria",
+    "Tabak"
+   ],
+   "kicker": "Wirtschaft · Übernahme",
+   "titel": "„Keine Gespräche, kein Angebot“: Imperial Brands dementiert Kontakte zu Altria",
+   "deck": "Der britische Tabakkonzern widerspricht den Berichten über eine mögliche Barofferte.",
+   "text": [
+    "Der britische Tabakkonzern Imperial Brands hat nach Berichten über ein mögliches Übernahmeangebot klargestellt, dass er weder mit dem Marlboro-Hersteller Altria noch mit einem anderen Interessenten Gespräche führt. Man habe weder eine Annäherung noch einen Vorschlag erhalten, teilte das Unternehmen mit.",
+    "Zuvor war berichtet worden, Altria erwäge eine Barofferte; auch Japan Tobacco habe Interesse an einem Geschäft gezeigt. Die Altria-Aktie hatte vorbörslich zunächst rund 2,5 Prozent verloren, schloss den verkürzten Handelstag an der Wall Street aber mit einem Plus von 0,8 Prozent.",
+    "Für Altria wäre ein Zukauf in Europa ein Weg, das schrumpfende Zigarettengeschäft in den USA auszugleichen. Mit dem Dementi von Imperial ist vorerst offen, ob es überhaupt zu einem Angebot kommt."
+   ],
+   "quellen": [
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "wirt-08",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Tarife",
+    "Metallindustrie",
+    "Deutschland"
+   ],
+   "kicker": "Wirtschaft · Tarife",
+   "titel": "Tarifeinigung für die Metaller: 2 Prozent ab Mai 2027, 2,3 Prozent ab April 2028",
+   "deck": "Dazu kommen Einmalzahlungen von 150 bis 450 Euro – je nach Ertragslage der Betriebe.",
+   "text": [
+    "In der Metall- und Elektroindustrie zeichnet sich ein Tarifabschluss ab. Nach Angaben der Nachrichtenagentur Bloomberg sollen die Löhne im Mai 2027 um 2 Prozent und im April 2028 um weitere 2,3 Prozent steigen. Dazu kommen Einmalzahlungen zwischen 150 und 450 Euro, deren Höhe von der Profitabilität des jeweiligen Unternehmens abhängt.",
+    "Neu ist eine Öffnung für Betriebe in schwieriger Lage: Unternehmen können niedrigere Arbeitskosten aushandeln, wenn sie im Gegenzug Investitionen und Beschäftigungsgarantien zusagen. Damit reagieren die Tarifparteien auf die Schwäche vieler Industriebetriebe, die unter hohen Kosten und schwacher Nachfrage leiden.",
+    "Die IG Metall hatte die Verhandlungen zuvor mit ganztägigen Warnstreiks begleitet. Der Abschluss gilt als Signal für andere Branchen, weil die Metall- und Elektroindustrie mit Millionen Beschäftigten der größte Industriezweig Deutschlands ist."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (nach Bloomberg)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "IG Metall",
+     "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/warum-24-stunden-streiks"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "wirt-09",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Haleon",
+    "Indien",
+    "Übernahme"
+   ],
+   "kicker": "Wirtschaft · Konsumgüter",
+   "titel": "Sensodyne-Hersteller Haleon greift offenbar nach Indiens HealthKart",
+   "deck": "Die Gespräche über eine Mehrheitsbeteiligung bewerten das Unternehmen mit 1,2 bis 1,4 Milliarden Dollar.",
+   "text": [
+    "Der britische Konsumgesundheitskonzern Haleon führt nach einem Bericht der indischen Wirtschaftszeitung Mint Gespräche über den Erwerb einer Mehrheitsbeteiligung an HealthKart. Das Geschäft bewerte das indische Unternehmen mit 1,2 bis 1,4 Milliarden Dollar.",
+    "HealthKart vertreibt Nahrungsergänzungsmittel und Sportnahrung, vor allem online. Für Haleon, bekannt für Marken wie Sensodyne, Centrum und Voltaren, wäre es ein deutlicher Ausbau in Indien, einem der am schnellsten wachsenden Märkte für Gesundheitsprodukte. Haleon hatte dort zuvor bereits den Bau eines Werks angekündigt.",
+    "Der Konzern hatte sich in den vergangenen Jahren von Randgeschäften getrennt, etwa von seinem Nikotinersatz-Geschäft außerhalb der USA, das an Dr. Reddy's ging. Eine Stellungnahme der Beteiligten lag zunächst nicht vor."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (nach Mint)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "Mint (Magzter)",
+     "https://www.magzter.com/tr/stories/newspaper/Mint-Hyderabad/HALEON-TO-SET-UP-2000CR-INDIA-PLANT"
+    ],
+    [
+     "Fierce Pharma",
+     "https://www.fiercepharma.com/pharma/haleon-continues-divest-selling-nicotine-replacement-therapy-dr-reddys-633m"
+    ]
+   ],
+   "berichterstattung": [
+    "livemint.com"
+   ]
+  },
+  {
+   "id": "wirt-10",
+   "rubrik": "wirtschaft",
+   "tags": [
+    "Thales",
+    "Rüstung",
+    "Übernahme"
+   ],
+   "kicker": "Wirtschaft · Übernahme",
+   "titel": "Thales verhandelt exklusiv über die Mehrheit am Laserspezialisten Lumibird",
+   "deck": "Der französische Rüstungs- und Elektronikkonzern bietet 30,10 Euro je Aktie für 51,6 Prozent.",
+   "text": [
+    "Der französische Rüstungs- und Elektronikkonzern Thales ist in exklusive Verhandlungen über den Erwerb von 51,6 Prozent am Laser- und Photonikunternehmen Lumibird eingetreten. Der Preis soll bei 30,10 Euro je Aktie liegen, teilte Thales mit.",
+    "Vorausgegangen ist der geplante Verkauf der Medizinsparte von Lumibird, der bis zum Jahresende 2026 abgeschlossen sein soll. Übrig bleibt damit vor allem das Geschäft mit Lasern für Verteidigung, Raumfahrt und Industrie, das zu Thales passt. Lumibird beliefert Thales bereits seit Jahren.",
+    "Thales baut seine Position in Schlüsseltechnologien zügig aus: Im Sommer hatte der Konzern sich mit dem Hersteller von Unterwasserdrohnen Exail auf eine Übernahme für rund 3,9 Milliarden Euro verständigt."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (nach Thales)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "Euronext (Lumibird)",
+     "https://live.euronext.com/en/products/equities/company-news/2024-07-24-lumibird-receives-new-orders-thales"
+    ],
+    [
+     "Inside Unmanned Systems",
+     "https://insideunmannedsystems.com/?p=42612"
+    ]
+   ],
+   "berichterstattung": []
+  },
+  {
+   "id": "fin-01",
+   "rubrik": "finanzen",
+   "tags": [
+    "Wall Street",
+    "Aktien"
+   ],
+   "kicker": "Finanzen · Wall Street",
+   "titel": "Kurzer Handelstag, kräftiges Plus: Nasdaq steigt um 2,3 Prozent, Chipwerte springen um fast 5 Prozent",
+   "deck": "Am Black Friday legten alle elf Sektoren des S&P 500 zu.",
+   "text": [
+    "Die Wall Street hat die Feiertagswoche mit deutlichen Gewinnen beendet. Im verkürzten Handel bis 13 Uhr Ortszeit stieg der S&P 500 um 1,6 Prozent auf 7.297,49 Punkte, der Nasdaq Composite um 2,31 Prozent auf 24.129,50 Punkte und der Dow Jones um 1,18 Prozent auf 50.774,94 Punkte. Weil die Börsen am Donnerstag wegen Thanksgiving geschlossen waren, beziehen sich die Veränderungen auf Mittwoch.",
+    "Getragen wurde die Erholung von Technologiewerten, die zu Wochenbeginn unter Druck gestanden hatten. Der Halbleiterindex SOX gewann 4,7 Prozent. Alle elf Sektoren des S&P 500 schlossen im Plus, angeführt von Technologie mit 2,8 Prozent; 406 der 500 Werte stiegen. Der Volatilitätsindex VIX fiel auf 23,81 Punkte.",
+    "Nvidia legte nur um 0,8 Prozent auf 150,49 Dollar zu. Konzernchef Jensen Huang muss sich in der kommenden Woche Anhörungen im Kongress stellen, nachdem verbotene Blackwell-Chips laut CNBC und Bloomberg in einem Rechenzentrum in Shanghai aufgetaucht waren."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ],
+    [
+     "StockTitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "stocktitan.net",
+    "247wallst.com",
+    "coinpaper.com",
+    "cnbc.com"
+   ]
+  },
+  {
+   "id": "fin-02",
+   "rubrik": "finanzen",
+   "tags": [
+    "Dax",
+    "Aktien"
+   ],
+   "kicker": "Finanzen · Frankfurt",
+   "titel": "Dax schließt bei 25.441 Punkten – 2,6 Prozent Wochenplus und zurück über der 200-Tage-Linie",
+   "deck": "Halbleiter- und Rüstungswerte führen, Commerzbank verliert.",
+   "text": [
+    "Der Dax hat seinen Erholungskurs am Freitag fortgesetzt und 0,9 Prozent auf 25.441,24 Punkte gewonnen. Auf Wochensicht ergibt sich ein Plus von 2,6 Prozent. Damit liegt der Leitindex wieder über seiner 200-Tage-Durchschnittslinie, die er am Donnerstag zurückerobert hatte. Vom Rekord knapp über 27.000 Punkten Anfang November ist er aber noch deutlich entfernt.",
+    "Rückenwind kam von der Erholung der KI- und Technologiewerte. Infineon, Siemens Energy und Hochtief gewannen zwischen 1,7 und 2,7 Prozent. Der MDax stieg um 1,51 Prozent auf 29.705,60 Punkte; dort legten Hensoldt um 4,8 und Renk um 3,3 Prozent zu, auch Elmos, Siltronic und Aixtron gehörten zu den Gewinnern.",
+    "Schwächster Dax-Wert war die Commerzbank mit einem Minus von 1,9 Prozent. Belastend wirkten die laufenden Übernahmepläne der Unicredit und Sorgen um die Dividende. Der Euro Stoxx 50 gewann 1,2 Prozent, der Stoxx 600 erreichte mit 643,85 Punkten den höchsten Stand seit einer Woche."
+   ],
+   "quellen": [
+    [
+     "dpa-AFX (Ariva)",
+     "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-ki-erholung-zieht-auch-dax-12223147"
+    ],
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-wochenbilanz-25441-punkte-plus-26-prozent-rente-zoelle-eu-gipfel-und-fed"
+    ],
+    [
+     "Ad-hoc-News",
+     "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-0-90-prozent-hoeher-tech-aktien-geben-rueckenwind/70562896"
+    ]
+   ],
+   "berichterstattung": [
+    "ariva.de",
+    "aktiencheck.de",
+    "ad-hoc-news.de",
+    "marketscreener.com"
+   ]
+  },
+  {
+   "id": "fin-03",
+   "rubrik": "finanzen",
+   "tags": [
+    "Anleihen",
+    "Fed",
+    "Zinsen"
+   ],
+   "kicker": "Finanzen · Anleihen",
+   "titel": "Zehnjährige US-Rendite steigt auf 4,94 Prozent – der Markt preist die Zinserhöhung im Dezember fast sicher ein",
+   "deck": "Nach der Aufwärtsrevision des Wachstums auf 4,3 Prozent sehen die Terminmärkte eine Wahrscheinlichkeit von 97 Prozent.",
+   "text": [
+    "Die Renditen amerikanischer Staatsanleihen sind zum Wochenschluss deutlich gestiegen. Die zehnjährige Rendite kletterte um rund 9 Basispunkte auf 4,94 Prozent, die zweijährige auf 4,69 Prozent und die dreißigjährige auf 5,33 Prozent. Der Anleihehandel endete bereits um 14 Uhr Ortszeit.",
+    "Auslöser war unter anderem die Revision des Wirtschaftswachstums im dritten Quartal auf annualisiert 4,3 Prozent nach zuvor 3,4 Prozent. Präsident Donald Trump nannte die Zahl „gefälscht“ und forderte eine Untersuchung. Zuvor hatte die Kerninflation nach dem PCE-Index im Oktober mit 3,3 Prozent höher gelegen als erwartet.",
+    "Nach dem FedWatch-Werkzeug der CME rechneten die Händler am Freitag mit einer Wahrscheinlichkeit von 97,4 Prozent mit einer Zinserhöhung um 0,25 Prozentpunkte auf der Sitzung der Notenbank am 8. und 9. Dezember. Als nächste große Probe gilt der Arbeitsmarktbericht am 4. Dezember; erwartet werden 90.000 neue Stellen nach 165.000 im Oktober."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ],
+    [
+     "KuCoin Marktbericht",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "fin-04",
+   "rubrik": "finanzen",
+   "tags": [
+    "Gold",
+    "Silber",
+    "Rohstoffe"
+   ],
+   "kicker": "Finanzen · Edelmetalle",
+   "titel": "Silber springt um 9 Prozent, Gold steigt auf 3.668 Dollar – auch Kupfer und Platin ziehen an",
+   "deck": "Die Metalle setzen ihre Erholung vom Jahrestief mit Wucht fort.",
+   "text": [
+    "Die Edelmetalle haben am Freitag kräftig zugelegt. Der Gold-Terminkontrakt stieg um 103,90 Dollar oder 2,9 Prozent auf 3.668,50 Dollar je Feinunze. Silber verteuerte sich nach Angaben von CappNotes um 9,1 Prozent auf 43,70 Dollar, Platin um 5,7 Prozent auf 1.312,40 Dollar.",
+    "Auch Industriemetalle waren gefragt: Kupfer gewann 5 Prozent auf 5,60 Dollar je Pfund, Erdgas 6,8 Prozent. Die Gewinne fielen in eine Phase allgemeiner Erholung an den Märkten nach den Kursverlusten zu Wochenbeginn. In Toronto führten Gold- und Kupferminen den Leitindex TSX zu einem Plus von 1,2 Prozent.",
+    "Die Kapitalflüsse zeigen allerdings ein gemischtes Bild: Aus dem größten Gold-ETF GLD zogen Anleger in der Woche 1,9 Milliarden Dollar ab, obwohl der Fonds am Freitag um 2,1 Prozent stieg."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-05",
+   "rubrik": "finanzen",
+   "tags": [
+    "Öl",
+    "Opec",
+    "Rohstoffe"
+   ],
+   "kicker": "Finanzen · Öl",
+   "titel": "Vor dem Opec+-Treffen am Sonntag: WTI fällt die vierte Woche in Folge",
+   "deck": "Durch die Straße von Hormus fließt nur noch knapp ein Drittel der Vorkriegsmenge.",
+   "text": [
+    "Der Preis für die amerikanische Ölsorte WTI ist am Freitag um 0,72 Prozent auf 83,08 Dollar je Barrel gefallen und hat damit die vierte Woche in Folge verloren. Die Lagerbestände an Rohöl in den USA waren zuletzt die dritte Woche nacheinander gestiegen.",
+    "Gleichzeitig bleibt die Versorgung aus dem Persischen Golf angespannt. Nach Daten des Analysehauses Kpler erreichen die Tankerbewegungen durch die Straße von Hormus nur 31 Prozent des Niveaus vor dem Krieg. Hinzu kommen Angriffe der Huthi auf saudische Energieanlagen, darunter ein Feuer an der Raffinerie in Dschasan.",
+    "Am Sonntag berät die Opec+ über ihre Förderpolitik für 2027. Anfang November hatte die Gruppe ihre Ziele für Dezember unverändert gelassen und die schwierigere Entscheidung über das kommende Jahr vertagt."
+   ],
+   "quellen": [
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "Engineering News (Reuters)",
+     "https://engineeringnews.co.za/article/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027-2026-11-02"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "engineeringnews.co.za",
+    "dailysabah.com"
+   ]
+  },
+  {
+   "id": "fin-06",
+   "rubrik": "finanzen",
+   "tags": [
+    "China",
+    "Asien",
+    "Aktien"
+   ],
+   "kicker": "Finanzen · Asien",
+   "titel": "Peking verspricht Stützung: Shanghai steigt um 3,7 Prozent, Chipwerte mit Rekordsprung – Kospi plus 4,3 Prozent",
+   "deck": "Der Staatsrat kündigt neue Maßnahmen und eine stärkere Rolle des „Nationalteams“ an.",
+   "text": [
+    "Chinas Börsen haben am Freitag kräftig zugelegt. Der Shanghai Composite stieg um 3,73 Prozent auf 3.606,49 Punkte, nachdem der Staatsrat versprochen hatte, bestehende Kapitalmarktmaßnahmen umzusetzen, zusätzliche Schritte zu planen und die Rolle des sogenannten Nationalteams, staatlich gelenkter Investoren, bei der Stabilisierung zu stärken. Chinesische Chipwerte erlebten laut CNBC den größten Tagesgewinn ihrer Geschichte.",
+    "Auch in Seoul ging es steil nach oben: Der Kospi gewann 4,34 Prozent auf 4.915,68 Punkte, gestützt von der Erwartung eines größeren staatlichen Stabilisierungsfonds. Der japanische Nikkei 225 stieg um 2,11 Prozent auf 58.711,11 Punkte, der Hang Seng in Hongkong ebenfalls um 2,11 Prozent auf 22.694,77 Punkte.",
+    "Gegen den Trend fiel Indiens Nifty 50 um 1,07 Prozent; dort beendeten IT-Werte und die HDFC Bank eine vierwöchige Rally."
+   ],
+   "quellen": [
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "Investinglive",
+     "https://investinglive.com/stocks/china-steps-up-market-stabilisation-push-three-short-term-priorities-for-equities/"
+    ]
+   ],
+   "berichterstattung": [
+    "cnbc.com",
+    "investinglive.com"
+   ]
+  },
+  {
+   "id": "fin-07",
+   "rubrik": "finanzen",
+   "tags": [
+    "Bank of England",
+    "KI",
+    "Finanzstabilität"
+   ],
+   "kicker": "Finanzen · Finanzstabilität",
+   "titel": "Mehr als vier Billionen Dollar: Die Bank of England durchleuchtet die KI-Verflechtungen der Finanzwelt",
+   "deck": "Hyperscaler stellen in diesem Jahr rund acht Prozent des weltweiten Angebots an Unternehmensanleihen guter Bonität.",
+   "text": [
+    "Die Bank of England widmet sich in ihrem jüngsten Finanzstabilitätsbericht ausführlich den Risiken aus dem Boom der Künstlichen Intelligenz. Das Engagement rund um die großen Cloudanbieter, die sogenannten Hyperscaler, beziffert sie einschließlich außerbilanzieller Posten auf etwas mehr als vier Billionen Dollar.",
+    "Die Hyperscaler haben nach den Daten der Notenbank in diesem Jahr Anleihen über rund 305 Milliarden Dollar begeben, etwa acht Prozent des weltweiten Angebots an Unternehmensanleihen mit guter Bonität. Für Rechenzentren stehen bis 2028 zudem Finanzierungen über private Kreditfonds von rund 700 Milliarden Dollar in der Pipeline.",
+    "Die Zahlen unterstreichen, wie eng die Finanzierung der KI-Infrastruktur inzwischen mit Anleihe- und Kreditmärkten verwoben ist. Ein Rückschlag bei der Bewertung von KI-Projekten könnte sich damit über mehrere Kanäle auf das Finanzsystem übertragen."
+   ],
+   "quellen": [
+    [
+     "StockAnalysis",
+     "https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/ai-news-today"
+    ]
+   ],
+   "berichterstattung": [
+    "stockanalysis.com"
+   ]
+  },
+  {
+   "id": "fin-08",
+   "rubrik": "finanzen",
+   "tags": [
+    "Biotech",
+    "Aktien",
+    "FDA"
+   ],
+   "kicker": "Finanzen · Biotech",
+   "titel": "Vertex verliert 5 Prozent nach FDA-Verzögerung, Alvotech bricht nach Gerichtsentscheid um 12 Prozent ein",
+   "deck": "Zwei Rückschläge für Pharmawerte an einem ansonsten freundlichen Börsentag.",
+   "text": [
+    "Die Aktie von Vertex Pharmaceuticals hat am Freitag 5,24 Prozent verloren. Die US-Arzneimittelbehörde FDA verlängerte ihre Prüfung des Mittels Povetacicept gegen die Nierenerkrankung IgA-Nephropathie: Eine Entscheidung soll nun spätestens bis zum 28. Februar 2027 fallen statt bis zum 30. November 2026.",
+    "Noch härter traf es das isländische Biotechunternehmen Alvotech, dessen Aktie um 12,35 Prozent fiel. Ein US-Gericht erließ auf Antrag von Janssen, einer Tochter von Johnson & Johnson, eine einstweilige Verfügung gegen Alvotechs Mittel AVT05, eine Nachahmerversion des Rheumamedikaments Simponi. Alvotech kündigte an, in Berufung zu gehen.",
+    "Der Gesundheitssektor gehörte mit einem Plus von 0,28 Prozent zu den schwächsten Branchen im S&P 500."
+   ],
+   "quellen": [
+    [
+     "StockTitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "stocktitan.net",
+    "finance.yahoo.com"
+   ]
+  },
+  {
+   "id": "fin-09",
+   "rubrik": "finanzen",
+   "tags": [
+    "Halbleiter",
+    "Börsengänge",
+    "Aktien"
+   ],
+   "kicker": "Finanzen · Einzelwerte",
+   "titel": "Speicherchips gefragt wie nie: Sandisk steigt um 16 Prozent – Anthropic wieder über dem Ausgabepreis",
+   "deck": "Die Erholung der KI-Werte hebt Speicher- und Netzwerkaktien besonders stark.",
+   "text": [
+    "Bester Wert im S&P 500 war am Freitag Sandisk mit einem Kurssprung von 15,96 Prozent. Auch Coherent (plus 14,07 Prozent), Seagate (plus 7,9 Prozent), Micron (plus 7,6 Prozent) und Marvell (plus 7,34 Prozent) profitierten von der Erholung der Technologiewerte. AMD stieg trotz einer Herabstufung durch die Erste Group um 4,56 Prozent.",
+    "Die kürzlich an die Börse gegangene Aktie des KI-Entwicklers Anthropic legte um 10,98 Prozent auf 91,88 Dollar zu und notiert damit wieder über dem Ausgabepreis von 83 Dollar; am Mittwoch hatte sie bei 82,79 Dollar geschlossen. Die Papiere von SpaceX gewannen rund 3 Prozent.",
+    "Im Energiesektor stieg Kinetik um 9,25 Prozent, nachdem Bloomberg berichtet hatte, Targa Resources verhandele über eine Übernahme. Targa selbst gab 1,74 Prozent nach."
+   ],
+   "quellen": [
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ],
+    [
+     "StockTitan",
+     "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+    ],
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ]
+   ],
+   "berichterstattung": [
+    "stocktitan.net",
+    "finance.yahoo.com",
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "fin-10",
+   "rubrik": "finanzen",
+   "tags": [
+    "Inflation",
+    "EZB",
+    "Konjunktur"
+   ],
+   "kicker": "Finanzen · Wochenausblick",
+   "titel": "Inflationszahlen, Lagarde und der US-Arbeitsmarkt: Was die Märkte in der neuen Woche erwartet",
+   "deck": "Für die Eurozone wird ein leichter Rückgang der Teuerung auf 3,9 Prozent erwartet.",
+   "text": [
+    "Die kommende Woche bringt für die Finanzmärkte eine dichte Folge wichtiger Termine. Am Montag veröffentlicht das Statistische Bundesamt um 14 Uhr die vorläufigen Inflationszahlen für Deutschland; am Nachmittag spricht EZB-Präsidentin Christine Lagarde vor dem Europäischen Parlament. Auch die Direktoriumsmitglieder Philip Lane und Isabel Schnabel treten in der Woche auf.",
+    "Am Dienstag folgt die Schnellschätzung der Inflation im Euroraum für November. Erwartet wird ein Rückgang auf 3,9 Prozent nach 4,0 Prozent im Oktober. Am selben Tag erscheinen in den USA der ISM-Index für die Industrie und die JOLTS-Daten zu offenen Stellen.",
+    "Am Donnerstag überprüft die Deutsche Börse die Zusammensetzung des Dax. Den Abschluss bildet am Freitag der US-Arbeitsmarktbericht, für den 90.000 neue Stellen und eine Arbeitslosenquote von 4,1 Prozent erwartet werden. Zuvor tagt am Sonntag die Opec+, in Spanien wird gewählt."
+   ],
+   "quellen": [
+    [
+     "Aktiencheck",
+     "https://aktiencheck.de/artikel/dax-wochenbilanz-25441-punkte-plus-26-prozent-rente-zoelle-eu-gipfel-und-fed"
+    ],
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "aktiencheck.de"
+   ]
+  },
+  {
+   "id": "krypto-01",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin"
+   ],
+   "kicker": "Krypto · Markt",
+   "titel": "Aktien steigen, Bitcoin fällt: Nach dem Ausflug über 61.000 Dollar rutscht die Kryptowährung unter 60.000",
+   "deck": "Der Verfall von Optionen über rund 7 Milliarden Dollar und dünner Feiertagshandel verstärkten die Ausschläge.",
+   "text": [
+    "Bitcoin hat sich am Freitag vom Aufschwung an den Aktienmärkten abgekoppelt. Nach einem kurzen Anstieg über 61.000 Dollar fiel die größte Kryptowährung nach US-Börseneröffnung von rund 61.350 Dollar auf knapp 59.000 Dollar; am Abend notierte sie bei etwa 59.800 Dollar, rund 1,2 Prozent unter dem Vortag. Ether verlor etwa 1,3 Prozent auf rund 1.666 Dollar, Solana legte leicht zu.",
+    "Am Freitag liefen Bitcoin-Optionen im Volumen von rund 7 Milliarden Dollar aus; der dünne Handel nach Thanksgiving dürfte die Schwankungen verstärkt haben. Nach Daten von CoinGlass wurden gehebelte Long-Positionen über mehr als 100 Millionen Dollar zwangsweise aufgelöst, bei Short-Positionen waren es nur etwa 8 Millionen.",
+    "Die Stimmung bleibt gedrückt: Der Fear-&-Greed-Index stand bei 9 und damit im Bereich „extreme Angst“, die Bitcoin-Dominanz bei 58,5 Prozent. Am Montag nach Handelsschluss nimmt MSCI zudem Strategy aus zwei US-Indizes. Die Spot-ETFs verbuchten im November Rekordabflüsse von 5,39 Milliarden Dollar."
+   ],
+   "quellen": [
+    [
+     "CoinMarketCap",
+     "https://coinmarketcap.com/academy/article/crypto-news-today-nov-27-2026"
+    ],
+    [
+     "The Motley Fool",
+     "https://www.fool.com/coverage/stock-market-today/2026/11/27/crypto-market-today-nov-27-bitcoin-falls-below-usd60-000-as-crypto-markets-struggle-despite-wall-street-s-biggest-rally-in-over-a-year/"
+    ],
+    [
+     "The Rio Times",
+     "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-november-27-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "coinmarketcap.com",
+    "fool.com",
+    "riotimesonline.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-02",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Bitcoin",
+    "Mining",
+    "Sicherheit"
+   ],
+   "kicker": "Krypto · Sicherheit",
+   "titel": "Rechenleistung entführt: Angreifer leiteten Miner an mehr als 1.000 Standorten per gefälschter Internetroute um",
+   "deck": "Braiins warnt vor dem veralteten Protokoll Stratum V1 und rät zum Umstieg.",
+   "text": [
+    "Ein Angreifer hat am 20. November die Rechenleistung von Bitcoin-Minern an mehr als 1.000 Standorten gekapert. Das teilte der Mining-Pool-Betreiber Braiins mit. Der Täter fälschte demnach Internet-Routen über das Border Gateway Protocol (BGP), das den Datenverkehr zwischen Netzwerken lenkt, und leitete so Miner, die das unverschlüsselte Protokoll Stratum V1 nutzen, zu einem gefälschten Pool um. Die Miner arbeiteten damit für den Angreifer statt für ihren eigentlichen Pool.",
+    "Braiins betont, dass weder der eigene Pool noch die Geräte der Miner kompromittiert wurden. Das Problem liegt im Protokoll: Stratum V1 überträgt Aufträge und Ergebnisse ohne Verschlüsselung und ohne Prüfung, mit wem der Miner tatsächlich spricht.",
+    "Braiins empfiehlt deshalb den Umstieg auf Stratum V2, das Verbindungen verschlüsselt und authentifiziert, oder zumindest Stratum V1 über TLS mit einer Firmware, die Zertifikate prüft."
+   ],
+   "quellen": [
+    [
+     "CoinMarketCap",
+     "https://coinmarketcap.com/academy/article/braiins-bgp-hashrate-hijacking-stratum-v1"
+    ],
+    [
+     "CoinMarketCap Tagesüberblick",
+     "https://coinmarketcap.com/academy/article/crypto-news-today-nov-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "coinmarketcap.com"
+   ]
+  },
+  {
+   "id": "krypto-03",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Binance",
+    "Börsen"
+   ],
+   "kicker": "Krypto · Börsen",
+   "titel": "Binance hebt die Auszahlungssperre nach dem Oktober-Vorfall vollständig auf",
+   "deck": "Nur einzelne Netzwerke bleiben wegen Wartung pausiert, die Börse warnt vor Phishing.",
+   "text": [
+    "Die Kryptobörse Binance hat die Sperre für Auszahlungen, die sie nach einem Sicherheitsvorfall im Oktober verhängt hatte, vollständig aufgehoben. Das teilte das Unternehmen am 26. November mit. Einige Netzwerke bleiben unabhängig davon wegen Wartungsarbeiten oder Upgrades vorübergehend pausiert.",
+    "Binance versicherte, die Vermögenswerte der Nutzer seien vollständig gedeckt. Zugleich warnte die Börse vor Phishing-Versuchen, bei denen Betrüger die Lage ausnutzen und Kunden mit gefälschten Nachrichten oder Webseiten zur Preisgabe ihrer Zugangsdaten bewegen wollen.",
+    "Der Vorfall im Oktober hatte das Vertrauen in die größte Kryptobörse der Welt belastet. Nach früheren Berichten waschen nordkoreanische Hacker die Beute über zahlreiche Adressen und Mixing-Dienste. Mit der vollständigen Freigabe der Auszahlungen will Binance zur Normalität zurückkehren."
+   ],
+   "quellen": [
+    [
+     "CoinMarketCap",
+     "https://coinmarketcap.com/academy/article/binance-withdrawals-fully-restored"
+    ],
+    [
+     "CoinMarketCap Tagesüberblick",
+     "https://coinmarketcap.com/academy/article/crypto-news-today-nov-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "coinmarketcap.com"
+   ]
+  },
+  {
+   "id": "krypto-04",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "ETF",
+    "Chainlink"
+   ],
+   "kicker": "Krypto · ETF",
+   "titel": "Fidelity beantragt einen Spot-ETF auf Chainlink – Franklin nimmt Hyperliquid in den Indexfonds auf",
+   "deck": "Die Produktpalette der großen Vermögensverwalter wächst über Bitcoin und Ether hinaus.",
+   "text": [
+    "Fidelity hat bei der US-Börsenaufsicht SEC den Registrierungsantrag (Form S-1) für einen Spot-ETF auf den Token LINK des Orakel-Netzwerks Chainlink eingereicht. Der Fonds soll LINK direkt halten, an der Nasdaq gehandelt werden und die Token nicht zum Staking einsetzen. Kürzel FLNK und Verwaltungsgebühr sind noch Platzhalter.",
+    "Franklin Templeton nimmt den Token HYPE der Handelsplattform Hyperliquid um den 1. Dezember in seinen Franklin Crypto Index ETF auf. Der Indexanbieter CF Benchmarks bestimmte HYPE zum achten Bestandteil; ein entsprechender Nachtrag zum Prospekt wurde am Mittwoch eingereicht.",
+    "Chainlink selbst baute seine Reserve nach Angaben des Projekts um rund 122.500 LINK aus. Der Kurs von LINK stieg binnen 24 Stunden um etwa 3 Prozent."
+   ],
+   "quellen": [
+    [
+     "CoinMarketCap (Fidelity)",
+     "https://coinmarketcap.com/academy/article/fidelity-chainlink-etf-s1-nasdaq"
+    ],
+    [
+     "CoinMarketCap (Franklin)",
+     "https://coinmarketcap.com/academy/article/franklin-crypto-index-etf-adds-hype"
+    ],
+    [
+     "KuCoin",
+     "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-27-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "coinmarketcap.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "krypto-05",
+   "rubrik": "krypto",
+   "tags": [
+    "Krypto",
+    "Stablecoins",
+    "Brasilien"
+   ],
+   "kicker": "Krypto · Stablecoins",
+   "titel": "„Open BRL“: Brasiliens Börse B3 und Großbanken planen einen Stablecoin auf den Real",
+   "deck": "Start ist für das erste Quartal 2027 vorgesehen, Herausgeber wird die Banco B3.",
+   "text": [
+    "Die brasilianische Börse B3 entwickelt gemeinsam mit sechs Finanzhäusern, darunter Itaú Unibanco, Bradesco und Santander, einen an den Real gekoppelten Stablecoin. Das Projekt mit dem Namen „Open BRL“ soll nach einem Bericht der Wirtschaftszeitung Valor Econômico im ersten Quartal 2027 starten. Herausgeber wird zunächst die Banco B3, die für jede Einheit einen Real als Deckung halten soll.",
+    "Brasilien hat den Rahmen für solche Token zuletzt neu gezogen: Nach den Resolutionen 519, 520 und 521 der Zentralbank, die ab dem 2. Februar gelten, werden Transaktionen mit Stablecoins wie Devisengeschäfte behandelt.",
+    "Ein Stablecoin großer Banken auf die Landeswährung wäre in Lateinamerika ein Gegengewicht zu den dominierenden Dollar-Stablecoins wie USDT und USDC, die im Zahlungsverkehr der Region bislang den Ton angeben."
+   ],
+   "quellen": [
+    [
+     "CoinMarketCap",
+     "https://coinmarketcap.com/academy/article/b3-banks-open-brl-stablecoin"
+    ],
+    [
+     "The Rio Times",
+     "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-november-27-2026/"
+    ]
+   ],
+   "berichterstattung": [
+    "coinmarketcap.com",
+    "riotimesonline.com",
+    "valor.globo.com"
+   ]
+  },
+  {
+   "id": "ki-01",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Nvidia",
+    "Exportkontrollen"
+   ],
+   "kicker": "KI · Chips",
+   "titel": "Nvidia stoppt Serverlieferungen nach Südostasien – Händler drohen Cloud-Anbietern mit Lieferstopp bei chinesischen Kunden",
+   "deck": "Die verschärften US-Exportregeln treffen Malaysia, Singapur, Thailand und Indonesien.",
+   "text": [
+    "Nvidia hat seine Serverpartner angewiesen, Lieferungen von KI-Servern nach Malaysia, Singapur, Thailand und Indonesien vorerst auszusetzen. Betroffen sind unter anderem Dell und Supermicro, wie The National und TechCrunch berichten. Hintergrund sind verschärfte Exportkontrollen der USA, die verhindern sollen, dass Hochleistungschips über Drittländer nach China gelangen.",
+    "Zugleich warnen Nvidia-Distributoren spezialisierte Cloud-Anbieter, sogenannte Neoclouds, dass sie keine Grafikprozessoren mehr erhalten, wenn sie Rechenleistung an chinesische Firmen vermieten. Sie setzen damit eine Regel des US-Handelsministeriums vom 19. November zum Fernzugriff durch; zuvor galt eine Schwelle von 50 Prozent chinesischer Kundschaft.",
+    "Nach Recherchen von CBS News gehören zu Nvidias Partnern in Kalifornien zwei Firmen mit chinesischen Muttergesellschaften, RiCloud AI und Aivres, früher Inspur. Aivres exportierte zwischen April 2024 und Februar 2026 Waren im Wert von 5,6 Milliarden Dollar nach Südostasien."
+   ],
+   "quellen": [
+    [
+     "The National",
+     "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
+    ],
+    [
+     "TechCrunch",
+     "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+    ]
+   ],
+   "berichterstattung": [
+    "thenationalnews.com",
+    "techcrunch.com",
+    "cbsnews.com",
+    "the-decoder.com",
+    "thenextweb.com",
+    "tomshardware.com",
+    "kucoin.com"
+   ]
+  },
+  {
+   "id": "ki-02",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "OpenAI",
+    "Apple",
+    "Recht"
+   ],
+   "kicker": "KI · Recht",
+   "titel": "Gegenklage im Hardware-Streit: OpenAI wirft Apple Diebstahl von Geschäftsgeheimnissen vor",
+   "deck": "Der Prozess ist für Juli 2027 angesetzt.",
+   "text": [
+    "OpenAI hat vor einem Gericht in Kalifornien Gegenklage gegen Apple und dessen Einheit io Products eingereicht. Der ChatGPT-Entwickler wirft dem iPhone-Konzern den Diebstahl von Geschäftsgeheimnissen, unzulässige Einmischung und unlauteren Wettbewerb vor. Apple soll zudem Zulieferer unter Druck gesetzt haben, wie das Fachportal 9to5Mac berichtet.",
+    "Apple hatte im Juli 2026 seinerseits Klage erhoben; dabei ging es um einen ehemaligen Mitarbeiter von OpenAI. Beide Konzerne streiten damit vor Gericht um Know-how und Lieferketten für KI-Geräte, ein Feld, auf dem beide eigene Produkte entwickeln.",
+    "Der Prozess ist für den 19. Juli 2027 angesetzt. Bis dahin dürften beide Seiten versuchen, über die Beweisaufnahme Einblick in die Pläne des jeweils anderen zu bekommen."
+   ],
+   "quellen": [
+    [
+     "9to5Mac",
+     "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/ai-news-today"
+    ]
+   ],
+   "berichterstattung": [
+    "9to5mac.com"
+   ]
+  },
+  {
+   "id": "ki-03",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Anthropic",
+    "Übernahme"
+   ],
+   "kicker": "KI · Geschäftsmodelle",
+   "titel": "Anthropic kauft offenbar den SDK-Spezialisten Stainless – OpenAI und Google verlieren einen Dienstleister",
+   "deck": "Der Kaufpreis soll bei mehr als 300 Millionen Dollar liegen.",
+   "text": [
+    "Anthropic hat nach einem Bericht der Economic Times das Start-up Stainless übernommen, für mehr als 300 Millionen Dollar. Stainless erstellt Software-Entwicklungspakete (SDKs), mit denen Entwickler die Programmierschnittstellen von KI-Anbietern in ihre Anwendungen einbinden. Zu den Kunden zählten auch die Konkurrenten OpenAI und Google.",
+    "Laut dem Bericht werden die gehosteten Dienste, die Stainless für OpenAI und Google betrieb, eingestellt. Beide Unternehmen müssen ihre SDKs damit künftig anders erstellen oder pflegen. Von den Beteiligten lag zunächst keine ausführliche Stellungnahme zu den Bedingungen vor.",
+    "Der Fall zeigt, wie die großen Labore zunehmend die Werkzeugkette rund um ihre Modelle kontrollieren wollen. Zuletzt hatte Anthropic nach eigenen Angaben einen Teil seiner API-Software mithilfe des eigenen Modells Claude von Python auf Rust umgestellt und dabei die Prozessorlast um 70 Prozent gesenkt; auch das ist eine Herstellerangabe."
+   ],
+   "quellen": [
+    [
+     "Economic Times",
+     "https://m.economictimes.com/world/business/openai-and-google-relied-on-the-same-small-startup-to-connect-developers-to-their-ai-then-anthropic-bought-it-reportedly-for-over-300-million-and-shut-it-off-to-rivals/articleshow/136199164.cms"
+    ],
+    [
+     "The Neuron",
+     "https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/"
+    ]
+   ],
+   "berichterstattung": [
+    "economictimes.indiatimes.com",
+    "theneuron.ai"
+   ]
+  },
+  {
+   "id": "ki-04",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Militär",
+    "Polen",
+    "Palantir"
+   ],
+   "kicker": "KI · Verteidigung",
+   "titel": "„Saturn“ für Polens Armee: Warschau kauft Palantirs KI-Gefechtssoftware für 1,2 Milliarden Złoty",
+   "deck": "Der Fünfjahresvertrag umfasst das Maven Smart System – Polen betont, Schlüssel und Daten zu behalten.",
+   "text": [
+    "Polen hat mit dem amerikanischen Softwarekonzern Palantir einen Fünfjahresvertrag über das KI-gestützte Gefechtsführungssystem Maven Smart System unterzeichnet. Der Auftrag hat einen Wert von 1,2 Milliarden Złoty, umgerechnet rund 300 Millionen Dollar, wie das Portal Notes from Poland berichtet. In den polnischen Streitkräften soll das System den Namen „Saturn“ tragen.",
+    "Maven führt Daten aus Aufklärung, Sensoren und Lagebildern zusammen und hilft mithilfe von Künstlicher Intelligenz, Ziele zu erkennen und Entscheidungen vorzubereiten.",
+    "Die Regierung in Warschau betont, dass Polen die Kontrolle über Verschlüsselungsschlüssel und Daten behalte. Die Frage, wer bei Militärsoftware aus den USA über Daten und Zugänge verfügt, wird in Europa seit Längerem diskutiert."
+   ],
+   "quellen": [
+    [
+     "Notes from Poland",
+     "https://notesfrompoland.com/2026/11/27/poland-signs-300m-deal-with-palantir-for-ai-powered-battlefield-software-platform/"
+    ],
+    [
+     "AI Weekly",
+     "https://aiweekly.co/ai-news-today"
+    ]
+   ],
+   "berichterstattung": [
+    "notesfrompoland.com"
+   ]
+  },
+  {
+   "id": "ki-05",
+   "rubrik": "ki",
+   "tags": [
+    "KI",
+    "Cyberangriff",
+    "Schweiz"
+   ],
+   "kicker": "KI · Sicherheit",
+   "titel": "Fünf Angriffe mit KI-Agenten: Die Schweiz meldet Einbrüche bei Strom-, Wasser- und Telekomversorgern",
+   "deck": "Das Bundesamt für Cybersicherheit beobachtet eine Verdopplung beim Einsatz automatisierter Angriffswerkzeuge.",
+   "text": [
+    "Das Schweizer Bundesamt für Cybersicherheit (BACS) hat fünf Cyberangriffe registriert, bei denen KI-Agenten eingesetzt wurden. In vier Fällen gelang den Angreifern der Einbruch in die Systeme. Drei der Opfer sind nach Angaben der Behörde Betreiber von Strom-, Wasser- oder Telekommunikationsnetzen, also kritischer Infrastruktur, wie Reuters berichtet.",
+    "KI-Agenten sind Programme, die auf Basis großer Sprachmodelle selbstständig mehrere Schritte ausführen, etwa Schwachstellen suchen, Zugangsdaten ausprobieren und sich im Netz eines Opfers weiterbewegen. Die Nutzung der Angriffsbaukästen ARTEX und CyberStrikeAI hat sich laut dem Bericht seit Oktober 2026 nahezu verdoppelt.",
+    "Die Meldung ergänzt Warnungen von Microsoft, wonach staatliche Hackergruppen aus China und Nordkorea solche Werkzeuge bereits nutzen. Für Betreiber kritischer Infrastruktur steigt damit der Druck, Angriffe schneller zu erkennen."
+   ],
+   "quellen": [
+    [
+     "Reuters",
+     "https://www.reuters.com/legal/litigation/ai-agents-used-five-cyber-attacks-switzerland-government-says-2026-11-26/"
+    ],
+    [
+     "Global Banking & Finance",
+     "https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/"
+    ],
+    [
+     "The Record",
+     "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
+    ]
+   ],
+   "berichterstattung": [
+    "reuters.com",
+    "globalbankingandfinance.com",
+    "therecord.media"
+   ]
+  },
+  {
+   "id": "wiss-01",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Physik",
+    "Antimaterie"
+   ],
+   "kicker": "Wissenschaft · Physik · Durchbruch",
+   "titel": "Ein einzelnes Positron, monatelang gefangen: Physiker bauen ein „Quantenzyklotron“ aus Antimaterie",
+   "deck": "Der Versuch ebnet den Weg zu einem der genauesten Vergleiche von Materie und Antimaterie.",
+   "text": [
+    "Physiker der Northwestern University haben ein einzelnes Positron, das Antiteilchen des Elektrons, über Monate in einer Falle aus elektrischen und magnetischen Feldern festgehalten. Das Team um Gerald Gabrielse kühlte das Teilchen auf etwa 300 Millikelvin ab, also auf weniger als ein Drittel Grad über dem absoluten Nullpunkt. Mit Mikrowellen konnten die Forscher gezielt Übergänge zwischen seinen Quantenzuständen anregen. Die Studie erschien in den Physical Review Letters.",
+    "Die Forscher sprechen von einem „Ein-Positron-Quantenzyklotron“. Das Positron stammte aus einer Natrium-22-Quelle und berührte keine Wand, denn jede Berührung mit Materie würde es vernichten. Mit einer verwandten Methode hatte Gabrielses Gruppe das magnetische Moment des Elektrons zuvor auf etwa ein Zehnbillionstel genau gemessen.",
+    "Noch ist es eine Demonstration: Den eigentlichen Vergleich des magnetischen Moments von Positron und Elektron hat das Team noch nicht vorgelegt. Er soll folgen. Ein noch so kleiner Unterschied könnte erklären helfen, warum im Universum Materie gegenüber Antimaterie überwiegt."
+   ],
+   "quellen": [
+    [
+     "Physical Review Letters",
+     "https://doi.org/10.1103/gbkc-6nlj"
+    ],
+    [
+     "ScienceDaily (Northwestern)",
+     "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "journals.aps.org"
+   ]
+  },
+  {
+   "id": "wiss-02",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Chemie",
+    "Mikroplastik"
+   ],
+   "kicker": "Wissenschaft · Chemie · Erkenntnis",
+   "titel": "Mikroplastik erzeugt im Wasser von selbst aggressive Sauerstoffverbindungen",
+   "deck": "Eine Studie in Nature zeigt einen bislang unbekannten chemischen Mechanismus an der Grenzfläche von Plastik und Wasser.",
+   "text": [
+    "Winzige Plastikteilchen im Wasser bilden spontan reaktive Sauerstoffspezies, darunter das besonders aggressive Hydroxylradikal. Das berichten Forscher der Columbia University und der University of California in Berkeley in der Fachzeitschrift Nature. Solche Verbindungen können Zellbestandteile wie Fette, Eiweiße und Erbgut schädigen.",
+    "Den Mechanismus erklären die Forscher um den Chemiker Wei Min und die Theoretikerin Teresa Head-Gordon mit Experimenten und Computersimulationen: An wasserabweisenden Plastikoberflächen reichern sich in der angrenzenden Wasserschicht Hydroxid-Ionen an. Dort geben sie leichter Elektronen ab, wodurch die reaktiven Moleküle entstehen. Plastik ist demnach nicht nur ein Träger von Schadstoffen, sondern chemisch selbst aktiv.",
+    "Einschränkung: Die Arbeit beruht auf Labor- und Simulationsdaten. Ob der Effekt im menschlichen Körper Krankheiten auslöst, belegt sie nicht. Dass Mikroplastik allgegenwärtig ist, ist dagegen gut dokumentiert: Eine frühere Columbia-Studie fand in Flaschenwasser im Mittel rund 240.000 Plastikfragmente pro Liter."
+   ],
+   "quellen": [
+    [
+     "Nature",
+     "https://doi.org/10.1038/s41586-026-11141-y"
+    ],
+    [
+     "ScienceDaily (Columbia University)",
+     "https://www.sciencedaily.com/releases/2026/11/261120075549.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "nature.com"
+   ]
+  },
+  {
+   "id": "wiss-03",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Meeresbiologie",
+    "Tiefsee"
+   ],
+   "kicker": "Wissenschaft · Meeresbiologie · Erkenntnis",
+   "titel": "Stilles Schwinden in der Tiefe: Laternenfische und Garnelen im Golf von Mexiko zeigen genetische Warnsignale",
+   "deck": "Erbgutanalysen von 486 Tieren aus zwölf Jahren deuten auf ein erhöhtes Aussterberisiko hin.",
+   "text": [
+    "Fünf Tiefseearten aus dem Golf von Mexiko zeigen Anzeichen eines erhöhten Aussterberisikos. Das berichten Forscher der Florida International University und der Nova Southeastern University in Nature Communications. Untersucht wurden drei Arten von Laternenfischen und zwei Garnelenarten, die in der Tiefsee leben.",
+    "Das Team um Pedro Peres und Heather Bracken-Grissom analysierte das Erbgut von 486 Tieren, die zwischen 2011 und 2023 gesammelt wurden. Alle fünf Arten haben eine kleine effektive Populationsgröße, ein Maß dafür, wie viele Tiere tatsächlich zur nächsten Generation beitragen. Beim Laternenfisch Diaphus dumerilii ging die genetische Vielfalt in zwölf Jahren um etwa acht Prozent zurück. Habitatmodelle sagen für vier der fünf Arten bis 2050 und 2100 Verluste ihres Lebensraums von bis zu 70 Prozent voraus.",
+    "Einschränkung: Einen direkten Zusammenhang mit der Ölkatastrophe der Deepwater Horizon von 2010 ziehen die Autoren nicht. Die Tiere sind wichtig für das Nahrungsnetz und den Transport von Kohlenstoff in die Tiefe."
+   ],
+   "quellen": [
+    [
+     "Nature Communications",
+     "https://doi.org/10.1038/s41467-026-79098-0"
+    ],
+    [
+     "ScienceDaily (Florida International University)",
+     "https://www.sciencedaily.com/releases/2026/11/261125045249.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "nature.com"
+   ]
+  },
+  {
+   "id": "wiss-04",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Materialforschung",
+    "Biologie"
+   ],
+   "kicker": "Wissenschaft · Materialforschung · Erkenntnis",
+   "titel": "Zwei Drehungen, die sich widersprechen: Das Geheimnis des Narwal-Stoßzahns",
+   "deck": "Röntgenuntersuchungen an drei Synchrotrons zeigen einen Aufbau aus gegenläufig verdrillten Bausteinen.",
+   "text": [
+    "Der bis zu zwei Meter lange Stoßzahn des Narwals verdankt seine Stabilität einem ungewöhnlichen Bauprinzip. Forscher des Paul Scherrer Instituts in der Schweiz sowie der Universitäten Aarhus und Chalmers berichten in Nature Communications, dass der Zahn seine große, links gedrehte Spirale aus Bausteinen zusammensetzt, die in entgegengesetzter Richtung verdrillt sind.",
+    "Die äußere Zementschicht bildet eine linksgängige Helix, während die Kollagenfasern und Minerale im darunterliegenden Dentin in die Gegenrichtung spiralen. Sichtbar machten das die Forscher um Adrian Rodriguez-Palomo und Henrik Birkedal mit der Tensortomografie, einem Röntgenverfahren, das die Ausrichtung winziger Strukturen in drei Dimensionen erfasst. Die Messungen fanden an der Swiss Light Source, am MAX IV in Lund und am ESRF in Grenoble statt.",
+    "Der Stoßzahn, eigentlich ein Eckzahn, kann bis zur Hälfte der Körperlänge des Tiers erreichen. Das Bauprinzip mit gegenläufigen Drehungen könnte Vorbild für biegsame und zugleich widerstandsfähige künstliche Werkstoffe sein; wie viele Zähne untersucht wurden, nennt die Mitteilung nicht."
+   ],
+   "quellen": [
+    [
+     "Nature Communications",
+     "https://doi.org/10.1038/s41467-026-75689-z"
+    ],
+    [
+     "ScienceDaily (Paul Scherrer Institut)",
+     "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "nature.com"
+   ]
+  },
+  {
+   "id": "wiss-05",
+   "rubrik": "wissenschaft",
+   "tags": [
+    "Wissenschaft",
+    "Medizin",
+    "Mitochondrien"
+   ],
+   "kicker": "Wissenschaft · Medizin · Erkenntnis",
+   "titel": "Weniger Sauerstoff, dreifache Lebensdauer: Hypoxie hilft Mäusen mit tödlicher Nervenerkrankung",
+   "deck": "Tierversuch: Die Ergebnisse stammen aus Mausmodellen und Zellversuchen, nicht vom Menschen.",
+   "text": [
+    "Mäuse mit einer tödlichen Erkrankung der motorischen Nervenzellen lebten dreimal so lange, wenn sie Luft mit verringertem Sauerstoffgehalt atmeten statt normaler Luft mit etwa 21 Prozent Sauerstoff. Das berichten Forscher der Gladstone Institutes in San Francisco um Isha Jain in der Fachzeitschrift Nature Metabolism.",
+    "Den Tieren fehlt das Protein HTRA2, das gemeinsam mit dem Protein CLPB den sogenannten Komplex I der Mitochondrien instand hält, ein zentrales Bauteil der Zellatmung. Weniger Sauerstoff entlastet offenbar die geschädigte Atmungskette; zugleich ging im Striatum, einer Hirnregion für die Bewegungssteuerung, die Entzündung zurück. Das Team identifizierte zudem 75 Gene, deren Defekte mit Krankheiten zusammenhängen, die ebenfalls auf eine solche „Hypoxie-Therapie“ ansprechen könnten.",
+    "Einschränkung: Es handelt sich um einen Tierversuch, die Zahl der Mäuse nennt die Mitteilung nicht. Weil dauerhaft dünne Luft für Patienten kaum praktikabel ist, entwickelt die Gruppe einen Wirkstoff namens HypoxyStat, der den Effekt nachahmen soll."
+   ],
+   "quellen": [
+    [
+     "Nature Metabolism",
+     "https://doi.org/10.1038/s42255-026-01566-0"
+    ],
+    [
+     "ScienceDaily (Gladstone Institutes)",
+     "https://www.sciencedaily.com/releases/2026/11/261125045304.htm"
+    ]
+   ],
+   "berichterstattung": [
+    "sciencedaily.com",
+    "nature.com"
+   ]
+  },
+  {
+   "id": "verm-01",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Markets",
+    "Privatbanken",
+    "Asien"
+   ],
+   "kicker": "Vermögen · Privatbanken",
+   "titel": "Bank of Singapore öffnet Vermögensverwaltungsmandate für Private Equity, Private Credit und Infrastruktur",
+   "deck": "Die OCBC-Tochter mit 145 Milliarden Dollar Kundenvermögen baut die Strategie gemeinsam mit iCapital.",
+   "text": [
+    "Die Bank of Singapore, die Privatbank-Tochter des Finanzkonzerns OCBC, führt eine eigene Strategie für Privatmarktanlagen in ihren Vermögensverwaltungsmandaten ein. Bisher bestand der Anteil alternativer Anlagen dort vor allem aus Hedgefonds; künftig kommen Private Equity, Private Credit, private Immobilien und Infrastruktur hinzu. Das Institut verwaltet 145 Milliarden Dollar.",
+    "Technik und Plattform liefert das Fintech iCapital, während die Bank die Kapitalallokation und das Investmentmanagement selbst steuert. Die Anlagen werden aus der hauseigenen Plattform genehmigter alternativer Investments ausgewählt. Kunden mit Beratungsmandat sollen 2027 Zugang erhalten.",
+    "Anlagechefin Jean Chia begründet den Schritt mit der Nachfrage: Der Anteil des Kundenvermögens in Privatmarktanlagen sei in den vergangenen drei Jahren um fast 60 Prozent gestiegen. Für iCapital ist Brooks Entwistle, der das internationale Geschäft leitet, an dem Projekt beteiligt."
+   ],
+   "quellen": [
+    [
+     "Caproasia",
+     "https://caproasia.com/2026/11/28/145-billion-bank-of-singapore-launches-new-proprietary-private-markets-strategy-for-eligible-discretionary-portfolio-management-dpm-mandates-expanding-allocation-from-hedge-funds-to-include-private"
+    ]
+   ],
+   "berichterstattung": [
+    "caproasia.com"
+   ]
+  },
+  {
+   "id": "verm-02",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Family Office",
+    "Immobilien",
+    "Spanien"
+   ],
+   "kicker": "Vermögen · Family Office",
+   "titel": "Ortegas Family Office kauft das Haus von Zaras Flaggschiff in Lissabon für 100 Millionen Euro",
+   "deck": "Pontegadea setzt die Einkaufstour mit Immobilien in Europa und Nordamerika fort.",
+   "text": [
+    "Pontegadea, das Family Office und die Immobiliengesellschaft des Zara-Gründers Amancio Ortega, hat in Lissabon ein Gebäude am Rossio-Platz gekauft, in dem sich der portugiesische Flaggschiff-Laden von Zara befindet. Der Kaufpreis liegt bei rund 100 Millionen Euro, umgerechnet 110 Millionen Dollar.",
+    "Der 90-jährige Ortega baut sein Immobilienportfolio, das auf rund 20 Milliarden Dollar geschätzt wird, seit Jahren mit großen Einzelobjekten aus. Zu den Käufen der vergangenen Jahre gehören ein Wohnturm in Seattle, ein Logistikzentrum im niederländischen Roosendaal, ein von Amazon gemietetes Lager und das Postgebäude in Vancouver sowie ein Bürogebäude an der Avenida Diagonal in Barcelona. Zudem erwarb Pontegadea 49 Prozent am britischen Hafenbetreiber PD Ports.",
+    "Gespeist werden die Zukäufe vor allem aus den Dividenden des Modekonzerns Inditex, an dem Ortega rund 59 Prozent hält. Sein Vermögen wird inzwischen auf etwa 140 Milliarden Dollar geschätzt."
+   ],
+   "quellen": [
+    [
+     "Caproasia",
+     "https://caproasia.com/2026/11/28/spain-fashion-zara-founder-billionaire-amancio-ortega-age-90-with-140-billion-fortune-family-office-property-group-pontegadea-buys-portugal-building-rossio-square-lisbon-which-houses-portugal"
+    ]
+   ],
+   "berichterstattung": [
+    "caproasia.com"
+   ]
+  },
+  {
+   "id": "verm-03",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Private Equity",
+    "Vermögensberatung",
+    "Großbritannien"
+   ],
+   "kicker": "Vermögen · Private Equity",
+   "titel": "Permira und Ares im Finale um Finli: Bieterrennen um die britische Beratungsgruppe",
+   "deck": "Die von J.C. Flowers unterstützte Gruppe wird mit rund 8 Milliarden Pfund bewertet.",
+   "text": [
+    "Im Bieterverfahren um die britische Finanzberatungsgruppe Finli sind nach einem Bericht des Fachdienstes Citywire noch drei Interessenten im Rennen, darunter die Finanzinvestoren Permira und Ares. Finli wird von J.C. Flowers unterstützt und mit rund 8 Milliarden Pfund bewertet.",
+    "Britische Beratungsplattformen, die unabhängige Finanzberater bündeln und ihnen Technik, Regulierung und Anlageprodukte aus einer Hand bieten, sind seit Jahren ein bevorzugtes Ziel von Private-Equity-Häusern. Sie versprechen wiederkehrende Gebühreneinnahmen und profitieren davon, dass die Vermögen einer alternden Bevölkerung wachsen.",
+    "Ähnliche Konsolidierungen laufen in den USA: Dort übernahm die von Bain Capital unterstützte Carson Group gerade den Vermögensverwalter Pinney & Scofield aus Cambridge in Massachusetts mit 944 Millionen Dollar Kundenvermögen."
+   ],
+   "quellen": [
+    [
+     "Citywire",
+     "https://citywire.com/wealth-manager/news/revealed-pe-giants-in-running-for-8bn-advice-group-finli/a2504014"
+    ],
+    [
+     "Citywire RIA",
+     "https://citywire.com/ria/news/carson-group-snags-944m-boston-area-ria/a2504080"
+    ],
+    [
+     "AGM Alts & Wealth",
+     "https://altgoesmainstream.substack.com/p/agm-alts-and-wealth-weekly-news-roundup-830"
+    ]
+   ],
+   "berichterstattung": [
+    "citywire.com"
+   ]
+  },
+  {
+   "id": "verm-04",
+   "rubrik": "vermoegen",
+   "tags": [
+    "BlackRock",
+    "Private Markets",
+    "ETF"
+   ],
+   "kicker": "Vermögen · Produkte",
+   "titel": "Private Equity für alle über die Börse: BlackRock beantragt einen börsengehandelten Intervallfonds",
+   "deck": "Die SEC soll in den kommenden Monaten über die neue Fondshülle entscheiden.",
+   "text": [
+    "BlackRock hat bei der US-Börsenaufsicht SEC die Genehmigung für einen börsengehandelten Intervallfonds beantragt. Das Produkt soll jedem Anleger über eine normale Börsennotierung Zugang zu Private Credit und Private Equity verschaffen, wie der Datendienst PitchBook berichtet. Eine Entscheidung wird in den nächsten Monaten erwartet.",
+    "Intervallfonds sind eine Fondsform, bei der Anleger ihre Anteile nicht täglich, sondern nur in festen Abständen und in begrenztem Umfang zurückgeben können. Das passt zu schwer handelbaren Privatmarktanlagen. Die Kombination mit einer Börsennotierung soll den Zugang erleichtern, wirft aber Fragen nach Liquidität und Bewertung auf.",
+    "Die Branche drängt seit Längerem darauf, Privatmarktanlagen für vermögende Privatkunden und Kleinanleger zu öffnen. BlackRock hatte sein Geschäft mit privaten Märkten in den vergangenen Jahren durch Zukäufe stark ausgebaut."
+   ],
+   "quellen": [
+    [
+     "PitchBook",
+     "https://pitchbook.com/news/articles/blackrock-looks-to-mainstream-alts-on-public-markets-via-novel-fund-wrapper"
+    ],
+    [
+     "AGM Alts & Wealth",
+     "https://altgoesmainstream.substack.com/p/agm-alts-and-wealth-weekly-news-roundup-830"
+    ]
+   ],
+   "berichterstattung": [
+    "pitchbook.com"
+   ]
+  },
+  {
+   "id": "verm-05",
+   "rubrik": "vermoegen",
+   "tags": [
+    "Singapur",
+    "Vorsorge",
+    "Vermögensverwalter"
+   ],
+   "kicker": "Vermögen · Vorsorge",
+   "titel": "Wer verwaltet Singapurs Vorsorgegeld? JP Morgan, BlackRock und Endowus gelten als Favoriten",
+   "deck": "Der Central Provident Fund mit 701 Milliarden Singapur-Dollar öffnet sich für ein freiwilliges Anlageprogramm.",
+   "text": [
+    "Im Rennen um die Verwaltung eines Teils des Central Provident Fund (CPF), des staatlichen Vorsorgefonds Singapurs mit einem Volumen von 701 Milliarden Singapur-Dollar, gelten J.P. Morgan Asset Management, BlackRock und der Digitalvermögensverwalter Endowus als Favoriten. Das berichtet die Nachrichtenagentur Bloomberg unter Berufung auf Kenner der Lage.",
+    "Hintergrund ist ein neues freiwilliges Anlageprogramm, über das Versicherte einen Teil ihres Vorsorgegeldes anlegen können. J.P. Morgan plant demnach eine Partnerschaft mit der größten Bank des Landes, DBS. Endowus verhandelt über eine Zusammenarbeit mit Capital Group.",
+    "Die Gewinner sollen im ersten Halbjahr 2027 bekanntgegeben werden, der Start des Programms ist für 2028 geplant. Für die Vermögensverwalter geht es um einen der größten Vorsorgetöpfe Asiens."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (nach Bloomberg)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "koepfe-01",
+   "rubrik": "koepfe",
+   "tags": [
+    "Brasilien",
+    "Finanzminister"
+   ],
+   "kicker": "Köpfe · Politik",
+   "titel": "Luiz Carlos Trabuco: Der Bradesco-Chef wird Brasiliens Finanzminister – und die Börse feiert",
+   "deck": "Präsident Lula holt einen der bekanntesten Bankiers des Landes in die Regierung.",
+   "text": [
+    "Brasiliens Präsident Luiz Inácio Lula da Silva hat Luiz Carlos Trabuco Cappi zum Finanzminister ernannt. Trabuco ist Verwaltungsratschef der Großbank Bradesco, die am Freitag in einer Pflichtmitteilung bestätigte, dass er das Amt angenommen hat. Er soll es 2027 antreten.",
+    "Die Märkte reagierten mit einem Kursfeuerwerk. Der Brasilien-ETF EWZ stieg in New York um 9,81 Prozent, die Aktie des Brokers XP um 18,07 Prozent, die Bradesco-Hinterlegungsscheine um 15,23 Prozent und Itaú um 11,34 Prozent. Der Real wertete stark auf: Der Dollar fiel um 3,97 Prozent auf 5,5156 Real.",
+    "In Brasilien hatten Marktteilnehmer seinen Namen schon zuvor für das Ressort ins Spiel gebracht, wie SBT News berichtete. Die Kursgewinne zeigen, dass Anleger sich von dem Bankier mehr Haushaltsdisziplin erhoffen."
+   ],
+   "quellen": [
+    [
+     "Yahoo Finance",
+     "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    ],
+    [
+     "CappNotes",
+     "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+    ],
+    [
+     "SBT News",
+     "https://sbtnews.sbt.com.br/noticia/eleicoes/mercado-sugere-trabucco-para-fazenda-de-lula"
+    ]
+   ],
+   "berichterstattung": [
+    "finance.yahoo.com",
+    "sbtnews.sbt.com.br",
+    "folhavitoria.com.br"
+   ]
+  },
+  {
+   "id": "koepfe-02",
+   "rubrik": "koepfe",
+   "tags": [
+    "Serbien",
+    "Wahlen"
+   ],
+   "kicker": "Köpfe · Politik",
+   "titel": "Radomir Saičić: Der Chemieprofessor soll für die Studentenbewegung Serbiens Präsident werden",
+   "deck": "Nach dem Sieg bei der Parlamentswahl im Oktober greift die Bewegung nach dem höchsten Staatsamt.",
+   "text": [
+    "Serbiens Studentenbewegung hat den Chemieprofessor und Akademiker Radomir Saičić als Kandidaten für die Präsidentenwahl am 27. Dezember nominiert. Das gab die Bewegung am Freitag bekannt.",
+    "Saičić stand bereits an der Spitze der Studentenliste, die bei der Parlamentswahl am 25. Oktober die Serbische Fortschrittspartei des früheren Präsidenten Aleksandar Vučić besiegt hatte. Am Wahlabend sprach er von einem „Sieg der Bürger“. Im Wahlkampf hatte er eine Überprüfung der Herkunft von Vermögen und die Beschlagnahme unrechtmäßig erworbener Güter angekündigt.",
+    "Die Bewegung war aus monatelangen Protesten von Studenten hervorgegangen, die Universitäten blockiert und mehr Rechtsstaatlichkeit gefordert hatten. Mit Saičić setzt sie auf ein bekanntes Gesicht aus der Wissenschaft statt auf einen Berufspolitiker."
+   ],
+   "quellen": [
+    [
+     "Morning Star",
+     "https://morningstaronline.co.uk/article/world-brief-68"
+    ],
+    [
+     "N1",
+     "https://n1info.rs/english/news/saicic-new-government-will-not-take-long-to-form-illegally-acquired-assets-to-be-seized"
+    ],
+    [
+     "Kosovo Online",
+     "https://www.kosovo-online.com/vesti/izbori/akademik-saicic-ispred-studentske-liste-ovo-je-pobeda-gradjana-25-10-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "morningstaronline.co.uk",
+    "n1info.rs",
+    "b92.net",
+    "novosti.rs",
+    "vreme.com"
+   ]
+  },
+  {
+   "id": "koepfe-03",
+   "rubrik": "koepfe",
+   "tags": [
+    "Japan",
+    "Shogi",
+    "Frauen"
+   ],
+   "kicker": "Köpfe · Sport",
+   "titel": "Tomoka Nishiyama: Die Shogi-Spielerin zieht als erste Frau in die Profiliga ein",
+   "deck": "Ab April spielt die Japanerin in der höchsten professionellen Klasse des japanischen Schachs.",
+   "text": [
+    "Tomoka Nishiyama schreibt Geschichte im Shogi, dem japanischen Schach: Ab April wird sie als erste Frau in der professionellen Spitzenliga antreten, wie der Guardian und die britische Wochenzeitung The Week berichten. Bislang war die oberste Stufe der Profis, deren Mitglieder den Titel „Kishi“ tragen, ausschließlich Männern vorbehalten.",
+    "Nishiyama hatte sich das Recht auf den Profistatus im Oktober erspielt, wie die Nachrichtenagentur Jiji über nippon.com meldete. Die japanische Shogi-Vereinigung bestätigte anschließend, dass sie als erste Frau zur Kishi wird. Frauen spielten bisher in einem eigenen Profisystem mit eigenen Titeln.",
+    "Nishiyamas Aufstieg gilt als Meilenstein für die Gleichstellung in einem Spiel, dessen Profielite bislang ausschließlich aus Männern bestand."
+   ],
+   "quellen": [
+    [
+     "The Week",
+     "https://theweek.com/world-news/japanese-chess-elite-accepts-first-female-player"
+    ],
+    [
+     "Nippon.com (Jiji)",
+     "https://www.nippon.com/en/news/yjj2026102600359/"
+    ],
+    [
+     "Nippon.com (Jiji)",
+     "https://www.nippon.com/en/news/yjj2026101000420/"
+    ]
+   ],
+   "berichterstattung": [
+    "theweek.com",
+    "nippon.com",
+    "theguardian.com"
+   ]
+  },
+  {
+   "id": "koepfe-04",
+   "rubrik": "koepfe",
+   "tags": [
+    "Renault",
+    "Alpine",
+    "Autoindustrie"
+   ],
+   "kicker": "Köpfe · Wirtschaft",
+   "titel": "Philippe Krief: Der Alpine-Chef geht – nach Berichten über Streit mit Renault-Chef Provost",
+   "deck": "Der frühere Ferrari-Ingenieur verlässt die Sportwagenmarke am 4. Dezember.",
+   "text": [
+    "Philippe Krief, Chef der Renault-Sportwagenmarke Alpine, verlässt das Unternehmen am 4. Dezember. Offiziell nennt er persönliche Gründe. Nach einem Bericht der französischen Wirtschaftszeitung Les Echos gingen dem Abschied jedoch Meinungsverschiedenheiten mit Renault-Konzernchef François Provost über die Zukunft der Marke voraus.",
+    "Krief hatte die Führung von Alpine im Juli 2023 von Laurent Rossi übernommen. Der Ingenieur hatte zuvor lange für Ferrari und Alfa Romeo gearbeitet. Damals war er im Zuge eines Umbaus der Führung bei Alpine und dem gleichnamigen Formel-1-Team an die Spitze gerückt.",
+    "Wer Krief nachfolgt, ist noch offen. Für Alpine ist es nach dem Umbruch von 2023 der zweite Wechsel an der Spitze binnen gut drei Jahren."
+   ],
+   "quellen": [
+    [
+     "Newsquawk (nach Les Echos)",
+     "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---27th-november-2026"
+    ],
+    [
+     "Motorsport.com",
+     "https://motorsport.com/f1/news/alpine-ceo-rossi-moved-aside-replaced-by-krief/10497794/"
+    ],
+    [
+     "Autocar",
+     "https://www.autocar.co.uk/node/129893"
+    ]
+   ],
+   "berichterstattung": [
+    "lesechos.fr"
+   ]
+  },
+  {
+   "id": "koepfe-05",
+   "rubrik": "koepfe",
+   "tags": [
+    "Arm",
+    "Halbleiter",
+    "SoftBank"
+   ],
+   "kicker": "Köpfe · Technologie",
+   "titel": "René Haas: Der Arm-Chef bleibt bis 2033 – die Aktie steigt um 3,7 Prozent",
+   "deck": "Der Chipdesigner bindet seinen Vorstandschef langfristig.",
+   "text": [
+    "René Haas, Vorstandschef des britischen Chipdesigners Arm, hat sich mit dem Unternehmen auf einen neuen Vertrag bis 2033 geeinigt. Die Arm-Aktie stieg nach der Bekanntgabe um 3,7 Prozent.",
+    "Haas führt Arm seit 2022 und brachte das Unternehmen 2023 an die New Yorker Börse. Arm entwirft Prozessorarchitekturen und vergibt sie in Lizenz; sie stecken in nahezu allen Smartphones und zunehmend auch in Rechenzentren.",
+    "Auch beim Mehrheitseigentümer SoftBank hat Haas an Gewicht gewonnen: Im April übertrug ihm Konzerngründer Masayoshi Son nach einem Bericht von Bloomberg eine größere Rolle bei der Neuausrichtung der Gruppe auf Halbleiter."
+   ],
+   "quellen": [
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/additional-european-equity-news---27th-november-2026"
+    ],
+    [
+     "Bloomberg",
+     "https://www.bloomberg.com/news/articles/2026-04-21/softbank-taps-arm-ceo-for-bigger-role-in-masa-s-pivot-to-chips"
+    ],
+    [
+     "Arm Newsroom",
+     "https://newsroom.arm.com/news/arm-appoints-rene-haas-as-ceo"
+    ]
+   ],
+   "berichterstattung": [
+    "bloomberg.com"
+   ]
+  },
+  {
+   "id": "fuss-01",
+   "rubrik": "fussball",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "FC Bayern"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Risser: Laut L'Équipe buhlen Bayern, City, Liverpool und Inter um den Lens-Torwart",
+   "deck": "Ein Wechsel ist demnach für den Sommer ein Thema – billig wird er nicht.",
+   "text": [
+    "Um Robin Risser vom RC Lens zeichnet sich laut der französischen Sportzeitung L'Équipe ein Wettbieten ab: Neben dem FC Bayern sollen Manchester City, der FC Liverpool und Inter Mailand den Torhüter beobachten. Ein Wechsel ist demnach für den kommenden Sommer ein Thema. Risser hat in Lens noch einen Vertrag über vier Jahre, entsprechend teuer dürfte er werden. Paris Saint-Germain galt im vergangenen Sommer als der hartnäckigste Interessent."
+   ],
+   "quellen": [
+    [
+     "FootballTransfers (nach L'Équipe)",
+     "https://www.footballtransfers.com/en/transfer-news/de-bundesliga/2026/11/transfer-rumours-liverpool-ready-to-pounce-jamal-musiala-uncertainty-bayern-munich"
+    ]
+   ],
+   "status": "geruecht",
+   "transfer": {
+    "spieler": "Robin Risser",
+    "von": "RC Lens",
+    "nach": "FC Bayern (Interesse)"
+   }
+  },
+  {
+   "id": "fuss-02",
+   "rubrik": "fussball",
+   "tags": [
+    "Transfer",
+    "Bundesliga",
+    "Bayer Leverkusen"
+   ],
+   "kicker": "Transfermarkt · Bundesliga",
+   "titel": "Quansah: Liverpool erwägt laut TEAMtalk die Rückholaktion – Klausel über 60 Millionen Euro",
+   "deck": "Die einmalige Rückkaufoption für den Leverkusener Verteidiger greift im Sommer.",
+   "text": [
+    "Der FC Liverpool denkt laut dem britischen Portal TEAMtalk darüber nach, Jarell Quansah im kommenden Sommer von Bayer Leverkusen zurückzuholen. Dann wird demnach eine einmalige Rückkaufklausel über 60 Millionen Euro wirksam. Der englische Innenverteidiger war von Liverpool nach Leverkusen gewechselt. Eine Bestätigung der Vereine gibt es nicht."
+   ],
+   "quellen": [
+    [
+     "90min",
+     "https://www.90min.de/fussball-transfergeruechte-heute-26-11-2026"
+    ]
+   ],
+   "status": "geruecht",
+   "transfer": {
+    "spieler": "Jarell Quansah",
+    "von": "Bayer Leverkusen",
+    "nach": "FC Liverpool (Interesse)",
+    "abloese": "laut TEAMtalk Rückkaufklausel über 60 Mio. €"
+   }
+  },
+  {
+   "id": "gut-01",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Gesundheit",
+    "USA"
+   ],
+   "kicker": "Gute Nachrichten · Gesundheit",
+   "titel": "58 Prozent weniger Drogentote: New York erreicht den tiefsten Stand seit 2019",
+   "deck": "Im zweiten Quartal 2026 starben in der Stadt 359 Menschen an einer Überdosis.",
+   "text": [
+    "In New York sterben deutlich weniger Menschen an einer Überdosis. Zwischen April und Juni 2026 zählte die Stadt 359 Todesfälle, so wenige wie seit 2019 nicht mehr. Gegenüber dem Höchststand Ende 2022, als in einem einzigen Quartal 859 Menschen starben, ist das ein Rückgang um 58 Prozent, wie der Lokalsender NY1 unter Berufung auf die Stadtverwaltung berichtet.",
+    "Zum Vergleich: Im gesamten Jahr 2019 waren in New York 3.070 Menschen an Überdosen gestorben. Der Rückgang ist damit kein kurzfristiger Ausreißer, sondern zieht sich über mehrere Quartale.",
+    "Bürgermeister Zohran Mamdani stellte die Zahlen vor. Jeder vermiedene Todesfall bedeutet eine Familie, die nicht um einen Angehörigen trauern muss."
+   ],
+   "quellen": [
+    [
+     "NY1",
+     "https://ny1.com/nyc/all-boroughs/news/2026/11/13/nyc-overdose-deaths-fall-to-lowest-level-since-2019--mamdani-says"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "ny1.com"
+   ]
+  },
+  {
+   "id": "gut-02",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Natur",
+    "Russland"
+   ],
+   "kicker": "Gute Nachrichten · Natur",
+   "titel": "Der Baikalsee erholt sich: Die Dürre ist vorbei, die Zuflüsse führen 145 Prozent der üblichen Wassermenge",
+   "deck": "Eine Baumring-Studie zeigt die Trendwende seit 2017.",
+   "text": [
+    "Der Baikalsee in Sibirien, der größte Süßwassersee der Erde nach Volumen, erholt sich von einer langen Trockenphase. Eine Auswertung von Baumringen zeigt, dass sich der Dürretrend in der Region seit 2017 umgekehrt hat, wie das Wissenschaftsportal Phys.org berichtet.",
+    "Die Zuflüsse führen inzwischen 145 Prozent ihrer langjährigen durchschnittlichen Wassermenge. Der Wasserspiegel des Sees steigt wieder, und in seinem Einzugsgebiet wächst mehr Vegetation. Baumringe eignen sich als Klimaarchiv, weil Bäume in feuchten Jahren breitere Jahresringe bilden als in trockenen.",
+    "Der Baikal enthält rund ein Fünftel des unvereisten Süßwassers der Erde und ist Lebensraum zahlreicher Arten, die nur dort vorkommen, etwa der Baikalrobbe. Eine stabile Wasserversorgung ist für dieses einzigartige Ökosystem entscheidend."
+   ],
+   "quellen": [
+    [
+     "Phys.org",
+     "https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "phys.org"
+   ]
+  },
+  {
+   "id": "gut-03",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Sport",
+    "Antarktis"
+   ],
+   "kicker": "Gute Nachrichten · Sport",
+   "titel": "160 Kilometer durchs Eis: Stephanie Case läuft als erste Frau 100 Meilen am Stück in der Antarktis",
+   "deck": "Die Ultraläuferin bewältigte die Strecke in gut 17,5 Stunden.",
+   "text": [
+    "Die Ultraläuferin Stephanie Case ist als erste Frau 100 Meilen, gut 160 Kilometer, ohne Unterbrechung in der Antarktis gelaufen. Beim Antarctic Ice Ultra brauchte sie dafür etwas mehr als 17,5 Stunden, wie The Athletic berichtet.",
+    "Das Rennen führt über Schnee und Eis im Inneren des Kontinents, bei Kälte und Wind, die jeden Schritt zur Belastungsprobe machen.",
+    "Mit ihrem Lauf hat Case einen Rekord aufgestellt, den bislang nur Männer für sich beanspruchen konnten. Sie zeigt, wie weit sich Grenzen im Ausdauersport verschieben lassen, und ist ein Vorbild für viele Läuferinnen."
+   ],
+   "quellen": [
+    [
+     "The Athletic (NYT)",
+     "https://www.nytimes.com/athletic/7767278/2026/11/09/running-stephanie-case-antarctic-ice-ultra-100-miles/"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "nytimes.com"
+   ]
+  },
+  {
+   "id": "gut-04",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Energie",
+    "Puerto Rico"
+   ],
+   "kicker": "Gute Nachrichten · Energie",
+   "titel": "Licht trotz Stromausfall: In Puerto Rico bilden 115.000 Heimspeicher ein virtuelles Kraftwerk",
+   "deck": "Die Batterien privater Haushalte stützen das Netz, wenn es eng wird.",
+   "text": [
+    "In Puerto Rico stützen die Batteriespeicher von fast 115.000 Haushalten das Stromnetz. Zusammengeschaltet zu einem sogenannten virtuellen Kraftwerk geben sie bei Engpässen Strom ab und helfen so, Ausfälle abzufedern, wie die Nachrichtenagentur AP berichtet.",
+    "Ein virtuelles Kraftwerk ist kein Gebäude, sondern eine Software, die viele kleine Anlagen wie Solardächer und Hausbatterien bündelt und gemeinsam steuert. So entsteht eine Reserve, die sich ähnlich wie ein konventionelles Kraftwerk abrufen lässt, aber ohne zusätzliche fossile Brennstoffe auskommt.",
+    "Die Karibikinsel kämpft seit Jahren mit einem anfälligen Netz und häufigen Stromausfällen. Dass sich so viele Haushalte mit Solaranlagen und Speichern ausgestattet haben, macht die Versorgung nun widerstandsfähiger."
+   ],
+   "quellen": [
+    [
+     "AP",
+     "https://apnews.com/article/puerto-rico-blackouts-luma-virtual-power-plant-152a4162d4a41c8eff37c2c9bb168747"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "apnews.com"
+   ]
+  },
+  {
+   "id": "gut-05",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Katastrophenschutz",
+    "Südkorea"
+   ],
+   "kicker": "Gute Nachrichten · Katastrophenschutz",
+   "titel": "Ein Hochwassertoter statt 25: Südkorea senkt die Zahl der Flutopfer um 96 Prozent",
+   "deck": "Erstmals seit zehn Jahren kam an den Flüssen des Landes niemand ums Leben.",
+   "text": [
+    "Südkorea hat die Zahl der Hochwasseropfer drastisch gesenkt. Während im vergangenen Jahr 25 Menschen bei Überschwemmungen starben, war es in diesem Jahr einer, ein Rückgang um 96 Prozent. Die Schäden durch Hochwasser fielen von 1,13 Billionen auf 120,9 Milliarden Won, ein Minus von 89,3 Prozent.",
+    "Erstmals seit zehn Jahren gab es keine Todesopfer bei Unglücken an Flüssen. Die Zahlen stammen aus einer Bilanz, über die unter anderem das bulgarische Portal Fakti berichtete.",
+    "Südkorea wird im Sommer regelmäßig von heftigen Monsunregen getroffen, die Flüsse über die Ufer treten lassen. Dass in einer Saison mit Starkregen fast niemand ums Leben kam, zeigt, wie viel Vorsorge bewirken kann."
+   ],
+   "quellen": [
+    [
+     "Fakti",
+     "https://fakti.bg/en/world/1098431-south-korea-reduces-flood-deaths-by-96"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "fakti.bg"
+   ]
+  },
+  {
+   "id": "gut-06",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Umwelt",
+    "Griechenland"
+   ],
+   "kicker": "Gute Nachrichten · Umwelt",
+   "titel": "Ein Schiff gegen den Müll: Die griechische „Typhoon“ sammelt genug Abfall für 22 olympische Becken",
+   "deck": "Die 20-köpfige Crew räumt abgelegene Küsten auf, bis zu einer Tonne am Tag.",
+   "text": [
+    "An Griechenlands abgelegenen Küsten ist ein ungewöhnliches Schiff im Einsatz: Die „Typhoon“ steuert Strände an, die vom Land aus kaum zu erreichen sind, und lässt ihre 20-köpfige Besatzung dort Müll einsammeln. Jeden Tag holt sie zwischen 500 und 1.000 Kilogramm Abfall von den Ufern, wie Euronews berichtet.",
+    "Zusammengerechnet hat das Projekt inzwischen so viel Müll gesammelt, dass er 22 olympische Schwimmbecken füllen würde. Angespülter Abfall, der liegen bleibt, kann mit der nächsten Flut wieder ins Meer gelangen; jeder eingesammelte Sack schützt deshalb auch das Wasser.",
+    "Griechenland hat rund 13.000 Kilometer Küste, viele Buchten sind nur per Boot erreichbar. Gerade dort leisten solche Einsätze einen spürbaren Beitrag zum Schutz von Meerestieren und Seevögeln."
+   ],
+   "quellen": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/06/this-greek-ship-has-collected-enough-waste-from-remote-shorelines-to-fill-22-olympic-swimm"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "euronews.com"
+   ]
+  },
+  {
+   "id": "gut-07",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Luftfahrt",
+    "China"
+   ],
+   "kicker": "Gute Nachrichten · Innovation",
+   "titel": "Erster bemannter Flug: Chinas Elektroflugzeug CE-25A für 19 Passagiere hebt ab",
+   "deck": "Nach 19 unbemannten Testflügen läuft nun die Musterzulassung.",
+   "text": [
+    "Das chinesische Elektroflugzeug CE-25A hat seinen ersten Flug mit Besatzung absolviert. Seit Februar war die Maschine 19-mal ohne Menschen an Bord getestet worden, wie das Fachportal Electrek berichtet. Nun prüfen die Behörden die Musterzulassung, die Voraussetzung für den kommerziellen Einsatz.",
+    "Die CE-25A ist für 19 Sitzplätze ausgelegt und zielt damit auf kurze Regionalstrecken, die heute oft mit kleinen Propellermaschinen bedient werden. Ein elektrischer Antrieb verursacht im Flug keine direkten Abgase und ist deutlich leiser.",
+    "Elektrische Regionalflugzeuge gelten als ein wichtiger Baustein, um den Luftverkehr auf kurzen Distanzen klimafreundlicher zu machen. Der bemannte Erstflug ist ein Schritt auf dem Weg dorthin."
+   ],
+   "quellen": [
+    [
+     "Electrek",
+     "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "electrek.co"
+   ]
+  },
+  {
+   "id": "gut-08",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Menschenrechte",
+    "Karibik"
+   ],
+   "kicker": "Gute Nachrichten · Menschenrechte",
+   "titel": "Trinidad und Tobago: Gericht kippt das Verbot einvernehmlicher Beziehungen zwischen Männern",
+   "deck": "Der Londoner Kronrat sieht das Recht auf Privat- und Familienleben verletzt.",
+   "text": [
+    "In Trinidad und Tobago ist ein Gesetz gefallen, das einvernehmliche sexuelle Beziehungen zwischen Männern unter Strafe stellte. Der Rechtsausschuss des britischen Kronrats in London, der für den Karibikstaat als höchstes Berufungsgericht fungiert, erklärte die Regelung für unvereinbar mit dem Recht auf Achtung des Privat- und Familienlebens, wie die Deutsche Welle berichtet.",
+    "Mit dem Urteil können homosexuelle Männer in Trinidad und Tobago nicht mehr allein wegen ihrer Beziehung strafrechtlich verfolgt werden.",
+    "Mehrere Karibikstaaten haben ähnliche Gesetze in den vergangenen Jahren aufgehoben oder durch Gerichte kippen lassen. Trinidad und Tobago reiht sich damit in diese Entwicklung ein."
+   ],
+   "quellen": [
+    [
+     "DW",
+     "https://www.dw.com/en/trinidad-gay-sex-laws-privy-council-lgbtq-rights-caribbean/a-79912163"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "dw.com"
+   ]
+  },
+  {
+   "id": "gut-09",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Energie",
+    "Kanada"
+   ],
+   "kicker": "Gute Nachrichten · Energie",
+   "titel": "Schafe unter Solarmodulen: In Alberta teilen sich Strom, Heu und Bienen die Fläche",
+   "deck": "Das Projekt Sollair verbindet Photovoltaik mit Landwirtschaft.",
+   "text": [
+    "In der kanadischen Provinz Alberta zeigt das Solarprojekt Sollair, wie sich Stromerzeugung und Landwirtschaft eine Fläche teilen können. Zwischen und unter Zehntausenden Solarmodulen weiden Schafe, es wird Heu gemacht und es werden Bienenvölker gehalten, wie der Calgary Herald berichtet.",
+    "Fachleute sprechen von Agri-Photovoltaik. Die Schafe halten den Bewuchs kurz, sodass die Module nicht verschattet werden und weniger gemäht werden muss. Die Bienen finden Nahrung auf den blühenden Flächen zwischen den Reihen, und die Landwirte erzielen weiter Erträge.",
+    "Gerade in Regionen, in denen Ackerland knapp oder wertvoll ist, gilt die Doppelnutzung als Weg, den Ausbau der Solarenergie mit der Nahrungsmittelproduktion zu versöhnen."
+   ],
+   "quellen": [
+    [
+     "Calgary Herald",
+     "https://calgaryherald.com/business/renewables-and-agriculture-collide-at-alberta-solar-project"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "calgaryherald.com"
+   ]
+  },
+  {
+   "id": "gut-10",
+   "rubrik": "gut",
+   "tags": [
+    "Gute Nachricht",
+    "Wasser",
+    "Jordanien"
+   ],
+   "kicker": "Gute Nachrichten · Wasser",
+   "titel": "Gebetswasser für die Felder: Eine Moschee im Jordantal bewässert mit dem Wasser der rituellen Waschung",
+   "deck": "Die Abu-Obeida-Moschee bereitet das Waschwasser der Gläubigen auf.",
+   "text": [
+    "Im Jordantal nutzt die Abu-Obeida-Moschee das Wasser, mit dem sich Gläubige vor dem Gebet waschen, ein zweites Mal: Statt im Abfluss zu verschwinden, wird es aufbereitet und zur Bewässerung eingesetzt, wie der Guardian berichtet.",
+    "Vor jedem der täglichen Gebete reinigen Muslime Hände, Gesicht und Füße. In einer gut besuchten Moschee kommen so jeden Tag große Mengen nur leicht verschmutzten Wassers zusammen, das sich mit einfachen Mitteln für die Bewässerung von Pflanzen nutzen lässt.",
+    "Jordanien gehört zu den wasserärmsten Ländern der Welt. Projekte wie dieses zeigen, wie religiöse Einrichtungen zum sparsamen Umgang mit der knappen Ressource beitragen können, und könnten Vorbild für weitere Moscheen in der Region sein."
+   ],
+   "quellen": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/global-development/2026/nov/10/mosque-jordan-valley-ablution-water-irrigation"
+    ],
+    [
+     "Good Good Good",
+     "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026"
+    ]
+   ],
+   "berichterstattung": [
+    "theguardian.com"
+   ]
+  },
+  {
+   "id": "muc-01",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Vorverkauf",
+   "titel": "Chase Atlantic kommen in die Olympiahalle – Presales ab Mittwoch, freier Verkauf am 4. Dezember",
+   "deck": "Schon an diesem Freitag um 10 Uhr startet der allgemeine Verkauf für Public Image Ltd. im Backstage Werk – Karten kosten dort 37 Euro.",
+   "text": [
+    "Die Band Chase Atlantic spielt am Donnerstag, 15. April 2027, in der Münchner Olympiahalle. Beginn ist laut Ankündigung um 20 Uhr. Wer Karten will, sollte sich die kommende Woche vormerken: Der Vorverkauf läuft in mehreren Stufen, und die Hauptverkaufsstelle ist Ticketmaster.",
+    "Den Anfang macht am Mittwoch, 2. Dezember, um 10 Uhr der Artist-Presale, der bis zum allgemeinen Verkauf läuft. Zur gleichen Zeit beginnen die Prio-Kontingente für Kunden der Telekom und von PayPal. Am Donnerstag, 3. Dezember, folgen um 10 Uhr der Ticketmaster-Presale und um 12 Uhr ein Presale über Spotify. Der allgemeine Verkauf startet am Freitag, 4. Dezember, um 10 Uhr; dann verkauft auch Eventim. Preise wurden bei der Ankündigung nicht genannt, sie sollen ab dem Presale im Ticketmaster-Shop stehen.",
+    "Bereits an diesem Freitag geht ein zweites Konzert in den freien Verkauf: Public Image Ltd. spielen am Donnerstag, 9. Dezember 2027, im Backstage Werk (Einlass 19 Uhr, Beginn 20 Uhr). Nach einem exklusiven Eventim-Presale am Donnerstag gibt es Karten ab Freitag, 27. November, 10 Uhr, auch an den CTS-Vorverkaufsstellen und beim Veranstalter FKP Scorpio. Der Preis liegt laut Veranstalter bei 37 Euro zuzüglich Gebühren. Neben München sind Hamburg und Berlin die einzigen deutschen Termine.",
+    "Wer kurzfristiger planen möchte: Saguru spielt am Freitag, 4. Dezember, um 20 Uhr im Strom; Karten gibt es bei Eventim ab 22,70 Euro. Für alle Termine gilt: Bei den offiziellen Verkaufsstellen bleiben, Weiterverkaufsportale verlangen meist Aufschläge."
+   ],
+   "karten": {
+    "vorverkauf": "Chase Atlantic: Artist-, Telekom- und PayPal-Presale Mi, 2.12.2026, 10 Uhr · Ticketmaster-Presale Do, 3.12., 10 Uhr · Spotify-Presale Do, 3.12., 12 Uhr · allgemein Fr, 4.12., 10 Uhr · Public Image Ltd.: allgemein Fr, 27.11.2026, 10 Uhr",
+    "termin": "Chase Atlantic Do, 15.4.2027, 20 Uhr · Public Image Ltd. Do, 9.12.2027, 20 Uhr (Einlass 19 Uhr)",
+    "ort": "Olympiahalle; Backstage Werk",
+    "preise": "Chase Atlantic noch nicht veröffentlicht · Public Image Ltd. 37 € zzgl. Gebühren",
+    "stelle": "Chase Atlantic: Ticketmaster, ab allgemeinem Verkauf auch Eventim · Public Image Ltd.: Eventim/CTS-Vorverkaufsstellen, FKP Scorpio",
+    "link": "https://www.ticketpiloten.de/chase-atlantic-tickets/"
+   },
+   "quellen": [
+    [
+     "Ticketpiloten – Chase Atlantic",
+     "https://www.ticketpiloten.de/chase-atlantic-tickets/"
+    ],
+    [
+     "Mister Mixmania – Public Image Ltd.",
+     "https://mister-mixmania.com/de/news/konzert-news/public-image-ltd-kommen-im-dezember-2027-fuer-drei-konzerte-nach-deutschland/"
+    ],
+    [
+     "JamBase – Saguru im Strom",
+     "https://www.jambase.com/show/saguru-strom-20261204"
+    ]
+   ],
+   "berichterstattung": [
+    "ticketpiloten.de",
+    "mister-mixmania.com",
+    "jambase.com"
+   ]
+  },
+  {
+   "id": "muc-02",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Verlegungen",
+   "titel": "Polyphia abgesagt, Prinzen und Gregorian ziehen um: Was Kartenbesitzer jetzt wissen müssen",
+   "deck": "Das Zenith-Konzert an diesem Freitag fällt aus. Bei mehreren Verlegungen bleiben die Tickets gültig.",
+   "text": [
+    "Wer für diesen Freitagabend Karten für Polyphia im Zenith hat, kann zu Hause bleiben: Das Konzert der US-Instrumentalrockband am 27. November ist abgesagt. Das Stadtmagazin IN München führt den Termin als „Abgesagt“, ebenso der verlinkte Eventim-Eintrag. Wie Käufer ihr Geld zurückbekommen, steht dort nicht; zuständig ist in der Regel die Stelle, bei der die Karte gekauft wurde.",
+    "Die Leipziger Band Die Prinzen verlegt ihr Münchner Konzert der Abschiedstournee „Tschüssi, macht's gut!“ vom Circus Krone in die Olympiahalle. Statt am 31. Oktober 2027 spielt sie nun am Mittwoch, 15. Dezember 2027; Einlass ist um 18 Uhr, Beginn um 19.30 Uhr. Bereits gekaufte Karten bleiben laut Olympiapark gültig, ihre Inhaber bekommen gleichwertige Plätze in der Olympiahalle. Karten gibt es über München Ticket, örtlicher Veranstalter ist Semmel Concerts. Die Tournee war im April angekündigt worden und endet einen Tag nach dem Münchner Abend in Zürich.",
+    "Kurzfristiger ist der Umzug von Gregorian: Die Show von Gregorian am 4. und 5. Dezember 2026 findet nicht im Herkulessaal der Residenz, sondern in der Kleinen Olympiahalle statt. Auch Nothing But Thieves wechseln den Saal: Das Konzert am 20. Januar 2027 wandert von der Olympiahalle ins Zenith. Alle Karten behalten ihre Gültigkeit, teilt der Olympiapark mit.",
+    "Wer Tickets für einen der verlegten Termine hat, sollte die Platzzuordnung prüfen und bei Fragen die Vorverkaufsstelle kontaktieren, über die gekauft wurde."
+   ],
+   "karten": {
+    "vorverkauf": "Die Prinzen und Nothing But Thieves laufen · Gregorian läuft · Polyphia abgesagt",
+    "termin": "Polyphia Fr, 27.11.2026 (abgesagt) · Gregorian Fr, 4.12., und Sa, 5.12.2026 · Nothing But Thieves Mi, 20.1.2027 · Die Prinzen Mi, 15.12.2027, 19.30 Uhr (Einlass 18 Uhr)",
+    "ort": "Zenith; Kleine Olympiahalle (statt Herkulessaal); Zenith (statt Olympiahalle); Olympiahalle (statt Circus Krone)",
+    "stelle": "Die Prinzen: München Ticket (Veranstalter Semmel) · Polyphia: Eventim",
+    "link": "https://www.olympiapark.de/en/events/die-prinzen-n6076"
+   },
+   "quellen": [
+    [
+     "Olympiapark – Die Prinzen",
+     "https://www.olympiapark.de/en/events/die-prinzen-n6076"
+    ],
+    [
+     "Olympiapark – Konzerte",
+     "https://www.olympiapark.de/de/veranstaltungen/konzerte"
+    ],
+    [
+     "IN München – Polyphia",
+     "https://www.in-muenchen.de/?p=1017647"
+    ]
+   ],
+   "berichterstattung": [
+    "olympiapark.de",
+    "in-muenchen.de",
+    "tagesspiegel.de",
+    "stuttgarter-zeitung.de",
+    "nordkurier.de",
+    "giga.de"
+   ]
+  },
+  {
+   "id": "muc-03",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Tickets"
+   ],
+   "kicker": "München · Konzerte · Olympiahalle",
+   "titel": "Von Sarah Brightman bis Night of the Proms: Für den Olympiahallen-Dezember gibt es noch Karten",
+   "deck": "Für keinen der großen Abende bis Weihnachten meldet der städtische Kalender „ausverkauft“ – bei PUR gibt es zusätzlich VIP-Pakete.",
+   "text": [
+    "Die Olympiahalle startet am Dienstag, 1. Dezember, mit Sarah Brightman um 20 Uhr in ihren Weihnachtsmonat. Am Donnerstag, 3. Dezember, spielen BAP um 19.30 Uhr, am Freitag, 4. Dezember, kommt der US-Songwriter Noah Kahan um 20 Uhr. Comedian Chris Tall steht am Samstag, 5. Dezember, um 20 Uhr auf der Bühne.",
+    "Am Samstag, 12. Dezember, lädt Rea Garvey um 20 Uhr zu seiner Show „Christmas Calling“; laut muenchen.de lief der allgemeine Vorverkauf Mitte November und es waren noch Karten verfügbar. Rechtsmediziner Michael Tsokos ist am Dienstag, 15. Dezember, zu Gast, PUR spielen am Mittwoch, 16. Dezember, um 20 Uhr. Für das PUR-Konzert führt München Ticket eigene Angebote mit VIP-Paketen und Upgrades.",
+    "Zum Abschluss vor Weihnachten folgt die Night of the Proms mit drei Vorstellungen: Freitag, 18. Dezember, und Samstag, 19. Dezember, jeweils um 20 Uhr, dazu eine Nachmittagsvorstellung am Sonntag, 20. Dezember, um 15 Uhr. Im neuen Jahr geht es mit Holiday on Ice vom 5. bis 10. Januar weiter, unter anderem mit drei Shows am Samstag, 9. Januar.",
+    "Alle Termine verkauft München Ticket. Preise nennt der Veranstaltungskalender der Stadt nicht, einen Ausverkauft-Vermerk trägt keiner der Abende."
+   ],
+   "karten": {
+    "vorverkauf": "läuft · kein Ausverkauft-Vermerk",
+    "termin": "Sarah Brightman Di, 1.12., 20 Uhr · BAP Do, 3.12., 19.30 Uhr · Noah Kahan Fr, 4.12., 20 Uhr · Chris Tall Sa, 5.12., 20 Uhr · Rea Garvey Sa, 12.12., 20 Uhr · PUR Mi, 16.12., 20 Uhr · Night of the Proms 18./19.12., 20 Uhr, 20.12., 15 Uhr",
+    "ort": "Olympiahalle",
+    "preise": "PUR auch mit VIP-Paketen",
+    "stelle": "München Ticket",
+    "link": "https://www.muenchen.de/veranstaltungen/veranstaltungsorte/olympiahalle-muenchen-programm"
+   },
+   "quellen": [
+    [
+     "muenchen.de – Programm Olympiahalle",
+     "https://www.muenchen.de/veranstaltungen/veranstaltungsorte/olympiahalle-muenchen-programm"
+    ],
+    [
+     "muenchen.de – Rea Garvey's Christmas Calling",
+     "https://www.muenchen.de/veranstaltungen/musical/show/rea-garveys-christmas-calling"
+    ],
+    [
+     "Olympiapark – Konzerte",
+     "https://www.olympiapark.de/de/veranstaltungen/konzerte"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de",
+    "olympiapark.de",
+    "songkick.com",
+    "stereoboard.com"
+   ]
+  },
+  {
+   "id": "muc-04",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Konzerte",
+    "Gewinnspiele"
+   ],
+   "kicker": "München · Konzerte · Clubs",
+   "titel": "Jazzanova, Selig, Maustetytöt: Die Clubkonzerte der ersten Dezemberwoche – und wo es Freikarten gibt",
+   "deck": "IN München verlost für mehrere Abende je drei mal zwei Karten. Die ersten Fristen enden schon am Montag.",
+   "text": [
+    "Die erste Dezemberwoche bringt eine Reihe kleinerer Konzerte, für die man noch ohne Gedränge an Karten kommt – oder mit etwas Glück gratis. Am Sonntag, 6. Dezember, spielt das Berliner Produzententeam Jazzanova um 20 Uhr live im Ampere im Muffatwerk. Einen Tag später, am Montag, 7. Dezember, kommen Selig mit ihrer Tour „The EPIC Years“ um 20 Uhr ins Backstage Werk.",
+    "Am Dienstag, 8. Dezember, tritt das finnische Duo Maustetytöt um 20 Uhr im Saal X des Gasteig HP8 auf. Am Mittwoch, 9. Dezember, spielt der Songwriter Hans Williams in der Milla. Außerdem gastiert Saguru am Freitag, 4. Dezember, um 20 Uhr im Strom, Karten gibt es bei Eventim ab 22,70 Euro.",
+    "Für Jazzanova, Selig und Maustetytöt verlost das Stadtmagazin IN München jeweils drei mal zwei Karten. Die Fristen sind knapp: Für Jazzanova endet die Teilnahme am Montag, 30. November, für Selig am Dienstag, 1. Dezember, für Maustetytöt am Mittwoch, 2. Dezember. Gewinner werden per E-Mail benachrichtigt und stehen dann auf der Gästeliste an der Abendkasse. Die Teilnahme ist kostenlos, nötig sind Name, Adresse und Kontaktdaten; der Newsletter ist freiwillig.",
+    "Theaterfreunde können bis 3. Dezember fünf mal zwei Karten für Agatha Christies „Die Mausefalle“ am 9. Dezember im Blutenburg-Theater gewinnen. Weitere Verlosungen, etwa für Accept am 20. Dezember im Zenith, laufen bis 10. Dezember."
+   ],
+   "karten": {
+    "vorverkauf": "läuft · Verlosungen bis 30.11. (Jazzanova), 1.12. (Selig), 2.12. (Maustetytöt)",
+    "termin": "Saguru Fr, 4.12., 20 Uhr · Jazzanova So, 6.12., 20 Uhr · Selig Mo, 7.12., 20 Uhr · Maustetytöt Di, 8.12., 20 Uhr · Hans Williams Mi, 9.12.",
+    "ort": "Strom; Ampere (Muffatwerk); Backstage Werk; Saal X (Gasteig HP8); Milla",
+    "preise": "Saguru ab 22,70 €",
+    "stelle": "Saguru: Eventim · Verlosungen: IN München",
+    "link": "https://www.in-muenchen.de/verlosungen"
+   },
+   "quellen": [
+    [
+     "IN München – Verlosung Jazzanova",
+     "https://www.in-muenchen.de/verlosungen/jazzanova-am-6-12-26-im-muffatwerk-ampere.html"
+    ],
+    [
+     "IN München – Verlosung Selig",
+     "https://www.in-muenchen.de/verlosungen/selig-am-7-12-26-im-backstage-werk.html"
+    ],
+    [
+     "IN München – Verlosung Maustetytöt",
+     "https://www.in-muenchen.de/verlosungen/maustetytoet-am-8-12-26-im-saal-x-hp8.html"
+    ]
+   ],
+   "berichterstattung": [
+    "in-muenchen.de",
+    "jambase.com"
+   ]
+  },
+  {
+   "id": "muc-05",
+   "rubrik": "muenchen",
+   "tags": [
+    "München",
+    "Weihnachten",
+    "Feste"
+   ],
+   "kicker": "München · Advent · Wochenende",
+   "titel": "Harry-Potter-Markt öffnet am Samstag gratis, Christkindltram ab 5 Euro: Was das erste Adventswochenende kostet",
+   "deck": "Auf dem Eis am Stachus zahlen Erwachsene je nach Uhrzeit 8 bis 14 Euro, die Food & Life läuft noch bis Sonntag.",
+   "text": [
+    "Auf der Praterinsel öffnet am Samstag, 28. November, um 19 Uhr ein Harry-Potter-Weihnachtsmarkt. Er läuft bis 6. Dezember, am Sonntag ab 12 Uhr, Montag bis Donnerstag ab 14 Uhr und am zweiten Adventswochenende wieder ab 12 Uhr, jeweils bis 22 Uhr. Der Eintritt ist frei, Tickets oder Reservierungen braucht man nicht. Allerdings kann der Einlass bei vollem Gelände pausieren; letzter Einlass ist um 21.30 Uhr.",
+    "Von der Brunnenschleife am Sendlinger-Tor-Platz fährt ab diesem Freitag die Christkindltram, bis 20. Dezember freitags von 15.30 bis 19.15 Uhr und am Wochenende ab 11 Uhr, alle 45 Minuten. Eine rund halbstündige Runde kostet ab 15 Jahren 5 Euro, für Sechs- bis 14-Jährige 3 Euro, Kleinere fahren gratis. Die Stadt empfiehlt die Online-Buchung über die MVG; vor Ort gibt es nur ein kleines Kontingent gegen Bargeld.",
+    "Beim Münchner Eiszauber am Stachus wird in vier Zeitblöcken gelaufen. Erwachsene zahlen vormittags 8 Euro, am späten Abend ab 19.30 Uhr 14 Euro, Kinder bis elf Jahre 6 bis 10 Euro; Schlittschuhe und Helme gibt es gegen Gebühr zum Leihen. Wer Kulinarisches sucht: Die Genussmesse Food & Life auf dem Messegelände hat bis Sonntag täglich von 9.30 bis 18 Uhr geöffnet. Die Tageskarte kostet 17 Euro, ermäßigt 11 Euro, ab 14 Uhr 10 Euro; Kinder bis zwölf Jahre haben freien Eintritt. Laut Ganz München war der Online-Shop zuletzt gestört, an der Kasse gelten dann die Online-Preise.",
+    "Am Marienplatz haben heute zur ersten Shopping Night teilnehmende Stände des Christkindlmarkts bis 22 Uhr geöffnet. Im Deutschen Museum ist die Sonderausstellung „Freie Maschinen“ mit kinetischer Kunst von Felix Scharstein nur noch bis Sonntag zu sehen."
+   ],
+   "karten": {
+    "vorverkauf": "Christkindltram online über die MVG, Restkarten vor Ort nur bar · Harry-Potter-Markt ohne Tickets",
+    "termin": "Harry-Potter-Weihnachtsmarkt 28.11.–6.12.2026 · Christkindltram 27.11.–20.12. · Food & Life bis So, 29.11., 9.30–18 Uhr",
+    "ort": "Praterinsel; Sendlinger-Tor-Platz; Karlsplatz (Stachus); Messe München",
+    "preise": "Christkindltram 5 €, 6–14 Jahre 3 € · Eiszauber 8–14 €, Kinder 6–10 € · Food & Life 17 €, ermäßigt 11 €, ab 14 Uhr 10 € · Harry-Potter-Markt Eintritt frei",
+    "stelle": "MVG (Christkindltram)",
+    "link": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachten/christkindltram"
+   },
+   "quellen": [
+    [
+     "muenchen.de – Harry-Potter-Weihnachtsmarkt",
+     "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/harry-potter-weihnachtsmarkt"
+    ],
+    [
+     "muenchen.de – Christkindltram",
+     "https://www.muenchen.de/veranstaltungen/freizeit/weihnachten/christkindltram"
+    ],
+    [
+     "muenchen.de – Münchner Eiszauber",
+     "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/muenchner-eiszauber"
+    ],
+    [
+     "Ganz München – Food & Life",
+     "https://aktuell.ganz-muenchen.de/food-life-2026-genussmesse-zum-advent-auf-der-messe-muenchen/17199/"
+    ]
+   ],
+   "berichterstattung": [
+    "muenchen.de",
+    "ganz-muenchen.de"
+   ]
+  }
+ ],
+ "feuilleton": [
+  {
+   "id": "feuil-weisheit",
+   "art": "weisheit",
+   "tags": [
+    "Weisheit"
+   ],
+   "kicker": "Weisheit des Tages",
+   "titel": "Vom Meer, das alles ist",
+   "zitat": "„Das Meer ist alles! Es bedeckt sieben Zehntel der Erdkugel.“",
+   "urheber": "Jules Verne, Zwanzigtausend Meilen unter dem Meer (1869/70), Kapitän Nemo; deutsche Übertragung",
+   "text": "Mit diesen Worten schwärmt Kapitän Nemo in Jules Vernes Roman von dem Element, auf das er sich mit seiner Nautilus zurückgezogen hat. Im Original heißt es „La mer est tout!“. Der Satz passt zum Vortrag des Tages: Dieses Meer, das den größten Teil unseres Planeten bedeckt, ist zugleich ein riesiger Salzspeicher, gefüllt über Jahrmillionen."
+  },
+  {
+   "id": "feuil-witz",
+   "art": "witz",
+   "tags": [
+    "Humor"
+   ],
+   "kicker": "Witz des Tages",
+   "titel": "Seemannsgarn",
+   "text": "Fragt der Kapitän den Schiffsjungen: „Weißt du, warum das Meer salzig ist?“ – „Klar, Käpt'n: Weil seit Jahrmillionen alle Flüsse ihr Salz dort abladen.“ – „Richtig. Und warum ist die Ostsee kaum salzig?“ – „Ganz einfach: Da sind die Flüsse noch beim Ausladen.“"
+  },
+  {
+   "id": "feuil-raetsel",
+   "art": "raetsel",
+   "tags": [
+    "Rätsel"
+   ],
+   "kicker": "Rätsel des Tages",
+   "titel": "Ostsee aus dem Eimer",
+   "text": "Ein Liter Meerwasser aus dem Atlantik enthält 35 Gramm Salz. Im Bottnischen Meerbusen der Ostsee sind es nur etwa 5 Gramm pro Liter. Wie viel Süßwasser muss man zu einem Liter Atlantikwasser gießen, damit die Mischung genauso salzig ist wie die nördliche Ostsee? (Annahme: Die Volumen addieren sich einfach.)",
+   "loesung": "Sechs Liter. Die 35 Gramm Salz bleiben gleich. Damit auf jeden Liter nur 5 Gramm kommen, muss die Mischung 35 : 5 = 7 Liter umfassen. Zum einen Liter Meerwasser kommen also 6 Liter Süßwasser."
+  }
+ ],
+ "vortrag": {
+  "id": "vortrag",
+  "fachgebiet": "Meeresforschung",
+  "tags": [
+   "Vortrag",
+   "Meeresforschung"
+  ],
+  "titel": "Warum ist das Meer salzig – und die Flüsse nicht?",
+  "einstieg": "Jeder Fluss ist süß, und doch landet all sein Wasser in einem Meer, das so salzig ist, dass man es nicht trinken kann: Wie geht das zusammen?",
+  "text": [
+   "Ein Liter Meerwasser enthält im Durchschnitt knapp 35 Gramm Salz, das entspricht etwa 3,5 Prozent oder gut zwei gestrichenen Esslöffeln. Der größte Teil davon ist gewöhnliches Kochsalz, also Natrium und Chlorid, daneben finden sich viele weitere gelöste Stoffe. Woher kommt das alles?",
+   "Die Antwort beginnt an Land. Regenwasser nimmt aus der Luft etwas Kohlendioxid auf und wird dadurch leicht sauer. Über lange Zeit greift es Gestein an und löst Mineralien heraus, ein Vorgang, den man Verwitterung nennt. Bäche und Flüsse tragen diese gelösten Stoffe ins Meer. Am Meeresboden kommt eine zweite Quelle hinzu: An heißen Quellen dringt Meerwasser in Spalten ein, wird vom Magma erhitzt, reagiert mit dem Gestein und steigt mit Mineralien angereichert wieder auf. Auch untermeerische Vulkane tragen bei.",
+   "Warum aber schmecken Flüsse nicht salzig? Ihr Wasser fließt schnell weiter und wird ständig durch frischen Regen ersetzt; es bleibt zu kurz im Fluss, um viel Salz anzusammeln. Das Meer dagegen verliert Wasser fast nur durch Verdunstung, und dabei bleibt das Salz zurück. Man kann sich das wie einen Kochtopf vorstellen, in den ständig ein wenig Salzwasser nachläuft, während oben nur reiner Dampf entweicht.",
+   "Trotzdem wird das Meer nicht immer salziger. Ein Teil der Stoffe wird wieder entzogen: Er lagert sich als Mineral am Meeresboden ab, und Lebewesen wie Muscheln und Korallen bauen etwa Kalzium in ihre Schalen und Skelette ein. Geologische Befunde zeigen, dass der Salzgehalt seit Hunderten Millionen Jahren nahezu gleich geblieben ist. Zufuhr und Verlust halten sich die Waage.",
+   "Überall gleich ist er allerdings nicht. Wo viele Flüsse münden und wenig verdunstet, ist das Wasser brackig: Die Ostsee kommt höchstens auf etwa 2 Prozent, zwischen Schweden und Finnland teils nur auf 0,3 bis 0,5 Prozent. Im warmen Mittelmeer sind es rund 3,8 Prozent, das Rote Meer ist noch salziger. Seen ohne Abfluss wie das Tote Meer erreichen um die 30 Prozent. Diese Unterschiede sind mehr als eine Kuriosität: Salzgehalt und Temperatur bestimmen die Dichte des Wassers und treiben damit Meeresströmungen an, die das Klima der Erde prägen."
+  ],
+  "merksaetze": [
+   "Meerwasser enthält im Mittel knapp 35 Gramm Salz pro Liter, überwiegend Kochsalz.",
+   "Das Salz stammt vor allem aus verwittertem Gestein, das Flüsse ins Meer tragen, sowie aus heißen Quellen am Meeresboden.",
+   "Verdunstung entfernt nur Wasser, Ablagerungen und Lebewesen entziehen Salz, daher bleibt der Salzgehalt langfristig stabil."
+  ],
+  "begriffe": [
+   [
+    "Salinität",
+    "der Salzgehalt des Wassers, meist in Gramm pro Liter oder in Prozent angegeben"
+   ],
+   [
+    "Verwitterung",
+    "das langsame Zersetzen und Auflösen von Gestein durch Wasser, Luft und Temperaturwechsel"
+   ],
+   [
+    "Hydrothermale Quelle",
+    "heiße Quelle am Meeresboden, aus der von Magma erhitztes, mineralreiches Wasser austritt"
+   ],
+   [
+    "Brackwasser",
+    "Mischung aus Süß- und Salzwasser mit einem Salzgehalt zwischen etwa 0,1 und 1 Prozent"
+   ]
+  ],
+  "quellen": [
+   [
+    "TÜV Nord: Warum ist Meerwasser salzig?",
+    "https://www.tuev-nord.de/explore/de/wissen/warum-ist-meerwasser-salzig/"
+   ],
+   [
+    "SRF Einstein: Warum ist das Meer nicht überall gleich salzig?",
+    "https://www.srf.ch/sendungen/einstein/warum-ist-das-meer-nicht-ueberall-gleich-salzig"
+   ],
+   [
+    "Techno-Science: Warum ist das Meer salzig?",
+    "https://www.techno-science.net/de/aktuelles/warum-ist-das-meer-salzig-25062"
+   ]
+  ]
+ },
+ "muenchen_schlagzeilen": [
+  {
+   "titel": "Zweite Großrazzia binnen 48 Stunden: 500 Beamte von Polizei und Zoll im Bahnhofsviertel",
+   "satz": "Es ging um Schwarzarbeit und illegale Substanzen; bei der Razzia am Dienstag waren 15 Verstöße festgestellt worden, die neue Bilanz soll am Freitag folgen.",
+   "quelle": "Abendzeitung",
+   "url": "https://abendzeitung-muenchen.de/muenchen/500-polizisten-im-einsatz-schon-wieder-grossrazzia-im-bahnhofsviertel-art-1175864"
+  },
+  {
+   "titel": "Sparzwang: Stadt will die Bürgerbüros an der Forstenrieder Allee und der Leonrodstraße schließen",
+   "satz": "Die Schließungen 2027 und 2028 sollen rund 296.000 Euro im Jahr sparen; Stellen fallen laut KVR nicht weg.",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101543974/stadt-muenchen-schliesst-zwei-buergerbueros-welche-stadtteile-betroffen-sind.html"
+  },
+  {
+   "titel": "U3 und U6 fahren ab Samstag wieder durchgehend über Poccistraße und Goetheplatz",
+   "satz": "Die Ersatzbusse enden nach dem 27. November; vom 12. April bis 1. August 2027 wird der Abschnitt erneut komplett gesperrt.",
+   "quelle": "muenchen.de",
+   "url": "https://www.muenchen.de/verkehr/aktuell/u3-und-u6-sperrungen-und-ersatzverkehr-so-kommt-ihr-ans-ziel"
+  },
+  {
+   "titel": "Erster Schnee: DWD warnt am Freitagvormittag vor Glätte und Frost, Züge nach Salzburg verspätet",
+   "satz": "Bis 11 Uhr droht Glätte bei rund minus 2 Grad; am Donnerstag hatten Züge Richtung Kufstein und Salzburg bis zu zwei Stunden Verspätung.",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101548588/muenchen-amtliche-warnungen-vor-glaette-und-leichtem-frost-am-freitag.html"
+  },
+  {
+   "titel": "Nach dem 1:2 in Lille: Kimmich kritisiert die Bayern-Bosse für öffentliche Musiala-Debatte",
+   "satz": "Dass Hoeneß und Rummenigge über Musialas Gesundheit und einen Gehaltsverzicht gesprochen hatten, nannte Kimmich ein „absolutes No-Go“.",
+   "quelle": "t-online München",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101546788/zoff-beim-fc-bayern-muenchen-kimmich-stellt-sich-gegen-die-eigenen-bosse.html"
+  }
+ ],
+ "vorverkauf": [
+  {
+   "start": "2026-11-28T10:00",
+   "veranstaltung": "Bayerische Staatsoper: „Carpathia – Der Mythos der Untoten“ (Ballett)",
+   "termin": "28.1.2027",
+   "ort": "Nationaltheater",
+   "stelle": "Bayerische Staatsoper (online, Telefon, Kasse)",
+   "url": "https://www.staatsoper.de/en/ticket-info",
+   "hinweis": "allgemeiner Vorverkauf"
+  },
+  {
+   "start": "2026-12-01T10:00",
+   "veranstaltung": "Residenztheater: alle Januar-Vorstellungen",
+   "termin": "Januar 2027",
+   "ort": "Residenztheater, Cuvilliéstheater, Marstall",
+   "stelle": "Residenztheater",
+   "url": "https://www.residenztheater.de/karten/",
+   "hinweis": "allgemeiner Vorverkauf"
+  },
+  {
+   "start": "2026-12-02T10:00",
+   "veranstaltung": "Chase Atlantic",
+   "termin": "15.4.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Ticketmaster",
+   "url": "https://www.ticketpiloten.de/chase-atlantic-tickets/",
+   "hinweis": "Artist-Presale; zeitgleich Telekom- und PayPal-Prio-Tickets"
+  },
+  {
+   "start": "2026-12-03T10:00",
+   "veranstaltung": "Chase Atlantic",
+   "termin": "15.4.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Ticketmaster",
+   "url": "https://www.ticketpiloten.de/chase-atlantic-tickets/",
+   "hinweis": "Ticketmaster-Presale"
+  },
+  {
+   "start": "2026-12-03T12:00",
+   "veranstaltung": "Chase Atlantic",
+   "termin": "15.4.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Spotify/Ticketmaster",
+   "url": "https://www.ticketpiloten.de/chase-atlantic-tickets/",
+   "hinweis": "Spotify-Presale"
+  },
+  {
+   "start": "2026-12-04T10:00",
+   "veranstaltung": "Chase Atlantic",
+   "termin": "15.4.2027",
+   "ort": "Olympiahalle",
+   "stelle": "Ticketmaster, Eventim",
+   "url": "https://www.ticketpiloten.de/chase-atlantic-tickets/",
+   "hinweis": "allgemeiner Vorverkauf; Preise noch nicht veröffentlicht"
+  }
+ ],
+ "aktionen": [
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Christkindltram: Adventsrundfahrt ab 5 Euro",
+   "anbieter": "MVG / Landeshauptstadt München",
+   "angebot": "Rund 30 Minuten durch die Altstadt ab Sendlinger Tor: ab 15 Jahren 5 €, 6–14 Jahre 3 €, unter 6 gratis.",
+   "wann": "27.11.–20.12.2026; Fr 15.30–19.15 Uhr, Sa/So 11–19.15 Uhr, alle 45 Minuten",
+   "buchen_bis": "2026-12-20",
+   "hinweis": "Online-Buchung über die MVG empfohlen, höchstens 10 Karten pro Buchung; vor Ort nur kleines Restkontingent, nur bar. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachten/christkindltram"
+  },
+  {
+   "kategorie": "Mode & Designerläden",
+   "titel": "Shopping Nights am Christkindlmarkt",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Teilnehmende Stände des Christkindlmarkts am Marienplatz haben bis 22 Uhr geöffnet.",
+   "wann": "Fr, 27.11. (heute), und Sa, 12.12.2026",
+   "buchen_bis": "2026-12-12",
+   "hinweis": "Teilnahme der Stände freiwillig, nicht alle machen mit. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Harry-Potter-Weihnachtsmarkt auf der Praterinsel",
+   "anbieter": "muenchen.de (Veranstalter nicht genannt)",
+   "angebot": "Themen-Weihnachtsmarkt, Eintritt frei, ohne Tickets oder Reservierung.",
+   "wann": "28.11.–6.12.2026; Sa, 28.11., 19–22 Uhr, So 12–22 Uhr, Mo–Do 14–22 Uhr, Fr–So 4.–6.12. 12–22 Uhr",
+   "buchen_bis": "2026-12-06",
+   "hinweis": "Letzter Einlass 21.30 Uhr, bei vollem Gelände Einlasspausen möglich. Am 27.11. auf muenchen.de geprüft; eine Veranstalterseite ist dort nicht verlinkt.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/harry-potter-weihnachtsmarkt"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Himmelswerkstatt: Gratis-Basteln für Kinder im Neuen Rathaus",
+   "anbieter": "Landeshauptstadt München / Kindermuseum",
+   "angebot": "Kostenloses Kreativangebot für Kinder von 6 bis 12 Jahren, täglich 14.30–16 und 16.30–18 Uhr.",
+   "wann": "bis 13.12.2026",
+   "buchen_bis": "2026-12-13",
+   "hinweis": "Anmeldung beim Kindermuseum München, frühestens zehn Tage vor dem Wunschtermin; Treffpunkt Fischbrunnen. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Münchner Eiszauber am Stachus: günstiger am Vormittag",
+   "anbieter": "Münchner Eiszauber (laut muenchen.de)",
+   "angebot": "Eislaufen im Zeitblock: Erwachsene 8 € (10.30–13 Uhr) bis 14 € (19.30–22 Uhr), Kinder bis 11 Jahre 6–10 €.",
+   "wann": "bis 10.1.2027, täglich 10.30–22 Uhr",
+   "buchen_bis": "2027-01-10",
+   "hinweis": "Ein Ticket gilt für einen Zeitblock; Schlittschuh- und Helmverleih gegen Gebühr (Preis nicht genannt). Themenabende wie „Tracht on Ice“ ohne Preisangabe. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/muenchner-eiszauber"
+  },
+  {
+   "kategorie": "Restaurants & Bars",
+   "titel": "Food & Life: Nachmittagsticket für 10 Euro",
+   "anbieter": "Food & Life, Messe München",
+   "angebot": "Genussmesse in den Hallen A4/A5: Tageskarte 17 €, ermäßigt 11 €, ab 14 Uhr 10 €, Fünferkarte 51 €; Kinder bis 12 frei.",
+   "wann": "bis So, 29.11.2026, täglich 9.30–18 Uhr",
+   "buchen_bis": "2026-11-29",
+   "hinweis": "Laut Ganz München (22./24.11.) war der Online-Shop gestört, die Tageskassen nehmen dann die Online-Preise. Die Anbieterseite food-life.de war am 27.11. nicht abrufbar; Angaben deshalb nicht direkt beim Veranstalter geprüft.",
+   "frueh": false,
+   "url": "https://aktuell.ganz-muenchen.de/food-life-2026-genussmesse-zum-advent-auf-der-messe-muenchen/17199/"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Singen unterm Christbaum vor der Michaelskirche",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Gemeinsames Adventssingen, etwa eine halbe Stunde, kostenlos; Liederhefte vor Ort.",
+   "wann": "Mi, 2., 9. und 16.12.2026, jeweils 16.30 Uhr",
+   "buchen_bis": "2026-12-16",
+   "hinweis": "Texte auch in Braille und Großdruck, Übersetzung in Gebärdensprache. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz"
+  },
+  {
+   "kategorie": "Theater & Konzerte",
+   "titel": "Adventsmusik live vom Rathausbalkon",
+   "anbieter": "muenchen.de / Christkindlmarkt",
+   "angebot": "Bläser, Chöre und Volksmusik vom Balkon des Neuen Rathauses, rund 30 Minuten, auf dem Marienplatz.",
+   "wann": "bis 24.12.2026, So–Do ab 17.15 Uhr; am 24.12. Turmbläser um 12 Uhr",
+   "buchen_bis": "2026-12-24",
+   "hinweis": "Programm der Gruppen auf der Seite. Am 27.11. geprüft; einen Eintrittspreis nennt die Seite nicht.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/muenchner-christkindlmarkt-marienplatz"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Großer Krampuslauf durch die Altstadt",
+   "anbieter": "Landeshauptstadt München",
+   "angebot": "Mehr als 300 Krampusse, Perchten und Klausen aus rund 25 Gruppen vom Frauenplatz bis zum Alten Rathaus.",
+   "wann": "So, 13.12.2026, 15–17 Uhr",
+   "buchen_bis": "2026-12-13",
+   "hinweis": "Bis zu 50.000 Zuschauer erwartet, früh kommen. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": false,
+   "url": "https://www.muenchen.de/veranstaltungen/weihnachten/krampuslauf-2026"
+  },
+  {
+   "kategorie": "Freizeit & Erlebnis",
+   "titel": "Tollwood-Winterfestival: Eintritt frei, Silvesterparty nur mit Vorverkaufskarte",
+   "anbieter": "Tollwood (laut muenchen.de)",
+   "angebot": "Gelände und Markt der Ideen gratis; rund 90 Prozent der 416 Veranstaltungen kostenlos, darunter etwa 70 Hexenkessel-Konzerte.",
+   "wann": "bis 23.12.2026; Mo–Fr ab 14 Uhr, Sa/So ab 11 Uhr; Silvesterparty 31.12. ab 19 Uhr",
+   "buchen_bis": "2026-12-31",
+   "hinweis": "Für Grand-Chapiteau-Shows und die Silvesterparty braucht man Karten (Preise auf der Seite nicht genannt); manche Performance-Shows erfordern eine kostenlose Reservierung. Habeck-Gespräch am 21.12. ausverkauft. Am 27.11. auf muenchen.de geprüft.",
+   "frueh": true,
+   "url": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/tollwood-winterfestival-2026"
+  }
+ ],
+ "gewinnspiele": [
+  {
+   "art": "gewinnspiel",
+   "titel": "Jazzanova live im Ampere",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten (Gästeliste) für So, 6.12.2026, 20 Uhr",
+   "bis": "2026-11-30",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin (Stadtmagazin München GmbH, Impressum), eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/jazzanova-am-6-12-26-im-muffatwerk-ampere.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "SQAD Futsal Challenge: Deutschland gegen Brasilien im SAP Garden",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 VIP-Tickets für Mi, 9.12.2026, 18 Uhr, inkl. Buffet und Getränken",
+   "bis": "2026-11-30",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; in der Übersicht als „Anzeige“ markiert; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/sqad-futsal-challenge-deutschland-vs-weltmeister-brasilien-am-9-dezember.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Selig im Backstage Werk",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten (Gästeliste) für Mo, 7.12.2026, 20 Uhr",
+   "bis": "2026-12-01",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/selig-am-7-12-26-im-backstage-werk.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Maustetytöt im Saal X (Gasteig HP8)",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten (Gästeliste) für Di, 8.12.2026, 20 Uhr",
+   "bis": "2026-12-02",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/maustetytoet-am-8-12-26-im-saal-x-hp8.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "„Die Mausefalle“ im Blutenburg-Theater",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für die Vorstellung am 9.12.2026",
+   "bis": "2026-12-03",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/die-mausefalle-am-9-12-im-blutenburg-theater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Accept im Zenith",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für So, 20.12.2026, 19 Uhr (mit Dynazty und Tailgunner)",
+   "bis": "2026-12-10",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/accept-am-20-12-im-zenith.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Meisterkonzert: Bachs Brandenburgische Konzerte im Herkulessaal",
+   "anbieter": "IN München",
+   "gewinn": "10 × 2 Karten für Di, 22.12.2026, 19.30 Uhr",
+   "bis": "2026-12-10",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/meisterkonzert-bachs-brandenburgische-konzerte-am-22-12-im-herkulessaal.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "„Der Nussknacker“ im Prinzregententheater",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten für die Vorstellung am 26.12.2026",
+   "bis": "2026-12-10",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/der-nussknacker-am-26-12-im-prinzregententheater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "„Breakin' Circus“ im Prinzregententheater",
+   "anbieter": "IN München",
+   "gewinn": "3 × 2 Karten (Termin auf der Seite uneinheitlich: 16.12., 29.12. oder 6.1.)",
+   "bis": "2026-12-10",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft, Vorstellungsdatum vor Teilnahme prüfen",
+   "url": "https://www.in-muenchen.de/verlosungen/breakin-circus-am-16-12-im-prinzregententheater.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Kat Frankie „Bodies“ in der Isarphilharmonie",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für So, 14.2.2027, 20 Uhr",
+   "bis": "2026-12-10",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/kat-frankie-bodies-am-14-2-in-der-isarphilharmonie.html"
+  },
+  {
+   "art": "gewinnspiel",
+   "titel": "Philipp Poisel im Circus Krone",
+   "anbieter": "IN München",
+   "gewinn": "5 × 2 Karten für Mo, 10.5.2027, 19 Uhr",
+   "bis": "2026-12-10",
+   "teilnahme": "Online-Formular auf der Verlosungsseite; Newsletter optional",
+   "pruefung": "Etabliertes Stadtmagazin, eigene Seite, kostenlos, keine Kaufpflicht, Teilnahmebedingungen verlinkt; am 27.11. geprüft",
+   "url": "https://www.in-muenchen.de/verlosungen/philipp-poisel-am-10-5-im-circus-krone.html"
+  }
+ ],
+ "muenchen_stand": "2026-11-27"
+}
